@@ -20,19 +20,19 @@ title: Document Center
                     </a>
                 </li>
                 <li>
-                    <a href="#1-100">Soal 1 - 100</a>
+                    <a href="#100">Soal 1 - 100</a>
                 </li>
                 <li>
-                    <a href="#">Soal 101 - 200</a>
+                    <a href="#200">Soal 101 - 200</a>
                 </li>
                 <li>
-                    <a href="#">Soal 201 - 300</a>
+                    <a href="#300">Soal 201 - 300</a>
                 </li>
                 <li>
-                    <a href="#">Soal 301 - 400</a>
+                    <a href="#400">Soal 301 - 400</a>
                 </li>
                 <li>
-                    <a href="#">Soal 401 - 500</a>
+                    <a href="#500">Soal 401 - 500</a>
                 </li>
             </ul>
         </div>
@@ -45,36 +45,7 @@ title: Document Center
                         <p>Berikut adalah soal2 Project Euler dalam bahasa Indonesia</p>
                         <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Daftar Isi</a>
                     </div>
-                    <div class="col-lg-12" id="1-100" markdown="1">
-# Pocket Euler
-
-[![Build Status](https://travis-ci.org/imsky/PocketEuler.svg?branch=master)](https://travis-ci.org/imsky/PocketEuler)
-
-This is the offline version of [Project Euler](https://projecteuler.net/).
-
-### History
-
-* Compiled by [Kyle Keen](http://kmkeen.com/local-euler/).
-* Converted to Github Markdown by [Ivan Malopinsky](http://imsky.co).
-* Missing answers provided by [George Netu](https://github.com/georgenetu).
-
-### License
-
-Project Euler is protected under CC Attribution-Non-Commercial-Share Alike 2.0 UK: England & Wales
-
-### Usage
-
-^sup and [sub] are frequently use for subscripts/superscripts.
-Many symbols are utf8, my apologies if you are on a 7-bit TTY.
-
-Answers are hashed with the MD5 algorithm. You can verify your answers online using [JavaScript MD5](http://blueimp.github.io/JavaScript-MD5/).
-
-If you're using Linux or OS X, you can use `md5sum` to verify your answers as well:
-
-```
-echo -n 'myanswer' | md5sum
-```
-
+<div class="col-lg-12" id="100" markdown="1">
 Problem 1
 =========
 
@@ -2368,8 +2339,8 @@ Problem 100
 
    
    Answer: 21156e3acc4ca35b7a318c541a0648d5
-
-
+</div>
+<div class="col-lg-12" id="200" markdown="1">
 Problem 101
 ===========
 
@@ -5011,8 +4982,8 @@ Problem 200
 
    
    Answer: c911c8e346aa813da5f5ed4f8e9128d8
-
-
+</div>
+<div class="col-lg-12" id="300" markdown="1">
 Problem 201
 ===========
 
@@ -7423,8 +7394,8 @@ If b+d < 100 000 000, how many distinct triplets (a,b,d) are there such
 that point P exists?
 
 Answer: fb8f093361a6db56c8a1d1661ab229cd
-
-
+</div>
+<div class="col-lg-12" id="400" markdown="1">
 Problem 300
 ===========
 
@@ -10178,8 +10149,8 @@ Problem 399
 
    
    Answer: a0819cfe3be6a04645b8d4fe2345e184
-
-
+</div>
+<div class="col-lg-12" id="500" markdown="1">
 Problem 400
 ===========
 
@@ -12395,6 +12366,7 @@ Give your answer using lowercase characters (no punctuation or space).
 
 Answer: b97e157bf53033d21f610d2350b92faf
 </div>
+					</div>
                 </div>
             </div>
         </div>
