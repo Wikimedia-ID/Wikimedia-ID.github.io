@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 # Pocket Euler
 
 [![Build Status](https://travis-ci.org/imsky/PocketEuler.svg?branch=master)](https://travis-ci.org/imsky/PocketEuler)
