@@ -2,6 +2,50 @@
 title: Document Center
 ---
 
+
+<html lang="en">
+<head>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="wrapper">
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#beranda">
+                        Soal Project Euler
+                    </a>
+                </li>
+                <li>
+                    <a href="#1-100">Soal 1 - 100</a>
+                </li>
+                <li>
+                    <a href="#">Soal 101 - 200</a>
+                </li>
+                <li>
+                    <a href="#">Soal 201 - 300</a>
+                </li>
+                <li>
+                    <a href="#">Soal 301 - 400</a>
+                </li>
+                <li>
+                    <a href="#">Soal 401 - 500</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+		<div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12" id="beranda">
+                        <h1>Soal Project Euler dalam Bahasa Indonesia</h1>
+                        <p>Berikut adalah soal2 Project Euler dalam bahasa Indonesia</p>
+                        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Daftar Isi</a>
+                    </div>
+                    <div class="col-lg-12" id="1-100" markdown="1">
 # Pocket Euler
 
 [![Build Status](https://travis-ci.org/imsky/PocketEuler.svg?branch=master)](https://travis-ci.org/imsky/PocketEuler)
@@ -12350,4 +12394,28 @@ Find _W_(_P_(legionary) + _P_(calorimeters) - _P_(annihilate) + _P_(orchestrated
 Give your answer using lowercase characters (no punctuation or space).
 
 Answer: b97e157bf53033d21f610d2350b92faf
+</div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+    </div>
+    <!-- /#wrapper -->
 
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>
