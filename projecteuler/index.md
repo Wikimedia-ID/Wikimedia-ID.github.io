@@ -419,7 +419,7 @@ Answer: 51e04cd4e55e7e415bf24de9e1b0f3ff
 
 # Soal 22
 
-<p><a href="https://projecteuler.net/project/resources/p022_names.txt">names.txt</a> (klik kanan dan pilih 'Save Link/Target As...') , adalah 46K berkas teks yang berisi lebih dari lima ribu nama depan. Urutkanlah nama-nama tersebut berdasarkan abjad, lalu hitunglah nilai dari setiap nama dengan cara mengkonversikan setiap huruf menjadi angka sesuai dengan urutan alfabet. Setelah itu kalikan jumlah angka-angka tersebut dengan posisinya pada daftar nama names.txt yang telah diurutkan.</p>
+<p>[names.txt](files/names.txt) (klik kanan dan pilih 'Save Link/Target As...') , adalah 46K berkas teks yang berisi lebih dari lima ribu nama depan. Urutkanlah nama-nama tersebut berdasarkan abjad, lalu hitunglah nilai dari setiap nama dengan cara mengkonversikan setiap huruf menjadi angka sesuai dengan urutan alfabet. Setelah itu kalikan jumlah angka-angka tersebut dengan posisinya pada daftar nama names.txt yang telah diurutkan.</p>
 
 <p>Sebagai contoh, saat daftar nama sudah diurutkan berdasarkan abjad, COLIN berada di posisi ke 938 pada daftar nama, dari huruf-hurufnya COLIN akan memiliki nilai 3 + 15 + 12 + 9 + 14 = 53. Sehingga, COLIN akan memiliki nilai 938 × 53 = 49714.</p>
 
@@ -679,7 +679,7 @@ Answer: d0a1bd6ab4229b2d0754be8923431404
 <p>Suku ke-<i>n</i> dari barisan bilangan segitiga dapat dihitung sebagai <i>t<sub>n</sub></i> = &frac12;<i>n</i>(<i>n</i>+1); sehingga sepuluh bilangan segitiga pertama adalah:</p>
 <p style="text-align:center;">1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...</p>
 <p>Dengan mengubah setiap huruf menjadi angka yang sesuai dengan urutan pada alfabet, dan menjumlahkan semua angka yang didapat untuk tiap kata, kita bisa mendapatkan nilai kata tersebut. Sebagai contoh, nilai dari kata SKY adalah 19 + 11 + 25 = 55 = <i>t</i><sub>10</sub>. Jika nilai kata yang didapat termasuk dalam barisan bilangan segitiga, maka kata tersebut akan kita sebut sebagai <i>kata segitiga</i></p>
-<p>Menggunakan <a href="https://projecteuler.net/project/resources/p042_words.txt">words.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas berukuran 16K yang berisi kurang lebih dua ribu kata dalam bahasa Inggris, berapa banyak kata segitiga dalam berkas tersebut?</p>
+<p>Menggunakan [words.txt](files/words.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas berukuran 16K yang berisi kurang lebih dua ribu kata dalam bahasa Inggris, berapa banyak kata segitiga dalam berkas tersebut?</p>
 
 Answer: 82aa4b0af34c2313a562076992e50aa3
 
@@ -879,7 +879,7 @@ Answer: e3b21256183cf7c2c7a66be163579d37
 </tr>
 </table>
 </div>
-<p>File, <a href="https://projecteuler.net/project/resources/p054_poker.txt">poker.txt</a>, berisi seribu permainan acak yang dimainkan oleh dua orang pemain. Setiap baris dalam berkas berisi sepuluh kartu (yang dipisah oleh sebuah spasi): lima kartu pertama adalah milik pemain 1, dan lima kartu selanjutnya adalah milik pemain 2. Anda dapat mempercayai bahwa semua kartu yang ada sudah benar (tidak ada huruf yang salah diketik atau kartu ganda), Kartu pada setiap pemain dituliskan dengan urutan acak, dan dalam setiap permainan pasti ada pemenangnya.</p>
+<p>File, [poker.txt](files/poker.txt), berisi seribu permainan acak yang dimainkan oleh dua orang pemain. Setiap baris dalam berkas berisi sepuluh kartu (yang dipisah oleh sebuah spasi): lima kartu pertama adalah milik pemain 1, dan lima kartu selanjutnya adalah milik pemain 2. Anda dapat mempercayai bahwa semua kartu yang ada sudah benar (tidak ada huruf yang salah diketik atau kartu ganda), Kartu pada setiap pemain dituliskan dengan urutan acak, dan dalam setiap permainan pasti ada pemenangnya.</p>
 <p>Berapa kali pemain 1 menang?</p>
 
 Answer: 142949df56ea8ae0be8b5306971900a4
@@ -959,7 +959,7 @@ Agar proses enkripsi tidak mudah ditembus, maka dibuatlah kunci rahasia yang sam
 
 Sayangnya, metode ini tidak praktis untuk kebanyakan pengguna, sehingga metode ini disempurnakan dengan menggunakan kata sandi sebagai kunci rahasia. Jika kata sandi lebih pendek dari pesan yang ingin dikirim (dan sering kali terjadi demikian), maka kata sandi akan diulang terus menerus sampai sama panjang dengan pesan yang ingin dikirim. Keseimbangan dari metode ini adalah kita dapat menggunakan kata sandi yang cukup panjang, untuk berusaha mengamankan pesan yang ingin dikirim, namun yang masih memungkinkan untuk diingat.
 
-Terdapat pesan rahasia yang ada di berkas [cipher.txt]({{ site.baseurl }}project/resources/p059_cipher.txt) (klik kanan dan pilih 'Save Link/Target As...'), berkas tersebut berisi pesan rahasia dalam bentuk kode ASCII. Tugas Anda akan dipermudah, yaitu dengan mengetahui bahwa kata sandi yang digunakan untuk enkripsi pesan ini adalah hanya terdiri dari tiga huruf kecil, dan pesan rahasia ini adalah sebuah pesan yang berisi kata berbahasa Inggris. Dekripsilah pesan tersebut, dan cari jumlah dari semua nilai ASCII pada pesan tersebut.
+Terdapat pesan rahasia yang ada di berkas [cipher1.txt](files/cipher1.txt) (klik kanan dan pilih 'Save Link/Target As...'), berkas tersebut berisi pesan rahasia dalam bentuk kode ASCII. Tugas Anda akan dipermudah, yaitu dengan mengetahui bahwa kata sandi yang digunakan untuk enkripsi pesan ini adalah hanya terdiri dari tiga huruf kecil, dan pesan rahasia ini adalah sebuah pesan yang berisi kata berbahasa Inggris. Dekripsilah pesan tersebut, dan cari jumlah dari semua nilai ASCII pada pesan tersebut.
 
 CATATAN: Enkripsi adalah proses mengubah pesan asli menjadi kode rahasia, Dekripsi adalah proses mengubah kembali kode rahasia menjadi pesan asli.
 
@@ -1390,8 +1390,8 @@ Answer: 3a066bda8c96b9478bb0512f0a43028c
 2 <span style="color:#ff0000;"><b>4</b></span> 6<br />
 8 5 <span style="color:#ff0000;"><b>9</b></span> 3</p>
 <p>Jumlahnya, 3 + 7 + 4 + 9 = 23.</p>
-<p>Carilah jumlah bilangan maksimum dengan cara serupa di atas, dari atas ke bawah pada segitiga <a href="https://projecteuler.net/project/resources/p067_triangle.txt">triangle.txt</a> (Klik kanan dan pilih 'Save Link/Target As...'), triangle.txt adalah sebuah berkas teks 15K yang memuat segitiga mirip seperti di atas sebanyak seratus baris.</p>
-<p class="note"><b>NOTE:</b> Ini adalah versi lebih sulit dari<a href="problem=18">Masalah 18</a>. Kita tidak dapat menyelesaikan masalah ini dengan mencoba melakukan perhitungan pada jalur satu per satu, karena terdapat 2<sup>99</sup> kemungkinan jalur! Bahkan jika anda dapat memeriksa satu triliun (10<sup>12</sup>) rute per detik pun, anda memerlukan lebih dari dua puluh miliar tahun untuk memeriksa semuanya. Terdapat cara yang efisien untuk menyelesaikan masalah ini. ;o)</p>
+<p>Carilah jumlah bilangan maksimum dengan cara serupa di atas, dari atas ke bawah pada segitiga [triangle.txt](files/triangle.txt) (Klik kanan dan pilih 'Save Link/Target As...'), triangle.txt adalah sebuah berkas teks 15K yang memuat segitiga mirip seperti di atas sebanyak seratus baris.</p>
+<p class="note"><b>NOTE:</b> Ini adalah versi lebih sulit dari [Soal 18](#problem-18). Kita tidak dapat menyelesaikan masalah ini dengan mencoba melakukan perhitungan pada jalur satu per satu, karena terdapat 2<sup>99</sup> kemungkinan jalur! Bahkan jika anda dapat memeriksa satu triliun (10<sup>12</sup>) rute per detik pun, anda memerlukan lebih dari dua puluh miliar tahun untuk memeriksa semuanya. Terdapat cara yang efisien untuk menyelesaikan masalah ini. ;o)</p>
 
 Answer: 9d702ffd99ad9c70ac37e506facc8c38
 
@@ -1662,7 +1662,7 @@ Answer: ef2a8695e428116131cc94c651d0e566
 
 <p>Teknik pengamanan yang umum digunakan untuk perbankan daring (<i>online banking</i>) adalah dengan cara menanyakan pengguna tiga karakter acak dari sandi nasabah itu. Sebagai contoh jika sandi yang digunakan adalah 531278, bank bisa menanyakan angka ke-2, ke-3, dan ke-5; sehingga jawaban yang diharapkan oleh bank adalah: 317.</p>
 
-<p>Sebuah berkas teks, <a href="{{ site.baseurl }}project/resources/p079_keylog.txt">keylog.txt</a>, berisi lima puluh proses <i>login</i> yang berhasil dari seorang nasabah bank.</p>
+<p>Sebuah berkas teks, [keylog.txt](files/keylog.txt), berisi lima puluh proses <i>login</i> yang berhasil dari seorang nasabah bank.</p>
 
 <p>Diketahui bahwa tiga karakter yang diminta oleh bank selalu diambil secara berurutan dari kiri ke kanan (contoh : bank tidak bisa mengambil angka ke-2, ke-9, lalu ke-3, karena angka ke-9 harusnya diambil terakhir). Analisislah berkas tersebut, dan tentukan sandi yang paling pendek yang mungkin digunakan oleh nasabah tersebut.</p>
 
@@ -1692,13 +1692,13 @@ $$
 \end{pmatrix}
 $$
 </div>
-<p>Carilah jalur yang memiliki jumlah angka-angka terkecil,  pada <a href="{{ site.baseurl }}project/resources/p081_matrix.txt">matrix.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari ujung kiri atas, dan bergerak menuju ujung kanan bawah, serta hanya diperbolehkan untuk berpindah ke kanan dan ke bawah.</p>
+<p>Carilah jalur yang memiliki jumlah angka-angka terkecil,  pada [matrix.txt](files/matrix.txt) (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari ujung kiri atas, dan bergerak menuju ujung kanan bawah, serta hanya diperbolehkan untuk berpindah ke kanan dan ke bawah.</p>
 
 Answer: f9ffec84499832add77e6a8bb00246ec
 
 # Soal 82
 
-<p class="small_notice">CATATAN: Soal ini adalah versi yang lebih menantang dari <a href="problem=81">Soal 81</a>.</p>
+<p class="small_notice">CATATAN: Soal ini adalah versi yang lebih menantang dari [Soal 81](#soal-81).</p>
 <p>Jalur yang memiliki hasil penjumlahan angka-angka terkecil, pada matriks ukuran 5 x 5 berikut ini, ditandai dengan angka berwarna merah; jumlahnya adalah 994. Jalur dapat dimulai di manapun pada kolom paling kiri, dan harus berakhir di manapun pada kolom paling kanan, dan hanya diperbolehkan untuk bergeser ke atas, bawah, dan kanan.</p>
 <div style="text-align:center;">
 $$
@@ -1711,13 +1711,13 @@ $$
 \end{pmatrix}
 $$
 </div>
-<p>Carilah jalur dengan hasil penjumlahan angka-angka terkecil, pada <a href="{{ site.baseurl }}project/resources/p082_matrix.txt">matrix.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari kolom paling kiri ke kolom paling kanan.</p>
+<p>Carilah jalur dengan hasil penjumlahan angka-angka terkecil, pada [matrix.txt](files/matrix.txt) (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari kolom paling kiri ke kolom paling kanan.</p>
 
 Answer: e6b3b1cd89b018d4754cf63863f6690a
 
 # Soal 83
 
-<p class="small_notice">CATATAN: Soal ini adalah versi yang jauh lebih menantang dari <a href="problem=81">Soal 81</a>.</p>
+<p class="small_notice">CATATAN: Soal ini adalah versi yang jauh lebih menantang dari [Soal 81](#soal-81).</p>
 <p>Pada matriks ukuran 5 x 5 berikut ini, jalur yang memiliki hasil penjumlahan angka-angka terkecil, dimulai dari pojok kiri atas, ke pojok kanan bawah, denagn bergerak ke kiri, kanan, atas, dan bawah, ditandai oleh angka berwarna merah, dan jumlahnya adalah 2297.</p>
 <div style="text-align:center;">
 $$
@@ -1730,7 +1730,7 @@ $$
 \end{pmatrix}
 $$
 </div>
-<p>Carilah jalur yang memiliki hasil penjumlahan angka-angka terkecil, pada <a href="{{ site.baseurl }}project/resources/p083_matrix.txt">matrix.txt</a> (klik kanan dan pilih 
+<p>Carilah jalur yang memiliki hasil penjumlahan angka-angka terkecil, pada [matrix.txt](files/matrix.txt) (klik kanan dan pilih
 "Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari ujung kiri atas, ke ujung kanan bawah, dengan bergerak ke kiri, kanan, atas, dan bawah.</p>
 
 Answer: 61b28c4fbe8560003ee50fa5619d7a1e
@@ -1905,7 +1905,8 @@ XIIIIII<br />
 VVVI<br />
 XVI</p>
 <p>Tetapi, berdasarkan aturan, hanya <span style="font-family:courier new,monospace;">XIIIIII</span> dan <span style="font-family:courier new,monospace;">XVI</span> yang valid, dan <span style="font-family:courier new,monospace;">XVI</span> dianggap sebagai cara penulisan yang paling efisien, karena cara penulisan ini menggunakan huruf yang paling sedikit.</p>
-<p>Sebuah berkas teks berukuran 11K, <a href="{{ site.baseurl }}project/resources/p089_roman.txt">roman.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), berisi seribu bilangan Romawi yang sahih, tetapi belum tentu paling efisien, lihat <a href="about=roman_numerals">About... Roman Numerals</a> untuk mengetahui aturan-aturan dasar apa saja yang digunakan pada soal ini.</p>
+<p>Sebuah berkas teks berukuran 11K, [roman.txt](files/roman.txt), berisi seribu bilangan Romawi yang sahih, tetapi belum tentu paling efisien, lihat (see
+[About Roman Numerals](files/about_roman_numerals.txt) untuk mengetahui aturan-aturan dasar apa saja yang digunakan pada soal ini.</p>
 <p>Carilah banyaknya huruf yang bisa dihemat, apabila semua bilangan Romawi pada berkas teks tersebut ditulis dengan cara yang paling efisien.</p>
 <p class="note">Catatan: Anda dapat mengasumsikan semua bilangan Romawi yang ada di berkas teks tersebut tidak ada yang memiliki empat huruf yang sama secara berurutan.</p>
 
@@ -2055,7 +2056,7 @@ Answer: cd2018beeece5fb0a71a96308e567bde
 </table>
 </div>
 <p>Sebuah teka-teki Su Doku yang baik memiliki solusi yang unik dan dapat diselesaikan oleh logika, walaupun terkadang diperlukan cara &quot;coba-coba&quot; dalam mencari solusi yang ada. Tingkat kesulitan dari teka-teki ini ditentukan oleh kerumitan mencari solusi; contoh di atas dapat dianggap sebagai contoh <i>mudah</i> karena dapat diselesaikan secara langsung, dengan mengamati kotak satu per satu.</p>
-<p>Sebuah berkas teks berukuran 6K, <a href="{{ site.baseurl }}project/resources/p096_sudoku.txt">sudoku.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), berisi lima puluh teka-teki Su Doku berbeda, dari berbagai tingkat kesulitan, namun semua teka-teki tersebut memiliki solusi yang berbeda (teka-teki yang pertama sama dengan contoh di atas).</p>
+<p>Sebuah berkas teks berukuran 6K, [sudoku.txt](files/sudoku.txt) (klik kanan dan pilih 'Save Link/Target As...'), berisi lima puluh teka-teki Su Doku berbeda, dari berbagai tingkat kesulitan, namun semua teka-teki tersebut memiliki solusi yang berbeda (teka-teki yang pertama sama dengan contoh di atas).</p>
 <p>Dengan menyelesaikan kelima puluh teka-teki yang ada, carilah jumlah dari semua 3 angka pertama pada pojok kiri atas; sebagai contoh, pada contoh teka-teki di atas, 3 angka pertama pada pojok kiri atasnya adalah 483.</p>
 <!--<p class='info'>Note: If you're convinced that &quot;guess and test&quot; methods need not be employed please tell how you would solve #6 and #46. (c;</p>-->
 
@@ -2072,7 +2073,7 @@ Answer: 68c8c919526039022b923a72d5cc12b1
 # Soal 98
 
 <p>Dengan menukarkan setiap huruf dalam kata CARE dengan angka 1, 2, 9, dan 6 secara berurutan, kita dapat membentuk sebuah bilangan kuadrat: 1296 = 36<sup>2</sup>. Yang mengesankan adalah, dengan menggunakan aturan penukaran yang sama, kata RACE, juga akan membentuk sebuah bilangan kuadrat: 9216 = 96<sup>2</sup>. Kita akan menyebut kata CARE (dan RACE) sebagai kata kuadrat anagramik. Perlu diketahui bahwa digit pertama nol tidak diizinkan, dan juga tidak diperbolehkan untuk memberikan digit yang sama pada huruf yang berbeda.</p>
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p098_words.txt">words.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 16K yang berisi hampir dua ribu kata dalam bahasa Inggris, carilah semua pasangan kata kuadrat anagramik  (kata yang palindrom, TIDAK dianggap sebagai anagram dari dirinya sendiri).</p>
+<p>Menggunakan [words.txt](files/words.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 16K yang berisi hampir dua ribu kata dalam bahasa Inggris, carilah semua pasangan kata kuadrat anagramik  (kata yang palindrom, TIDAK dianggap sebagai anagram dari dirinya sendiri).</p>
 <p>Berapakah bilangan kuadrat terbesar yang ada?</p>
 <p class='info'>CATATAN: Semua anagram yang mungkin terbentuk pasti sudah ada dalam berkas teks tersebut.</p>
 
@@ -2082,7 +2083,7 @@ Answer: 36b3b5f54143786b7ab2ebb6bcd06e75
 
 <p>Membandingkan dua buah bilangan dalam bentuk perpangkatan seperti 2<sup>11</sup> dan 3<sup>7</sup> tidaklah sulit, karena hampir semua kalkulator dapat membuktikan 2<sup>11</sup> = 2048 &lt; 3<sup>7</sup> = 2187.</p>
 <p>Tetapi, membuktikan 632382<sup>518061</sup> &gt; 519432<sup>525806</sup> akan lebih sulit, karena kedua bilangan memiliki lebih dari tiga juta digit.</p>
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p099_base_exp.txt">base_exp.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 22K yang berisi seribu baris pasangan bilangan dengan pangkatnya, carilah baris ke berapakah yang memiliki hasil paling besar.</p>
+<p>Menggunakan [base_exp.txt](files/base_exp.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 22K yang berisi seribu baris pasangan bilangan dengan pangkatnya, carilah baris ke berapakah yang memiliki hasil paling besar.</p>
 <p class='info'>CATATAN: dua baris pertama pada berkas teks tersebut adalah sama seperti bilangan contoh di atas.</p>
 
 Answer: 1ecfb463472ec9115b10c292ef8bc986
@@ -2143,7 +2144,7 @@ A(-340,495), B(-153,-910), C(835,-947)
 
 Dapat dibuktikan bahwa segitiga ABC mengurung titik asal O(0,0), dan segitiga XYZ tidak.
 
-Dengan menggunakan [triangles.txt]({{ site.baseurl }}project/resources/p102_triangles.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 27K yang berisi koordinat dari seribu buah segitiga acak, carilah banyaknya segitiga yang mengurung titik asal O(0,0).
+Dengan menggunakan [triangles.txt](files/triangles.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 27K yang berisi koordinat dari seribu buah segitiga acak, carilah banyaknya segitiga yang mengurung titik asal O(0,0).
 
 CATATAN: dua contoh pertama pada berkas teks sama dengan contoh di atas.
 
@@ -2186,7 +2187,7 @@ Answer: c8771ddd4df191098d70a8e94dd1cde7
 <li>Jika B memiliki anggota yang lebih banyak dari C, maka S(B) &gt; S(C).</li>
 </ol>
 <p>Sebagai contoh, {81, 88, 75, 42, 87, 84, 86, 65} bukanlah himpunan yang memiliki penjumlahan istimewa, sebab dapat ditemukan 65 + 87 + 88 = 75 + 81 + 84, contoh lain {157, 150, 164, 119, 79, 159, 161, 139, 158} memenuhi kedua sifat di atas untuk semua kombinasi himpunan bagian yang mungkin, dan S(A) = 1286.</p>
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p105_sets.txt">sets.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 4K yang berisi seratus himpunan yang memiliki tujuh sampai dua belas anggota (dua contoh di atas adalah dua himpunan pertama dalam berkas tersebut), carilah semua himpunan yang memiliki penjumlahan istimewa, A<sub>1</sub>, A<sub>2</sub>, ..., A<sub><i>k</i></sub>, dan carilah nilai dari S(A<sub>1</sub>) + S(A<sub>2</sub>) + ... + S(A<sub><i>k</i></sub>).</p>
+<p>Menggunakan [sets.txt](files/sets.txt) (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 4K yang berisi seratus himpunan yang memiliki tujuh sampai dua belas anggota (dua contoh di atas adalah dua himpunan pertama dalam berkas tersebut), carilah semua himpunan yang memiliki penjumlahan istimewa, A<sub>1</sub>, A<sub>2</sub>, ..., A<sub><i>k</i></sub>, dan carilah nilai dari S(A<sub>1</sub>) + S(A<sub>2</sub>) + ... + S(A<sub><i>k</i></sub>).</p>
 <p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-103">Soal 103</a> dan <a href="#soal-106">Soal 106</a>.</p>
 
 Answer: c87d30e494eff438fe37b4c810167da0
@@ -2245,7 +2246,7 @@ Answer: c8fd9e36fdeb06bcc93a0732c667b6d8
 
 ![](files-v1/p107_2.gif)
 
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p107_network.txt">network.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas berukuran 6K berisi sebuah jaringan dengan empat puluh verteks, dan diberikan dalam bentuk matriks, carilah jumlah penghematan maksimum yang dapat dilakukan, dengan membuang beberapa ruas namun dengan memastikan bahwa semua verteks tetap terhubung.</p>
+<p>Menggunakan [network.txt](files/network.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas berukuran 6K berisi sebuah jaringan dengan empat puluh verteks, dan diberikan dalam bentuk matriks, carilah jumlah penghematan maksimum yang dapat dilakukan, dengan membuang beberapa ruas namun dengan memastikan bahwa semua verteks tetap terhubung.</p>
 
 Answer: b0db1202ec966e7855ca23626eb285b8
 
@@ -6951,10 +6952,11 @@ Answer: 5b1ce9ac67e0ad6690c728ccba6f0070
 
 # Soal 326
 
-<p>
-Misal <var>a<sub>n</sub></var> adalah barisan rekursif yang dinyatakan oleh: <img src="{{ site.baseurl }}project/images/p326_formula1.gif" style="vertical-align:
-middle;"/>. 
-</p>
+
+Misal <var>a<sub>n</sub></var> adalah barisan rekursif yang dinyatakan oleh:
+
+![](files/p_326_formula1.gif)
+
 <p>
 Sehingga 10 sukup ertama dari <var>a<sub>n</sub></var> adalah: 1,1,0,3,0,3,5,4,1,9.
 </p>
@@ -9417,7 +9419,7 @@ Answer: e2add9d46ebd8ba59a07dca791cd629b
 
 <p>Gambar di atas adalah sebuah contoh dari teka-teki kakuro rahasia (juga dikenal sebagai penjumlahan menyilang, atau penyilangan jumlah genap), dengan solusi akhirnya ada di sebelah kanan. (Aturan yang biasa digunakan pada teka-teki kakuro dapat dengan mudah ditemukan di banyak situs internet. Informasi lainnya yang berhubungan saat ini juga dapat ditemukan di <a href="http://krazydad.com/" target="_blank">krazydad.com</a> dimana penulisnya telah memberikan data teka-teki untuk tantangan ini.)</p>
 
-<p>Sebuah text file yang dapat di download (<a href="{{ site.baseurl }}project/resources/p424_kakuro200.txt">kakuro200.txt</a>) berisi deskripsi dari 200 teka-teki seperti ini, gabungan dari tipe 5x5 dan 6x6. Teka-teki pertama pada file ini adalah contoh di atas, yang dituliskan sebagai berikut:</p>
+<p>Sebuah text file yang dapat di download ([kakuro200.txt](files/kakuro200.txt)) berisi deskripsi dari 200 teka-teki seperti ini, gabungan dari tipe 5x5 dan 6x6. Teka-teki pertama pada file ini adalah contoh di atas, yang dituliskan sebagai berikut:</p>
 
 <p>6,X,X,(vCC),(vI),X,X,X,(hH),B,O,(vCA),(vJE),X,(hFE,vD),O,O,O,O,(hA),O,I,(hJC,vB),O,O,(hJC),H,O,O,O,X,X,X,(hJE),O,O,X</p>
 
