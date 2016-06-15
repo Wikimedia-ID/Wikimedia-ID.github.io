@@ -19,19 +19,19 @@ title: Soal Project Euler
                     </a>
                 </li>
                 <li>
-                    <a href="#100">Soal 1 - 100</a>
+                    <a href="#problem-1">Soal 1 - 100</a>
                 </li>
                 <li>
-                    <a href="#200">Soal 101 - 200</a>
+                    <a href="#problem-101">Soal 101 - 200</a>
                 </li>
                 <li>
-                    <a href="#300">Soal 201 - 300</a>
+                    <a href="#problem-201">Soal 201 - 300</a>
                 </li>
                 <li>
-                    <a href="#400">Soal 301 - 400</a>
+                    <a href="#problem-301">Soal 301 - 400</a>
                 </li>
                 <li>
-                    <a href="#500">Soal 401 - 500</a>
+                    <a href="#problem-401">Soal 401 - 500</a>
                 </li>
             </ul>
         </div>
@@ -44,7 +44,8 @@ title: Soal Project Euler
                         <p>Berikut adalah soal2 Project Euler dalam bahasa Indonesia</p>
                         <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Daftar Isi</a>
                     </div>
-<div class="col-lg-12" id="100" markdown="1">
+<div class="col-lg-12" id="problems" markdown="1">
+
 Problem 1
 =========
 
@@ -2338,8 +2339,7 @@ Problem 100
 
    
    Answer: 21156e3acc4ca35b7a318c541a0648d5
-</div>
-<div class="col-lg-12" id="200" markdown="1">
+
 Problem 101
 ===========
 
@@ -4981,8 +4981,7 @@ Problem 200
 
    
    Answer: c911c8e346aa813da5f5ed4f8e9128d8
-</div>
-<div class="col-lg-12" id="300" markdown="1">
+
 Problem 201
 ===========
 
@@ -7393,8 +7392,7 @@ If b+d < 100 000 000, how many distinct triplets (a,b,d) are there such
 that point P exists?
 
 Answer: fb8f093361a6db56c8a1d1661ab229cd
-</div>
-<div class="col-lg-12" id="400" markdown="1">
+
 Problem 300
 ===========
 
@@ -10148,8 +10146,7 @@ Problem 399
 
    
    Answer: a0819cfe3be6a04645b8d4fe2345e184
-</div>
-<div class="col-lg-12" id="500" markdown="1">
+
 Problem 400
 ===========
 
