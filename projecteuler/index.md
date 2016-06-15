@@ -48,19 +48,19 @@ title: Soal Project Euler
 
 # Soal 1
 
-Jika kita mendaftarkan semua bilangan asli kurang dari 10 yang merupakan kelipatan 3 atau 5, maka kita akan mendapatkan 3, 5, 6, dan 9. Jumlah dari bilangan-bilangan tersebut adalah 23.
+Jika kita membuat daftar semua bilangan asli yang lebih kecil daripada 10 yang merupakan kelipatan 3 atau 5, maka kita akan mendapatkan 3, 5, 6, dan 9. Jumlah dari bilangan-bilangan tersebut adalah 23.
 
-Tentukanlah jumlah dari semua bilangan kelipatan 3 atau 5 yang kurang dari 1000.
+Tentukanlah jumlah dari semua bilangan kelipatan 3 atau 5 yang lebih kecil daripada 1000.
 
 Answer: e1edf9d1967ca96767dcc2b2d6df69f4
 
 # Soal 2
 
-Setiap pola baru dalam barisan Fibonacci dibentuk dengan menjumlahkan dua buah bilangan sebelumnya. Jika barisan diawali dengan angka 1 dan 2, maka 10 bilangan pertama barisan Fibonacci adalah:
+Setiap pola baru dalam barisan Fibonacci dibentuk dengan menjumlahkan dua buah bilangan sebelumnya. Jika kita memulai barisan dengan angka 1 dan 2, maka 10 bilangan pertama barisan Fibonacci adalah:
 
 <center>1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...</center>
 
-Tentukanlah hasil penjumlahan semua bilangan genap kurang dari empat juta dalam barisan Fibonacci seperti di atas.
+Tentukanlah hasil penjumlahan semua bilangan genap yang lebih kecil dari empat juta dalam barisan Fibonacci seperti di atas.
 
 Answer: 4194eb91842c8e7e6df099ca73c38f28
 
@@ -74,9 +74,9 @@ Answer: 94c4dd41f9dddce696557d3717d98d82
 
 # Soal 4
 
-Sebuah bilangan dapat disebut palindrom jika menghasilkan bilangan yang sama baik dibaca dari depan maupun dari belakang. Bilangan palindrom terbesar yang dapat dibentuk dari perkalian dua buah bilangan 2 angka adalah 9009 = 91 × 99.
+Sebuah bilangan disebut sebagai *palindrom*, bila kita membacanya baik dari depan maupun dari belakang, kita akan mendapatkan bilangan yang sama. Bilangan palindrom terbesar hasil dari perkalian dua buah bilangan 2 digit adalah 9009 = 91 × 99.
 
-Tentukan bilangan palindrom terbesar yang dibuat dari perkalian dua buah bilangan 3 angka.
+Tentukan bilangan palindrom terbesar hasil dari perkalian dua buah bilangan 3 digit.
 
 Answer: d4cfc27d16ea72a96b83d9bdef6ce2ec
 
@@ -84,7 +84,7 @@ Answer: d4cfc27d16ea72a96b83d9bdef6ce2ec
 
 2520 adalah bilangan terkecil yang dapat habis dibagi oleh semua angka dari 1 sampai 10.
 
-Berapakah bilangan positif terkecil yang dapat habis dibagi oleh semua angka dari 1 sampai 20?
+Berapakah bilangan positif terkecil yang dapat habis dibagi oleh semua bilangan dari 1 sampai 20?
 
 Answer: bc0d0a22a7a46212135ed0ba77d22f3a
 
@@ -98,14 +98,14 @@ Kuadrat dari jumlah sepuluh bilangan asli pertama adalah,
 
 <div style="text-align:center;">(1 + 2 + ... + 10)<sup>2</sup> = 55<sup>2</sup> = 3025</div>
 
-Sehingga selisih antara jumlah dari kuadrat dengan kuadrat dari jumlah sepuluh bilangan asli pertama adalah 3025 - 385 = 2640.
+Selisih antara jumlah dari kuadrat dengan kuadrat dari jumlah sepuluh bilangan asli pertama adalah 3025 - 385 = 2640.
 Tentukan selisih antara jumlah dari kuadrat dengan kuadrat dari jumlah seratus bilangan asli pertama.
 
 Answer: 867380888952c39a131fe1d832246ecc
 
 # Soal 7
 
-Dengan mendaftarkan enam bilangan prima pertama: 2, 3, 5, 7, 11, dan 13, kita dapat melihat bahwa bilangan prima ke-6 adalah 13.
+Bila kita membuat daftar enam bilangan prima pertama: 2, 3, 5, 7, 11, dan 13, kita dapat melihat bahwa bilangan prima ke-6 adalah 13.
 
 Berapakah bilangan prima ke-10 001?
 
@@ -113,7 +113,7 @@ Answer: 8c32ab09ec0210af60d392e9b2009560
 
 # Soal 8
 
-Empat buah bilangan berurutan dari 1000 buah bilangan berikut yang memiliki hasil kali terbesar adalah 9 × 9 × 8 × 9 = 5832.
+Empat bilangan berurutan dari 1000 bilangan berikut yang memiliki hasil kali terbesar adalah 9 × 9 × 8 × 9 = 5832.
 <center>
 7316717653133062491922511967442657474235534919493496983520312774506326239578318016984801869478851843
 8586156078911294949545950173795833195285320880551112540698747158523863050715693290963295227443043557
@@ -126,35 +126,35 @@ Empat buah bilangan berurutan dari 1000 buah bilangan berikut yang memiliki hasi
 0719840385096245544436298123098787992724428490918884580156166097919133875499200524063689912560717606
 0588611646710940507754100225698315520005593572972571636269561882670428252483600823257530420752963450
 </center>
-Temukanlah tiga belas buah bilangan berurutan dari 1000 buah bilangan di atas yang memiliki hasil kali terbesar. 
+Temukanlah tiga belas bilangan berurutan dari 1000 bilangan di atas yang memiliki hasil kali terbesar.
 Berapakah hasil kali ketiga belas bilangan tersebut?
 
 Answer: 0f53ea7949d32ef24f9186207600403c
 
 # Soal 9
 
-<i>Pythagorean triplet</i> adalah kumpulan tiga buah bilangan asli, a &lt; b 	&lt; c, yang memenuhi,
+<i>Triplet Pythagoras</i> adalah kumpulan tiga buah bilangan asli, a &lt; b 	&lt; c, yang memenuhi,
 
 <div style="text-align:center;"> <var>a</var><sup>2</sup> + <var>b</var><sup>2</sup> = <var>c</var><sup>2</sup></div>
 
 Sebagai contoh, 3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25 = 5<sup>2</sup>.</br>
 
-Dan hanya terdapat persis satu buah <i>Pythagorean triplet</i> yang bisa memenuhi a + b + c = 1000.
-Temukan <i>Pythagorean triplet</i> tersebut dan tentukanlah hasil a × b × c.
+Dan hanya terdapat persis satu <i>triplet Pythagoras</i> yang bisa memenuhi a + b + c = 1000.
+Temukan <i>triplet Pythagoras</i> tersebut dan tentukanlah hasil a × b × c.
 
 Answer: 24eaa9820350012ff678de47cb85b639
 
 # Soal 10
 
-Jumlah semua bilangan prima kurang dari 10 adalah 2 + 3 + 5 + 7 = 17.
+Jumlah semua bilangan prima yang lebih kecil daripada 10 adalah 2 + 3 + 5 + 7 = 17.
 
-Tentukanlah jumlah semua bilangan prima kurang dari dua juta.
+Tentukanlah jumlah semua bilangan prima yang lebih kecil dari dua juta (2 000 000).
 
 Answer: d915b2a9ac8749a6b837404815f1ae25
 
 # Soal 11
 
-Pada kumpulan bilangan berukuran 20×20 berikut, empat buah bilangan yang membentuk satu garis diagonal lurus telah ditandai dengan warna merah.
+Pada kisi berukuran 20×20 berikut, empat buah bilangan yang membentuk satu garis diagonal lurus telah ditandai dengan warna merah.
 
 <p style="font-family:courier new;text-align:center;font-size:10pt;">
 08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08<br />
@@ -180,17 +180,17 @@ Pada kumpulan bilangan berukuran 20×20 berikut, empat buah bilangan yang memben
 </p>
 Hasil perkalian dari bilangan tersebut adalah 26 × 63 × 78 × 14 = 1788696.
 
-Berapakah hasil perkalian terbesar dari empat buah bilangan berurutan dalam satu garis lurus (atas, bawah, kiri, kanan, atau diagonal) pada kumpulan bilangan berukuran 20×20 di atas?
+Berapakah hasil perkalian terbesar dari empat bilangan berurutan dalam satu garis lurus (atas, bawah, kiri, kanan, atau diagonal) pada kisi berukuran 20×20 di atas?
 
 Answer: 678f5d2e1eaa42f04fa53411b4f441ac
 
 # Soal 12
 
-Barisan bilangan segitiga dibuat dengan menjumlahkan bilangan asli, sehingga bilangan segitiga ke-7 adalah 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28. 
+Barisan bilangan segitiga dibuat dengan menjumlahkan bilangan asli. Maka bilangan segitiga ke-7 adalah 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28.
 Sepuluh bilangan segitiga pertama adalah:
 
 <p style="text-align:center;">1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...</p>
-Jika didaftarkan faktor dari tujuh bilangan segitiga pertama:
+Jika kita membuat daftar faktor dari tujuh bilangan segitiga pertama:
 <blockquote style="font-family:courier new;"><b>&nbsp;1</b>: 1<br />
 <b>&nbsp;3</b>: 1,3<br />
 <b>&nbsp;6</b>: 1,2,3,6<br />
@@ -314,30 +314,30 @@ Answer: 361113f19fd302adc31268f8283a4f2d
 
 # Soal 14
 
-Sebuah barisan berulang dinyatakan untuk himpunan bilangan bulat positif dengan aturan berikut:
+Sebuah barisan iteratif berikut didefinisikan untuk himpunan bilangan bulat positif dengan aturan:
 <center>
 
-<p style="margin-right:50px;"><var>n</var> &rarr; <var>n</var>/2 (<var>n</var> ∈ genap)<br />
-<var>n</var> &rarr; 3<var>n</var> + 1 (<var>n</var> ∈ ganjil)</p>
+<p style="margin-right:50px;"><var>n</var> &rarr; <var>n</var>/2 (<var>n</var> ∈ bilangan genap)<br />
+<var>n</var> &rarr; 3<var>n</var> + 1 (<var>n</var> ∈ bilangan ganjil)</p>
 </center>
 Menggunakan aturan di atas, dimulai dari 13, maka kita akan mendapatkan barisan:</br>
 
 <div style="text-align:center;">13 → 40 → 20 → 10 → 5 → 16 → 8 → 4 → 2 → 1</div>
 
-Dapat terlihat bahwa barisan ini (yang dimulai dari 13 dan selesai di 1) memiliki 10 suku. Dan dapat diasumsikan bahwa angka mulai apapun akan selalu berakhir di 1 (<i>Collatz Problem</i>).</br>
-Berapakah angka mulai kurang dari satu juta yang memiliki suku terpanjang?</br>
+Dapat terlihat bahwa barisan ini (yang dimulai dari 13 dan berakhir di 1) memiliki 10 suku. Meskipun belum ada bukti matematisnya, diperkirakan bahwa apapun bilangan awalnya, barisan seperti ini akan selalu berakhir di 1 (<i>Masalah Collatz</i>).</br>
+Bilangan awal manakah yang besarnya lebih kecil daripada satu juta yang akan menghasilkan barisan terpanjang?</br>
 
-Catatan : Setelah perhitungan di mulai, angka boleh melebihi satu juta.
+Catatan : besar suku berikutnya (setelah bilangan awal) dalam barisan boleh melebihi satu juta.
 
 Answer: 5052c3765262bb2c6be537abd60b305e
 
 # Soal 15
 
-Jika gerakan dimulai dari pojok kiri atas dari kisi berukuran 2×2, dan hanya diperbolehkan untuk bergerak ke kanan atau ke bawah, maka akan ada persis 6 buah rute untuk menuju ke pojok kanan bawah.
+Jika kita mulai bergerak dari pojok kiri atas kisi berukuran 2×2, dan hanya boleh bergerak ke kanan atau ke bawah, maka akan ada persis 6 ruas rute menuju ke pojok kanan bawah.
 
 ![](files-v1/p015.gif)
 
-Berapakah jumlah rute yang ada jika kisi memiliki ukuran 20×20?
+Berapakah jumlah rute yang ada jika kisi berukuran 20×20?
 
 Answer: 928f3957168ac592c4215dcd04e0b678
 
@@ -350,16 +350,16 @@ Answer: 6a5889bb0190d0211a991f47bb19a777
 
 # Soal 17
 
-<p>Jika angka 1 sampai 5 ditulis dalam kata bahasa inggris akan menjadi : <i>one, two, three, four, five,</i> dan terdapat 3 + 3 + 5 + 4 + 4 = 19 jumlah huruf yang digunakan.</p>
-<p>Bila semua angka dari 1 sampai 1000 (1 dan 1000 ikut serta) ditulis dalam kata bahasa inggris, berapakah jumlah huruf yang digunakan?
+<p>Angka 1 sampai 5 ditulis dalam kata bahasa Inggris sebagai : <i>one, two, three, four, five,</i> dan terdapat 3 + 3 + 5 + 4 + 4 = 19 jumlah huruf yang digunakan.</p>
+<p>Bila semua angka dari 1 sampai 1000 (1 dan 1000 termasuk di dalamnya) ditulis dalam kata bahasa Inggris, berapakah jumlah huruf yang digunakan?
 </p>
-<b>Catatan:</b> Spasi dan tanda hubung tidak dihitung. Sebagai contoh, 342 (<i>three hundred and forty-two</i>) mengandung 23 huruf dan 115 (<i>one hundred and fifteen</i>) mengandung 20 huruf. Diharuskan menggunakan kata <i>“and”</i> mengikuti aturan penulisan bahasa inggris British.
+<p><b>Catatan :</b> Karena hanya terdapat 16384 jalur, maka masalah ini mungkin diselesaikan dengan mencoba semua jalur satu persatu. Tetapi, pada soal no.67, terdapat tantangan yang sama namun dengan menggunakan segitiga 100 baris. Masalah itu tidak bisa diselesaikan dengan mencoba jalur satu persatu dan dibutuhkan cara yang cerdik! ;o)</p>
 
 Answer: 6a979d4a9cf85135408529edc8a133d0
 
 # Soal 18
 
-<p>Dengan dimulai dari sisi atas segitiga seperti gambar berikut, dan berpindah ke angka sebelah kiri atau kanan pada baris di bawahnya, maka akan didapat jumlah bilangan maksimum dari atas sampai bawah adalah 23.</p>
+<p>Dengan memulai dari puncak segitiga seperti gambar berikut, dan berpindah ke angka sebelah kiri atau kanan pada baris di bawahnya, maka akan didapat jumlah bilangan maksimum dari atas sampai bawah adalah 23.</p>
 <p style="text-align:center;font-family:courier new;font-size:12pt;"><span style="color:#ff0000;"><b>3</b></span><br />
 <span style="color:#ff0000;"><b>7</b></span> 4<br />
 2 <span style="color:#ff0000;"><b>4</b></span> 6<br />
@@ -387,39 +387,39 @@ Answer: 708f3cf8100d5e71834b1db77dfa15d6
 
 # Soal 19
 
-<p>Anda diberikan informasi sebagai berikut, dan anda diminta untuk melakukan penelitian.</p>
+<p>Anda diberikan informasi sebagai berikut, dan Anda diminta untuk melakukan penelitian.</p>
 <ul>
 <li>1 Jan 1900 adalah hari Senin.</li>
-<li>Bulan yang memiliki jumlah hari tiga puluh adalah September, April, Juni, dan November. Sisanya memiliki jumlah tiga puluh satu hari, kecuali Februari yang memiliki dua puluh delapan hari, dan pada tahun tertentu bisa menjadi dua puluh sembilan.</li>
-<li>Tahun tertentu tersebut adalah tahun yang dapat habis dibagi oleh 4, namun tidak berlaku pada permulaan abad, kecuali abad tersebut habis dibagi 400. (Contoh : Februari 1900 memiliki dua puluh delapan hari walaupun 1900 habis dibagi 4)</li>
+<li>Bulan yang panjangnya tiga puluh hari adalah September, April, Juni, dan November. Sisanya memiliki panjang tiga puluh satu hari, kecuali Februari yang panjangnya dua puluh delapan hari, dan pada tahun kabisat bisa menjadi dua puluh sembilan.</li>
+<li>Tahun kabisat  adalah tahun yang dapat habis dibagi 4, namun tidak berlaku pada tahun akhir abad, kecuali tahun tersebut tersebut habis dibagi 400. (Contoh : Februari 1900, akhir abad ke-19, memiliki dua puluh delapan hari walaupun 1900 habis dibagi 4)</li>
 </ul>
 
-<p>Berapakah jumlah hari Minggu yang memiliki tanggal 1 pada abad ke dua puluh (1 Jan 1901 sampai 31 Dec 2000)?</p>
+<p>Berapakah banyak hari Minggu yang jatuh pada tanggal 1 pada abad ke-20 (1 Jan 1901 sampai 31 Des 2000)?</p>
 
 Answer: a4a042cf4fd6bfb47701cbc8a1653ada
 
 # Soal 20
 
-_n_! Memiliki arti _n_ × (_n_ − 1) × ... × 3 × 2 × 1.<br>
+_n_! (dibaca n faktorial) didefinisikan sebagai _n_ × (_n_ − 1) × ... × 3 × 2 × 1.<br>
 Sebagai contoh, 10! = 10 × 9 × … × 3 × 2 × 1 = 3628800.<br>
-Dan jumlah dari digit bilangan 10! Adalah 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.<br>
+Jumlah digit bilangan 10! adalah 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.<br>
 Carilah jumlah digit dari bilangan 100!
 
 Answer: 443cb001c138b2561a0d90720d6ce111
 
 # Soal 21
 
-<p>Misalkan d(n) adalah jumlah semua bilangan kurang dari n yang dapat membagi habis n.</p>
-<p>Jika d(a)=b dan d(b)=a, dimana a≠b, maka a dan b adalah sebuah <i>amicable pair</i>, dan a serta b dapat disebut bilangan <i>amicable</i>.</p>
-<p>Sebagai contoh, bilangan yang dapat membagi habis 220 dan kurang dari 220 adalah 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, dan 110; maka d(220)=284. Bilangan yang dapat membagi habis 284 dan kurang dari 2784 adalah 1, 2, 4, 71, dan 142; maka d(284)=220.</p>
+<p>Misalkan d(n) adalah jumlah semua bilangan yang lebih kecil daripada n yang dapat membagi habis n.</p>
+<p>Jika d(a)=b dan d(b)=a, dengan a≠b, maka a dan b adalah sebuah <i>pasangan akrab</i>, dan a serta b dapat disebut <i>bilangan akrab</i>.</p>
+<p>Sebagai contoh, bilangan-bilangan yang dapat membagi habis 220 dan lebih kecil daripada 220 adalah 1, 2, 4, 5, 10, 11, 20, 22, 44, 55, dan 110; maka d(220)=284. Bilangan yang dapat membagi habis 284 dan lebih kecil daripada 2784 adalah 1, 2, 4, 71, dan 142; maka d(284)=220.</p>
 
-<p>Hitunglah jumlah semua bilangan <i>amicable</i> kurang dari 10000.</p>
+<p>Hitunglah jumlah semua bilangan akrab yang lebih kecil daripada 10000.</p>
 
 Answer: 51e04cd4e55e7e415bf24de9e1b0f3ff
 
 # Soal 22
 
-<p><a href="https://projecteuler.net/project/resources/p022_names.txt">names.txt</a> (klik kanan dan plih 'Save Link/Target As...') , adalah 46K text file yang berisi lebih dari lima ribu nama depan. Urutkanlah nama-nama tersebut berdasarkan abjad, lalu hitunglah nilai dari setiap nama dengan cara mengkonversikan setiap huruf menjadi angka sesuai dengan urutan alfabet, lalu kalikan jumlah angka-angka tersebut dengan posisinya pada daftar nama names.txt yang telah diurutkan.</p>
+<p><a href="https://projecteuler.net/project/resources/p022_names.txt">names.txt</a> (klik kanan dan pilih 'Save Link/Target As...') , adalah 46K berkas teks yang berisi lebih dari lima ribu nama depan. Urutkanlah nama-nama tersebut berdasarkan abjad, lalu hitunglah nilai dari setiap nama dengan cara mengkonversikan setiap huruf menjadi angka sesuai dengan urutan alfabet. Setelah itu kalikan jumlah angka-angka tersebut dengan posisinya pada daftar nama names.txt yang telah diurutkan.</p>
 
 <p>Sebagai contoh, saat daftar nama sudah diurutkan berdasarkan abjad, COLIN berada di posisi ke 938 pada daftar nama, dari huruf-hurufnya COLIN akan memiliki nilai 3 + 15 + 12 + 9 + 14 = 53. Sehingga, COLIN akan memiliki nilai 938 × 53 = 49714.</p>
 
@@ -429,29 +429,29 @@ Answer: f2c9c91cb025746f781fa4db8be3983f
 
 # Soal 23
 
-<p>Bilangan <i>perfect</i> adalah sebuah bilangan yang jumlah semua pembagi habisnya sama dengan bilangan itu sendiri. Sebagai contoh, jumlah pembagi habis dari 28 adalah 1 + 2 + 4 + 7 + 14 = 28, dengan demikian 28 adalah bilangan <i>perfect</i>.</p>
-<p>Sebuah bilangan <var>n</var> disebut <i>deficient</i> jika jumlah pembagi habisnya kurang dari <var>n</var>, dan disebut <i>abundant</i> jika jumlahnya melebihi <var>n</var>.</p>
+<p><i>Bilangan sempurna</i> adalah sebuah bilangan yang jumlah semua pembagi habisnya sama dengan bilangan itu sendiri. Sebagai contoh, jumlah pembagi habis dari 28 adalah 1 + 2 + 4 + 7 + 14 = 28, dengan demikian 28 adalah bilangan sempurna.</p>
+<p>Sebuah bilangan <var>n</var> disebut <i>defisien</i> jika jumlah pembagi habisnya kurang dari <var>n</var>, dan disebut <i>limpahan</i> jika jumlahnya melebihi <var>n</var>.</p>
 <!-- <p>A number whose proper divisors are less than the number is called deficient and a number whose proper divisors exceed the number is called abundant.</p> -->
-<p>12 adalah bilangan <i>abundant</i> terkecil, 1 + 2 + 3 + 4 + 6 = 16, sedangkan bilangan terkecil yang dapat dibentuk dari hasil jumlah dua buah bilangan <i>abundant</i> adalah 24. Dengan analisa matematis, dapat dibuktikan bahwa semua bilangan bulat lebih dari 28123 dapat dibentuk dari penjumlahan dua buah bilangan <i>abundant</i></i>. Dan, batas ini tidak bisa diperkecil lagi oleh analisa lebih lanjut, sehingga angka terbesar yang tidak dapat dibentuk dari penjumlahan dua buah bilangan abundant adalah kurang dari batas ini (28123).</p>
-<p>Carilah jumlah semua bilangan positif yang tidak bisa dibentuk dari penjumlahan dua buah bilangan <i>abundant</i>.</p>
+<p>12 adalah bilangan limpahan terkecil, 1 + 2 + 3 + 4 + 6 = 16, sedangkan bilangan terkecil yang dapat dibentuk dari hasil jumlah dua buah bilangan limpahan adalah 24. Dengan analisis matematis, dapat dibuktikan bahwa semua bilangan bulat lebih dari 28123 dapat dibentuk dari penjumlahan dua buah bilangan limpahan. Dan, batas ini tidak bisa diperkecil lagi oleh analisis lebih lanjut, sehingga bilangan terbesar yang tidak dapat dibentuk dari penjumlahan dua buah bilangan limpahan adalah kurang dari batas ini (28123).</p>
+<p>Carilah jumlah semua bilangan positif yang tidak bisa dibentuk dari penjumlahan dua buah bilangan limpahan.</p>
 
 Answer: 2c8258c0604152962f7787571511cf28
 
 # Soal 24
 
-<p>Permutasi adalah susunan terurut dari objek. Sebagai contoh, 3124 adalah salah satu permutasi yang mungkin dari digit 1, 2, 3, dan 4. Jika semua permutasi dituliskan sesuai dengan urutan angka atau alfabet, maka kita sebut itu sebagai susunan <i>lexicographic</i>. Susunan <i>lexicographic</i> dari permutasi 0, 1, dan 2 adalah:</p>
+<p>Permutasi adalah susunan terurut dari objek. Sebagai contoh, 3124 adalah salah satu permutasi yang mungkin dari digit 1, 2, 3, dan 4. Jika semua permutasi dituliskan sesuai dengan urutan angka atau alfabet, maka kita sebut itu sebagai susunan leksikografis. Susunan leksikografis dari permutasi 0, 1, dan 2 adalah:</p>
 
 <center>012   021   102   120   201   210</center>
 
-<p>Berapakah suku ke satu juta dari susunan <i>lexicographic</i> dari permutasi digit 0, 1, 2, 3, 4, 5, 6, 7, 8, dan 9?</p>
+<p>Berapakah suku kesatu juta dari susunan leksikografis dari permutasi digit 0, 1, 2, 3, 4, 5, 6, 7, 8, dan 9?</p>
 
 Answer: 7f155b45cb3f0a6e518d59ec348bff84
 
 # Soal 25
 
 <p>Barisan Fibonacci dibentuk dari hubungan berulang:</p>
-<blockquote>F<sub><i>n</i></sub> = F<sub><i>n</i>&minus;1</sub> + F<sub><i>n</i>&minus;2</sub>, dimana F<sub>1</sub> = 1 and F<sub>2</sub> = 1.</blockquote>
-<p>Sehingga 12 suku pertamanya adalah:</p>
+<blockquote>F<sub><i>n</i></sub> = F<sub><i>n</i>&minus;1</sub> + F<sub><i>n</i>&minus;2</sub>, di mana F<sub>1</sub> = 1 and F<sub>2</sub> = 1.</blockquote>
+<p>Dari aturan tersebut didapatkan 12 suku pertamanya:</p>
 <blockquote>F<sub>1</sub> = 1<br />
 F<sub>2</sub> = 1<br />
 F<sub>3</sub> = 2<br />
@@ -464,14 +464,14 @@ F<sub>9</sub> = 34<br />
 F<sub>10</sub> = 55<br />
 F<sub>11</sub> = 89<br />
 F<sub>12</sub> = 144</blockquote>
-<p>Suku ke 12, yaitu F<sub>12</sub>, adalah suku pertama yang memiliki tiga digit.</p>
-<p>Suku ke berapakah pada barisan Fibonacci yang pertama kali memiliki 1000 digit?</p>
+<p>Suku ke-12, yaitu F<sub>12</sub>, adalah suku pertama yang memiliki tiga digit.</p>
+<p>Suku keberapakah pada barisan Fibonacci yang pertama kali memiliki 1000 digit?</p>
 
 Answer: a376802c0811f1b9088828288eb0d3f0
 
 # Soal 26
 
-<p>Sebuah unit pecahan adalah sebuah pecahan yang memiliki pembilang 1. Representasi desimal dari unit pecahan untuk penyebut dari 2 sampai 10 adalah sebagai berikut:</p>
+<p>Unit pecahan adalah sebuah pecahan yang memiliki pembilang 1. Representasi desimal dari unit pecahan untuk penyebut dari 2 sampai 10 adalah sebagai berikut:</p>
 <blockquote>
 <table>
 <tr>
@@ -503,8 +503,8 @@ Answer: a376802c0811f1b9088828288eb0d3f0
 </tr>
 </table>
 </blockquote>
-<p>Dimana 0.1(6) berarti 0.166666..., dan memiliki 1 digit yang berulang. Dapat kita lihat bahwa <sup>1</sup>/<sub>7</sub> memiliki 6 digit yang berulang.</p>
-<p>Carilah berapa nilai dari <i>d</i> &lt; 1000 dimana <sup>1</sup>/<sub><i>d</i></sub> memiliki paling banyak digit berulang dalam bentuk desimalnya.</p>
+<p>Di sini 0.1(6) berarti 0.166666..., dan memiliki 1 digit yang berulang. Dapat kita lihat bahwa <sup>1</sup>/<sub>7</sub> memiliki 6 digit yang berulang.</p>
+<p>Carilah berapa nilai dari <i>d</i> &lt; 1000, bila <sup>1</sup>/<sub><i>d</i></sub> memiliki paling banyak digit berulang dalam bentuk desimalnya.</p>
 
 Answer: 6aab1270668d8cac7cef2566a1c5f569
 
@@ -514,56 +514,56 @@ Answer: 6aab1270668d8cac7cef2566a1c5f569
 <p style='text-align:center;'><i>n</i>&sup2; + <i>n</i> + 41</p>
 <p>Ternyata rumus tersebut akan menciptakan 40 buah bilangan prima untuk nilai <i>n</i> = 0 sampai 39. Tetapi, saat <i>n</i> = 40, 40<sup>2</sup> + 40 + 41 = 40(40 + 1) + 41 angka ini ternyata habis dibagi 41, dan saat <i>n</i> = 41, 41&sup2; + 41 + 41 angka ini juga habis dibagi 41.</p>
 <p>Rumus luar biasa lainnya &nbsp;<i>n</i>&sup2; &minus; 79<i>n</i> + 1601 telah ditemukan, rumus tersebut akan menghasilkan 80 buah bilangan prima untuk nilai <i>n</i> = 0 to 79. Hasil kali dari koefisien rumus tersebut, &minus;79 dan 1601, adalah &minus;126479.</p>
-<p>Dengan bentuk rumus kuadrat berikut ini:</p>
+<p>Dengan bentuk kuadrat berikut ini:</p>
 <blockquote>
-<i>n</i>&sup2; + <i>an</i> + <i>b</i>, dimana |<i>a</i>| &lt; 1000 dan |<i>b</i>| &lt; 1000<br /><br />
-<div class='info' style='text-align:left;'>dimana |<i>n</i>| adalah nilai mutlak/absolut dari <i>n</i><br />sebagai contoh: |11| = 11 dan |&minus;4| = 4</div>
+<i>n</i>&sup2; + <i>an</i> + <i>b</i>, di mana |<i>a</i>| &lt; 1000 dan |<i>b</i>| &lt; 1000<br /><br />
+<div class='info' style='text-align:left;'>di mana |<i>n</i>| adalah nilai mutlak/absolut dari <i>n</i><br />sebagai contoh: |11| = 11 dan |&minus;4| = 4</div>
 </blockquote>
-<p>Carilah hasil kali koefisien, <i>a</i> dan <i>b</i>, untuk rumus kuadrat di atas yang menghasilkan bilangan prima yang paling banyak untuk nilai <i>n</i> berurutan, dimulai dari <i>n</i> = 0.</p>
+<p>Carilah hasil kali koefisien, <i>a</i> dan <i>b</i>, untuk rumus kuadrat di atas yang menghasilkan paling banyak bilangan prima untuk nilai <i>n</i> berurutan, dimulai dari <i>n</i> = 0.</p>
 
 Answer: 69d9e3218fd7abb6ff453ea96505183d
 
 # Soal 28
 
-<p>Dimulai dari angka 1 di tengah, lalu bergerak ke kanan dan setelah itu bergerak searah jarum jam, maka dapat dibentuk spiral angka berukuran 5 x 5 sebagai berikut:</p>
+<p>Dimulai dari angka 1 di tengah, lalu bergerak ke kanan searah jarum jam, maka dapat dibentuk spiral angka berukuran 5 x 5 sebagai berikut:</p>
 <p style='text-align:center;font-family:courier new;'><span style='color:#ff0000;font-family:courier new;'><b>21</b></span> 22 23 24 <span style='color:#ff0000;font-family:courier new;'><b>25</b></span><br />
 20 &nbsp;<span style='color:#ff0000;font-family:courier new;'><b>7</b></span> &nbsp;8 &nbsp;<span style='color:#ff0000;font-family:courier new;'><b>9</b></span> 10<br />
 19 &nbsp;6 &nbsp;<span style='color:#ff0000;font-family:courier new;'><b>1</b></span> &nbsp;2 11<br />
 18 &nbsp;<span style='color:#ff0000;font-family:courier new;'><b>5</b></span> &nbsp;4 &nbsp;<span style='color:#ff0000;font-family:courier new;'><b>3</b></span> 12<br />
 <span style='color:#ff0000;font-family:courier new;'><b>17</b></span> 16 15 14 <span style='color:#ff0000;font-family:courier new;'><b>13</b></span></p>
-<p>Dan dapat terlihat bahwa jumlah angka-angka yang terletak di diagonalnya adalah 101.</p>
+<p>Dapat terlihat bahwa jumlah angka-angka yang terletak pada diagonal spiral angka ini adalah 101.</p>
 <p>Berapakah jumlah angka-angka pada diagonal, jika dibentuk spiral dengan cara yang sama, namun berukuran 1001 x 1001?</p>
 
 Answer: 0d53425bd7c5bf9919df3718c8e49fa6
 
 # Soal 29
 
-<p>Jika kita mencoba menghitung semua kemungkinan pada rumus <i>a</i><sup><i>b</i></sup> untuk 2 &le; <i>a</i> &le; 5 dan 2 &le; <i>b</i> &le; 5 maka kita akan mendapatkan:</p>
+<p>Jika kita mencoba menghitung semua kombinasi dari <i>a</i><sup><i>b</i></sup> untuk 2 &le; <i>a</i> &le; 5 dan 2 &le; <i>b</i> &le; 5 maka kita akan mendapatkan:</p>
 <blockquote>2<sup>2</sup>=4, 2<sup>3</sup>=8, 2<sup>4</sup>=16, 2<sup>5</sup>=32<br />
 3<sup>2</sup>=9, 3<sup>3</sup>=27, 3<sup>4</sup>=81, 3<sup>5</sup>=243<br />
 4<sup>2</sup>=16, 4<sup>3</sup>=64, 4<sup>4</sup>=256, 4<sup>5</sup>=1024<br />
 5<sup>2</sup>=25, 5<sup>3</sup>=125, 5<sup>4</sup>=625, 5<sup>5</sup>=3125<br /></blockquote>
 <p>Lalu jika kita urutkan angka-angka tersebut, dengan terlebih dahulu membuang angka yang berulang, maka kita akan mendapatkan barisan 15 buah bilangan berbeda sebagai berikut:</p>
 <p style='text-align:center;'>4, 8, 9, 16, 25, 27, 32, 64, 81, 125, 243, 256, 625, 1024, 3125</p>
-<p>Berapakah banyak bilangan berbeda, pada barisan yang dibuat dari rumus <i>a</i><sup><i>b</i></sup> untuk 2 &le; <i>a</i> &le; 100 dan2 &le; <i>b</i> &le; 100?</p>
+<p>Berapakah banyak bilangan berbeda, pada barisan yang dibuat dari rumus <i>a</i><sup><i>b</i></sup> untuk 2 &le; <i>a</i> &le; 100 dan 2 &le; <i>b</i> &le; 100?</p>
 
 Answer: 6f0ca67289d79eb35d19decbc0a08453
 
 # Soal 30
 
-<p>Hanya terdapat tiga buah angka yang jika digit-digitnya dipangkatkan empat, lalu dijumlahkan, akan menghasilkan angka yang sama:</p>
+<p>Hanya terdapat tiga buah bilangan yang jika digit-digitnya dipangkatkan empat, lalu dijumlahkan, akan menghasilkan angka yang sama:</p>
 <blockquote style="direction:ltr">1634 = 1<sup>4</sup> + 6<sup>4</sup> + 3<sup>4</sup> + 4<sup>4</sup><br />
 8208 = 8<sup>4</sup> + 2<sup>4</sup> + 0<sup>4</sup> + 8<sup>4</sup><br />
 9474 = 9<sup>4</sup> + 4<sup>4</sup> + 7<sup>4</sup> + 4<sup>4</sup></blockquote>
-<p class='info'>Tetapi 1 = 1<sup>4</sup> tidak ikut dimasukkan dalam angka-angka di atas, karena bukan merupakan hasil penjumlahan.</p>
-<p>Jumlah dari semua angka tersebut adalah 1634 + 8208 + 9474 = 19316.</p>
-<p>Carilah jumlah dari semua angka yang jika digit-digitnya dipangkatkan lima, lalu dijumlahkan, akan menghasilkan angka yang sama</p>
+<p class='info'>Tetapi 1 = 1<sup>4</sup> tidak ikut dimasukkan dalam bilangan-bilangan di atas, karena bukan merupakan hasil penjumlahan.</p>
+<p>Jumlah dari semua bilangan tersebut adalah 1634 + 8208 + 9474 = 19316.</p>
+<p>Carilah jumlah dari semua bilangan yang jika digit-digitnya dipangkatkan lima, lalu dijumlahkan, akan menghasilkan bilangan yang sama</p>
 
 Answer: 27a1779a8a8c323a307ac8a70bc4489d
 
 # Soal 31
 
-Di Inggris mata uangnya terdiri dari pound (£), dan pence (p), dan terdapat delapan macam koin yang beredar di sana:
+Mata uang Inggris terdiri dari pecahan pound (£), dan pence (p), dan terdapat delapan macam koin yang beredar di sana:
 
 > 1p, 2p, 5p, 10p, 20p, 50p, £1 (100p) dan £2 (200p).
 
@@ -571,17 +571,17 @@ Kita dapat membentuk £2 salah satunya dengan cara berikut:
 
 > 1×£1 + 1×50p + 2×20p + 1×5p + 1×2p + 3×1p
 
-Berapa banyak cara untuk membentuk £2?
+Berapa banyak cara untuk membentuk £2 menggunakan koin yang beredar?
 
 Answer: 142dfe4a33d624d2b830a9257e96726d
 
 # Soal 32
 
-<p>Kita dapat menyebut bilangan dengan <var>n</var> buah digit sebagai bilangan <i>pandigital</i> jika kita menggunakan semua digit dari 1 sampai <var>n</var> satu kali; sebagai contoh, bilangan 5 digit, 15234, adalah bilangan <i>pandigital</i></p>
+<p>Kita dapat menyebut bilangan dengan <var>n</var> digit sebagai bilangan <i>pandigital</i> jika kita menggunakan semua digit dari 1 sampai <var>n</var> satu kali; sebagai contoh, bilangan 5 digit, 15234, adalah bilangan <i>pandigital</i> 1 sampai 5</p>
 
-<p>7254 dapat dibentuk dari hasil perkalian 39 &times; 186 = 7254, dan jika soal dan hasil perkaliannya dilihat secara bersama-sama, kita dapat menemukan semua angka dari 1 sampai 9, sehingga bentuk ini dapat juga disebut <i>pandigital</i>.</p>
+<p>7254 dapat ditulis sebagai hasil perkalian bilangan 39 &times; 186 = 7254, dan jika identitas ini dilihat dengan seksama, kita dapat menemukan semua angka dari 1 sampai 9.  Identitas seperti ini dapat juga disebut <i>pandigital</i>.</p>
 
-<p>Carilah jumlah dari semua hasil perkalian, yang jika soal dan hasil kalinya dilihat bersama-sama bisa menghasilkan angka <i>pandigital</i> 1 sampai 9.</p>
+<p>Carilah jumlah dari semua bilangan, yang jika ditulis sebagai hasil kali, identitasnya dapat  ditulis sebagai <i>pandigital</i> 1 sampai 9.</p>
 
 <div class="note">PETUNJUK: Beberapa hasil kali bisa dibentuk dengan lebih dari satu cara perkalian, pastikan tidak ada hasil kali yang dihitung lebih dari sekali pada penjumlahan di atas.</div>
 
@@ -589,46 +589,46 @@ Answer: 100f6e37d0b0564490a2ee27eff0660d
 
 # Soal 33
 
-<p>Pecahan <sup>49</sup>/<sub>98</sub> adalah pecahan yang cukup unik, karena seseorang yang tidak paham matematika mungkin akan mencoba untuk menyederhanakan pecahan tersebut dengan menghapus angka yang sama, yaitu angka 9 pada pembilang dan penyebut <sup>49</sup>/<sub>98</sub> = <sup>4</sup>/<sub>8</sub>, dan kebetulan hasilnya benar.</p>
-<p>Namun pecahan angka puluhan seperti, <sup>30</sup>/<sub>50</sub> = <sup>3</sup>/<sub>5</sub>, dapat kita sebut pecahan trivial, dan tidak kita ikut sertakan pada perhitungan ini.</p>
+<p>Pecahan <sup>49</sup>/<sub>98</sub> adalah pecahan yang menarik, karena seseorang yang tidak paham matematika mungkin akan mencoba untuk menyederhanakan pecahan tersebut dengan menghapus angka yang sama, yaitu angka 9 pada pembilang dan penyebut <sup>49</sup>/<sub>98</sub> = <sup>4</sup>/<sub>8</sub>, dan kebetulan hasilnya benar.</p>
+<p>Pecahan angka puluhan seperti, <sup>30</sup>/<sub>50</sub> = <sup>3</sup>/<sub>5</sub>, dapat kita sebut sebagai kasus trivial, dan tidak kita ikut sertakan pada perhitungan ini.</p>
 <p>Hanya terdapat empat buah pecahan seperti ini yang tidak trivial, yang nilai desimalnya kurang dari satu, dan memiliki dua digit baik pada pembilang maupun penyebut</p>
-<p>Jika hasil kali dari keempat pecahan ini di sederhanakan sampai yang paling sederhana, Carilah berapakah nilai dari penyebutnya.</p>
+<p>Jika hasil kali dari keempat pecahan ini diberikan dalam sampai yang bentuk yang paling sederhana, carilah nilai dari penyebutnya.</p>
 
 Answer: f899139df5e1059396431415e770c6dd
 
 # Soal 34
 
-145 adalah bilangan yang unik, karena 1! + 4! + 5! = 1 + 24 + 120 = 145.
+145 adalah bilangan yang menarik, karena 1! + 4! + 5! = 1 + 24 + 120 = 145.
 
-Carilah jumlah semua bilangan yang jika faktorial dari semua digitnya dijumlahkan, menghasilkan bilangan yang sama.
+Carilah jumlah semua bilangan yang jika faktorial dari semua digitnya dijumlahkan, hasilnya adalah bilangan yang sama.
 
-Catatan: walaupun 1! = 1 dan 2! = 2, namun mereka tidak diikut sertakan karena bukan merupakan hasil penjumlahan beberapa faktorial digit.
+Catatan: walaupun 1! = 1 dan 2! = 2, namun mereka tidak diikutsertakan karena bukan merupakan hasil penjumlahan beberapa faktorial digit.
 
 Answer: 60803ea798a0c0dfb7f36397d8d4d772
 
 # Soal 35
 
-Bilangan 197, dapat disebut bilangan prima siklik karena semua perputaran dari digitnya: 197, 971, dan 719, adalah merupakan bilangan prima.
+Bilangan 197 dapat disebut bilangan prima siklik karena semua perputaran digitnya: 197, 971, dan 719, merupakan bilangan prima.
 
-Terdapat tiga belas buah bilangan prima sklik yang kurang dari 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, dan 97.
+Terdapat tiga belas buah bilangan prima siklik yang lebih kecil daripada 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, dan 97.
 
-Berapa banyak bilangan prima siklik yang kurang dari satu juta?
+Berapa banyak bilangan prima siklik yang lebih kecil dari satu juta?
 
 Answer: b53b3a3d6ab90ce0268229151c9bde11
 
 # Soal 36
 
-<p>Bilangan desimal, 585 = 1001001001<sub>2</sub> (biner), adalah bilangan palindrom, baik di basis 10 (desimal) ataupun di basis 2 (biner).</p>
-<p>Carilah jumlah dari semua bilangan, kurang dari satu juta, yang merupakan bilangan palindrom di basis 10 (desimal) dan di basis 2 (biner).</p>
-<p class='info'>(Harap diingat, bahwa bilangan palindrom, di basis berapapun, tidak boleh di awali oleh angka nol.)</p>
+<p>Bilangan desimal 585 = 1001001001<sub>2</sub> (biner), adalah bilangan palindrom, baik dalam basis 10 (desimal) ataupun basis 2 (biner).</p>
+<p>Carilah jumlah dari semua bilangan, yang lebih kecil daripada satu juta, yang merupakan bilangan palindrom dalam basis 10 (desimal) dan dalam basis 2 (biner).</p>
+<p class='info'>(Harap diingat, bahwa bilangan palindrom, dalam basis berapapun, tidak boleh diawali oleh angka nol.)</p>
 
 Answer: 0e175dc2f28833885f62e7345addff03
 
 # Soal 37
 
-Bilangan 3797 memiliki sifat yang unik. Bilangan tersebut adalah prima, dan jika kita menghapus satu persatu digitnya dari kiri ke kanan, semua bilangan barunya tetaplah bilangan prima: 3797, 797, 97, dan 7. Kita dapat juga membuang digit dengan cara yang sama dari kanan ke kiri: 3797, 379, 37, dan 3, dan semua bilangan barunya juga tetaplah bilangan prima.
+Bilangan 3797 memiliki sifat yang unik. Bilangan tersebut adalah prima, dan jika kita menghapus satu per satu digitnya dari kiri ke kanan, semua bilangan barunya tetaplah bilangan prima: 3797, 797, 97, dan 7. Kita dapat juga membuang digit dengan cara yang sama dari kanan ke kiri: 3797, 379, 37, dan 3, dan semua bilangan barunya juga tetaplah bilangan prima.
 
-Hanya ada sebelas buah bilangan prima yang jika digitnya dihapus satu persatu baik dari kiri ke kanan maupun kanan ke kiri, tetap merupakan bilangan prima. Carilah jumlah kesebelas bilangan prima tersebut.
+Hanya ada sebelas buah bilangan prima yang jika digitnya dihapus satu per satu baik dari kiri ke kanan maupun kanan ke kiri, tetap merupakan bilangan prima. Carilah jumlah kesebelas bilangan prima tersebut.
 
 Catatan: 2, 3, 5, dan 7 tidak termasuk dalam kesebelas bilangan tersebut.
 
@@ -640,25 +640,25 @@ Answer: cace46c61b00de1b60874936a093981d
 <blockquote>192 &times; 1 = 192<br />
 192 &times; 2 = 384<br />
 192 &times; 3 = 576</blockquote>
-<p>Dengan menyatukan semua hasil kali tersebut, kita akan mendapatkan bilangan <i>pandigital</i> 1 sampai 9, 192384576. Kita akan menyebut 192384576 perkalian gabungan 192 dan (1,2,3)</p>
-<p>Hasil yang serupa bisa didapatkan dengan angka 9 dan mengalikannya dengan 1, 2, 3, 4, dan 5, memberikan angka <i>pandigital</i>, 918273645, dimana bilangan ini merupakan perkalian gabungan 9 dan (1,2,3,4,5).</p>
-<p>Berapakan bilangan <i>pandigital</i> 1 sampai 9 terbesar yang dapat kita bentuk dari perkalian gabungan suatu bilangan bulat dan (1,2, ... , <var>n</var>) dimana <var>n</var> &gt; 1?</p>
+<p>Dengan menyatukan semua hasil kali tersebut, kita akan mendapatkan bilangan <i>pandigital</i> 1 sampai 9, 192384576. Kita akan menyebut 192384576 sebagai hasil kali terangkaikan dari 192 dan (1,2,3)</p>
+<p>Hasil yang serupa bisa didapatkan dengan angka 9 dan mengalikannya dengan 1, 2, 3, 4, dan 5, yang memberikan bilangan <i>pandigital</i>, 918273645, di mana bilangan ini merupakan hasil kali terangkaikan dari 9 dan (1,2,3,4,5).</p>
+<p>Berapakah bilangan terbesar <i>pandigital</i> 1 sampai 9  yang dapat kita bentuk dari hasil kali terangkai suatu bilangan bulat dan (1,2, ... , <var>n</var>) di mana <var>n</var> &gt; 1?</p>
 
 Answer: f2a29ede8dc9fae7926dc7a4357ac25e
 
 # Soal 39
 
-Jika _p_ adalah keliling dari sebuah segitiga siku-siku yang memiliki sisi {_a_,_b_,_c_}, _a_,_b_,dan _c_ adalah bilangan bulat. Maka akan ada tiga buah segitiga untuk _p_ = 120.
+Misalkan *p* adalah keliling dari sebuah segitiga siku-siku yang memiliki sisi {*a*,*b*,*c*}, dan *a*,*b*,dan *c* adalah bilangan bulat. Maka akan ada tiga buah segitiga untuk *p* = 120.
 
 {20,48,52}, {24,45,51}, {30,40,50}
 
-Berapakah nilai _p_ ≤ 1000, yang memiliki jumlah segitiga paling banyak?
+Berapakah nilai *p* ≤ 1000, yang akan menghasilkan jumlah segitiga siku-siku paling banyak?
 
 Answer: fa83a11a198d5a7f0bf77a1987bcd006
 
 # Soal 40
 
-<p>Sebuah bilangan desimal dari sebuah pecahan irasional dibuat dengan menyatukan bilangan bulat positif:</p>
+<p>Bentuk desimal dari sebuah pecahan irasional dibuat dengan merangkaikan barisan bilangan bulat positif:</p>
 <p style='text-align:center;'>0.12345678910<span style='color:#dd0000;font-size:14pt;'>1</span>112131415161718192021...</p>
 <p>Dapat dilihat bahwa digit ke-12 di belakang koma adalah 1.</p>
 <p>Jika <i>d</i><sub><i>n</i></sub> melambangkan digit ke-<i>n</i> di belakang koma, carilah hasil dari bentuk berikut ini.</p>
@@ -668,25 +668,25 @@ Answer: 6f3ef77ac0e3619e98159e9b6febf557
 
 # Soal 41
 
-<p>Kita dapat mengatakan sebuah bilangan dengan <i>n</i> buah digit <i>pandigital</i> jika kita menggunakan semua digit dari 1 sampai <i>n</i> persis satu kali. Sebagai contoh, 2143 adalah bilangan <i>pandigital</i> 4 digit yang kebetulan juga merupakan bilangan prima.</p>
+<p>Kita dapat menyebut sebuah bilangan dengan <i>n</i> digit sebagai <i>pandigital</i> jika kita menggunakan semua digit dari 1 sampai <i>n</i> persis satu kali. Sebagai contoh, 2143 adalah bilangan pandigital 4 digit yang kebetulan juga merupakan bilangan prima.</p>
 
-<p>Berapakah bilangan <i>pandigital</i> prima terbesar yang ada di dunia ini?</p>
+<p>Berapakah bilangan pandigital prima terbesar yang ada di dunia ini?</p>
 
 Answer: d0a1bd6ab4229b2d0754be8923431404
 
 # Soal 42
 
-<p>Suku ke-<i>n</i> dari barisan bilangan segitiga dapat dihitung dengan <i>t<sub>n</sub></i> = &frac12;<i>n</i>(<i>n</i>+1); sehingga sepuluh bilangan segitiga pertama adalah:</p>
+<p>Suku ke-<i>n</i> dari barisan bilangan segitiga dapat dihitung sebagai <i>t<sub>n</sub></i> = &frac12;<i>n</i>(<i>n</i>+1); sehingga sepuluh bilangan segitiga pertama adalah:</p>
 <p style="text-align:center;">1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...</p>
-<p>Dengan mengubah setiap huruf menjadi angka yang sesuai dengan urutan pada alfabet, dan menjumlahkan semua angka dari huruf dalam satu kata, kita bisa mendapatkan nilai dari kata tersebut. Sebagai contoh, nilai dari kata SKY adalah 19 + 11 + 25 = 55 = <i>t</i><sub>10</sub>. Jika nilai dari suatu kata ada di dalam barisan bilangan segitiga, maka kata tersebut akan kita sebut kata segitiga</p>
-<p>Menggunakan <a href="https://projecteuler.net/project/resources/p042_words.txt">words.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah 16K file yang berisi kurang lebih dua ribu kata dalam bahasa Inggris, berapa banyak kata segitiga dalam file tersebut?</p>
+<p>Dengan mengubah setiap huruf menjadi angka yang sesuai dengan urutan pada alfabet, dan menjumlahkan semua angka yang didapat untuk tiap kata, kita bisa mendapatkan nilai kata tersebut. Sebagai contoh, nilai dari kata SKY adalah 19 + 11 + 25 = 55 = <i>t</i><sub>10</sub>. Jika nilai kata yang didapat termasuk dalam barisan bilangan segitiga, maka kata tersebut akan kita sebut sebagai <i>kata segitiga</i></p>
+<p>Menggunakan <a href="https://projecteuler.net/project/resources/p042_words.txt">words.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas berukuran 16K yang berisi kurang lebih dua ribu kata dalam bahasa Inggris, berapa banyak kata segitiga dalam berkas tersebut?</p>
 
 Answer: 82aa4b0af34c2313a562076992e50aa3
 
 # Soal 43
 
-<p>Bilangan 1406357289, adalah bilangan <i>pandigital</i> dari 0 sampai 9, karena bilangan ini memuat digit 0 sampai 9 tepat satu kali dengan urutan yang acak, namun bilangan in juga memiliki sifat yang unik, yaitu sifat habis dibaginya <i>sub-string</i> dengan bilangan prima.</p>
-<p>Misalkan <i>d</i><sub>1</sub> adalah digit ke-1, <i>d</i><sub>2</sub> adalah digit ke-2, dan seterusnya. Dengan ini, kita bisa menemukan bahwa:</p>
+<p>Bilangan 1406357289, adalah bilangan <i>pandigital</i> dari 0 sampai 9, karena bilangan ini memuat digit 0 sampai 9 tepat satu kali dengan urutan yang acak. Namun bilangan 1406357289 juga memiliki sifat lain yang cukup menarik, yaitu sifat habis dibaginya <i>sub-string</i> dari bilangan tersebut dengan bilangan prima.</p>
+<p>Misalkan <i>d</i><sub>1</sub> adalah digit ke-1, <i>d</i><sub>2</sub> adalah digit ke-2, dan seterusnya. Dengan mengingat notasi ini, kita bisa menemukan bahwa:</p>
 <ul>
 <li><i>d</i><sub>2</sub><i>d</i><sub>3</sub><i>d</i><sub>4</sub>=406 habis dibagi 2</li>
 <li><i>d</i><sub>3</sub><i>d</i><sub>4</sub><i>d</i><sub>5</sub>=063 habis dibagi 3</li>
@@ -702,10 +702,10 @@ Answer: 115253b7721af0fdff25cd391dfc70cf
 
 # Soal 44
 
-<p>Bilangan segilima dibuat dengan rumus sebagai berikut, P<sub><var>n</var></sub>=<var>n</var>(3<var>n</var>&minus;1)/2. Sepuluh bilangan segilima pertama adalah:</p>
+<p>Bilangan segilima dapat dihitung dengan rumus sebagai berikut, P<sub><var>n</var></sub>=<var>n</var>(3<var>n</var>&minus;1)/2. Sepuluh bilangan segilima pertama adalah:</p>
 <p style="text-align:center;">1, 5, 12, 22, 35, 51, 70, 92, 117, 145, ...</p>
-<p>Dapat dilihat bahwa P<sub>4</sub> + P<sub>7</sub> = 22 + 70 = 92 = P<sub>8</sub>. Tetapi, selish mereka, 70 &minus; 22 = 48, bukanlah bilangan segilima.</p>
-<p>Carilah pasangan bilangan segilima, P<sub><var>j</var></sub> dan P<sub><var>k</var></sub>, dimana jumlah dan selisihnya juga merupakan bilangan segilima dengan nilai D = |P<sub><var>k</var></sub> &minus; P<sub><var>j</var></sub>| paling kecil; berapakah nilai dari D?</p>
+<p>Dapat dilihat bahwa P<sub>4</sub> + P<sub>7</sub> = 22 + 70 = 92 = P<sub>8</sub>. Tetapi, selisih keduanya, 70 &minus; 22 = 48, bukanlah bilangan segilima.</p>
+<p>Carilah pasangan bilangan segilima, P<sub><var>j</var></sub> dan P<sub><var>k</var></sub>, di mana jumlah dan selisihnya juga merupakan bilangan segilima dengan nilai D = |P<sub><var>k</var></sub> &minus; P<sub><var>j</var></sub>| paling kecil; berapakah nilai dari D?</p>
 
 Answer: 2c2556cb85621309ca647465ffa62370
 
@@ -735,14 +735,14 @@ Answer: 2c2556cb85621309ca647465ffa62370
 <td>1, 6, 15, 28, 45, ...</td>
 </tr>
 </table>
-<p>Dan dapat dibuktikan bahwa T<sub>285</sub> = P<sub>165</sub> = H<sub>143</sub> = 40755.</p>
+<p>Dapat dibuktikan bahwa T<sub>285</sub> = P<sub>165</sub> = H<sub>143</sub> = 40755.</p>
 <p>Carilah bilangan segitiga selanjutnya yang juga merupakan bilangan segilima dan segienam.</p>
 
 Answer: 30dfe3e3b286add9d12e493ca7be63fc
 
 # Soal 46
 
-<p>Pertama kali dikemukakan oleh Christian Goldbach, ia mengatakan bahwa setiap bilangan ganjil yang bukan bilangan prima dapat dibentuk dari penjumlahan bilangan prima dengan dua kali suatu bilangan kuadrat.</p>
+<p>Christian Goldbach pernah mengajukan dugaan bahwa setiap bilangan ganjil yang bukan bilangan prima dapat dibentuk dari penjumlahan bilangan prima  dengan kelipatan dua suatu bilangan kuadrat.</p>
 <p style='margin-left:10px;'>9 = 7 + 2&times;1<sup>2</sup><br />
 15 = 7 + 2&times;2<sup>2</sup><br />
 21 = 3 + 2&times;3<sup>2</sup><br />
@@ -750,7 +750,7 @@ Answer: 30dfe3e3b286add9d12e493ca7be63fc
 27 = 19 + 2&times;2<sup>2</sup><br />
 33 = 31 + 2&times;1<sup>2</sup></p>
 <p>Namun ternyata dugaan ia salah.</p>
-<p>Berapakah bilangan ganjil yang bukan bilangan prima terkecil yang tidak bisa dibentuk dari penjumlahan bilangan prima dengan dua kali suatu bilangan kuadrat?</p>
+<p>Berapakah bilangan ganjil komposit (bukan bilangan prima) terkecil yang tidak bisa dituliskan sebagai hasil penjumlahan suatu bilangan prima dengan kelipatan dua suatu bilangan kuadrat?</p>
 
 Answer: 89abe98de6071178edb1b28901a8f459
 
@@ -767,24 +767,24 @@ Tiga bilangan berurutan paling kecil yang memiliki tiga faktor prima berbeda ada
 645 = 3 × 5 × 43  
 646 = 2 × 17 × 19.
 
-Carilah empat bilangan berurutan paling kecil yang memiliki empat faktor prima berbeda. Berapakah bilangan pertama dari keempat bilangan tersebut?
+Carilah empat bilangan berurutan paling kecil yang memiliki empat faktor prima berbeda. Berapakah bilangan pertama dari keempat bilangan berurutan tersebut?
 
 Answer: 748f517ecdc29106e2738f88aa7530f4
 
 # Soal 48
 
-<p>Barisan 1<sup>1</sup> + 2<sup>2</sup> + 3<sup>3</sup> + ... + 10<sup>10</sup> = 10405071317.</p>
-<p>Carilah 10 digit terakhir dari barisan 1<sup>1</sup> + 2<sup>2</sup> + 3<sup>3</sup> + ... + 1000<sup>1000</sup>.</p>
+<p>Deret 1<sup>1</sup> + 2<sup>2</sup> + 3<sup>3</sup> + ... + 10<sup>10</sup> = 10405071317.</p>
+<p>Carilah 10 digit terakhir dari jumlahan deret 1<sup>1</sup> + 2<sup>2</sup> + 3<sup>3</sup> + ... + 1000<sup>1000</sup>.</p>
 
 Answer: 0829124724747ae1c65da8cae5263346
 
 # Soal 49
 
-Suatu barisan aritmatika, 1487, 4817, 8147, yang tiap sukunya memiliki beda 3330, memiliki dua buah keunikan: (i) ketiga-tiganya adalah merupakan bilangan prima, dan, (ii) ke-4 digit pada setiap suku merupakan perubahan posisi/permutasi dari suku yang lain.
+Suatu barisan aritmatika, 1487, 4817, 8147, yang tiap sukunya memiliki beda 3330, memiliki dua buah keunikan: (i) ketiga-tiganya adalah merupakan bilangan prima, dan, (ii) keempat digit pada setiap suku merupakan perubahan posisi/permutasi dari suku yang lain.
 
-Tidak ada barisan aritmatika satuan, puluhan, atau ratusan yang memiliki sifat di atas, namun masih ada satu lagi kelompok barisan aritmatika ribuan yang bisa memenuhi sifat di atas.
+Tidak ada barisan aritmatika yang suku-sukunya merupakan bilangan prima satu, dua, atau tiga digit yang memiliki sifat di atas, namun masih ada satu lagi kelompok barisan aritmatika empat digit yang bisa memenuhi sifat di atas.
 
-Jika ketiga suku dari barisan aritmatika tersebut disatukan, maka akan terbentuk satu bilangan dengan 12 digit. Berapakah bilangan tersebut?
+Jika ketiga suku dari barisan aritmatika tersebut dirangkaikan, maka akan terbentuk satu bilangan yang terdiri atas 12 digit. Berapakah bilangan tersebut?
 
 Answer: 0b99933d3e2a9addccbb663d46cbb592
 
@@ -792,26 +792,30 @@ Answer: 0b99933d3e2a9addccbb663d46cbb592
 
 <p>Bilangan prima 41, dapat dibentuk dari penjumlahan enam bilangan prima berurutan:</p>
 <div style='text-align:center;'>41 = 2 + 3 + 5 + 7 + 11 + 13</div>
-<p>Ini merupakan penjumlahan bilangan prima berurutan paling panjang yang jumlahnya merupakan bilangan prima kurang dari seratus.</p>
-<p>Penjumlahan bilangan prima berurutan paling panjang yang jumlahnya adalah bilangan prima kurang dari seribu membutuhkan 21 suku, dan hasilnya adalah 953.</p>
-<p>Berapakah bilangan prima di bawah satu juta yang dapat dibentuk dari penjumlahan bilangan prima berurutan yang paling panjang?</p>
+<p>Ini adalah penjumlahan paling panjang bilangan prima berurutan yang jumlahnya menghasilkan bilangan prima kurang dari seratus.</p>
+<p>Penjumlahan paling panjang bilangan prima berurutan yang hasilnya adalah bilangan prima kurang dari seribu membutuhkan 21 suku, dan hasilnya adalah 953.</p>
+<p>Berapakah bilangan prima di bawah satu juta yang dapat dibentuk dari penjumlahan paling panjang bilangan prima berurutan?</p>
 
 Answer: 73229bab6c5dc1c7cf7a4fa123caf6bc
 
 # Soal 51
 
 <!--<p>By replacing the 1<sup>st</sup> digit of *57, it turns out that six of the possible values: 157, 257, 457, 557, 757, and 857, are all prime.</p> -->
-<p>Dengan mengganti angka ke-1 dari bilangan 2 angka dengan bentuk angka *3, terdapat enam buah bilangan prima dari sembilan bilangan yang ada: 13, 23, 43, 53, 73, dan 83.</p>
-<p>Dengan menukarkan angka ke-3 dan ke-4 dari bentuk angka 56**3 dengan angka yang sama, maka akan terbentuk bilangan 5 angka yang memiliki tujuh buah bilangan prima dari sepuluh kemungkinan bilangan yang ada: 56003, 56113, 56333, 56443, 56663, 56773, dan 56993. Dan 56003, merupakan bilangan prima yang paling kecil dari kelompok ini.</p>
-<p>Carilah bilangan prima yang paling kecil dari suatu kelompok, dimana kelompok tersebut didapat dengan mengganti beberapa bagian dari angka (tidak harus berurutan) dengan angka yang sama, dan kelompok tersebut memiliki delapan buah bilangan prima.</p>
+<p>Dengan mengganti digit ke-1 dari bilangan 2 digit dengan bentuk  *3, terdapat enam buah bilangan prima dari sembilan bilangan yang ada: 13,
+ 23, 43, 53, 73, dan 83.</p>
+<p>Dengan menukarkan digit ke-3 dan ke-4 dari bentuk bilangan 56**3 dengan digit yang sama, maka akan didapatkan sekumpulan bilangan 5 digit, 
+dengan tujuh buah bilangan prima dari sepuluh kemungkinan bilangan yang ada: 56003, 56113, 56333, 56443, 56663, 56773, dan 56993. Dan 56003, me
+rupakan bilangan prima yang paling kecil dari kelompok ini.</p>
+<p>Carilah bilangan prima yang paling kecil dari suatu kelompok, dimana kelompok tersebut didapatkan dengan mengganti beberapa bagian dari bil
+angan (tidak harus berurutan) dengan digit yang sama, dan kelompok tersebut memiliki delapan buah bilangan prima.</p>
 
 Answer: e2a8daa5eb919905dadd795593084c22
 
 # Soal 52
 
-Dapat dilihat bahwa bilangan 125874, dan dua kali lipatnya 251748, mengandung angka-angka yang sama, namun dengan urutan yang berbeda.
+Dapat dilihat bahwa bilangan 125874, dan kelipatan duanya, 251748, mengandung digit-digit yang sama, namun dengan urutan yang berbeda.
 
-Carilah bilangan bulat terkecil _x_, yang 2_x_, 3_x_, 4_x_, 5_x_, dan 6_x_ nya mengandung angka-angka yang sama.
+Carilah bilangan bulat terkecil *x*, sedemikian rupa sehingga 2*x*, 3*x*, 4*x*, 5*x*, dan 6*x* mengandung digit-digit yang sama.
 
 Answer: a420384997c8a1a93d5a84046117c2aa
 
@@ -819,7 +823,7 @@ Answer: a420384997c8a1a93d5a84046117c2aa
 
 <p>Terdapat persis sepuluh cara untuk memilih tiga angka dari bilangan 12345:</p>
 <p style="text-align:center;">123, 124, 125, 134, 135, 145, 234, 235, 245, and 345</p>
-<p>Dalam kombinatorik, kita menggunakan lambang, <sup>5</sup>C<sub>3</sub> = 10.</p>
+<p>Dalam kombinatorika, kita menggunakan lambang, <sup>5</sup>C<sub>3</sub> = 10.</p>
 <p>Secara umum,</p>
 <div style="text-align:center;">
 <table>
@@ -831,13 +835,13 @@ Answer: a420384997c8a1a93d5a84046117c2aa
 </table>
 </div>
 <p>Saat <var>n</var> = 23, nilai kombinasi yang ada akan melebihi satu juta: <sup>23</sup>C<sub>10</sub> = 1144066.</p>
-<p>Berapa banyak kombinasi &nbsp;<sup><var>n</var></sup>C<sub><var>r</var></sub> yang akan menghasilkan hasil lebih dari satu juta, untuk nilai <var>n</var>, 1 &le; <var>n</var> &le; 100? (Hasil kombinasi boleh sama)</p>
+<p>Berapa banyak kombinasi &nbsp;<sup><var>n</var></sup>C<sub><var>r</var></sub> yang akan menghasilkan nilai lebih dari satu juta, untuk <var>n</var>, 1 &le; <var>n</var> &le; 100? (Hasil kombinasi boleh sama)</p>
 
 Answer: e3b21256183cf7c2c7a66be163579d37
 
 # Soal 54
 
-<p>Dalam permainan kartu poker, satu orang bisa memegang lima kartu, dan susunan kelima kartu tersebut dapat di peringkatkan, dari peringkat rendah ke peringkat tinggi dengan aturan sebagai berikut:</p>
+<p>Dalam permainan kartu poker, seorang pemain bisa memegang lima kartu. Susunan kelima kartu tersebut dapat diperingkatkan, dari peringkat rendah ke peringkat tinggi dengan aturan sebagai berikut:</p>
 <ul>
 <li><b>High Card</b>: Satu kartu yang memiliki nilai paling tinggi.</li>
 <li><b>One Pair</b>: Satu pasang kartu yang memiliki nilai sama.</li>
@@ -851,7 +855,7 @@ Answer: e3b21256183cf7c2c7a66be163579d37
 <li><b>Royal Flush</b>: Sepuluh, Jack, Queen, King, Ace, dalam <i>suit (Spade, Heart, Diamond, Club)</i> yang sama.</li>
 </ul>
 <p>Semua kartu memiliki urutan nilai:<br />2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, Ace.</p>
-<p>Jika dua pemain memiliki peringkat yang sama pada kartunya, maka kartu kedua pemain tersebut akan dibandingkan nilainya, yang memiliki nilai lebih besar menang; sebagai contoh, sepasang (<b>One Pair</b>) kartu delapan mengalahkan sepasang (<b>One Pair</b>) kartu lima. Namun apabila tidak bisa ditemukan nilai yang lebih besar, sebagai contoh, kedua pemain memiliki sepasang (<b>One Pair</b>) kartu queen, maka akan dilihat kartu sisanya, dan kartu sisa tersebut akan dibandingkan (lihat contoh 4 di bawah); Jika kartu dengan peringkat tertinggi dari kedua pemain ternyata seri, maka kartu peringkat selanjutnya yang akan dibandingkan, dan seterusnya.</p>
+<p>Jika dua pemain memegang susunan kartu yang memiliki peringkat yang sama, maka kartu kedua pemain tersebut akan dibandingkan nilainya, yang memiliki nilai lebih besar menang; sebagai contoh, sepasang (<b>One Pair</b>) kartu delapan mengalahkan sepasang (<b>One Pair</b>) kartu lima. Namun apabila tidak bisa ditemukan nilai yang lebih besar, sebagai contoh, kedua pemain memiliki sepasang (<b>One Pair</b>) kartu queen, maka akan dilihat kartu sisanya, dan kartu sisa tersebut akan dibandingkan (lihat contoh 4 di bawah); Jika kartu dengan peringkat tertinggi dari kedua pemain ternyata seri, maka kartu peringkat selanjutnya yang akan dibandingkan, dan seterusnya.</p>
 <p>Perhatikan kelima kartu yang dimiliki oleh dua pemain berikut:</p>
 <div style="text-align:center;">
 <table>
@@ -875,7 +879,7 @@ Answer: e3b21256183cf7c2c7a66be163579d37
 </tr>
 </table>
 </div>
-<p>File, <a href="https://projecteuler.net/project/resources/p054_poker.txt">poker.txt</a>, berisi seribu permainan acak yang dimainkan oleh dua orang pemain. Setiap baris dalam file berisi sepuluh kartu (yang dipisah oleh sebuah spasi): lima kartu pertama adalah milik pemain 1, dan lima kartu selanjutnya adalah milik pemain 2. Anda dapat mempercayai bahwa semua kartu yang ada sudah benar (tidak ada huruf yang salah diketik atau kartu ganda), Kartu pada setiap pemain dituliskan dengan urutan acak, dan dalam setiap permainan pasti ada pemenangnya.</p>
+<p>File, <a href="https://projecteuler.net/project/resources/p054_poker.txt">poker.txt</a>, berisi seribu permainan acak yang dimainkan oleh dua orang pemain. Setiap baris dalam berkas berisi sepuluh kartu (yang dipisah oleh sebuah spasi): lima kartu pertama adalah milik pemain 1, dan lima kartu selanjutnya adalah milik pemain 2. Anda dapat mempercayai bahwa semua kartu yang ada sudah benar (tidak ada huruf yang salah diketik atau kartu ganda), Kartu pada setiap pemain dituliskan dengan urutan acak, dan dalam setiap permainan pasti ada pemenangnya.</p>
 <p>Berapa kali pemain 1 menang?</p>
 
 Answer: 142949df56ea8ae0be8b5306971900a4
@@ -890,39 +894,43 @@ Namun cara ini tidak selalu langsung menghasilkan bilangan palindrom. Sebagai co
  1292 + 2921 = 4213  
  4213 + 3124 = 7337
 
-Seperti contoh di atas, 349 memerlukan tiga kali pengulangan dari cara di atas untuk mendapatkan bilangan palindrom.
+Seperti contoh di atas, 349 memerlukan tiga iterasi dari cara di atas untuk mendapatkan bilangan palindrom.
 
-Namun belum ada seorangpun yang membuktikannya, bahwa ada beberapa bilangan, seperti 196, yang tidak bisa menghasilkan bilangan palindrom dengan cara di atas. Bilangan yang tidak dapat menghasilkan bilangan palindrom dengan cara menjumlahkan dengan kebalikannya disebut bilangan Lychrel. Untuk keperluan penelitian ini, kita asumsikan bahwa semua bilangan adalah bilangan Lychrell, sampai bisa dibuktikan sebaliknya. Anda diberikan semua bilangan kurang dari sepuluh ribu, bilangan tersebut kemungkinan akan (i) menjadi bilangan palindrom dengan pengulangan proses kurang dari lima puluh kali, atau, (ii) tidak dapat dihasilkan bilangan palindrom, walaupun kita menggunakan segala kemampuan atau alat yang ada. Sebagai informasi, 10677 adalah bilangan pertama yang membutuhkan lebih dari lima puluh kali pengulangan agar dapat menghasilkan bilangan palindrom : 4668731596684224866951378664 (53 pengulangan, 28 angka).
+Meskipun belum ada seorangpun yang membuktikannya, diduga bahwa ada beberapa bilangan, seperti 196, yang tidak bisa menghasilkan bilangan palindrom dengan cara di atas. Bilangan yang tidak dapat menghasilkan bilangan palindrom dengan cara menjumlahkan dengan kebalikannya disebut bilangan Lychrel.
 
-Dan ada beberapa bilangan palindrom yang juga merupakan bilangan Lychrel; contohnya 4994.
+Untuk keperluan penelitian ini, kita asumsikan bahwa semua bilangan adalah bilangan Lychrell, sampai bisa dibuktikan sebaliknya. Anggaplah bahwa untuk semua bilangan yang lebih kecil daripada sepuluh ribu, bilangan tersebut kemungkinan akan (i) menjadi bilangan palindrom setelah pengulangan proses (iterasi) kurang dari lima puluh kali, atau, (ii) kita tidak dapat menghasilkan bilangan palindrom, walaupun kita menggunakan segala kemampuan atau alat yang ada. Sebagai informasi, 10677 adalah bilangan pertama yang membutuhkan lebih dari lima puluh kali pengulangan agar dapat menghasilkan bilangan palindrom : 4668731596684224866951378664 (53 pengulangan, 28 angka).
 
-Berapa banyak bilangan Lychrel yang kurang dari sepuluh ribu?
+Menariknya, ada beberapa bilangan palindrom yang juga merupakan bilangan Lychrel; contohnya 4994.
+
+Berapa banyak bilangan Lychrel yang besarnya kurang dari sepuluh ribu?
 
 Answer: 077e29b11be80ab57e1a2ecabb7da330
 
 # Soal 56
 
-<p>Bilangan (10<sup>100</sup>) adalah bilangan yang sangat besar: angka satu diikuti oleh seratus buah angka nol; 100<sup>100</sup> juga merupakan bilangan yang bahkan lebih besar: angka satu diikuti oleh dua ratus buah angka nol. Namun walaupun berukuran besar, jumlah dari semua angkanya hanya 1.</p>
-<p>Misalkan ada sebuah bilangan asli yang memiliki bentuk <i>a<sup>b</sup></i>, dimana <i>a, b</i> &lt; 100, berapakah jumlah terbesar dari angka-angka pada <i>a<sup>b</sup></i>?</p>
+<p>Satu <i>googol</i> (10<sup>100</sup>) adalah bilangan yang sangat besar: angka satu diikuti oleh seratus buah angka nol; 100<sup>100</sup> juga merupakan bilangan yang bahkan lebih besar: angka satu diikuti oleh dua ratus buah angka nol. Namun walaupun berukuran besar, jumlah dari semua angkanya hanya 1.</p>
+<p>Misalkan ada sebuah bilangan asli yang memiliki bentuk <i>a<sup>b</sup></i>, di mana <i>a, b</i> &lt; 100, berapakah jumlah terbesar dari angka-angka dalam <i>a<sup>b</sup></i>?</p>
+
 
 Answer: c22abfa379f38b5b0411bc11fa9bf92f
 
 # Soal 57
 
-Kita dapat menunjukkan bahwa akar dua dapat dibentuk dari penjumlahan suatu pecahan sebanyak tak hingga kali.
+Kita dapat menunjukkan bahwa akar dua dapat dinyatakan sebagai penjumlahan suatu pecahan sebanyak tak hingga kali.
 
 √ 2 = 1 + 1/(2 + 1/(2 + 1/(2 + ... ))) = 1.414213...
 
-Dengan melakukan empat proses pertama dari bentuk di atas, kita akan mendapat:
+Dengan menghitung empat iterasi pertama dari rumus di atas, kita akan mendapat:
 
 1 + 1/2 = 3/2 = 1.5  
  1 + 1/(2 + 1/2) = 7/5 = 1.4  
  1 + 1/(2 + 1/(2 + 1/2)) = 17/12 = 1.41666...  
  1 + 1/(2 + 1/(2 + 1/(2 + 1/2))) = 41/29 = 1.41379...
 
-Tiga proses selanjutnya akan menghasilkan 99/70, 239/169, dan 577/408, Namun pada proses ke delapan, 1393/985, untuk pertama kalinya kita dapat menemukan banyaknya angka/digit di pembilang lebih banyak dari pada di penyebut.
+Tiga iterasi selanjutnya akan menghasilkan 99/70, 239/169, dan 577/408, Namun pada iterasi ke delapan, 1393/985, untuk pertama kalinya kita dap
+at menemukan banyaknya digit pada pembilang lebih banyak daripada pada penyebut.
 
-Dalam seribu proses pertama, berapa banyak pecahan yang pembilangnya memiliki banyak angka/digit yang lebih banyak dibanding penyebutnya?
+Dalam seribu iterasi pertama, berapa banyak pecahan yang pembilangnya memiliki banyak digit yang lebih banyak dibanding penyebutnya?
 
 Answer: b3e3e393c77e35a4a3f3cbd1e429b5dc
 
@@ -936,22 +944,22 @@ Answer: b3e3e393c77e35a4a3f3cbd1e429b5dc
 41 20 <span style='color:#ff0000;font-family:courier new;'>&nbsp;<b>7</b></span> &nbsp;8 &nbsp;9 10 27<br />
 42 21 22 23 24 25 26<br />
 <span style='color:#ff0000;font-family:courier new;'><b>43</b></span> 44 45 46 47 48 49</p>
-<p>Terdapat sesuatu yang menarik, yaitu bilangan ganjil kuadrat tersusun di diagonal sebelah kanan bawah, namun yang lebih menarik lagi, 8 dari 13 angka yang ada di kedua diagonal adalah prima; sehingga, perbandingannya dapat dituliskan 8/13 &asymp; 62%.</p>
-<p>Jika satu lapis spiral lagi dibuat di sekeliling spiral di atas, maka kita akan mendapatkan spiral angka persegi dengan ukuran sisi 9. Jika proses ini dilanjutkan, berapakah panjang sisi terkecil dari persegi spiral angka seperti di atas, sehingga spiral tersebut memiliki perbandingan bilangan prima dengan semua angka pada diagonalnya kurang dari 10%?</p>
+<p>Ada satu hal yang menarik, yaitu bilangan ganjil kuadrat tersusun di diagonal sebelah kanan bawah. Namun yang lebih menarik lagi, 8 dari 13 angka yang ada pada kedua diagonal adalah prima sehingga perbandingannya dapat dituliskan 8/13 &asymp; 62%.</p>
+<p>Jika satu lapis spiral lagi dibuat di sekeliling spiral di atas, maka kita akan mendapatkan spiral angka persegi dengan ukuran sisi 9. Jika proses ini dilanjutkan, berapakah panjang sisi terkecil dari persegi spiral angka seperti di atas, sehingga spiral tersebut memiliki perbandingan bilangan prima terhadap semua angka pada diagonal yang nilainya jatuh bawah 10%?</p>
 
 Answer: b62fc92a2561538525c89be63f36bf7b
 
 # Soal 59
 
-Setiap karakter pada komputer disimpan dengan kode unik, dan salah satu standar konversi karakter tersebut adalah ASCII (American Standard Code for Information Interchange). Sebagai contoh, huruf A kapital memiliki kode A = 65, tanda bintang (\*) = 42, dan huruf k kecil memiliki kode k = 107.
+Setiap karakter pada komputer disimpan dengan kode unik, dan salah satu standar konversi karakter tersebut adalah ASCII (American Standard Code for Information Interchange). Sebagai contoh, huruf A kapital memiliki kode A = 65, tanda bintang (*) = 42, dan huruf k kecil memiliki kode k = 107.
 
-Proses enkripsi modern yang diterapkan pada suatu file text, akan mengubah bytes menjadi ASCII, lalu melakukan operasi XOR untuk setiap byte dengan nilai yang diberikan, yang diambil dari kunci rahasia. Keuntungan menggunakan metode XOR adalah kita dapat menggunakan kunci rahasia yang sama untuk melakukan enkripsi untuk mengamankan text, dan melakukan dekripsi kembali menjadi text awal; sebagai contoh, 65 XOR 42 = 107, lalu 107 XOR 42 = 65.
+Proses enkripsi modern yang diterapkan pada suatu berkas, akan mengubah huruf ke kode ASCII-nya, lalu melakukan operasi XOR untuk setiap nilai yang didapat dengan nilai yang tertentu, yang diambil dari kunci rahasia. Keuntungan menggunakan metode XOR adalah kita dapat menggunakan kunci rahasia yang sama saat melakukan enkripsi untuk mengamankan teks, dan melakukan dekripsi kembali menjadi teks awal; sebagai contoh, 65 XOR 42 = 107, lalu 107 XOR 42 = 65.
 
-Agar proses enkripsi tidak mudah ditembus, maka dibuatlah kunci rahasia yang sama panjang dengan text awal, dan kunci ini dibentuk dari angka sembarang. Sang pengguna komputer akan menaruh pesan yang telah dienkripsi dan kunci rahasia tersebut di tempat yang berbeda, dan tanpa keduanya, tidak memungkinkan untuk melakukan dekripsi pesan.
+Agar proses enkripsi tidak mudah ditembus, maka dibuatlah kunci rahasia yang sama panjang dengan teks awal, dan kunci ini dibentuk dari angka acak. Sang pengguna komputer akan menaruh pesan yang telah dienkripsi dan kunci rahasia tersebut di tempat yang berbeda, dan tanpa mengetahui keduanya, tidak memungkinkan untuk melakukan dekripsi pesan.
 
-Sayangnya, metode ini tidak praktis untuk beberapa pengguna, sehingga metode ini disempurnakan dengan menggunakan kata sandi sebagai kunci rahasia. Jika kata sandi lebih pendek dari pesan yang ingin di kirim (dan sering kali terjadi demikian), maka kata sandi akan diulang terus menerus sampai sama panjang dengan pesan yang ingin di kirim. Keseimbangan dari metode ini adalah kita dapat menggunakan kata sandi yang cukup panjang, untuk berusaha mengamankan pesan yang ingin di kirim, namun yang masih memungkinkan untuk diingat.
+Sayangnya, metode ini tidak praktis untuk kebanyakan pengguna, sehingga metode ini disempurnakan dengan menggunakan kata sandi sebagai kunci rahasia. Jika kata sandi lebih pendek dari pesan yang ingin dikirim (dan sering kali terjadi demikian), maka kata sandi akan diulang terus menerus sampai sama panjang dengan pesan yang ingin dikirim. Keseimbangan dari metode ini adalah kita dapat menggunakan kata sandi yang cukup panjang, untuk berusaha mengamankan pesan yang ingin dikirim, namun yang masih memungkinkan untuk diingat.
 
-Terdapat pesan rahasia yang ada di file [cipher.txt](files-v1/p059_cipher.txt) (klik kanan dan pilih 'Save Link/Target As...'), file tersebut berisi pesan rahasia dalam bentuk kode ASCII. Tugas Anda akan dipermudah, yaitu dengan mengetahui bahwa kata sandi yang digunakan untuk enkripsi pesan ini adalah hanya terdiri dari tiga huruf kecil, dan pesan rahasia ini adalah sebuah pesan yang berisi kata berbahsa Inggris. Dekripsi pesan tersebut, dan cari jumlah dari semua nilai ASCII pada pesan tersebut.
+Terdapat pesan rahasia yang ada di berkas [cipher.txt]({{ site.baseurl }}project/resources/p059_cipher.txt) (klik kanan dan pilih 'Save Link/Target As...'), berkas tersebut berisi pesan rahasia dalam bentuk kode ASCII. Tugas Anda akan dipermudah, yaitu dengan mengetahui bahwa kata sandi yang digunakan untuk enkripsi pesan ini adalah hanya terdiri dari tiga huruf kecil, dan pesan rahasia ini adalah sebuah pesan yang berisi kata berbahasa Inggris. Dekripsilah pesan tersebut, dan cari jumlah dari semua nilai ASCII pada pesan tersebut.
 
 CATATAN: Enkripsi adalah proses mengubah pesan asli menjadi kode rahasia, Dekripsi adalah proses mengubah kembali kode rahasia menjadi pesan asli.
 
@@ -959,9 +967,9 @@ Answer: 68f891fe214e2bfa07c998ad5d0a390f
 
 # Soal 60
 
-Bilangan prima 3, 7, 109, dan 674, sangat patut diperhatikan. Dengan mengambil dua dari empat buah bilangan prima tersebut, lalu menyatukannya dengan susunan apapun, kita akan mendapatkan bilangan baru yang selalu prima. Sebagai contoh, ambil bilangan 7 dan 109, lalu satukan, keduanya baik 7109 maupun 1097 adalah bilangan prima. Jumlah dari ke empat bilangan p;rima di atas adalah 792, dan ini merupakan jumlah terkecil dari kumpulan empat bilangan prima yang memiliki sifat seperti yang dijelaskan di atas.
+Bilangan prima 3, 7, 109, dan 674, sangat patut diperhatikan. Dengan mengambil dua dari empat buah bilangan prima tersebut, lalu merangkaikannya dengan susunan apapun, kita akan mendapatkan bilangan baru yang selalu prima. Sebagai contoh, ambil bilangan 7 dan 109, lalu rangkaikan. Keduanya baik 7109 maupun 1097 adalah bilangan prima. Jumlah dari ke empat bilangan prima di atas adalah 792, dan ini merupakan jumlah terkecil dari himpunan empat bilangan prima yang memiliki sifat seperti yang dijelaskan di atas.
 
-Carilah jumlah terkecil dari kumpulan lima bilangan prima, yang jika dua bilangan primanya digabungkan akan selalu menghasilkan bilangan prima.
+Carilah jumlah terkecil dari himpunan lima bilangan prima, yang memiliki sifat bahwa bila dua bilangan primanya dirangkaikan, kita akan selalu mendapatkan bilangan prima.
 
 Answer: a4b5a70ca8cf24d0eb4330748d1e72e5
 
@@ -1012,33 +1020,33 @@ Answer: a4b5a70ca8cf24d0eb4330748d1e72e5
 <td>1, 8, 21, 40, 65, ...</td>
 </tr>
 </table>
-<p>Sebuah himpunan dari tiga buah bilangan dengan 4 angka: 8128, 2882, 8281, memiliki tiga sifat yang menarik.</p>
+<p>Sebuah himpunan dari tiga buah bilangan dengan 4 digit: 8128, 2882, 8281, memiliki tiga sifat yang menarik.</p>
 <ol>
-<li>Himpunan tersebut siklik, dua angka terakhir dari suatu bilangan adalah angka awal dari bilangan selanjutnya (sifat ini juga berlaku untuk bilangan terakhir dengan yang pertama).</li>
+<li>Himpunan tersebut siklik, dua digit terakhir dari suatu bilangan adalah digit-digit awal dari bilangan selanjutnya (sifat ini juga berlaku untuk bilangan terakhir terhadap yang pertama).</li>
 <li>Semua bilangan pada himpunan di atas merupakan bilangan segibanyak yang berbeda: segitiga (P<sub>3,127</sub>=8128), segiempat (P<sub>4,91</sub>=8281), dan segilima (P<sub>5,44</sub>=2882).</li>
 <li>Himpunan ini adalah satu-satunya himpunan bilangan 4 angka yang memiliki kedua sifat di atas.</li>
 </ol>
-<p>Carilah himpunan yang mirip seperti himpunan di atas, namun dengan isi enam buah bilangan 4 angka, yang merupakan himpunan siklik, dan memiliki bilangan segitiga, segiempat, segilima, segienam, segitujuh, dan segilapan yang berbeda.</p>
+<p>Carilah himpunan yang mirip seperti himpunan di atas, namun mengandung enam buah bilangan 4 angka, yang merupakan himpunan siklik, dan memiliki bilangan segitiga, segiempat, segilima, segienam, segitujuh, dan segidelapan yang berbeda.</p>
 
 Answer: caec17d84884addeec35c3610645ab63
 
 # Soal 62
 
-<p>Bilangan kubik, 41063625 (345<sup>3</sup>), dapat diacak untuk membuat dua bilangan kubik lain: 56623104 (384<sup>3</sup>) dan 66430125 (405<sup>3</sup>). Faktanya, 41063625 adalah bilangan kubik terkecil yang memiliki tiga buah bilangan kubik, apabila angka-angkanya di acak.</p>
-<p>Carilah bilangan kubik terkecil, yang apabila angka-angkanya diacak, bisa menghasilkan lima bilangan kubik termasuk dengan bilangan itu sendiri.</p>
+<p>Digit-digit pada bilangan kubik, 41063625 (345<sup>3</sup>), dapat diacak untuk membuat dua bilangan kubik lain: 56623104 (384<sup>3</sup>) dan 66430125 (405<sup>3</sup>). Faktanya, 41063625 adalah bilangan kubik terkecil yang memiliki tiga buah bilangan kubik, hasil pengacakan semua digitnya .</p>
+<p>Carilah bilangan kubik terkecil, yang apabila digit-digitnya diacak, bisa menghasilkan lima bilangan kubik termasuk dengan bilangan itu sendiri.</p>
 
 Answer: 8f46b522b5401b8b6df99a7410eea44b
 
 # Soal 63
 
-<p>Sebuah bilangan dengan  5 angka, 16807=7<sup>5</sup>, juga merupakan hasil pangkat lima suatu angka. Hal yang serupa, bilangan 9 angka, 134217728=8<sup>9</sup>, adalah hasil pangkat sembilan suatu angka.</p>
-<p>Berapa banyak bilangan positif <i>n</i>-angka, yang juga merupakan hasil pangkat <i>n</i> suatu angka?</p>
+<p>Sebuah bilangan dengan 5 digit, 16807=7<sup>5</sup>, juga merupakan hasil pangkat lima suatu bilangan lain. Hal yang serupa, bilangan 9 digit, 134217728=8<sup>9</sup>, adalah hasil pangkat sembilan suatu bilangan lain.</p>
+<p>Berapa banyak bilangan positif <i>n</i>-digit, yang juga merupakan hasil pangkat <i>n</i> suatu bilangan?</p>
 
 Answer: f457c545a9ded88f18ecee47145a72c0
 
 # Soal 64
 
-<p>Semua akar kuadrat memiliki hasil berulang saat ditulis dalam pecahan tak hingga yang berbentuk seperti berikut ini:</p>
+<p>Semua akar kuadrat adalah periodik (berulang) saat ditulis dalam pecahan kontinu seperti berikut ini:</p>
 <div style="margin-left:20px;">
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -1193,9 +1201,9 @@ Answer: f457c545a9ded88f18ecee47145a72c0
 </tr>
 </table>
 </div>
-<p>Kita dapat menemukan bahwa terdapat pola berulang. Untuk memudahkan, kita gunakan lambang &radic;23 = [4;(1,3,1,8)], untuk memberitahu bahwa blok (1,3,1,8) berulang.</p>
+<p>Kita dapat menemukan bahwa terdapat pola berulang. Untuk memudahkan, kita gunakan lambang &radic;23 = [4;(1,3,1,8)], untuk memberitahu bahwa blok (1,3,1,8) berulang sampai tak hingga kali</p>
 
-<p>Sepuluh pecahan tak hingga pertama yang membentuk suatu bilangan akar kuadrat irasional adalah:</p>
+<p>Sepuluh representasi pecahan kontinu dari bilangan akar kuadrat (bilangan irasional) adalah:</p>
 <p style="margin-left:20px;">&radic;2=[1;(2)], periode=1<br />
 &radic;3=[1;(1,2)], periode=2<br />
 &radic;5=[2;(4)], periode=1<br />
@@ -1213,7 +1221,7 @@ Answer: dc960c46c38bd16e953d97cdeefdbc68
 
 # Soal 65
 
-<p>Akar kuadrat dari 2 dapat ditulis sebagai pecahan tak hingga.</p>
+<p>Akar kuadrat dari 2 dapat ditulis sebagai pecahan kontinu.</p>
 <div style="margin-left:20px;">
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -1247,7 +1255,7 @@ Answer: dc960c46c38bd16e953d97cdeefdbc68
 </tr>
 </table>
 </div>
-<p>Pecahan tak hingga tersebut dapat di tulis, &radic;2 = [1;(2)], (2) menandakan bahwa 2 berulang secara <i>ad infinitum</i>. Dengan proses yang sama, &radic;23 = [4;(1,3,1,8)].</p>
+<p>Pecahan kontinu tersebut dapat ditulis, &radic;2 = [1;(2)], (2) menandakan bahwa 2 berulang secara <i>ad infinitum</i> (sampai tak hingga kali). Dengan proses yang sama, &radic;23 = [4;(1,3,1,8)].</p>
 <p>Ternyata teknik perhitungan akar kuadrat ini memberikan hasil rasional yang sangat mendekati nilai aslinya. Sebagai contoh kita akan melihat &radic;2.</p>
 <div style="margin-left:20px;">
 
@@ -1347,19 +1355,19 @@ Answer: dc960c46c38bd16e953d97cdeefdbc68
 </tr>
 </table>
 </div>
-<p>Barisan dari sepuluh bilangan konvergen pertama untuk &radic;2 adalah:</p>
+<p>Barisan dari sepuluh bilangan pertama yang konvergen ke &radic;2 adalah:</p>
 <div class="note">1, 3/2, 7/5, 17/12, 41/29, 99/70, 239/169, 577/408, 1393/985, 3363/2378, ...</div>
 <p>Yang mengejutkan, sebuah konstanta penting dalam matematika dapat juga dinyatakan dalam blok berulang, yaitu <br /><i>e</i> = [2; 1,2,1, 1,4,1, 1,6,1 , ... , 1,2<i>k</i>,1, ...].</p>
-<p>Sepuluh bentuk pecahan konvergen pertama untuk <i>e</i> adalah:</p>
+<p>Sepuluh bentuk pecahan pertama yang konvergen kek <i>e</i> adalah:</p>
 <div class="note">2, 3, 8/3, 11/4, 19/7, 87/32, 106/39, 193/71, 1264/465, 1457/536, ...</div>
 <p>Jumlah semua angka pada bilangan pembilang pecahan ke-10 adalah 1+4+5+7=17.</p>
-<p>Carilah jumlah semua angka pada bilangan pembilang pecahan ke-100, dari pecahan berulang konvergen <i>e</i>.</p>
+<p>Carilah jumlah semua angka pada bilangan pembilang pecahan ke-100, dari pecahan kontinu yang konvergen ke <i>e</i>.</p>
 
 Answer: 7a614fd06c325499f1680b9896beedeb
 
 # Soal 66
 
-<p>Terdapat sebuah persamaan kuadrat Diophantine sebagai berikut:</p>
+<p>Perhatikan sebuah persamaan kuadrat Diophantine sebagai berikut:</p>
 <p style='text-align:center;'><i>x</i><sup>2</sup> &ndash; D<i>y</i><sup>2</sup> = 1</p>
 <p>Saat D=13, solusi minimal <i>x</i> adalah 649<sup>2</sup> &ndash; 13&times;180<sup>2</sup> = 1.</p>
 <p>Kita dapat asumsikan bahwa tidak ada solusi bilangan bulat positif ketika D merupakan bilangan kuadrat.</p>
@@ -1376,24 +1384,24 @@ Answer: 3a066bda8c96b9478bb0512f0a43028c
 
 # Soal 67
 
-<p>Dengan dimulai dari sisi atas segitiga seperti gambar berikut, dan berpindah ke angka sebelah kiri atau kanan pada baris di bawahnya, maka akan didapat jumlah bilangan maksimum dari atas sampai bawah adalah 23.</p>
+<p>Dengan dimulai dari sisi atas segitiga seperti gambar berikut, dan berpindah ke angka sebelah kiri atau kanan pada baris di bawahnya, maka akan didapat bahwa jumlah bilangan maksimum dari atas sampai bawah adalah 23.</p>
 <p style="text-align:center;font-family:courier new;font-size:12pt;"><span style="color:#ff0000;"><b>3</b></span><br />
 <span style="color:#ff0000;"><b>7</b></span> 4<br />
 2 <span style="color:#ff0000;"><b>4</b></span> 6<br />
 8 5 <span style="color:#ff0000;"><b>9</b></span> 3</p>
 <p>Jumlahnya, 3 + 7 + 4 + 9 = 23.</p>
-<p>Carilah jumlah bilangan maksimum dengan cara serupa di atas, dari atas ke bawah pada segitiga <a href="https://projecteuler.net/project/resources/p067_triangle.txt">triangle.txt</a> (Klik kanan dan pilih 'Save Link/Target As...'), triangle.txt adalah sebuah text file 15K yang memuat segitiga mirip seperti di atas sebanyak seratus baris.</p>
-<p class="note"><b>NOTE:</b> Ini adalah versi lebih sulit dari<a href="problem=18">Masalah 18</a>. Kita tidak dapat menyelesaikan masalah ini dengan mencoba jalur satu per satu, karena terdapat 2<sup>99</sup> kemungkinan jalur! Bahkan jika anda dapat memeriksa satu triliun (10<sup>12</sup>) rute per detik pun, anda memerlukan lebih dari dua puluh miliar tahun untuk memeriksa semuanya. Terdapat cara yang efisien untuk menyelesaikan masalah ini. ;o)</p>
+<p>Carilah jumlah bilangan maksimum dengan cara serupa di atas, dari atas ke bawah pada segitiga <a href="https://projecteuler.net/project/resources/p067_triangle.txt">triangle.txt</a> (Klik kanan dan pilih 'Save Link/Target As...'), triangle.txt adalah sebuah berkas teks 15K yang memuat segitiga mirip seperti di atas sebanyak seratus baris.</p>
+<p class="note"><b>NOTE:</b> Ini adalah versi lebih sulit dari<a href="problem=18">Masalah 18</a>. Kita tidak dapat menyelesaikan masalah ini dengan mencoba melakukan perhitungan pada jalur satu per satu, karena terdapat 2<sup>99</sup> kemungkinan jalur! Bahkan jika anda dapat memeriksa satu triliun (10<sup>12</sup>) rute per detik pun, anda memerlukan lebih dari dua puluh miliar tahun untuk memeriksa semuanya. Terdapat cara yang efisien untuk menyelesaikan masalah ini. ;o)</p>
 
 Answer: 9d702ffd99ad9c70ac37e506facc8c38
 
 # Soal 68
 
-<p>Terdapat sebuah cincin 3-gon &quot;ajaib&quot; , berisi angka dari 1 sampai 6, dan setiap angka pada satu garis lurus akan berjumlah sembilan.</p>
+<p>Perhatikan sebuah cincin 3-gon &quot;ajaib&quot; , berisi angka dari 1 sampai 6. Setiap angka pada satu garis lurus akan berjumlah sembilan.</p>
 
 ![](files-v1/p068_1.gif)
 
-<p>Dengan melihat garis yang titik luar dengan angka terkecil (4,3,2 pada contoh ini), lalu melihat berputar <b>searah jarum jam</b>, setiap gambar akan menghasilkan solusi unik. sebagai contoh, solusi dari bentuk di atas dapat ditulis dengan himpunan: 4,3,2; 6,2,1; 5,1,3.</p>
+<p>Dengan melihat garis yang titik luar dengan angka terkecil (4,3,2 pada contoh ini), lalu melihat berputar <b>searah jarum jam</b>, setiap gambar akan menghasilkan solusi unik. sebagai contoh, solusi dari bentuk di atas dapat dideskripsikan oleh himpunan: 4,3,2; 6,2,1; 5,1,3.</p>
 <p>Cincin di atas dapat dibuat dengan berbagai jumlah angka dalam satu garis lurus, yaitu: 9, 10, 11, and 12. Terdapat sebanyak delapan solusi untuk cincin di atas.</p>
 <div style="text-align:center;">
 <table width="400" cellspacing="0" cellpadding="0">
@@ -1426,7 +1434,7 @@ Answer: 9d702ffd99ad9c70ac37e506facc8c38
 </tr>
 </table>
 </div>
-<p>Dengan menyatukan setiap himpunan, kita bisa mendapatkan bilangan dengan 9 angka; dan angka terbesar untuk cincin 3-gon adalah 432621513.</p>
+<p>Dengan merangkaikan setiap himpunan, kita bisa mendapatkan bilangan dengan 9 angka; dan angka terbesar untuk cincin 3-gon adalah 432621513.</p>
 <p>Dengan menggunakan angka dari 1 sampai 10, dan dengan mencoba berbagai macam susunan, kita dapat membuat bilangan dengan 16 atau 17 angka. Berapakah bilangan dengan <b>16 angka</b> terbesar yang dapat dibentuk dari cincin 5-gon &quot;ajaib&quot;?</p>
 
 ![](files-v1/p068_2.gif)
@@ -1435,7 +1443,7 @@ Answer: 26227442c6fed0292a528ac3790175be
 
 # Soal 69
 
-<p>Fungsi Totient Euler, &phi;(<i>n</i>) [terkadang disebut fungsi phi], digunakan untuk menentukan banyaknya bilangan yang kurang dari <i>n</i>, dan juga relatif prima terhadap <i>n</i>. Sebagai contoh, 1, 2, 4, 5, 7, dan 8, adalah semua angka yang kurang dari sembilan, dan relatif prima terhadap sembilan, &phi;(9)=6.</p>
+<p>Fungsi Totient Euler, &phi;(<i>n</i>) [terkadang disebut fungsi phi], digunakan untuk menentukan banyaknya bilangan yang lebih kecil dari <i>n</i>, dan juga relatif prima terhadap <i>n</i>. Sebagai contoh, 1, 2, 4, 5, 7, dan 8, adalah semua angka yang kurang dari sembilan, dan relatif prima terhadap sembilan, &phi;(9)=6.</p>
 <div style='margin-left:100px;'>
 <table border='1'>
 <tr>
@@ -1500,58 +1508,58 @@ Answer: 26227442c6fed0292a528ac3790175be
 </tr>
 </table>
 </div>
-<p>Dapat kita lihat, bahwa saat <i>n</i>=6 dihasilkan nilai <i>n</i>/&phi;(<i>n</i>) terbesar, untuk <i>n</i> &le; 10.</p>
+<p>Dapat kita lihat, bahwa saat <i>n</i>=6 kita mendapatkan nilai <i>n</i>/&phi;(<i>n</i>) terbesar, untuk <i>n</i> &le; 10.</p>
 <p>Carilah nilai dari <i>n</i> &le; 1,000,000 dimana nilai <i>n</i>/&phi;(<i>n</i>) merupakan yang terbesar.</p>
 
-<p>NOTE: <i>a</i> dan <i>b</i> disebut relatif prima jika FPB(<i>a</i>,<i>b</i>)=1</p>
+<p>Catatan: Dua bilangan <i>a</i> dan <i>b</i> disebut relatif prima jika FPB(<i>a</i>,<i>b</i>)=1</p>
 
 Answer: bf08b01ead83cbd62a9839ca1cf35ada
 
 # Soal 70
 
-<p>Fungsi Totient Euler, &phi;(<i>n</i>) [terkadang disebut fungsi phi], digunakan untuk menentukan banyaknya bilangan yang kurang dari <i>n</i>, dan juga relatif prima terhadap <i>n</i>. Sebagai contoh, 1, 2, 4, 5, 7, dan 8, adalah semua angka yang kurang dari sembilan, dan relatif prima terhadap sembilan, &phi;(9)=6.<br />Angka 1 dianggap relatif prima ke semua bilangan positif, sehingga &phi;(1)=1. </p>
+<p>Fungsi Totient Euler, &phi;(<i>n</i>) [terkadang disebut fungsi phi], digunakan untuk menentukan banyaknya bilangan yang lebih kecil dari <i>n</i>, dan juga relatif prima terhadap <i>n</i>. Sebagai contoh, 1, 2, 4, 5, 7, dan 8, adalah semua angka yang kurang dari sembilan, dan relatif prima terhadap sembilan, &phi;(9)=6.<br />Angka 1 dianggap relatif prima ke semua bilangan positif, sehingga &phi;(1)=1. </p>
 <p>Yang menarik, &phi;(87109)=79180, dan dapat kita lihat bahwa bilangan 87109 merupakan permutasi dari 79180.</p>
-<p>Carilah nilai dari <var>n</var>, 1 &lt; <var>n</var> &lt; 10<sup>7</sup>, dimana &phi;(<var>n</var>) merupakan permutasi dari <var>n</var> dan rasionya <var>n</var>/&phi;(<var>n</var>) menghasilkan nilai terkecil.</p>
+<p>Carilah nilai dari <var>n</var>, 1 &lt; <var>n</var> &lt; 10<sup>7</sup>, di mana &phi;(<var>n</var>) merupakan permutasi dari <var>n</var> dan rasionya <var>n</var>/&phi;(<var>n</var>) menghasilkan nilai terkecil.</p>
 
 Answer: 1884dde67ced589082c8b7043abce181
 
 # Soal 71
 
-<p>Misalkan suatu pecahan, <i>n/d</i>, dimana <i>n</i> dan <i>d</i> adalah bilangan bulat positif. Jika <i>n</i>&lt;<i>d</i> dan FPB(<i>n,d</i>)=1, maka pecahan tersebut dapat disebut pecahan paling sederhana.</p>
-<p>Jika kita mendaftarkan semua pecahan yang paling sederhana untuk <i>d</i> &le; 8 dari yang bernilai paling kecil ke paling besar, maka kita akan mendapatkan:</p>
+<p>Misalkan suatu pecahan <i>n/d</i>, di mana <i>n</i> dan <i>d</i> adalah bilangan bulat positif. Jika <i>n</i>&lt;<i>d</i> dan FPB(<i>n,d</i>)=1, maka pecahan tersebut dapat disebut pecahan paling sederhana.</p>
+<p>Jika kita membuat daftar semua pecahan yang paling sederhana untuk <i>d</i> &le; 8 dari yang bernilai paling kecil ke paling besar, maka kita akan mendapatkan:</p>
 <p style='text-align:center;font-size:90%;'>1/8, 1/7, 1/6, 1/5, 1/4, 2/7, 1/3, 3/8, <b>2/5</b>, 3/7, 1/2, 4/7, 3/5, 5/8, 2/3, 5/7, 3/4, 4/5, 5/6, 6/7, 7/8</p>
 <p>Dapat kita lihat bahwa 2/5 muncul persis di sebelah kiri dari 3/7.</p>
-<p>Dengan mendaftarkan semua pecahan paling sederhana untuk <i>d</i> &le; 1,000,000 dari yang bernilai paling kecil ke paling besar, carilah pembilang yang persis ada di sebelah kiri dari 3/7.</p>
+<p>Dengan membuat daftar semua pecahan paling sederhana untuk <i>d</i> &le; 1.000.000 dari yang bernilai paling kecil ke paling besar, carilah pembilang yang persis ada di sebelah kiri dari 3/7.</p>
 
 Answer: 71f38fa2f04db30be52f883d583bfd6f
 
 # Soal 72
 
 <p>Misalkan suatu pecahan, <i>n/d</i>, dimana <i>n</i> dan <i>d</i> adalah bilangan bulat positif. Jika <i>n</i>&lt;<i>d</i> dan FPB(<i>n,d</i>)=1, maka pecahan tersebut dapat disebut pecahan paling sederhana.</p>
-<p>Jika kita mendaftarkan semua pecahan yang paling sederhana untuk <i>d</i> &le; 8 dari yang bernilai paling kecil ke paling besar, maka kita akan mendapatkan:</p>
+<p>Jika kita membuat daftar semua pecahan yang paling sederhana untuk <i>d</i> &le; 8 dari yang bernilai paling kecil ke paling besar, maka kita akan mendapatkan:</p>
 <p style='text-align:center;font-size:90%;'>1/8, 1/7, 1/6, 1/5, 1/4, 2/7, 1/3, 3/8, 2/5, 3/7, 1/2, 4/7, 3/5, 5/8, 2/3, 5/7, 3/4, 4/5, 5/6, 6/7, 7/8</p>
 <p>Dapat kita lihat bahwa terdapat 21 buah suku dalam barisan ini.</p>
-<p>Berapa banyak suku yang ada dalam pecahan kumpulan semua pecahan yang paling sederhana untuk <i>d</i> &le; 1,000,000?</p>
+<p>Berapa banyak elemen yang ada dalam himpunan semua pecahan yang paling sederhana untuk <i>d</i> &le; 1,000,000?</p>
 
 Answer: 0384fb529dc651fe0f460acff3e9ac5d
 
 # Soal 73
 
 <p>Misalkan suatu pecahan, <i>n/d</i>, dimana <i>n</i> dan <i>d</i> adalah bilangan bulat positif. Jika <i>n</i>&lt;<i>d</i> dan FPB(<i>n,d</i>)=1, maka pecahan tersebut dapat disebut pecahan paling sederhana.</p>
-<p>Jika kita mendaftarkan semua pecahan yang paling sederhana untuk <i>d</i> &le; 8 dari yang bernilai paling kecil ke paling besar, maka kita akan mendapatkan:</p>
+<p>Jika kita membuat daftar semua pecahan yang paling sederhana untuk <i>d</i> &le; 8 dari yang bernilai paling kecil ke paling besar, maka kita akan mendapatkan:</p>
 <p style='text-align:center;font-size:90%;'>1/8, 1/7, 1/6, 1/5, 1/4, 2/7, 1/3, <b>3/8, 2/5, 3/7</b>, 1/2, 4/7, 3/5, 5/8, 2/3, 5/7, 3/4, 4/5, 5/6, 6/7, 7/8</p>
 <p>Dapat kita lihat bahwa terdapat 3 pecahan lain antara 1/3 dan 1/2.</p>
-<p>Berapa banyak pecahan yang terdapat antara 1/3 dan 1/2, dalam daftar semua pecahan yang paling sederhana untuk <i>d</i> &le; 12,000?</p>
+<p>Berapa banyak pecahan yang terdapat antara 1/3 dan 1/2, dalam himpunan terurut semua pecahan yang paling sederhana untuk <i>d</i> &le; 12,000?</p>
 
 Answer: 990a49eb474672444137fff1e5528a1b
 
 # Soal 74
 
-Bilangan 145 dikenal dengan salah satu sifat yang unik, yaitu jumlah faktorial dari semua angka-angkanya juga sama dengan 145:
+Bilangan 145 dikenal karena sifatnya yang menarik, yaitu jumlah faktorial dari semua digitnya juga sama dengan 145:
 
 1! + 4! + 5! = 1 + 24 + 120 = 145
 
-Namun jika dihitung dengan cara serupa seperti di atas, sifat ini tidak langsung terlihat pada angka 169, bahkan, bilangan 169 menciptakan rantai terpanjang yang akan kembali ke 169; bahkan hanya terdapat tiga buah rantai yang bisa kembali ke angka awalnya:
+Namun jika dihitung dengan cara serupa seperti di atas, sifat ini tidak langsung terlihat pada angka 169. Bahkan bilangan 169 menciptakan rantai terpanjang yang akan kembali ke 169; ternyata hanya terdapat tiga buah rantai (*loop*) yang bisa kembali ke angka awalnya:
 
 169 → 363601 → 1454 → 169  
  871 → 45361 → 871  
@@ -1563,15 +1571,15 @@ Tidaklah sulit untuk membuktikan bahwa bilangan-bilangan lain akan memiliki rant
  78 → 45360 → 871 → 45361 (→ 871)  
  540 → 145 (→ 145)
 
-Jika rantai dibuat dengan angka awal 69, maka kita akan mendapatkan rantai yang berisi lima suku tidak berulang, dan diketahui bahwa suku tidak berulang terpanjang yang dapat dibuat, dengan angka awal kurang dari satu juta adalah enam puluh suku.
+Jika rantai dibuat dengan angka awal 69, maka kita akan mendapatkan rantai yang berisi lima suku tidak berulang, dan diketahui bahwa rantai tidak berulang terpanjang yang dapat dibuat, dengan bilangan awal yang lebih kecil dari dari satu juta, memiliki enam puluh suku.
 
-Berapa banyak rantai, dengan angka awal kurang dari satu juta, yang memiliki persis enam puluh suku tidak berulang?
+Berapa banyak rantai, dengan angka awal lebih kecil dari satu juta, yang memiliki persis enam puluh suku tidak berulang?
 
 Answer: 69cb3ea317a32c4e6143e665fdb20b14
 
 # Soal 75
 
-Diketahui bahwa 12 cm adalah panjang kawat terpendek, yang bisa ditekuk untuk membentuk segitiga siku-siku, yang sisi-sisinya merupakan bilangan bulat. Berikut ini adalah beberapa contoh dari kawat lain.
+Diketahui bahwa 12 cm adalah panjang kawat terpendek yang bisa ditekuk untuk membentuk segitiga siku-siku yang sisi-sisinya merupakan bilangan bulat. Berikut ini adalah beberapa contoh dari kawat lain.
 
 **12 cm**: (3,4,5)  
 **24 cm**: (6,8,10)  
@@ -1580,17 +1588,17 @@ Diketahui bahwa 12 cm adalah panjang kawat terpendek, yang bisa ditekuk untuk me
 **40 cm**: (8,15,17)  
 **48 cm**: (12,16,20)
 
-Beberapa macam kawat, seperti yang memiliki panjang 20 cm, tidak bisa ditekuk untuk membentuk segitiga siku-siku yang panjang sisi-sisinya berupa bilangan bulat. dan beberapa kawat lainnya memungkinkan untuk ditekuk menjadi lebih dari satu macam segitiga siku-siku yang panjang sisi-sisinya berupa bilangan bulat; sebagai contoh, kawat sepanjang 120 cm memungkinkan untuk dibuat menjadi tiga macam segitiga siku-siku yang panjang sisinya berupa bilangan bulat.
+Ada beberapa kawat, seperti yang memiliki panjang 20 cm, yang tidak bisa ditekuk untuk membentuk segitiga siku-siku yang panjang sisi-sisinya berupa bilangan bulat. Sementara itu beberapa kawat lainnya memungkinkan untuk ditekuk menjadi lebih dari satu macam segitiga siku-siku yang panjang sisi-sisinya berupa bilangan bulat; sebagai contoh, kawat sepanjang 120 cm memungkinkan untuk dibuat menjadi tiga macam segitiga siku-siku yang panjang sisinya berupa bilangan bulat.
 
 **120 cm**: (30,40,50), (20,48,52), (24,45,51)
 
-Diketahui L adalah panjang dari kawat, berapakah banyak L ≤ 1,500,000 yang dapat membentuk persis satu buah segitiga siku-siku, yang panjang sisi-sisinya merupakan bilangan bulat?
+Diketahui L adalah panjang kawat. Berapakah banyak kawat dengan L ≤ 1,500,000 yang dapat membentuk persis satu buah segitiga siku-siku, yang panjang sisi-sisinya merupakan bilangan bulat?
 
 Answer: 583e391a7bd87f785412f72f486433cb
 
 # Soal 76
 
-Kita dapat menuliskan lima sebagai hasil penjumlahan angka-angka lain dengan enam cara:
+Kita dapat menuliskan lima sebagai hasil penjumlahan bilangan-bilangan lain dengan enam cara:
 
 4 + 1  
  3 + 2  
@@ -1599,7 +1607,7 @@ Kita dapat menuliskan lima sebagai hasil penjumlahan angka-angka lain dengan ena
  2 + 1 + 1 + 1  
  1 + 1 + 1 + 1 + 1
 
-Berapakah banyaknya cara bilangan seratus ditulis sebagai hasil penjumlahan angka-angka lainnya?
+Berapakah banyaknya cara bilangan seratus ditulis sebagai hasil penjumlahan bilangan-bilangan lainnya?
 
 Answer: 18ed0f01e082beffe0049ae1272689d2
 
@@ -1613,13 +1621,14 @@ Kita dapat menuliskan sepuluh sebagai hasil penjumlahan bilangan-bilangan prima 
  3 + 3 + 2 + 2  
  2 + 2 + 2 + 2 + 2
 
-Berapakah bilangan terkecil, yang dapat dituliskan sebagai hasil penjumlahan bilangan-bilangan prima, yang banyaknya lebih dari lima ribu macam cara?
+Berapakah bilangan terkecil yang dapat dituliskan sebagai jumlahan bilangan-bilangan prima dalam lebih dari lima ribu macam cara berbeda?
+
 
 Answer: e2c420d928d4bf8ce0ff2ec19b371514
 
 # Soal 78
 
-<p>Misalkan p(<i>n</i>) adalah banyaknya cara dimana <i>n</i> buah koin dapat dikelompokkan. Sebagai contoh, lima koin dapat dipisah menjadi tujuh macam kelompok yang berbeda, sehingga p(5)=7.</p>
+<p>Misalkan p(<i>n</i>) adalah banyaknya cara mengelompokkan <i>n</i> buah koin. Sebagai contoh, lima koin dapat dikelompokkan dalam tujuh cara yang berbeda, sehingga p(5)=7.</p>
 <div style='text-align:center;'>
 <table cellspacing='0' cellpadding='10'>
 <tr>
@@ -1645,25 +1654,25 @@ Answer: e2c420d928d4bf8ce0ff2ec19b371514
 </tr>
 </table>
 </div>
-<p>Carilah nilai terkeci dari <i>n</i>, dimana p(<i>n</i>) habis dibagi oleh satu juta.</p>
+<p>Carilah nilai terkecil dari <i>n</i>, bila p(<i>n</i>) habis dibagi oleh satu juta.</p>
 
 Answer: ef2a8695e428116131cc94c651d0e566
 
 # Soal 79
 
-<p>Teknik pengamanan yang umum digunakan untuk <i>online banking</i> adalah dengan cara menanyakan pengguna tiga karakter acak, dari sandi yang ada. Sebagai contoh, jika sandi yang digunakan adalah 531278, bank bisa menanyakan angka ke-2, ke-3, dan ke-5; sehingga jawaban yang diharapkan oleh bank adalah: 317.</p>
+<p>Teknik pengamanan yang umum digunakan untuk perbankan daring (<i>online banking</i>) adalah dengan cara menanyakan pengguna tiga karakter acak dari sandi nasabah itu. Sebagai contoh jika sandi yang digunakan adalah 531278, bank bisa menanyakan angka ke-2, ke-3, dan ke-5; sehingga jawaban yang diharapkan oleh bank adalah: 317.</p>
 
-<p>Sebuah file text, <a href="{{ site.baseurl }}project/resources/p079_keylog.txt">keylog.txt</a>, berisi lima puluh proses <i>login</i> yang berhasil dari seorang nasabah bank.</p>
+<p>Sebuah berkas teks, <a href="{{ site.baseurl }}project/resources/p079_keylog.txt">keylog.txt</a>, berisi lima puluh proses <i>login</i> yang berhasil dari seorang nasabah bank.</p>
 
-<p>Diketahui bahwa tiga karakter yang diminta oleh bank selalu diambil secara berurutan dari kiri ke kanan (contoh : bank tidak bisa mengambil angka ke-2, ke-9, lalu ke-3, karena angka ke-9 harusnya diambil terakhir), analisalah file tersebut, dan tentukan sandi yang paling pendek yang mungkin digunakan oleh nasabah tersebut.</p>
+<p>Diketahui bahwa tiga karakter yang diminta oleh bank selalu diambil secara berurutan dari kiri ke kanan (contoh : bank tidak bisa mengambil angka ke-2, ke-9, lalu ke-3, karena angka ke-9 harusnya diambil terakhir). Analisislah berkas tersebut, dan tentukan sandi yang paling pendek yang mungkin digunakan oleh nasabah tersebut.</p>
 
 Answer: 3ccc6e16d99b21d42948f6d49b90fa30
 
 # Soal 80
 
-Kita ketahui bahwa hasil akar kuadrat dari bilangan asli yang bukan merupakan bilangan bulat, disebut sebagai bilangan irasional. Bentuk desimal dari akar kuadrat ini akan terus berlanjut tanpa ada pola yang berulang.
+Kita ketahui bahwa bila hasil akar kuadrat dari bilangan asli bukan merupakan bilangan bulat, maka akar kuadrat itu adalah bilangan irasional. Bentuk desimal dari akar kuadrat ini akan terus berlanjut tanpa ada pola yang berulang.
 
-Akar kuadart dari dua adalah 1.41421356237309504880..., Dan penjumlahan dari seratus buah angka-angkanya yang terletak di belakang koma adalah 475.
+Akar kuadrat dari dua adalah 1,41421356237309504880..., dan penjumlahan dari seratus buah angka yang terletak di belakang koma adalah 475.
 
 Untuk seratus bilangan asli pertama, carilah jumlah dari seratus buah angka-angkanya yang terletak di belakang koma, hanya untuk akar kuadrat yang irasional.
 
@@ -1671,7 +1680,7 @@ Answer: 6cc501a25298e4051886ef1a126e9484
 
 # Soal 81
 
-<p>Pada matriks ukuran 5 x 5 berikut ini, jalur dapat dimulai dari ujung kiri atas, ke ujung kanan bawah, dan jalur <b>hanya dapat berpindah ke kanan dan bawah</b>. Jalur yang memiliki hasil penjumlahan angka-angka terkecil ditandai dengan warna merah, dan jumlahnya sama dengan 2427.</p>
+<p>Pada matriks ukuran 5 x 5 berikut ini, misalkan kita menelusuri jalur yang dimulai dari ujung kiri atas, ke ujung kanan bawah. Saat menelusuri jalur kita <b>hanya dapat berpindah ke kanan dan bawah</b>. Jalur yang memiliki hasil penjumlahan angka-angka terkecil ditandai dengan warna merah, dan jumlahnya sama dengan 2427.</p>
 <div style="text-align:center;">
 $$
 \begin{pmatrix}
@@ -1683,14 +1692,14 @@ $$
 \end{pmatrix}
 $$
 </div>
-<p>Carilah jalur yang memiliki jumlah angka-angka terkecil,  pada <a href="{{ site.baseurl }}project/resources/p081_matrix.txt">matrix.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah file text berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari ujung kiri atas, dan bergerak menuju ujung kanan bawah, serta hanya diperbolehkan untuk berpindah ke kanan dan ke bawah.</p>
+<p>Carilah jalur yang memiliki jumlah angka-angka terkecil,  pada <a href="{{ site.baseurl }}project/resources/p081_matrix.txt">matrix.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari ujung kiri atas, dan bergerak menuju ujung kanan bawah, serta hanya diperbolehkan untuk berpindah ke kanan dan ke bawah.</p>
 
 Answer: f9ffec84499832add77e6a8bb00246ec
 
 # Soal 82
 
-<p class="small_notice">CATATAN: Soal ini adalah versi yang lebih menantang dari <a href="#soal-81">Soal 81</a>.</p>
-<p>Jalur yang memiliki hasil penjumlahan angka-angka terkecil, pada matriks ukuran 5 x 5 berikut ini, ditandai dengan angka berwarna merah; jumlahnya adalah 994. Jalur dapat dimulai di manapun pada kolom paling kiri, dan harus selesai di manapun pada kolom paling kanan, dan hanya diperbolehkan untuk bergeser ke atas, bawah, dan kanan.</p>
+<p class="small_notice">CATATAN: Soal ini adalah versi yang lebih menantang dari <a href="problem=81">Soal 81</a>.</p>
+<p>Jalur yang memiliki hasil penjumlahan angka-angka terkecil, pada matriks ukuran 5 x 5 berikut ini, ditandai dengan angka berwarna merah; jumlahnya adalah 994. Jalur dapat dimulai di manapun pada kolom paling kiri, dan harus berakhir di manapun pada kolom paling kanan, dan hanya diperbolehkan untuk bergeser ke atas, bawah, dan kanan.</p>
 <div style="text-align:center;">
 $$
 \begin{pmatrix}
@@ -1702,13 +1711,13 @@ $$
 \end{pmatrix}
 $$
 </div>
-<p>Carilah jalur dengan hasil penjumlahan angka-angka terkecil, pada <a href="{{ site.baseurl }}project/resources/p082_matrix.txt">matrix.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah file text berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari kolom paling kiri ke kolom paling kanan.</p>
+<p>Carilah jalur dengan hasil penjumlahan angka-angka terkecil, pada <a href="{{ site.baseurl }}project/resources/p082_matrix.txt">matrix.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari kolom paling kiri ke kolom paling kanan.</p>
 
 Answer: e6b3b1cd89b018d4754cf63863f6690a
 
 # Soal 83
 
-<p class="small_notice">CATATAN: Soal ini adalah versi yang jauh lebih menantang dari <a href="#soal-81">Soal 81</a>.</p>
+<p class="small_notice">CATATAN: Soal ini adalah versi yang jauh lebih menantang dari <a href="problem=81">Soal 81</a>.</p>
 <p>Pada matriks ukuran 5 x 5 berikut ini, jalur yang memiliki hasil penjumlahan angka-angka terkecil, dimulai dari pojok kiri atas, ke pojok kanan bawah, denagn bergerak ke kiri, kanan, atas, dan bawah, ditandai oleh angka berwarna merah, dan jumlahnya adalah 2297.</p>
 <div style="text-align:center;">
 $$
@@ -1722,7 +1731,7 @@ $$
 $$
 </div>
 <p>Carilah jalur yang memiliki hasil penjumlahan angka-angka terkecil, pada <a href="{{ site.baseurl }}project/resources/p083_matrix.txt">matrix.txt</a> (klik kanan dan pilih 
-"Save Link/Target As..."), sebuah file text berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari ujung kiri atas, ke ujung kanan bawah, dengan bergerak ke kiri, kanan, atas, dan bawah.</p>
+"Save Link/Target As..."), sebuah berkas teks berukuran 31K yang berisi matriks berukuran 80 x 80. Jalur harus dimulai dari ujung kiri atas, ke ujung kanan bawah, dengan bergerak ke kiri, kanan, atas, dan bawah.</p>
 
 Answer: 61b28c4fbe8560003ee50fa5619d7a1e
 
@@ -1804,11 +1813,11 @@ Answer: 61b28c4fbe8560003ee50fa5619d7a1e
 </tr>
 </table>
 </div>
-<p>Seorang pemain mulai dari kotak GO, lalu jumlah dari dua buah dadu bersisi 6 yang dilemparkan akan menjadi jumlah kotak yang harus dilalui oleh pemain tersebut, kotak harus dilalui searah jarum jam. Kita dapat mengunjungi semua kotak dengan kemungkinan yang sama, yaitu: 2.5%. Tetapi, berada di G2J (Go To Jail/Masuk Penjara), CC (community chest/harta karun), dan CH (chance/kesempatan) akan membuat peluang berubah.</p>
-<p>Selain G2J, dan satu kartu dari CC serta CH, ada cara lain yang bisa membuat pemain untuk masuk PENJARA, yaitu jika pemain tiga kali berturut-turut mengeluarkan dadu yang kedua angkanya sama, mereka tidak maju pada putaran dadu ke tiga, tetapi mereka langsung menuju ke kotak PENJARA.</p>
-<p>Saat memulai permainan, tumpukan kartu CC dan CH diacak. Saat pemain sampai di kotak CC atau CH, ia akan mengambil satu kartu paling atas dari tumpukan yang sesuai, lalu setelah mengikuti petunjuk yang tertera pada kartu, kartu dikembalikan ke tumpukan yang paling bawah. Terdapat enam belas kartu dalam setiap tumpukan, namun dalam soal ini, kita hanya memperdulikan kartu yang bisa mempengaruhi perpindahan kotak dari pemain; segala kartu yang isinya tidak berkaitan dengan perpindahan kotak, tidak akan dipedulikan, dan pemain akan tetap berada di kotak CC/CH.</p>
+<p>Seorang pemain mulai dari petak GO, lalu jumlah dari dua buah dadu bermuka enam yang dilemparkan akan menjadi jumlah petak yang harus dilalui oleh pemain tersebut. Petak-petak harus dilalui searah jarum jam. Kita dapat mengunjungi semua petak dengan probabilitas yang sama, yaitu: 2.5%. Tetapi, berada di G2J (Go To Jail/Masuk Penjara), CC (community chest/dana umum), dan CH (chance/kesempatan) akan membuat peluang berubah.</p>
+<p>Selain G2J, dan satu kartu dari CC serta CH, ada cara lain yang bisa membuat pemain untuk masuk PENJARA, yaitu jika pemain tiga kali berturut-turut memperoleh dadu yang kedua angkanya sama, mereka tidak maju pada putaran dadu ketiga, tetapi mereka langsung menuju ke kotak PENJARA.</p>
+<p>Saat memulai permainan, tumpukan kartu CC dan CH diacak. Saat pemain sampai di kotak CC atau CH, ia akan mengambil satu kartu paling atas dari tumpukan yang sesuai, lalu setelah mengikuti petunjuk yang tertera pada kartu, kartu dikembalikan ke tumpukan yang paling bawah. Terdapat enam belas kartu dalam setiap tumpukan, namun dalam soal ini, kita hanya mempedulikan kartu yang bisa mempengaruhi perpindahan petak dari pemain; segala kartu yang isinya tidak berkaitan dengan perpindahan petak, tidak akan dipedulikan, dan pemain akan tetap berada di petak CC/CH.</p>
 <ul>
-<li>Community Chest/Harta Karun (2/16 kartu):
+<li>Community Chest/Dana Umum (2/16 kartu):
 <ol>
 <li>Pindah ke kotak GO</li>
 <li>Masuk ke PENJARA</li>
@@ -1816,33 +1825,33 @@ Answer: 61b28c4fbe8560003ee50fa5619d7a1e
 </li>
 <li>Chance/Kesempatan (10/16 cards):
 <ol>
-<li>Pindah ke kotak GO</li>
+<li>Pindah ke petak GO</li>
 <li>Masuk ke PENJARA</li>
-<li>Pindah ke kotak C1</li>
-<li>Pindah ke kotak E3</li>
-<li>Pindah ke kotak H2</li>
-<li>Pindah ke kotak R1</li>
-<li>Pindah ke kotak R selanjutnya (milik perusahaan railway)</li>
-<li>Pindah ke kotak R selanjutnya</li>
-<li>Pindah ke kotak U selanjutnya (milik perusahaan utility)</li>
-<li>Mundur 3 kotak.</li>
+<li>Pindah ke petak C1</li>
+<li>Pindah ke petak E3</li>
+<li>Pindah ke petak H2</li>
+<li>Pindah ke petak R1</li>
+<li>Pindah ke petak R selanjutnya (milik perusahaan kereta api/railway)</li>
+<li>Pindah ke petak R selanjutnya</li>
+<li>Pindah ke petak U selanjutnya (milik perusahaan listrik dan air)</li>
+<li>Mundur 3 petak.</li>
 </ol>
 </li>
 </ul>
-<p>Masalah utama dari soal ini berkaitan dengan kemungkinan untuk mengunjungi kotak tertentu setelah melakukan putaran dadu. Perlu dijelaskan, bahwa dengan mengabaikan kotak G2J, karena kotak ini tidak mungkin menjadi kotak yang ditempati setelah pemain memutar dadu, sehingga kotak G2J akan mempunyai nol kemungkinan untuk disinggahi setelah dadu diputar. Kotak CH akan memiliki peluang paling kecil untuk ditempati, karena 10 dari 16 kartu pada chance/kesempatan akan membuat pemain pindah ke kotak lain, dan kita hanya akan menghitung posisi paling akhir dari setiap putaran dadu pemain. Kita tidak akan membuat perbedaan antara &quot;hanya sekedar lewat&quot; dengan masuk ke PENJARA, dan kita juga akan mengabaikan aturan yang mengharuskan pemain memiliki dadu kembar untuk  &quot;keluar dari penjara&quot;, dengan asumsi semua pemain pasti membayar untuk keluar dari penjara.</p>
-<p>Dengan memulai dari kotak GO, lalu memberi nomor untuk setiap kotak secara berurutan dari 00 ke 39, kita dapat menggabungkan dua angka tersebut, untuk membentuk tulisan baru yang akan melambangkan kotak-kotak yang telah dikunjungi.</p>
-<p>Secara statistik, dapat ditunjukan tiga kotak yang paling populer dikunjungi. Secara berurutan kotak tersebut adalah, PENJARA (6.24%) = kotak ke-10, E3 (3.18%) = kotak ke-24, dan kotak GO (3.09%) = kotak ke-00. Sehingga ketiga kotak yang paling sering dikunjungi tersebut dapat ditulis dengan bilangan enam angka: 102400.</p>
-<p>Jika kita tidak menggunakan dadu dengan sisi 6, melainkan kedua dadu diganti menjadi dadu dengan banyak sisi 4, carilah bilangan enam angka yang melambangkan kotak yang paling sering dikunjungi seperti di atas.</p>
+<p>Masalah utama dari soal ini berkaitan dengan kemungkinan untuk mengunjungi petak tertentu setelah melakukan putaran dadu. Perlu dijelaskan, bahwa dengan mengabaikan petak G2J, karena petak ini tidak mungkin menjadi petak yang ditempati setelah pemain memutar dadu, sehingga petak G2J akan mempunyai probabilitas nol untuk disinggahi setelah dadu diputar. Petak CH akan memiliki peluang paling kecil untuk ditempati, karena 10 dari 16 kartu pada chance/kesempatan akan membuat pemain pindah ke petak lain, dan kita hanya akan menghitung posisi paling akhir dari setiap putaran dadu pemain. Kita tidak akan membuat perbedaan antara &quot;hanya sekedar lewat&quot; dengan masuk ke PENJARA, dan kita juga akan mengabaikan aturan yang mengharuskan pemain memiliki dadu kembar untuk  &quot;keluar dari penjara&quot;, dengan asumsi semua pemain pasti membayar untuk keluar dari penjara.</p>
+<p>Dengan memulai dari petak GO, lalu memberi nomor untuk setiap petak secara berurutan dari 00 ke 39, kita dapat merangkaikan bilangan dua digit tersebut, untuk membentuk untai yang akan melambangkan petak-petak yang telah dikunjungi.</p>
+<p>Secara statistik, dapat ditunjukan tiga petak yang paling populer dikunjungi. Secara berurutan petak tersebut adalah, PENJARA (6.24%) = petak ke-10, E3 (3.18%) = petak ke-24, dan petak GO (3.09%) = petak ke-00. Sehingga ketiga petak yang paling sering dikunjungi tersebut dapat ditulis dengan bilangan enam digit: 102400.</p>
+<p>Jika kita tidak menggunakan dadu bermuka enam, dan kedua dadu diganti menjadi dadu bermuka empat, carilah bilangan enam digit yang melambangkan kotak yang paling sering dikunjungi seperti di atas.</p>
 
 Answer: ead3264438ef83a8c2da2e98067b4445
 
 # Soal 85
 
-<p>Dengan menghitung secara teliti, dapat terlihat bahwa terdapat delapan belas segi empat, pada kotak-kotak berukuran 3 x 2:</p>
+<p>Dengan menghitung secara teliti, dapat terlihat bahwa terdapat delapan belas segi empat, pada kisi berukuran 3 x 2:</p>
 
 ![](files-v1/p085.gif)
 
-<p>Namun, tidak ada kotak-kotak yang bisa menghasilkan persis dua juta segi empat. Carilah ukuran kotak-kotak yang bisa menghasilkan segi empat mendekati dua juta buah, lalu hitunglah luas kotak-kotak tersebut.</p>
+<p>Tidak ada kisi yang bisa menghasilkan persis dua juta segi empat. Namun carilah ukuran kisi yang bisa menghasilkan segi empat mendekati dua juta buah, lalu hitunglah luas kisi tersebut.</p>
 
 Answer: 92bf5e6240737e0326ea59846a83e076
 
@@ -1852,42 +1861,42 @@ Answer: 92bf5e6240737e0326ea59846a83e076
 
 ![](files-v1/p086.gif)<br />
 
-<p>Tetapi, biasanya terdapat sampai tiga pilihan jalur terpendek untuk setiap balok, dan jalur terpendek dari pilihan tersebut terkadang bukanlah merupakan bilangan bulat.</p>
-<p>Jika rotasi dari balok diabaikan, terdapat 2060 buah jalur terpendek berbeda, untuk balok yang memiliki panjang sisi berupa bilangan bulat berukuran maksimum M x M x M (semua jalur terpendek adalah bilangan bulat), untuk  M = 100. Ini adalah nilai M paling kecil, yang bisa menghasilkan jalur terpendek berupa bilangan bulat lebih dari dua ribu buah; jumlah jalur terpendek saat M = 99 adalah 1975.</p>
-<p>Carilah nilai M minimal, sehingga jumlah jalur terpendek yang ada melebihi satu juta buah (jalur harus berupa bilangan bulat).</p>
+<p>Terdapat sampai tiga pilihan jalur terpendek untuk setiap balok, dan jalur terpendek dari pilihan tersebut terkadang bukanlah merupakan bilangan bulat.</p>
+<p>Jika rotasi dari balok diabaikan, bisa ditunjukkan bahwa ada 2060 balok berbeda, untuk balok yang memiliki panjang sisi berupa bilangan bulat berukuran maksimum M x M x M (semua jalur terpendek adalah bilangan bulat), untuk  M = 100. Ini adalah nilai M paling kecil, yang bisa menghasilkan jalur terpendek berupa bilangan bulat lebih besar dari dua ribu buah; jumlah jalur terpendek saat M = 99 adalah 1975.</p>
+<p>Carilah nilai M terkecil sehingga jumlah jalur terpendek yang ada banyaknya melebihi satu juta (jalur harus berupa bilangan bulat).</p>
 
 Answer: f5c3dd7514bf620a1b85450d2ae374b1
 
 # Soal 87
 
-<p>Bilangan terkecil yang dapat dituliskan sebagai hasil penjumlahan bilangan prima kuadrat, bilangan prima kubik, dan bilangan prima pangkat empat adalah 28. Dan hanya terdapat persis empat bilangan kurang dari lima puluh yang bisa dituliskan dengan cara di atas:</p>
+<p>Bilangan terkecil yang dapat dituliskan sebagai hasil penjumlahan kuadrat bilangan prima, pangkat tiga bilangan prima, dan pangkat empat bilangan prima adalah 28. Dan hanya terdapat persis empat bilangan kurang dari lima puluh yang bisa dituliskan dengan cara di atas:</p>
 <p style='margin-left:50px;'>28 = 2<sup>2</sup> + 2<sup>3</sup> + 2<sup>4</sup><br />
 33 = 3<sup>2</sup> + 2<sup>3</sup> + 2<sup>4</sup><br />
 49 = 5<sup>2</sup> + 2<sup>3</sup> + 2<sup>4</sup><br />
 47 = 2<sup>2</sup> + 3<sup>3</sup> + 2<sup>4</sup></p>
-<p>Berapa banyak angka kurang dari lima puluh juta, yang bisa dituliskan sebagai hasil penjumlahan bilangan prima kuadrat, bilangan prima kubik, dan bilangan prima pangkat empat?</p>
+<p>Berapa banyak bilangan yang lebih kecil dari lima puluh juta, yang bisa dituliskan sebagai hasil penjumlahan kuadrat bilangan prima, pangkat tiga bilangan prima, dan pangkat empat bilangan prima?</p>
 
 Answer: e7fb7907f1af626cc42e787e367ec602
 
 # Soal 88
 
-<p>Sebuah bilangan asli N, yang dapat ditulis sebagai hasil penjumlahan dan perkalian dari himpunan bilangan asli lain, {<i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ... , <i>a</i><sub><i>k</i></sub>} disebut bilangan kali-jumlah: N = <i>a</i><sub>1</sub> + <i>a</i><sub>2</sub> + ... + <i>a</i><sub><i>k</i></sub> = <i>a</i><sub>1</sub> &times; <i>a</i><sub>2</sub> &times; ... &times; <i>a</i><sub><i>k</i></sub>.</p>
+<p>Sebuah bilangan asli N, yang dapat ditulis sebagai hasil penjumlahan dan perkalian dari himpunan bilangan asli lain, {<i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ... , <i>a</i><sub><i>k</i></sub>} disebut bilangan hasilkali-jumlahan: N = <i>a</i><sub>1</sub> + <i>a</i><sub>2</sub> + ... + <i>a</i><sub><i>k</i></sub> = <i>a</i><sub>1</sub> &times; <i>a</i><sub>2</sub> &times; ... &times; <i>a</i><sub><i>k</i></sub>.</p>
 <p>Sebagai contoh, 6 = 1 + 2 + 3 = 1 &times; 2 &times; 3.</p>
-<p>Jika banyaknya bilangan asli lain yang bisa digunakan adalah <i>k</i>, kita harus mencari bilangan N terkecil yang bisa memenuhi sifat jumlah-kali. Bilangan jumlah-kali terkecil untuk nilai <i>k</i> = 2, 3, 4, 5, dan 6 adalah sebagai berikut.</p>
+<p>Jika banyaknya bilangan asli lain yang bisa digunakan adalah <i>k</i>, kita harus mencari bilangan N terkecil yang bisa memenuhi sifat hasilkali-jumlahan. Bilangan hasilkali-jumlahan terkecil untuk nilai <i>k</i> = 2, 3, 4, 5, dan 6 adalah sebagai berikut.</p>
 <p style='margin-left:50px;'><i>k</i>=2: 4 = 2 &times; 2 = 2 + 2<br />
 <i>k</i>=3: 6 = 1 &times; 2 &times; 3 = 1 + 2 + 3<br />
 <i>k</i>=4: 8 = 1 &times; 1 &times; 2 &times; 4 = 1 + 1 + 2 + 4<br />
 <i>k</i>=5: 8 = 1 &times; 1 &times; 2 &times; 2 &times; 2  = 1 + 1 + 2 + 2 + 2<br />
 <i>k</i>=6: 12 = 1 &times; 1 &times; 1 &times; 1 &times; 2 &times; 6 = 1 + 1 + 1 + 1 + 2 + 6</p>
-<p>Kemudian untuk 2&le;<i>k</i>&le;6, jumlah semua bilangan jumlah-kali terkecilnya adalah 4+6+8+12 = 30; perhatikan bahwa 8 hanya dihitung sekali dalam penjumlahan tersebut.</p>
-<p>Contoh lainnya, himpunan bilangan jumlah-kali terkecil untuk 2&le;<i>k</i>&le;12 adalah {4, 6, 8, 12, 15, 16}, dan jumlahnya adalah 61.</p>
-<p>Berapakah hasil penjumlahan semua bilangan jumlah-kali terkecil untuk 2&le;<i>k</i>&le;12000?</p>
+<p>Kemudian untuk 2&le;<i>k</i>&le;6, jumlah semua bilangan hasilkali-jumlahan terkecilnya adalah 4+6+8+12 = 30; perhatikan bahwa 8 hanya dihitung sekali dalam penjumlahan tersebut.</p>
+<p>Contoh lainnya, himpunan bilangan hasilkali-jumlahan terkecil untuk 2&le;<i>k</i>&le;12 adalah {4, 6, 8, 12, 15, 16}, dan jumlahnya adalah 61.</p>
+<p>Berapakah hasil penjumlahan semua bilangan hasilkali-jumlahan terkecil untuk 2&le;<i>k</i>&le;12000?</p>
 
 Answer: ffde7251f43906d31534ae69fa555757
 
 # Soal 89
 
-<p>Sebuah bilangan Romawi dapat dianggap valid apabila mengikuti beberapa aturan dasar. Walaupun mungkin aturan tersebut akan membuat beberapa bilangan dapat ditulis dengan lebih dari satu cara, namun pasti terdapat cara penulisan &quot;terbaik&quot; dari bilangan tersebut.</p>
+<p>Sebuah bilangan Romawi dapat dianggap sahih apabila mengikuti beberapa aturan dasar. Walaupun mungkin aturan tersebut akan membuat beberapa bilangan dapat ditulis dengan lebih dari satu cara, namun pasti terdapat cara penulisan &quot;terbaik&quot; dari bilangan tersebut.</p>
 <p>Sebagai contoh, terdapat setidaknya enam cara untuk menulis angka enam belas:</p>
 <p style="margin-left:50px;font-family:courier new,monospace;">IIIIIIIIIIIIIIII<br />
 VIIIIIIIIIII<br />
@@ -1895,22 +1904,22 @@ VVIIIIII<br />
 XIIIIII<br />
 VVVI<br />
 XVI</p>
-<p>Tetapi, bedasarkan aturan, hanya <span style="font-family:courier new,monospace;">XIIIIII</span> dan <span style="font-family:courier new,monospace;">XVI</span> yang valid, dan <span style="font-family:courier new,monospace;">XVI</span> dianggap sebagai cara penulisan yang paling efisien, karena cara penulisan ini menggunakan huruf yang paling sedikit.</p>
-<p>Sebuah text file berukuran 11K, <a href="{{ site.baseurl }}project/resources/p089_roman.txt">roman.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), berisi seribu bilangan Romawi yang valid, tetapi belum yang paling efisien, lihat <a href="about=roman_numerals">About... Roman Numerals</a> untuk mengetahui aturan-aturan dasar apa saja yang digunakan pada soal ini.</p>
-<p>Carilah banyaknya huruf yang bisa dihemat, apabila semua bilangan Romawi pada file text tersebut ditulis dengan cara yang paling efisien.</p>
-<p class="note">Catatan: Anda dapat mengasumsikan semua bilangan Romawi yang ada di file text tersebut tidak ada yang memiliki empat huruf yang sama secara berurutan.</p>
+<p>Tetapi, berdasarkan aturan, hanya <span style="font-family:courier new,monospace;">XIIIIII</span> dan <span style="font-family:courier new,monospace;">XVI</span> yang valid, dan <span style="font-family:courier new,monospace;">XVI</span> dianggap sebagai cara penulisan yang paling efisien, karena cara penulisan ini menggunakan huruf yang paling sedikit.</p>
+<p>Sebuah berkas teks berukuran 11K, <a href="{{ site.baseurl }}project/resources/p089_roman.txt">roman.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), berisi seribu bilangan Romawi yang sahih, tetapi belum tentu paling efisien, lihat <a href="about=roman_numerals">About... Roman Numerals</a> untuk mengetahui aturan-aturan dasar apa saja yang digunakan pada soal ini.</p>
+<p>Carilah banyaknya huruf yang bisa dihemat, apabila semua bilangan Romawi pada berkas teks tersebut ditulis dengan cara yang paling efisien.</p>
+<p class="note">Catatan: Anda dapat mengasumsikan semua bilangan Romawi yang ada di berkas teks tersebut tidak ada yang memiliki empat huruf yang sama secara berurutan.</p>
 
 Answer: 5c572eca050594c7bc3c36e7e8ab9550
 
 # Soal 90
 
-<p>Setiap sisi pada kubus ditulisi angka yang berbeda (0 sampai 9); hal yang sama dilakukan pada kubus yang kedua. Dengan meletakan kedua kubus secara bersebelahan dengan berbagai posisi yang berbeda, kita dapat membentuk berbagai macam bilangan 2 angka.</p>
+<p>Setiap sisi pada kubus ditulisi angka yang berbeda (0 sampai 9); hal yang sama dilakukan pada kubus yang kedua. Dengan meletakkan kedua kubus secara bersebelahan pada berbagai posisi yang berbeda, kita dapat membentuk berbagai macam bilangan 2 digit.</p>
 
 <p>Sebagai contoh, bilangan kuadrat 64 dapat dibentuk dengan cara:</p>
 
 ![](files-v1/p090.gif)
 
-<p>Bahkan, dengan memilih angka pada kubus secara hati-hati, kita dapat menampilkan semua bilangan kuadrat kurang dari seratus: 01, 04, 09, 16, 25, 36, 49, 64, and 81.</p>
+<p>Dengan memilih angka pada kubus secara saksama, kita dapat menampilkan semua bilangan kuadrat kurang dari seratus: 01, 04, 09, 16, 25, 36, 49, 64, and 81.</p>
 
 <p>Sebagai contoh, salah satu caranya adalah dengan menuliskan {0, 5, 6, 7, 8, 9} pada kubus yang pertama dan {1, 2, 3, 4, 8, 9} pada kubus yang lainnya.</p>
 
@@ -1921,7 +1930,7 @@ Answer: 5c572eca050594c7bc3c36e7e8ab9550
 <p style="margin-left:50px;">{1, 2, 3, 4, 5, 6} sama dengan {3, 6, 4, 1, 2, 5}<br />
 {1, 2, 3, 4, 5, 6} berbeda dengan {1, 2, 3, 4, 5, 9}</p>
 
-<p>Namun karena kita memperbolehkan angka 6 dan 9 untuk dibalik, maka dua himpunan berbeda pada contoh terakhir, keduanya akan dianggap sebagai himpunan {1, 2, 3, 4, 5, 6, 9} saat digunakan untuk membentuk bilangan 2 angka.</p>
+<p>Namun karena kita memperbolehkan angka 6 dan 9 untuk dibalik, maka dua himpunan berbeda pada contoh terakhir, keduanya akan dianggap sebagai himpunan {1, 2, 3, 4, 5, 6, 9} saat digunakan untuk membentuk bilangan 2 digit.</p>
 
 <p>Berapa banyak susunan kubus yang berbeda yang diperlukan supaya semua bilangan kuadrat dapat ditampilkan?</p>
 
@@ -1929,21 +1938,21 @@ Answer: 6a61d423d02a1c56250dc23ae7ff12f3
 
 # Soal 91
 
-<p>Titik P (<i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>) dan Q (<i>x</i><sub>2</sub>, <i>y</i><sub>2</sub>) memiliki koordinat berupa bilangan bulat, dan apabila digabung dengan titik origin, O(0,0), akan terbentuk &Delta;OPQ.</p>
+<p>Titik P (<i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>) dan Q (<i>x</i><sub>2</sub>, <i>y</i><sub>2</sub>) memiliki koordinat berupa bilangan bulat, dan apabila digabung dengan titik asal, O(0,0), akan terbentuk &Delta;OPQ.</p>
 
 ![](files-v1/p091_1.gif)
 
-<p>Terdapat persis empat belas segitiga siku-siku, yang dapat dibentuk jika koordinat berada di antara 0 dan 2, angka 0 dan 2 di ikut sertakan; atau dapat ditulis <br />0 &le; <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> &le; 2.</p>
+<p>Terdapat persis empat belas segitiga siku-siku, yang dapat dibentuk jika koordinat berada di antara selang tertutup antara 0 dan 2; atau dapat ditulis <br />0 &le; <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> &le; 2.</p>
 
 ![](files-v1/p091_2.gif)
 
-<p>Diberikan0 &le; <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> &le; 50, berapa banyak segitiga siku-siku yang dapat dibentuk?</p>
+<p>Diberikan 0 &le; <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> &le; 50, berapa banyak segitiga siku-siku yang dapat dibentuk?</p>
 
 Answer: e8dc153260a59d4f236cfd7439d5dfd3
 
 # Soal 92
 
-Sebuah rantai angka dapat dibuat dengan menjumlahkan terus menerus hasil kuadrat angka-angka pada suatu bilangan, untuk membentuk bilangan baru, dan berhenti sampai ada bilangan sama yang muncul kembali.
+Sebuah rantai angka dapat dibuat dengan menjumlahkan terus menerus hasil kuadrat digit-digit dalam suatu bilangan, untuk membentuk bilangan baru, dan berhenti sampai ada bilangan sama yang muncul kembali.
 
 Sebagai contoh,
 
@@ -1952,53 +1961,53 @@ Sebagai contoh,
 
 Karena itu, semua rantai yang terdapat bilangan 1 atau 89 akan terus menerus berputar. Yang istimewa adalah APAPUN angka mulainya, apabila dikerjakan dengan cara di atas, akan selalu tiba di 1 atau 89.
 
-Berapa banyak angka mulai kurang dari sepuluh juta yang akan tiba di 89?
+Berapa banyak bilangan awal dalam rantai seperti ini, yang besarnya kurang dari sepuluh juta, yang berakhir pada 89?
 
 Answer: 6cee918c0612bccc2dac03d05e07035f
 
 # Soal 93
 
-<p>Dengan menggunakan semua angka dari himpunan {1, 2, 3, 4} masing-masing satu kali, dan menggunakan semua operasi aritmatika yang ada (+, &minus;, *, /) serta dengan menggunakan tanda kurung, kita dapat membuat bilangan bulat positif baru.</p>
+<p>Dengan menggunakan semua bilangan dari himpunan {1, 2, 3, 4} masing-masing satu kali, dan menggunakan semua operasi aritmatika yang ada (+, &minus;, *, /) serta dengan menggunakan tanda kurung, kita dapat membuat bilangan bulat positif baru.</p>
 <p>Sebagai contoh,</p>
 <p style='margin-left:50px;font-family:courier new;'>8 = (4 * (1 + 3)) / 2<br />
 14 = 4 * (3 + 1 / 2)<br />
 19 = 4 * (2 + 3) &minus; 1<br />
 36 = 3 * 4 * (2 + 1)</p>
-<p>Perhatikan bahwa penyatuan angka-angka, seperti 12 + 34, adalah tidak diperbolehkan.</p>
-<p>Menggunakan himpunan, {1, 2, 3, 4}, kita dapat mendapatkan tiga puluh satu buah bilangan bulat baru berbeda, dan bilangan 36 adalah yang paling besar, dan semua angka dari 1 sampai 28 masih bisa dibentuk oleh himpunan tersebut, sebelum akhirnya ada bilangan yang tidak bisa dibentuk menggunakan himpunan tersebut.</p>
-<p>Carilah himpunan empat bilangan berbeda, <i>a</i> &lt; <i>b</i> &lt; <i>c</i> &lt; <i>d</i>, dimana himpunan tersebut dapat menghasilkan bilangan-bilangan baru berurutan yang paling panjang, dari 1 sampai <i>n</i>, berikan jawaban anda dalam format tulisan: <i>abcd</i>.</p>
+<p>Perhatikan bahwa perangkaian digit, seperti 12 + 34, adalah tidak diperbolehkan.</p>
+<p>Menggunakan himpunan, {1, 2, 3, 4}, kita dapat mendapatkan tiga puluh satu buah bilangan bulat baru berbeda, dan bilangan 36 adalah yang paling besar, dan semua angka dari 1 sampai 28 masih bisa dibentuk oleh himpunan tersebut, sebelum akhirnya tidak ada lagi bilangan yang bisa dibentuk.</p>
+<p>Carilah himpunan empat digit berbeda, <i>a</i> &lt; <i>b</i> &lt; <i>c</i> &lt; <i>d</i>, di mana himpunan tersebut dapat menghasilkan bilangan-bilangan baru berurutan yang paling panjang, dari 1 sampai <i>n</i>. Berikan jawaban anda dalam format tulisan: <i>abcd</i>.</p>
 
 Answer: 26588e932c7ccfa1df309280702fe1b5
 
 # Soal 94
 
-Kita dapat dengan mudah membuktikan, bahwa tidak terdapat segitiga sama sisi yang memiliki panjang sisi dan luas berupa bilangan bulat. Namun, terdapat _segitiga yang hampir sama sisi_ 5-5-6 dan memiliki luas 12 satuan luas.
+Kita dapat dengan mudah membuktikan, bahwa tidak terdapat segitiga sama sisi yang memiliki panjang sisi dan luas berupa bilangan bulat. Namun, terdapat *segitiga yang hampir sama sisi* 5-5-6 dan memiliki luas 12 satuan.
 
-Kita akan menetapkan, bahwa sebuah _segitiga yang hampir sama sisi_ adalah sebuah seigita yang dua buah sisinya sama panjang, dan panjang sisi ketiganya boleh berbeda tidak lebih dari satu satuan panjang dengan sisi lainnya.
+Kita akan menetapkan, bahwa sebuah *segitiga yang hampir sama sisi* adalah sebuah segitiga yang dua buah sisinya sama panjang, dan panjang sisi ketiganya boleh berbeda tidak lebih dari satu satuan panjang dengan sisi lainnya.
 
-Carilah jumlah keliling dari semua _segitiga yang hampir sama sisi_, yang memiliki panjang sisi dan luas berupa bilangan bulat, dan keliling masing-masing segitiganya tidak melebihi satu miliyar (1,000,000,000).
+Carilah jumlah keliling dari semua *segitiga yang hampir sama sisi*, yang memiliki panjang sisi dan luas berupa bilangan bulat, dan keliling masing-masing segitiganya tidak melebihi satu miliar (1.000.000.000).
 
 Answer: 3218c6bb59f2539ec39ad4bf37c10913
 
 # Soal 95
 
-Pembagi habis dari suatu bilangan adalah kumpulan semua bilangan yang dapat membagi habis kecuali bilangan itu sendiri. Sebagai contoh, pembagi habis dari 28 adalah 1, 2, 4, 7, dan 14. Lalu karena jumlah semua pembagi habis tersebut juga sama dengan 28, kita dapat menyebut bilangna tersebut adalah bilangan sempurna.
+Pembagi wajar dari suatu bilangan adalah kumpulan semua bilangan yang dapat membaginya habis, kecuali bilangan itu sendiri. Sebagai contoh, pembagi wajar dari 28 adalah 1, 2, 4, 7, dan 14. Lalu karena jumlah semua pembagi wajar tersebut juga sama dengan 28, kita dapat menyebut bilangan tersebut adalah bilangan sempurna.
 
-Menariknya, hasil penjumlahan dari semua pembagi habis 220 adalah 284 dan hasil penjumlahan dari semua pembagi habis 284 adalah 220, terdapat hubungan bolak-balik antara kedua bilangan tersebut. Karena adanya hubungan bolak-balik tersebut, 220 dan 284 dapat disebut pasangan amicable.
+Menariknya, hasil penjumlahan dari semua pembagi wajar 220 adalah 284 dan hasil penjumlahan dari semua pembagi wajar 284 adalah 220, terdapat "rantai" antara kedua bilangan tersebut. Karena adanya rantai tersebut, 220 dan 284 dapat disebut pasangan akrab.
 
 Terdapat contoh bilangan lain yang dapat membentuk rantai lebih panjang. Sebagai contoh, dimulai dari 12496, kita dapat membentuk rantai dengan panjang lima bilangan:
 
 12496 → 14288 → 15472 → 14536 → 14264 (→ 12496 → ...)
 
-Karena rantai ini kembali ke angka awalnya, maka rantai ini akan disebut rantai amicable.
+Karena rantai ini kembali ke angka awalnya, maka rantai ini akan disebut rantai akrab.
 
-Carilah bilangan terkecil, yang dapat membuat rantai amicable terpanjang, yang bilangan-bilangan pada rantainya tidak melebihi satu juta.
+Carilah bilangan terkecil, yang dapat membuat rantai akrab terpanjang, yang bilangan-bilangan pada rantainya tidak melebihi satu juta.
 
 Answer: cd2018beeece5fb0a71a96308e567bde
 
 # Soal 96
 
-<p>Su Doku (Jika diartikan dari bahasa Jepang adalah <i>letak angka</i>) adalah nama yang diberikan untuk sebuah konsep puzzle yang populer. Asal mulanya tidak diketahui, namun kita harus menghargai jasa Leonhard Euler yang menemukan ide puzzle hampir serupa, dan lebih menantang, puzzle ini disebut Latin Squares. Tujuan dari puzzle Su Doku, adalah untuk mengganti kotak kosong (or zeros) dalam kotak-kotak berukuran 9 x 9 dan pada setiap baris, kolom, dan kotak ukuran  3 x 3, terdapat semua angka dari 1 sampai 9. Berikut ini adalah contoh dari awal puzzle, dan solusinya.</p>
+<p>Su Doku (jika diterjemahkan dari bahasa Jepang berarti <i>letak angka</i>) adalah nama yang diberikan untuk sebuah konsep teka-teki yang populer. Asal mulanya tidak diketahui, namun kita harus menghargai jasa Leonhard Euler yang menemukan ide teka-teki hampir serupa, dan lebih menantang, yang disebut kotak-kotak Latin ("Latin Squares"). Tujuan dari teka-teki Su Doku adalah untuk mengganti kotak kosong (atau nol) dalam kotak-kotak berukuran 9 x 9 dan pada setiap baris, kolom, dan kotak ukuran  3 x 3, terdapat semua angka dari 1 sampai 9. Berikut ini adalah contoh dari awal teka-teki, dan solusinya.</p>
 <div style='text-align:center;'>
 <table border='0' cellpadding='0' cellspacing='0' align='center'>
 <tr>
@@ -2045,53 +2054,53 @@ Answer: cd2018beeece5fb0a71a96308e567bde
 </tr>
 </table>
 </div>
-<p>Sebuah puzzle Su Doku yang baik, memiliki solusi yang unik dan dapat diselesaikan oleh logika, walaupun terkadang diperlukan cara &quot;tebak dan tes&quot; dalam mencari solusi yang ada. Tingkat kesulitan dari puzzle ini ditentukan oleh kerumitan mencari solusi; contoh di atas dapat dianggap sebagai contoh <i>mudah</i> karena dapat diselesaikan secara langsung, dengan mengamati kotak satu per satu.</p>
-<p>Sebuah file text berukuran 6K, <a href="{{ site.baseurl }}project/resources/p096_sudoku.txt">sudoku.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), berisi lima puluh puzzle Su Doku berbeda, dari berbagai tingkat kesulitan, namun semua puzzle tersebut memiliki solusi yang berbeda (puzzle yang pertama sama dengan contoh di atas).</p>
-<p>Dengan menyelesaikan kelima puluh puzzle yang ada, carilah jumlah dari semua 3 angka pertama pada pojok kiri atas; sebagai contoh, pada contoh puzzle di atas, 3 angka pertama pada pojok kiri atasnya adalah 483.</p>
+<p>Sebuah teka-teki Su Doku yang baik memiliki solusi yang unik dan dapat diselesaikan oleh logika, walaupun terkadang diperlukan cara &quot;coba-coba&quot; dalam mencari solusi yang ada. Tingkat kesulitan dari teka-teki ini ditentukan oleh kerumitan mencari solusi; contoh di atas dapat dianggap sebagai contoh <i>mudah</i> karena dapat diselesaikan secara langsung, dengan mengamati kotak satu per satu.</p>
+<p>Sebuah berkas teks berukuran 6K, <a href="{{ site.baseurl }}project/resources/p096_sudoku.txt">sudoku.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), berisi lima puluh teka-teki Su Doku berbeda, dari berbagai tingkat kesulitan, namun semua teka-teki tersebut memiliki solusi yang berbeda (teka-teki yang pertama sama dengan contoh di atas).</p>
+<p>Dengan menyelesaikan kelima puluh teka-teki yang ada, carilah jumlah dari semua 3 angka pertama pada pojok kiri atas; sebagai contoh, pada contoh teka-teki di atas, 3 angka pertama pada pojok kiri atasnya adalah 483.</p>
 <!--<p class='info'>Note: If you're convinced that &quot;guess and test&quot; methods need not be employed please tell how you would solve #6 and #46. (c;</p>-->
 
 Answer: 26f6abfa0d7725fef678e371897d5df0
 
 # Soal 97
 
-<p>Bilangan prima pertama yang memiliki lebih dari satu juta angka telah berhasil ditemukan pada tahun 1999, dan bilangan tersebut merupakan bilangan prima Mersenne, yaitu 2<sup>6972593</sup>&minus;1; bilangan tersebut memiliki persis 2,098,960 angka. Kemudian bilangan prima Mersenne lainnya, dengan bentuk 2<sup><i>p</i></sup>&minus;1, telah ditemukan, dan bilangan tersebut memiliki angka yang lebih banyak.</p>
-<p>Namun, pada tahun 2004 ditemukan sebuah bilangan prima bukan Mersenne besar yang memiliki 2,357,207 angka: 28433&times;2<sup>7830457</sup>+1.</p>
+<p>Bilangan prima pertama yang memiliki lebih dari satu juta digit telah berhasil ditemukan pada tahun 1999. Bilangan tersebut merupakan bilangan prima Mersenne, yaitu 2<sup>6972593</sup>&minus;1; bilangan tersebut memiliki persis 2.098.960 digit. Kemudian bilangan prima Mersenne lainnya, dengan bentuk 2<sup><i>p</i></sup>&minus;1, telah ditemukan, dan bilangan tersebut memiliki digit yang lebih banyak.</p>
+<p>Namun, pada tahun 2004 ditemukan sebuah bilangan prima bukan Mersenne besar yang memiliki 2.357.207 digit: 28433&times;2<sup>7830457</sup>+1.</p>
 <p>Carilah sepuluh angka terakhir dari bilangan prima ini.</p>
 
 Answer: 68c8c919526039022b923a72d5cc12b1
 
 # Soal 98
 
-<p>Dengan menukarkan setiap huruf dalam kata CARE dengan angka 1, 2, 9, dan 6 secara berurutan, kita dapat membentuk sebuah bilangan kuadrat: 1296 = 36<sup>2</sup>. Yang mengesankan adlaah, dengan menggunakan aturan penukaran yang sama, kata RACE, juga akan membentuk sebuah bilangan kuadrat: 9216 = 96<sup>2</sup>. Kita akan menyebut kata CARE (dan RACE) sebagai kata kuadrat anagramic. Perlu diketahui bahwa angka pertama nol tidak diizinkan, dan juga tidak diperbolehkan untuk memberikan angka yang sama pada huruf yang berbeda.</p>
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p098_words.txt">words.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah file text berukuran 16K yang berisi hampir dua ribu kata dalam bahasa Inggris, carilah semua pasangan kata kuadrat anagramic  (kata yang palindrom, TIDAK dianggap sebagai anagram dari dirinya sendiri).</p>
+<p>Dengan menukarkan setiap huruf dalam kata CARE dengan angka 1, 2, 9, dan 6 secara berurutan, kita dapat membentuk sebuah bilangan kuadrat: 1296 = 36<sup>2</sup>. Yang mengesankan adalah, dengan menggunakan aturan penukaran yang sama, kata RACE, juga akan membentuk sebuah bilangan kuadrat: 9216 = 96<sup>2</sup>. Kita akan menyebut kata CARE (dan RACE) sebagai kata kuadrat anagramik. Perlu diketahui bahwa digit pertama nol tidak diizinkan, dan juga tidak diperbolehkan untuk memberikan digit yang sama pada huruf yang berbeda.</p>
+<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p098_words.txt">words.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 16K yang berisi hampir dua ribu kata dalam bahasa Inggris, carilah semua pasangan kata kuadrat anagramik  (kata yang palindrom, TIDAK dianggap sebagai anagram dari dirinya sendiri).</p>
 <p>Berapakah bilangan kuadrat terbesar yang ada?</p>
-<p class='info'>CATATAN: Semua anagram yang mungkin terbentuk pasti sudah ada dalam file text tersebut.</p>
+<p class='info'>CATATAN: Semua anagram yang mungkin terbentuk pasti sudah ada dalam berkas teks tersebut.</p>
 
 Answer: 36b3b5f54143786b7ab2ebb6bcd06e75
 
 # Soal 99
 
 <p>Membandingkan dua buah bilangan dalam bentuk perpangkatan seperti 2<sup>11</sup> dan 3<sup>7</sup> tidaklah sulit, karena hampir semua kalkulator dapat membuktikan 2<sup>11</sup> = 2048 &lt; 3<sup>7</sup> = 2187.</p>
-<p>Tetapi, membuktikan 632382<sup>518061</sup> &gt; 519432<sup>525806</sup> akan lebih sulit, karena kedua bilangan memiliki lebih dari tiga juta angka.</p>
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p099_base_exp.txt">base_exp.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah file text berukuran 22K yang berisi seribu baris pasangan bilangan dengan pangkatnya. Carilah baris ke berapakah yang memiliki hasil paling besar.</p>
-<p class='info'>CATATAN: dua baris pertama pada file text tersebut adalah sama seperti bilangan contoh di atas.</p>
+<p>Tetapi, membuktikan 632382<sup>518061</sup> &gt; 519432<sup>525806</sup> akan lebih sulit, karena kedua bilangan memiliki lebih dari tiga juta digit.</p>
+<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p099_base_exp.txt">base_exp.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 22K yang berisi seribu baris pasangan bilangan dengan pangkatnya, carilah baris ke berapakah yang memiliki hasil paling besar.</p>
+<p class='info'>CATATAN: dua baris pertama pada berkas teks tersebut adalah sama seperti bilangan contoh di atas.</p>
 
 Answer: 1ecfb463472ec9115b10c292ef8bc986
 
 # Soal 100
 
-<p>Sebuah kotak berisi dua puluh satu disk berwarna, yang terdiri dari lima belas disk biru, dan enam disk merah, dan dua disk diambil secara acak secara satu persatu, dapat terlihat peluang untuk mengambil dua disk biru, P(BB) = (15/21)&times;(14/20) = 1/2.</p>
-<p>Susunan lainnya, yang peluang untuk mendapatkan disk biru juga 50% , adalah sebuah kotak yang berisi delapan puluh lima disk biru, dan tiga puluh lima disk merah.</p>
-<p>Carilah susunan lainnya yang berisi lebih dari 10<sup>12</sup> = 1,000,000,000,000 buah disk, dan tentukan berapakan jumlah disk biru dalam kotak tersebut, sehingga peluang mengambil dua disk biru juga 50%.</p>
+<p>Sebuah kotak berisi dua puluh satu cakram berwarna, yang terdiri dari lima belas cakram biru, dan enam cakram merah, dan dua cakram diambil secara acak secara satu persatu. Dapat terlihat peluang untuk mengambil dua cakram biru, P(BB) = (15/21)&times;(14/20) = 1/2.</p>
+<p>Susunan lainnya, dengan peluang untuk mendapatkan cakram biru juga 50% , adalah sebuah kotak yang berisi delapan puluh lima cakram biru, dan tiga puluh lima cakram merah.</p>
+<p>Carilah susunan lainnya yang berisi lebih dari 10<sup>12</sup> = 1,000,000,000,000 buah cakram, dan tentukan berapakan jumlah cakram biru dalam kotak tersebut, sehingga peluang mengambil dua cakram biru juga 50%.</p>
 
 Answer: 21156e3acc4ca35b7a318c541a0648d5
 
 # Soal 101
 
-<p>Jika kita diberikan <var>k</var> buah suku pertama dari suatu barisan bilangan, tidak mungkin kita dapat menentukan nilai dari suku selanjutnya, karena terdapat tak terhingga kemungkinan rumus suku banyak bisa sesuai dengan barisan tersebut.</p>
-<p>Sebagai contoh, misalkan terdapat barisan bilangan kubik. Barisan ini dibentuk dengan fungsi, <br /><var>u</var><sub><var>n</var></sub> = <var>n</var><sup>3</sup>: 1, 8, 27, 64, 125, 216, ...</p>
-<p>Misalkan kita hanya diberikan dua suku pertama dari barisan ini. Bekerja dengan prinsip &quot;makin sederhana makin baik&quot; kita mungkin akan beranggapan bahwa barisan tersebut adalah barisan linear, dan memprediksi suku selanjutnya adalah 15 (karena memiliki beda yang sama, yaitu 7). Bahkan jika kita diberikan tiga suku pertama, dengan prinsip &quot;makin sederhana makin baik&quot;, kita mungkin bisa beranggapan bahwa hubungan barisan tersebut adalah hubungan kuadrat.</p>
-<p>OP(<var>k</var>, <var>n</var>) adalah fungsi yang akan memiliki <var>k</var> buah suku pertama yang benar saat dicocokan dengan barisan, jika nilai <var>n</var> disubtitusikan. OP(<var>k</var>, <var>n</var>) akan memiliki suku yang sesuai untuk <var>n</var> &le; <var>k</var>, dan kemungkinan, suku yang tidak sesuai pertama akan ditemukan saat OP(<var>k</var>, <var>k</var>+1); yang dalam soal ini akan disebut sebagai <i>bad OP</i> (BOP).</p>
+<p>Jika kita diberikan <var>k</var> buah suku pertama dari suatu barisan bilangan, tidak mungkin kita dapat menentukan nilai dari suku selanjutnya, karena terdapat tak terhingga kemungkinan rumus suku banyak yang bisa sesuai dengan barisan tersebut.</p>
+<p>Misalnya kita lihat barisan bilangan kubik. Barisan ini dibentuk dengan fungsi pembangkit <br /><var>u</var><sub><var>n</var></sub> = <var>n</var><sup>3</sup>: 1, 8, 27, 64, 125, 216, ...</p>
+<p>Misalkan kita hanya diberikan dua suku pertama dari barisan ini. Dengan menerapkan prinsip &quot;makin sederhana makin baik&quot; kita mungkin akan beranggapan bahwa barisan tersebut adalah barisan linear, dan memprediksi suku selanjutnya adalah 15 (karena memiliki beda yang sama, yaitu 7). Bahkan jika kita diberikan tiga suku pertama, dengan prinsip &quot;makin sederhana makin baik&quot;, kita mungkin bisa beranggapan bahwa hubungan barisan tersebut adalah hubungan kuadrat.</p>
+<p>OP(<var>k</var>, <var>n</var>) adalah fungsi yang akan memiliki <var>k</var> buah suku pertama yang benar saat dicocokkan dengan barisan, jika nilai <var>n</var> disubtitusikan. OP(<var>k</var>, <var>n</var>) akan memiliki suku yang sesuai untuk <var>n</var> &le; <var>k</var>, dan kemungkinan suku yang tidak sesuai pertama akan ditemukan saat OP(<var>k</var>, <var>k</var>+1); yang dalam soal ini akan disebut sebagai <i>bad OP</i> (BOP), yang berarti suku banyak optimum yang keliru.</p>
 <p>Sebagai contoh, jika kita hanya diberikan suku pertama dari barisan, kita mungkin akan menganggap barisan tersebut memiliki rumus konstan; sehingga, untuk <var>n</var> &ge; 2, OP(1, <var>n</var>) = <var>u</var><sub>1</sub>.</p>
 <p>Sehingga kita dapat menghitung OP untuk barisan bilangan kubik berikut:</p>
 <div style='margin-left:50px;'>
@@ -2114,17 +2123,17 @@ Answer: 21156e3acc4ca35b7a318c541a0648d5
 </tr>
 </table>
 </div>
-<p>Dapat terlihat bahwa tidak ada kesalahan lagi (BOP) saat <var>k</var> &ge; 4.</p>
-<p>Dengan menjumlahkan angka-angka pertama yang salah, saat dibuat rumus OP (ditandai dengan warna <span style='color:red;'><b>merah</b></span> pada bagian di atas), kita akan mendapatkan 1 + 15 + 58 = 74.</p>
-<p>Misalkan terdapat sebuah fungsi suku banyak pangkat sepuluh:</p>
+<p>Dapat terlihat bahwa tidak ada kesalahan lagi (tidak ada BOP) saat <var>k</var> &ge; 4.</p>
+<p>Dengan menjumlahkan suku-suku pertama yang salah, saat dibuat rumus OP (ditandai dengan warna <span style='color:red;'><b>merah</b></span> pada bagian di atas), kita akan mendapatkan 1 + 15 + 58 = 74.</p>
+<p>Misalkan terdapat sebuah fungsi pembangkit suku banyak derajat sepuluh:</p>
 <p style='text-align:center;'><var>u</var><sub><var>n</var></sub> = 1 &minus; <var>n</var> + <var>n</var><sup>2</sup> &minus; <var>n</var><sup>3</sup> + <var>n</var><sup>4</sup> &minus; <var>n</var><sup>5</sup> + <var>n</var><sup>6</sup> &minus; <var>n</var><sup>7</sup> + <var>n</var><sup>8</sup> &minus; <var>n</var><sup>9</sup> + <var>n</var><sup>10</sup></p>
-<p>Carilah jumlah angka-angka pertama yang salah, saat dibuat rumus OP.</p>
+<p>Carilah jumlah suku-suku pertama yang salah, saat dibuat rumus OP.</p>
 
 Answer: d382b0cc25e82446da83d3a792e1cd27
 
 # Soal 102
 
-Tiga titik berbeda dibuat pada bidang kartesius, dimana -1000 ≤ _x_, _y_ ≤ 1000, ketiga titik tersebut akan digabung dan membentuk segitiga.
+Tiga titik berbeda ditaruh secara acak pada bidang kartesius, di mana tiap titik memiliki koordinat (x,y) memenuhi -1000 ≤ *x*, *y* ≤ 1000, sedemikian rupa sehingga ketiganya membentuk segitiga.
 
 Misalkan terdapat dua segitiga:
 
@@ -2132,68 +2141,68 @@ A(-340,495), B(-153,-910), C(835,-947)
   
  X(-175,41), Y(-421,-714), Z(574,-645)
 
-Dapat dibuktikan bahwa segitiga ABC mengurung titik origin O(0,0), dan segitiga XYZ tidak.
+Dapat dibuktikan bahwa segitiga ABC mengurung titik asal O(0,0), dan segitiga XYZ tidak.
 
-Dengan menggunakan [triangles.txt](files-v1/p102_triangles.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah file text berukuran 27K yang berisi koordinat dari seribu buah segitiga acak, carilah banyaknya segitiga yang mengurung origin O(0,0).
+Dengan menggunakan [triangles.txt]({{ site.baseurl }}project/resources/p102_triangles.txt) (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas teks berukuran 27K yang berisi koordinat dari seribu buah segitiga acak, carilah banyaknya segitiga yang mengurung titik asal O(0,0).
 
-CATATAN: dua contoh pertama pada file text sama dengan contoh di atas.
+CATATAN: dua contoh pertama pada berkas teks sama dengan contoh di atas.
 
 Answer: 74db120f0a8e5646ef5a30154e9f6deb
 
 # Soal 103
 
-<p>Misalkan S(A) adalah hasil penjumlahan dari elemen-elemen dalam himpunan A dengan banyak anggota <i>n</i>. Himpunan A akan disebut memiliki penjumlahan istimewa apabila dua himpunan bagiannya yang tidak kosong dan saling lepas, B dan C, memenuhi sifat-sifat berikut:</p>
+<p>Misalkan S(A) adalah melambangkan penjumlahan dari elemen-elemen dalam himpunan A dengan banyak anggota <i>n</i>. Himpunan A akan disebut memiliki penjumlahan istimewa apabila dua himpunan bagiannya yang tidak kosong dan saling lepas, B dan C, memenuhi sifat-sifat berikut:</p>
 <ol style="list-style-type:lower-roman;">
 <li>S(B) &ne; S(C); sehingga, hasil penjumlahan dari semua himpunan bagian tidak boleh sama.</li>
 <li>Jika B memiliki anggota yang lebih banyak dari C, maka S(B) &gt; S(C).</li>
 </ol>
-<p>Jika S(A) disederhanakan untuk nilai <i>n</i>, maka kita akan menyebut bahwa himpunan tersebut memiliki penjumlahan istimewa optimal. lima penjumlahan istimewa optimal pertama adalah sebagai berikut.</p>
+<p>Jika S(A) bisa diminimumkan untuk suatu nilai <i>n</i>, maka kita akan menyebut bahwa himpunan tersebut memiliki penjumlahan istimewa optimal. Lima penjumlahan istimewa optimal pertama adalah sebagai berikut.</p>
 <p style="margin-left:50px;"><i>n</i> = 1: {1}<br />
 <i>n</i> = 2: {1, 2}<br />
 <i>n</i> = 3: {2, 3, 4}<br />
 <i>n</i> = 4: {3, 5, 6, 7}<br />
 <i>n</i> = 5: {6, 9, 11, 12, 13}</p>
-<p>Dapat <i>terlihat</i> bahwa untuk himpunan optimal, A = {<i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ... , <i>a</i><sub>n</sub>}, himpunan optimal selanjutnya adalah B = {<i>b</i>, <i>a</i><sub>1</sub>+<i>b</i>, <i>a</i><sub>2</sub>+<i>b</i>, ... ,<i>a</i><sub>n</sub>+<i>b</i>}, dimana <i>b</i> adalah anggota &quot;tengah&quot; dari baris sebelumnya.</p>
-<p>Dengan menerapkan &quot;aturan&quot; ini, kita bisa menduga bahwa himpunan optimum selanjutnya untuk <i>n</i> = 6 akan menjadi A = {11, 17, 20, 22, 23, 24}, dengan S(A) = 117. Tetapi, ternyata himpunan ini bukanlah yang paling optimal, karena kita hanya menggunakan algoritma yang membuat himpunan mendekati optimal. Himpunan optimal untuk <i>n</i> = 6 adalah A = {11, 18, 19, 20, 22, 25}, dengan S(A) = 115 dan teks angka-angka yang ada adalah: 111819202225.</p>
-<p>Diberikan A adalah himpunan istimewa optimal untuk <i>n</i> = 7, carilah teks angka-angkanya.</p>
+<p>Dapat <i>terlihat</i> bahwa untuk suatu himpunan optimal, A = {<i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ... , <i>a</i><sub>n</sub>}, himpunan optimal selanjutnya adalah B = {<i>b</i>, <i>a</i><sub>1</sub>+<i>b</i>, <i>a</i><sub>2</sub>+<i>b</i>, ... ,<i>a</i><sub>n</sub>+<i>b</i>}, di mana <i>b</i> adalah anggota &quot;tengah&quot; dari baris sebelumnya.</p>
+<p>Dengan menerapkan &quot;aturan&quot; ini, kita bisa menduga bahwa himpunan optimum selanjutnya untuk <i>n</i> = 6 akan menjadi A = {11, 17, 20, 22, 23, 24}, dengan S(A) = 117. Tetapi, ternyata himpunan ini bukanlah yang paling optimal, karena kita hanya menggunakan algoritma yang membuat himpunan mendekati optimal. Himpunan optimal untuk <i>n</i> = 6 adalah A = {11, 18, 19, 20, 22, 25}, dengan S(A) = 115 dan <i>untai himpunan</i> yang terkait adalah: 111819202225.</p>
+<p>Misalnya A adalah himpunan istimewa optimal untuk <i>n</i> = 7, maka carilah untai himpunannya.</p>
 <p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-105">Soal 105</a> dan <a href="#soal-106">Soal 106</a>.</p>
 
 Answer: af8c238336c2a79bb81a24b3fef3330d
 
 # Soal 104
 
-<p>Barisan Fibonacci dibuat dengan hubungan berikut:</p>
-<blockquote>F<sub><i>n</i></sub> = F<sub><i>n</i>&minus;1</sub> + F<sub><i>n</i>&minus;2</sub>, dimana F<sub>1</sub> = 1 dan F<sub>2</sub> = 1.</blockquote>
-<p>Ditemukan bahwa F<sub>541</sub>, yang memiliki 113 angka, adalah bilangan Fibonacci pertama yang sembilan angka terakhirnya adalah pandigital 1-9 (mengandung semua angka dari 1 sampai 9, namun tidak harus berurutan). Dan F<sub>2749</sub>, yang memiliki 575 angka, adalah bilangan Fibonacci pertama yang sembilan angka pertamanya adalah pandigital 1-9.</p>
-<p>Diketahui F<sub><i>k</i></sub> adalah bilangan Fibonacci pertama yang sembilan angka pertama DAN sembilan angka terakhirnya adalah pandigital 1-9, carilah nilai <i>k</i>.</p>
+<p>Barisan Fibonacci bisa didapat dari hubungan berikut:</p>
+<blockquote>F<sub><i>n</i></sub> = F<sub><i>n</i>&minus;1</sub> + F<sub><i>n</i>&minus;2</sub>, di mana F<sub>1</sub> = 1 dan F<sub>2</sub> = 1.</blockquote>
+<p>Ditemukan bahwa F<sub>541</sub>, yang memiliki 113 digit, adalah bilangan Fibonacci pertama yang sembilan digit terakhirnya adalah pandigital 1-9 (mengandung semua angka dari 1 sampai 9, namun tidak harus berurutan). Dan F<sub>2749</sub>, yang memiliki 575 digit, adalah bilangan Fibonacci pertama yang sembilan digit pertamanya adalah pandigital 1-9.</p>
+<p>Diketahui F<sub><i>k</i></sub> adalah bilangan Fibonacci pertama yang sembilan digit pertama DAN sembilan digit terakhirnya adalah pandigital 1-9, carilah nilai <i>k</i>.</p>
 
 Answer: c8771ddd4df191098d70a8e94dd1cde7
 
 # Soal 105
 
-<p>Misalkan S(A) adalah hasil penjumlahan dari elemen-elemen dalam himpunan A dengan banyak anggota <i>n</i>. Himpunan A akan disebut memiliki penjumlahan istimewa apabila dua himpunan bagiannya yang tidak kosong dan saling lepas, B dan C, memenuhi sifat-sifat berikut:</p>
+<p>Misalkan S(A) melambangkan hasil penjumlahan dari elemen-elemen dalam himpunan A dengan banyak anggota <i>n</i>. Himpunan A akan disebut memiliki penjumlahan istimewa apabila dua himpunan bagiannya yang tidak kosong dan saling lepas, B dan C, memenuhi sifat-sifat berikut:</p>
 <ol style="list-style-type:lower-roman;">
 <li>S(B) &ne; S(C); sehingga, hasil penjumlahan dari semua himpunan bagian tidak boleh sama.</li>
 <li>Jika B memiliki anggota yang lebih banyak dari C, maka S(B) &gt; S(C).</li>
 </ol>
 <p>Sebagai contoh, {81, 88, 75, 42, 87, 84, 86, 65} bukanlah himpunan yang memiliki penjumlahan istimewa, sebab dapat ditemukan 65 + 87 + 88 = 75 + 81 + 84, contoh lain {157, 150, 164, 119, 79, 159, 161, 139, 158} memenuhi kedua sifat di atas untuk semua kombinasi himpunan bagian yang mungkin, dan S(A) = 1286.</p>
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p105_sets.txt">sets.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah file text berukuran 4K dengan seratus himpunan yang memiliki tujuh sampai dua belas anggota (dua contoh di atas adalah dua himpuan pertama pada file tersebut), carilah semua himpunan yang memiliki penjumlahan istimewa, A<sub>1</sub>, A<sub>2</sub>, ..., A<sub><i>k</i></sub>, dan carilah nilai dari S(A<sub>1</sub>) + S(A<sub>2</sub>) + ... + S(A<sub><i>k</i></sub>).</p>
+<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p105_sets.txt">sets.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah berkas teks berukuran 4K yang berisi seratus himpunan yang memiliki tujuh sampai dua belas anggota (dua contoh di atas adalah dua himpunan pertama dalam berkas tersebut), carilah semua himpunan yang memiliki penjumlahan istimewa, A<sub>1</sub>, A<sub>2</sub>, ..., A<sub><i>k</i></sub>, dan carilah nilai dari S(A<sub>1</sub>) + S(A<sub>2</sub>) + ... + S(A<sub><i>k</i></sub>).</p>
 <p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-103">Soal 103</a> dan <a href="#soal-106">Soal 106</a>.</p>
 
 Answer: c87d30e494eff438fe37b4c810167da0
 
 # Soal 106
 
-Misalkan S(A) adalah hasil penjumlahan dari elemen-elemen dalam himpunan A dengan banyak anggota _n_. Himpunan A akan disebut memiliki penjumlahan istimewa apabila dua himpunan bagiannya yang tidak kosong dan saling lepas, B dan C, memenuhi sifat-sifat berikut:
+Misalkan S(A) adalah hasil penjumlahan dari elemen-elemen dalam himpunan A dengan banyak anggota *n*. Himpunan A akan disebut memiliki penjumlahan istimewa apabila dua himpunan bagiannya yang tidak kosong dan saling lepas, B dan C, memenuhi sifat-sifat berikut:
 
-1.  S(B) ≠ S(C); sehingga, hasil penjumlahan dari semua himpunan bagian tidak boleh sama.
-2.  Jika B memiliki anggota yang lebih banyak dari C, maka S(B) > S(C).
+1. S(B) ≠ S(C); sehingga, hasil penjumlahan dari semua himpunan bagian tidak boleh sama.
+2. Jika B memiliki anggota yang lebih banyak dari C, maka S(B) > S(C).
 
-Untuk soal ini, kita akan asumsikan bahwa himpunan dengan _n_ anggota memiliki anggota yang bilangannya terus membesar, dan pasti memenuhi sifat kedua.
+Untuk soal ini, kita akan asumsikan bahwa himpunan dengan *n* anggota berisi bilangan yang terus membesar, dan pasti memenuhi sifat kedua.
 
-Mengejutkannya, dari 25 pasangan himpunan bagian yang ada, yang bisa didapat dari himpunan dengan _n_ = 4, hanya 1 dari pasangan tersebut yang perlu di uji untuk sifat pertama. Hal yang sama, saat _n_ = 7, hanya 70 dari 966 himpunan bagian yang ada yang perlu di uji.
+Mengejutkan bahwa dari 25 pasangan himpunan bagian yang ada, yang bisa didapat dari himpunan dengan *n* = 4, hanya 1 dari pasangan tersebut yang perlu diuji untuk sifat pertama. Sementara itu, saat *n* = 7, hanya 70 dari 966 himpunan bagian yang ada yang perlu diuji.
 
-Untuk _n_ = 12, berapa banyak pasangan yang perlu di uji dengan sifat pertama, dari 261625 pasangan himpunan bagian yang ada?
+Untuk *n* = 12, berapa banyak pasangan yang perlu diuji dengan sifat pertama, dari 261625 pasangan himpunan bagian yang ada?
 
 NOTE: Soal ini berhubungan dengan [Soal 103](#soal-103) dan [Soal 105](#soal-105).
 
@@ -2201,11 +2210,11 @@ Answer: c8fd9e36fdeb06bcc93a0732c667b6d8
 
 # Soal 107
 
-<p>Jaringan tidak beraturan berikut ini memiliki dari tujuh titik dan dua belas garis with a total bobot 243.</p>
+<p>Jaringan takberarah berikut ini memiliki dari tujuh verteks (titik) dan dua belas rusuk with a total bobot 243.</p>
 
 ![](files-v1/p107_1.gif)
 
-<p>Jaringan di atas dapat dituliskan pada matriks berikut ini.</p>
+<p>Jaringan di atas dapat dilambangkan pula sebagai matriks berikut ini.</p>
 <table cellpadding='5' cellspacing='0' border='1' align='center'>
 <tr>
 <td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td><b>A</b></td><td><b>B</b></td><td><b>C</b></td><td><b>D</b></td><td><b>E</b></td><td><b>F</b></td><td><b>G</b></td>
@@ -2232,11 +2241,11 @@ Answer: c8fd9e36fdeb06bcc93a0732c667b6d8
 <td><b>G</b></td><td>-</td><td>-</td><td>-</td><td>23</td><td>11</td><td>27</td><td>-</td>
 </tr>
 </table>
-<p>Tetapi, kita dapat menyederhanakan jaringan tersebut dengan membuang beberapa garis, dan semua titik masih tetap terhubung. Jaringan yang paling sederhana ditunjukkan pada gambar di bawah. Jaringan ini memiliki bobot 93, dan dapat menghemat 243 &minus; 93 = 150 bobot, dari jaringan mula-mula.</p>
+<p>Kita dapat menyederhanakan jaringan tersebut dengan membuang beberapa rusuk, dan semua verteks masih tetap terhubung. Jaringan yang paling sederhana ditunjukkan pada gambar di bawah. Jaringan ini memiliki bobot 93, dan dapat menghemat 243 &minus; 93 = 150 bobot, dari jaringan mula-mula.</p>
 
 ![](files-v1/p107_2.gif)
 
-<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p107_network.txt">network.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah file text berukuran 6K berisi sebuah jaringan dengan empat puluh titik, dan diberikan dalam bentuk matriks, carilah jumlah penghematan maksimum yang dapat dilakukan, dengan membuang beberapa garis namun dengan memastikan bahwa semua titik tetap terhubung.</p>
+<p>Menggunakan <a href="{{ site.baseurl }}project/resources/p107_network.txt">network.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah berkas berukuran 6K berisi sebuah jaringan dengan empat puluh verteks, dan diberikan dalam bentuk matriks, carilah jumlah penghematan maksimum yang dapat dilakukan, dengan membuang beberapa ruas namun dengan memastikan bahwa semua verteks tetap terhubung.</p>
 
 Answer: b0db1202ec966e7855ca23626eb285b8
 
@@ -2260,22 +2269,23 @@ Answer: b0db1202ec966e7855ca23626eb285b8
     						   ─ + ─  = ─
     						   8   8    4
 
-<p>Berapakah nilai terkecil <var>n</var> sehingga terdapat solusi berbeda melebihi seribu buah?</p>
+<p>Berapakah nilai terkecil <var>n</var> sehingga terdapat solusi berbeda yang banyaknya melebihi seribu buah?</p>
 <p class="note">CATATAN: Soal ini adalah versi lebih mudah dari <a href="#soal-110">Soal 110</a>; dan sangat disarankan Anda menyelesaikan soal ini terlebih dahulu.</p>
 
 Answer: 765ba18edd2844db2db95fba25d2f3e7
 
 # Soal 109
 
-<p>Dalam permainan darts, seorang pemain akan melempar tiga buah dart ke papan target yang dibagi menjadi dua puluh bagian yang sama besar, diberi angka dari satu sampai dua puluh.</p>
+<p>Dalam permainan darts, seorang pemain akan melempar tiga batang dart (panah kecil) ke papan target yang dibagi menjadi dua puluh bagian yan
+g sama besar, diberi angka dari satu sampai dua puluh.</p>
 
 ![](files-v1/p109.gif)
 
-<p>Nilai dari sebuah dart ditentukan dari angka yang dimiliki oleh daerah dimana dart tersebut mendarat. Jika dart mendarat di luar lingkaran merah/hijau, maka pemain akan mendapat nilai nol. Daerah berwarna hitam dan krim dalam lingkaran akan mengalikan nilai dengan satu. Tetapi, garis merah/hijau pada bagian luar dan bagian tengah lingkaran akan melipatgandakan nilai, masing-masing menjadi dua kali (double) dan tiga kali (treble).</p>
-<p>Pada tengah-tengah papan, terdapat dua buah lingkaran sepusat yang disebut bull region, atau bulls-eye. Bagian luar bull bernilai 25 poin, dan bagian dalam bull adalah double bull dan bernilai dua kali lipatnya, yaitu 50 poin.</p>
-<p>Terdapat berbagai variasi dari aturan yang ada, namun aturan yang paling sering digunakan adalah para pemain akan mulai dengan skor 301 atau 501, dan pemain pertama yang bisa mengurangi skornya sampai nol adalah pemenangnya. Tetapi, setiap pemain harus memperhatikan sistem &quot;doubles out&quot;, dimana setiap pemain harus mendaratkan dart terakhir mereka di mana saja yang memiliki nilai double(termasuk double bulls-eye berwarna merah di tengah papan) untuk menang; setiap tiga dart yang membuat nilai total pemain menjadi satu atau kurang dari satu, akan mengakibatkan skor ketiga dart tersebut diabaikan (&quot;bust&quot;).</p>
+<p>Nilai dari sebatang dart ditentukan dari angka yang dimiliki oleh daerah tempat dart tersebut mendarat. Jika dart mendarat di luar lingkaran merah/hijau, maka pemain akan mendapat nilai nol. Daerah berwarna hitam dan krim dalam lingkaran akan mengalikan nilai dengan satu. Tetapi, garis merah/hijau pada bagian luar dan bagian tengah lingkaran akan melipatgandakan nilai, masing-masing menjadi dua kali (double) dan tiga kali (treble).</p>
+<p>Pada tengah-tengah papan, terdapat dua lingkaran sepusat yang disebut <i>bull region</i>, atau <i>bulls-eye</i>. Bagian luar bull bernilai 25 poin, dan bagian dalam bull adalah <i>double bull</i> dan bernilai dua kali lipatnya, yaitu 50 poin.</p>
+<p>Terdapat berbagai variasi dari aturan yang ada, namun aturan yang paling sering digunakan adalah para pemain akan mulai dengan skor 301 atau 501, dan pemain pertama yang bisa mengurangi skornya sampai nol adalah pemenangnya. Tetapi, setiap pemain harus memperhatikan sistem &quot;doubles out&quot;, di mana setiap pemain harus mendaratkan dart terakhir mereka di mana saja yang memiliki nilai double(termasuk double bulls-eye berwarna merah di tengah papan) untuk menang; setiap tiga dart yang membuat nilai total pemain menjadi satu atau kurang dari satu, akan mengakibatkan skor ketiga dart tersebut diabaikan (&quot;bust&quot;).</p>
 <p>Saat seorang pemain dapat menyelesaikan permainannya, hal itu disebut &quot;checkout&quot; dan skor checkout tertinggi yang bisa didapat adalah 170: T20 T20 D25 (dua treble 20s dan double bull).</p>
-<p>Terdapat sebelas cara berbeda untuk melakukan checkout dengan nilai 6:</p>
+<p>Terdapat sebelas cara berbeda untuk melakukan checkout pada nilai 6:</p>
 <div style='text-align:center;'>
 <table border='1' cellpadding='3' cellspacing='0' align='center'>
 <tr>
@@ -2338,31 +2348,31 @@ Answer: 765ba18edd2844db2db95fba25d2f3e7
 <p>Perhatikan bahwa D1 D2 dianggap <b>berbeda</b> dengan D2 D1, karena mereka selesai di double yang berbeda. Tetapi, kombinasi S1 T1 D1 dianggap <b>sama</b> dengan T1 S1 D1.</p>
 <p>Sebagai tambahan, kita tidak akan mengikut sertakan dart yang meleset dalam kombinasi; sebagai contoh, D3 adalah <b>sama</b> dengan 0 D3 dan 0 0 D3.</p>
 <p>Luar biasanya, ternyata terdapat 42336 cara berbeda untuk melakukan checkout.</p>
-<p>Berapakah cara pemain dapat melakukan checkout dengan nilai kurang dari 100?</p>
+<p>Berapa banyak cara pemain dapat melakukan checkout pada nilai kurang dari 100?</p>
 
 Answer: e6aebd5be1ba81557dbcc5f6f57bbe5c
 
 # Soal 110
 
-<p>Dalam persamaan berikut <var>x</var>, <var>y</var>, dan <var>n</var> adalah bilangna bulat positif.</p>
+<p>Dalam persamaan berikut <var>x</var>, <var>y</var>, dan <var>n</var> adalah bilangan bulat positif.</p>
 
     						   1   1   1
     						   ─ + ─ = ─
     						   x   y   n
 
-<p>Dapat dibuktikan bahwa saat <var>n</var> = 1260 terdapat 113 buah solusi berbeda, dan ini adalah merupakan nilai <var>n</var> terkecil yang akan menghasilkan solusi berbeda lebih dari seratus buah.</p>
-<p>Berapakah nilai terkecil <var>n</var> sehingga terdapat solusi berbeda melebihi empat juta buah?</p>
+<p>Dapat dibuktikan bahwa saat <var>n</var> = 1260 terdapat 113 buah solusi berbeda, dan ini adalah merupakan nilai <var>n</var> terkecil yang akan menghasilkan solusi berbeda sebanyak lebih dari seratus buah.</p>
+<p>Berapakah nilai terkecil <var>n</var> sehingga terdapat solusi berbeda yang banyaknya melebihi empat juta?</p>
 <p class="note">CATATAN: Soal ini adalah versi yang lebih sulit dari <a href="#soal-108">Soal 108</a> dan tidak memungkinkan untuk diselesaikan dengan cara mencoba satu persatu, perlu cara yang cerdas untuk menyelesaikan soal ini.</p>
 
 Answer: 591a7a92f10322866e6a02f3b2386a1c
 
 # Soal 111
 
-<p>Apabila suatu bilangan prima 4-angka memiliki angka-angka yang berulang, jelas bahwa tidak mungkin ke 4-angka tersebut sama: 1111 habis dibagi 11, 2222 habis dibagi 22, dan seterusnya. Namun terdapat sembilan buah bilangan prima 4-angka yang memiliki tiga buah angka satu:</p>
+<p>Apabila suatu bilangan prima 4-digit memiliki digit yang berulang, jelas bahwa tidak mungkin keempat digit tersebut semuanya sama: 1111 habis dibagi 11, 2222 habis dibagi 22, dan seterusnya. Namun terdapat sembilan buah bilangan prima 4-digit yang memiliki tiga buah digit satu:</p>
 <p style='text-align:center;'>1117, 1151, 1171, 1181, 1511, 1811, 2111, 4111, 8111</p>
-<p>Kita akan menyatakan bahwa M(<i>n</i>, <i>d</i>) melambangkan jumlah maksimal dari angka yang berulang untuk bilangan prima <i>n</i>-angka, dimana <i>d</i> adalah angka yang akan berulang, N(<i>n</i>, <i>d</i>) melambangkan banyaknya bilangan prima tersebut, dan S(<i>n</i>, <i>d</i>) melambangkan jumlah dari bilangan-bilangan prima tersebut.</p>
-<p>Sehingga M(4, 1) = 3 adalah jumlah maksimal angka yang boleh berulang, untuk bilangan prima 4 angka, dimana angka berulangnya adalah satu, terdapat N(4, 1) = 9 buah bilangan prima yang memenuhi sifat sebelumnya, dan jumlah dari bilangan-bilangan prima tersebut adalah S(4, 1) = 22275. Lalu untuk <i>d</i> = 0, angka tersebut hanya memungkinkan diulang M(4, 0) = 2 kali, namun terdapat N(4, 0) = 13 buah bilangan prima pada kasus tersebut.</p>
-<p>Dengan cara yang sama, kita akan mendapatkan hasil berikut untuk bilangan prima 4-angka.</p>
+<p>Kita akan menyatakan bahwa M(<i>n</i>, <i>d</i>) melambangkan banyak maksimal dari digit yang berulang untuk bilangan prima digit-<i>n</i>, di mana <i>d</i> adalah digit yang akan berulang, N(<i>n</i>, <i>d</i>) melambangkan banyaknya bilangan prima tersebut, dan S(<i>n</i>, <i>d</i>) melambangkan jumlah dari bilangan-bilangan prima tersebut.</p>
+<p>Sehingga M(4, 1) = 3 adalah jumlah maksimal digit yang boleh berulang, untuk bilangan prima 4 digit, di mana digit berulangnya adalah satu, terdapat N(4, 1) = 9 buah bilangan prima yang memenuhi sifat sebelumnya, dan jumlah dari bilangan-bilangan prima tersebut adalah S(4, 1) = 22275. Lalu untuk <i>d</i> = 0, digit tersebut hanya memungkinkan diulang M(4, 0) = 2 kali, namun terdapat N(4, 0) = 13 buah bilangan prima pada kasus tersebut.</p>
+<p>Dengan cara yang sama, kita akan mendapatkan hasil berikut untuk bilangan prima 4-digit.</p>
 <div style='text-align:center;'>
 <table align='center' border='1' cellspacing='0' cellpadding='5'>
 <tr>
@@ -2440,33 +2450,34 @@ Answer: cdf4d134a3b0caa10a69e2771ac4fd36
 
 # Soal 112
 
-Dimulai dari kiri ke kanan, apabila terdapat suatu bilangan yang tidak ada angka yang lebih besar dari angka di sebelah kirinya, maka bilangan itu akan disebut sebagai bilangan bertambah; sebagai contoh, 134468.
+Dimulai dari kiri ke kanan, apabila digit dalam suatu bilangan lebih besar daripada digit di sebelah kirinya, maka bilangan itu akan disebut sebagai *bilangan bertambah*; sebagai contoh, 134468.
 
-Hal yang sama, apabila terdapat suatu bilangan yang tidak ada angka yang lebih besar dari angka sebelah kanannya, maka bilangan itu akan disebut bilangan berkurang; sebagai contoh, 66420.
+Dengan cara yang sama, apabila digit dalam suatu bilangan tidak lebih besar dari digit di sebelah kanannya, maka bilangan itu akan disebut *bilangan berkurang*; sebagai contoh, 66420.
 
-Kita akan menyebut bilangan positif merupakan bilangan bertambah juga merupakan bilangan berkurang sebagai bilangan "bouncy"; sebagai contoh, 155349.
+Kita akan menyebut bilangan positif yang bukan merupakan bilangan bertambah atau juga bilangan berkurang sebagai bilangan "bouncy"; sebagai contoh, 155349.
 
-Jelas bahwa tidak mungkin ada bilangan bouncy yang kurang dari seratus, namun hampir separuh dari bilangan di bawah seribu adalah bilangan bouncy (525 buah). Pada kenyataannya, bilangan pertama yang membuat banyaknya bilangan bouncy menjadi 50% adalah 538.
+Jelas bahwa tidak mungkin ada bilangan bouncy yang lebih kecil dari seratus. Namun hampir separuh dari bilangan di bawah seribu adalah bilangan bouncy (525 buah). Pada kenyataannya, pada bilangan 538 untuk pertama kalinya persentase bilangan "bouncy" di bawahnya menjadi 50%.
 
-Mengejutkannya, bilangan bouncy menjadi semakin sering ditemui saat kita sampai ke bilangan 21780, banyaknya bilangan bouncy saat itu adalah 90%.
+Cukup mengejutkan bahwa bilangan bouncy menjadi semakin sering ditemui saat kita sampai ke bilangan 21780. Pada titik tersebut, persentase banyaknya bilangan bouncy di bawahnya  adalah 90%.
 
-Carilah pada bilangan berapa, banyaknya bilangan bouncy akan menjadi 99%?
+Carilah pada bilangan berapa, proporsi bilangan bouncy di bawahnya akan menjadi 99%?
 
 Answer: e08c982713a1c2bd3637dd489199722e
 
 # Soal 113
 
-<p>Dimulai dari kiri ke kanan, apabila terdapat suatu bilangan yang tidak ada angka yang lebih besar dari angka di sebelah kirinya, maka bilangan itu akan disebut sebagai bilangan bertambah; sebagai contoh, 134468.</p>
-<p>Hal yang sama, apabila terdapat suatu bilangan yang tidak ada angka yang lebih besar dari angka sebelah kanannya, maka bilangan itu akan disebut bilangan berkurang; sebagai contoh, 66420.</p>
-<p>Kita akan menyebut bilangan positif merupakan bilangan bertambah juga merupakan bilangan berkurang sebagai bilangan &quot;bouncy&quot; sebagai contoh, 155349.</p>
-<p>Saat nilai <i>n</i> semakin meningkat, banyaknya bilangan bouncy yang kurang dari <i>n</i> juga akan semakin meningkat, sebagai contoh, terdapat hanya 12951 buah bilangan kurang dari satu juta yang bukan merupakan bilangan bouncy, dan hanya terdapat 277032 buah bilangan kurang dari 10<sup>10</sup> yang bukan merupakan bilangan bouncy.</p>
-<p>berapakah banyaknya bilangan kurang dari 10<sup>100</sup> yang bukan merupakan bilangan bouncy?</p>
+<p>Dimulai dari kiri ke kanan, apabila digit dalam suatu bilangan lebih besar daripada digit di sebelah kirinya, maka bilangan itu akan disebut sebagai <i>bilangan bertambah</i>; sebagai contoh, 134468.</p>
+<p>Dengan cara yang sama, apabila digit dalam suatu bilangan tidak lebih besar dari digit di sebelah kanannya, maka bilangan itu akan disebut <i>bilangan berkurang</i>; sebagai contoh, 66420.</p>
+<p>Kita akan menyebut bilangan positif yang bukan merupakan bilangan bertambah atau juga bilangan berkurang sebagai bilangan &quot;bouncy&quot; sebagai contoh, 155349.</p>
+<p>Saat nilai <i>n</i> semakin meningkat, banyaknya bilangan bouncy yang lebih kecil dari <i>n</i> juga akan semakin meningkat, sebagai contoh, hanya ada  12951 buah bilangan yang lebih kecil dari satu juta yang bukan merupakan bilangan bouncy, dan hanya terdapat 277032 buah bilangan yang lebih kecil dari 10<sup>10</sup> yang bukan merupakan bilangan bouncy.</p>
+<p>Berapakah banyaknya bilangan yang lebih kecil dari 10<sup>100</sup> yang bukan merupakan bilangan bouncy?</p>
 
 Answer: a9e504ee704c87f9bddad6d3ffe39532
 
 # Soal 114
 
-<p>Terdapat sebuah blok kotak dengan panjang tujuh satuan, harus memiliki kotak merah yang panjang minimalnya tiga satuan. Jika terdapat dua bagian kotak berwarna merah (dimana kedua kotak merah diizinkan untuk memiliki panjang berbeda), kedua bagian tersebut harus dipisahkan oleh setidaknya satu kotak hitam. Terdapat persis tujuh belas kombinasi dari masalah ini.</p>
+<p>Suatu barisan kotak dengan panjang tujuh satuan, yang memiliki kotak merah yang panjang minimalnya tiga satuan. Jika terdapat dua bagian ko
+tak berwarna merah (dimana kedua kotak merah boleh memiliki panjang berbeda), kedua bagian tersebut harus dipisahkan oleh setidaknya satu kotak hitam. Terdapat persis tujuh belas kombinasi dari masalah ini.</p>
 
 <table cellpadding="5" cellspacing="1" border="0" align="center">
 
@@ -2657,7 +2668,7 @@ Answer: a9e504ee704c87f9bddad6d3ffe39532
 </tr>
 
 </table>
-<p>Berapa banyak cara mengisi kotak merah pada sebuah blok kotak dengan panjang lima puluh satuan dengan aturan di atas?</p>
+<p>Berapa banyak cara mengisi kotak merah pada sebuah barisan kotak dengan panjang lima puluh satuan dengan aturan di atas?</p>
 <p class="note">CATATAN: Belum terlihat pada contoh di atas, bahwa Anda diperbolehkan untuk menggunakan dua bagian kotak merah berbeda ukuran. Sebagai contoh, pada blok kotak berukuran delapan satuan panjang, anda dapat menggunakan susunan merah (3), hitam (1), dan merah (4).</p>
 
 Answer: de48ca72bf252a8be7e0aad762eadcf8
@@ -2666,25 +2677,26 @@ Answer: de48ca72bf252a8be7e0aad762eadcf8
 
 CATATAN: Ini adalah versi yang lebih menantang dari [Soal 114](#soal-114).
 
-Sebuah blok berukuran _n_ satuan panjang diwajibkan berisi kotak merah dengan panjang minimal _m_ satuan, dan pada blok tersebut diperbolehkan untuk memiliki dua bagian kotak merah yang wajib dipisahkan oleh setidaknya satu kotak hitam (kedua bagian kotak merah boleh memiliki panjang berbeda).
+Sebuah barisan kotak berukuran *n* satuan panjang berisi kotak merah dengan panjang minimal *m* satuan, dan barisan tersebut boleh memiliki dua bagian kotak merah yang wajib dipisahkan oleh setidaknya satu kotak hitam (kedua bagian kotak merah boleh memiliki panjang berbeda).
 
-Misalkan terdapat fungsi F(_m_, _n_), yang merupakan banyaknya cara blok berukuran _n_ tersebut dapat di isi.
+Misalkan terdapat fungsi F(*m*, *n*), yang merupakan banyaknya cara barisan kotak berukuran *n* tersebut dapat diisi.
 
 Sebagai contoh, F(3, 29) = 673135 dan F(3, 30) = 1089155.
 
-Dari fungsi di atas terlihat, bahwa saat _m_ = 3, nilai _n_ = 30 adalah nilai _n_ terkecil yang akan membuat banyaknya cara menyusun blok merah melebihi satu juta cara.
+Dari fungsi di atas terlihat, bahwa saat *m* = 3, nilai *n* = 30 adalah nilai *n* terkecil yang akan membuat banyaknya cara menyusun kotak merah melebihi satu juta cara.
 
-Denagn cara yang sama, untuk _m_ = 10, dapat dibuktikan bahwa F(10, 56) = 880711 dan F(10, 57) = 1148904, sehingga _n_ = 57 adalah nilai _n_ terkecil yang akan membuat banyaknya cara menyusun blok merah melebihi satu juta cara.
+Denagn cara yang sama, untuk *m* = 10, dapat dibuktikan bahwa F(10, 56) = 880711 dan F(10, 57) = 1148904, sehingga *n* = 57 adalah nilai *n* terkecil yang akan membuat banyaknya cara menyusun kotak merah melebihi satu juta cara.
 
-Untuk _m_ = 50, carilah nilai _n_ terkecil, sehingga ada lebih dari satu juta cara untuk menyusun kotak merah.
+Untuk *m* = 50, carilah nilai *n* terkecil, sehingga ada lebih dari satu juta cara untuk menyusun kotak merah.
 
 Answer: 006f52e9102a8d3be2fe5614f42ba989
 
 # Soal 116
 
-<p>Sebuah barisan lima kotak hitam diperbolehkan di isi oleh kotak berbagai warna, yaitu merah (panjang dua kotak), hijau (panjang tiga kotak), atau biru (panjang empat kotak).</p>
+<p>Kita akan mengganti tegel pada barisan berisi lima tegel hitam dengan tegel lain yang berbeda warna, yaitu merah (panjang dua satuan), hijau
+ (panjang tiga satuan), atau biru (panjang empat satuan).</p>
 
-<p>Jika kotak merah dipilih untuk mengisi barisan di atas, maka terdapat persis tujuh cara yang ada.</p>
+<p>Jika tegel merah dipilih untuk mengisi barisan di atas, maka terdapat persis tujuh cara yang ada.</p>
 
     				 ┌─╥╥╥┐  ┌╥─╥╥┐  ┌╥╥─╥┐  ┌╥╥╥─┐
     				 └─╨╨╨┘  └╨─╨╨┘  └╨╨─╨┘  └╨╨╨─┘
@@ -2702,8 +2714,8 @@ Answer: 006f52e9102a8d3be2fe5614f42ba989
     						 ┌╥───┐  ┌───╥┐
     						 └╨───┘  └───╨┘
 
-<p>Jika warna-warna yang ada tidak boleh dicampur, maka akan terdapat 7 + 3 + 2 = 12 cara untuk mengisi kotak hitam yang memiliki panjang lima satuan.</p>
-<p>Berapakah banyaknya cara kotak hitam dengan panjang lima puluh satuan dapat di isi dengan cara seperti di atas, dan kotak hitam tersebut hanya diperbolehkan di isi oleh satu warna?</p>
+<p>Jika warna-warna yang ada tidak boleh dicampur, maka akan terdapat 7 + 3 + 2 = 12 cara untuk mengganti tegel hitam yang memiliki panjang lima satuan.</p>
+<p>Berapakah banyaknya cara tegel hitam dengan panjang lima puluh satuan dapat diganti dengan cara seperti di atas, dan kita hanya diperbolehkan menggantinya dengan satu warna?</p>
 <p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-117">Soal 117</a>.</p>
 
 Answer: c21ca0ec54e6d1646a953a480f68feb4
@@ -3519,8 +3531,8 @@ Answer: 08ec9d6e6c2275d37e7a227fb2d1f06f
 ![](files-v1/p154_pyramid.gif)
 
 <p>Lalu kita akan menghitung banyaknya jalur dari puncak piramida ke setiap posisi:</p>
-<p>Setiap jalur dimulai dari puncak piramida, dan turun ke salah satu dari tiga bola yang ada di bawahnya.</p>
-<p>Akibatnya, banyaknya jalur yang diperlukan untuk sampai ke posisi tertentu bisa didapatkan dengan menjumlahkan bilangan pada bola-bola di atas bola tersebut (tergantung posisi bola, kita mungkin bisa menjumlahkan bilangan maksimal sampai tiga buah bola di atasnya).</p>
+<p>Setiap jalur dimulai dari puncak piramida, dan turun salah satu dari tiga bolah yang ada di bawahnya.</p>
+<p>Akibatnya, banyaknya jalur yang diperlukan untuk sampai ke posisi tertentu bisa didapatkan dengan menjumlahkan bilangan bola-bola di atas bola tersebut (tergantung posisi bola, kita mungkin bisa menjumlahkan bilangan maksimal sampai tiga buah bola di atasnya).</p>
 <p>Hasilnya, akan terbentuk <i>piramida Pascal</i>, dan bilangan-bilangan pada setiap tingkat <var>n</var> merupakan koefisien dari penjabaran 
 (<var>x + y + z</var>)<sup><var>n</var></sup>.</p>
 <p>Berapa banyak koefisien pada penjabaran (<var>x + y + z</var>)<sup>200000</sup> yang merupakan kelipatan 10<sup>12</sup>?</p>
