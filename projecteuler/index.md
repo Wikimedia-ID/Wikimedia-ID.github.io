@@ -2162,7 +2162,7 @@ Answer: 1ecfb463472ec9115b10c292ef8bc986
    discs in total, determine the number of blue discs that the box would
    contain.
 
-   Answer: 21156e3acc4ca35b7a318c541a0648d5
+Answer: 21156e3acc4ca35b7a318c541a0648d5
 
 # Soal 101
 
@@ -2282,7 +2282,7 @@ Answer: af8c238336c2a79bb81a24b3fef3330d
    Given that F[k] is the first Fibonacci number for which the first nine
    digits AND the last nine digits are 1-9 pandigital, find k.
 
-   Answer: c8771ddd4df191098d70a8e94dd1cde7
+Answer: c8771ddd4df191098d70a8e94dd1cde7
 
 # Soal 105
 
@@ -2306,7 +2306,7 @@ Answer: af8c238336c2a79bb81a24b3fef3330d
 
    NOTE: This problem is related to [Problem 103](#soal-103) and [Problem 106](#soal-106).
 
-   Answer: c87d30e494eff438fe37b4c810167da0
+Answer: c87d30e494eff438fe37b4c810167da0
 
 # Soal 106
 
@@ -2551,7 +2551,7 @@ Answer: cdf4d134a3b0caa10a69e2771ac4fd36
    Find the least number for which the proportion of bouncy numbers is
    exactly 99%.
 
-   Answer: e08c982713a1c2bd3637dd489199722e
+Answer: e08c982713a1c2bd3637dd489199722e
 
 # Soal 113
 
@@ -2570,7 +2570,7 @@ Answer: cdf4d134a3b0caa10a69e2771ac4fd36
 
    How many numbers below a googol (10^100) are not bouncy?
 
-   Answer: a9e504ee704c87f9bddad6d3ffe39532
+Answer: a9e504ee704c87f9bddad6d3ffe39532
 
 # Soal 114
 
@@ -2599,7 +2599,7 @@ Answer: cdf4d134a3b0caa10a69e2771ac4fd36
    measuring eight units in length you could use red (3), black (1), and red
    (4).
 
-   Answer: de48ca72bf252a8be7e0aad762eadcf8
+Answer: de48ca72bf252a8be7e0aad762eadcf8
 
 # Soal 115
 
@@ -2695,7 +2695,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
    How many distinct sets containing each of the digits one through nine
    exactly once contain only prime elements?
 
-   Answer: 080cc5a4ec71a747e260e274bdb13b64
+Answer: 080cc5a4ec71a747e260e274bdb13b64
 
 # Soal 119
 
@@ -2710,7 +2710,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
 
    Find a[30].
 
-   Answer: 72fddfa6c52a120892ade628f3819da4
+Answer: 72fddfa6c52a120892ade628f3819da4
 
 # Soal 120
 
@@ -2721,7 +2721,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
 
    For 3 ≤ a ≤ 1000, find ∑ r[max].
 
-   Answer: 0dd05ec40fe11279c2203b72e92a450a
+Answer: 0dd05ec40fe11279c2203b72e92a450a
 
 # Soal 121
 
@@ -2743,7 +2743,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
    Find the maximum prize fund that should be allocated to a single game in
    which fifteen turns are played.
 
-   Answer: 51de85ddd068f0bc787691d356176df9
+Answer: 51de85ddd068f0bc787691d356176df9
 
 # Soal 122
 
@@ -2773,7 +2773,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
 
    For 1 ≤ k ≤ 200, find ∑ m(k).
 
-   Answer: b710915795b9e9c02cf10d6d2bdb688c
+Answer: b710915795b9e9c02cf10d6d2bdb688c
 
 # Soal 123
 
@@ -2786,7 +2786,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
 
    Find the least value of n for which the remainder first exceeds 10^10.
 
-   Answer: 71497f728b86b55d965edbf1849cca8d
+Answer: 71497f728b86b55d965edbf1849cca8d
 
 # Soal 124
 
@@ -2814,7 +2814,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
 
    If rad(n) is sorted for 1 ≤ n ≤ 100000, find E(10000).
 
-   Answer: f228d2e6f9099153388e9470180c8302
+Answer: f228d2e6f9099153388e9470180c8302
 
 # Soal 125
 
@@ -2829,7 +2829,7 @@ Answer: 542612809b3dd08cf518b85450fce8d6
    Find the sum of all the numbers less than 10^8 that are both palindromic
    and can be written as the sum of consecutive squares.
 
-   Answer: 1b5635e8ab723e01570ca783129493dd
+Answer: 1b5635e8ab723e01570ca783129493dd
 
 # Soal 126
 
@@ -2926,7 +2926,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
 
    Find the least value of n for which A(n) first exceeds one-million.
 
-   Answer: 82cd979a2b79600137aea54fa0bd944b
+Answer: 82cd979a2b79600137aea54fa0bd944b
 
 # Soal 130
 
@@ -2946,7 +2946,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
    Find the sum of the first twenty-five composite values of n for which
    GCD(n, 10) = 1 and n − 1 is divisible by A(n).
 
-   Answer: 20594ea0ef7a2f4cf40d19a9b82a0beb
+Answer: 20594ea0ef7a2f4cf40d19a9b82a0beb
 
 # Soal 131
 
@@ -2961,7 +2961,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
 
    How many primes below one million have this remarkable property?
 
-   Answer: f7e6c85504ce6e82442c770f7c8606f0
+Answer: f7e6c85504ce6e82442c770f7c8606f0
 
 # Soal 132
 
@@ -2973,7 +2973,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
 
    Find the sum of the first forty prime factors of R(10^9).
 
-   Answer: 5df3a36faa173a393a04a022b2d5d49d
+Answer: 5df3a36faa173a393a04a022b2d5d49d
 
 # Soal 133
 
@@ -2990,7 +2990,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
    Find the sum of all the primes below one-hundred thousand that will never
    be a factor of R(10^n).
 
-   Answer: c1d33d79d08cde65eaa78e4583ea0594
+Answer: c1d33d79d08cde65eaa78e4583ea0594
 
 # Soal 134
 
@@ -3005,7 +3005,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
 
    Find ∑ S for every pair of consecutive primes with 5 ≤ p[1] ≤ 1000000.
 
-   Answer: f12b07460d2586ea47b4d305ae0b0539
+Answer: f12b07460d2586ea47b4d305ae0b0539
 
 # Soal 135
 
@@ -3022,7 +3022,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
    How many values of n less than one million have exactly ten distinct
    solutions?
 
-   Answer: c457d7ae48d08a6b84bc0b1b9bd7d474
+Answer: c457d7ae48d08a6b84bc0b1b9bd7d474
 
 # Soal 136
 
@@ -3037,7 +3037,7 @@ Answer: 93a1925da4792b4fa5d2dbb6ebb7c4a2
 
    How many values of n less than fifty million have exactly one solution?
 
-   Answer: 91db9e8e6cb2dbf9c07a6e0429697336
+Answer: 91db9e8e6cb2dbf9c07a6e0429697336
 
 # Soal 137
 
@@ -3157,14 +3157,14 @@ Answer: e5d75f96929ba250b2732aad52f3028c
    Find the sum of all progressive perfect squares below one trillion
    (10^12).
 
-   Answer: 2aaefa1db80951be140183f9e8c0194e
+Answer: 2aaefa1db80951be140183f9e8c0194e
 
 # Soal 142
 
    Find the smallest x + y + z with integers x > y > z > 0 such that x + y, x
    − y, x + z, x − z, y + z, y − z are all perfect squares.
 
-   Answer: d3de282705508407532aa20ca8928e3b
+Answer: d3de282705508407532aa20ca8928e3b
 
 # Soal 143
 
@@ -3246,7 +3246,7 @@ Answer: 8dd48d6a2e2cad213179a3992c0be53c
 
    How many reversible numbers are there below one-billion (10^9)?
 
-   Answer: 705e8444ad9c92e9a7589fb97515a9b6
+Answer: 705e8444ad9c92e9a7589fb97515a9b6
 
 # Soal 146
 
@@ -3256,7 +3256,7 @@ Answer: 8dd48d6a2e2cad213179a3992c0be53c
 
    What is the sum of all such integers n below 150 million?
 
-   Answer: 525bd2bf0e31b0f19b38a1d21f2f6a16
+Answer: 525bd2bf0e31b0f19b38a1d21f2f6a16
 
 # Soal 147
 
@@ -3303,7 +3303,7 @@ Answer: d0fca7d85d4a4df043a2ae5772ea472e
    Find the number of entries which are not divisible by 7 in the first one
    billion (10^9) rows of Pascal's triangle.
 
-   Answer: 8a631ab4e3d06baf88299bf4e501b837
+Answer: 8a631ab4e3d06baf88299bf4e501b837
 
 # Soal 149
 
@@ -3339,7 +3339,7 @@ Answer: d0fca7d85d4a4df043a2ae5772ea472e
    Finally, find the greatest sum of (any number of) adjacent entries in any
    direction (horizontal, vertical, diagonal or anti-diagonal).
 
-   Answer: 96affc386f4b786c2521a32944424982
+Answer: 96affc386f4b786c2521a32944424982
 
 # Soal 150
 
@@ -3609,7 +3609,7 @@ Answer: c96fc71df4ef8f6420fda7958957538c
 
    What is the maximum value of p(n)?
 
-   Answer: 6070fa194890e52b2989af5b542aee90
+Answer: 6070fa194890e52b2989af5b542aee90
 
 # Soal 159
 
@@ -3661,7 +3661,7 @@ Answer: 2ab79df40adc1028d1fa83a6333db907
 
    Find f(1,000,000,000,000)
 
-   Answer: e51ada1e23f810eb1b51a18bb6825f85
+Answer: e51ada1e23f810eb1b51a18bb6825f85
 
 # Soal 161
 
@@ -3709,7 +3709,7 @@ Answer: 975ccc38bb5402c5b485f3de5928d919
    marks the number as hexadecimal and without leading zeroes , e.g. 1A3F and
    not: 1a3f and not 0x1a3f and not $1A3F and not #1A3F and not 0000001A3F)
 
-   Answer: 049419b9fdad9af74d5888626fff56a3
+Answer: 049419b9fdad9af74d5888626fff56a3
 
 # Soal 163
 
@@ -3746,7 +3746,7 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
    How many 20 digit numbers n (without any leading zero) exist such that no
    three consecutive digits of n have a sum greater than 9?
 
-   Answer: 6e96debf3bfe7cc132401bafe5a5d6d6
+Answer: 6e96debf3bfe7cc132401bafe5a5d6d6
 
 # Soal 165
 
@@ -3798,7 +3798,7 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
    How many distinct true intersection points are found among the 5000 line
    segments?
 
-   Answer: b87b096af5a545b4f7a45cfed4e67c87
+Answer: b87b096af5a545b4f7a45cfed4e67c87
 
 # Soal 166
 
@@ -3817,7 +3817,7 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
    In how many ways can you fill a 4x4 grid with the digits d, 0 ≤ d ≤ 9 so
    that each row, each column, and both diagonals have the same sum?
 
-   Answer: e4f39f61ee7f1bfe433a177c07f5512f
+Answer: e4f39f61ee7f1bfe433a177c07f5512f
 
 # Soal 167
 
@@ -3833,7 +3833,7 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
 
    Find `∑U(2,2n+1)[k]` for 2 ≤ n ≤10, where k = 10^11.
 
-   Answer: aa5b61f6f4d96cbaeb5944b8fcdf64a3
+Answer: aa5b61f6f4d96cbaeb5944b8fcdf64a3
 
 # Soal 168
 
@@ -3846,7 +3846,7 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
    Find the last 5 digits of the sum of all integers n, 10 < n < 10^100, that
    have this property.
 
-   Answer: 39e7aab76650b018578830bc6dba007a
+Answer: 39e7aab76650b018578830bc6dba007a
 
 # Soal 169
 
@@ -3864,7 +3864,7 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
 
    What is f(10^25)?
 
-   Answer: d149d4836703a8908becea56ddd3ed42
+Answer: d149d4836703a8908becea56ddd3ed42
 
 # Soal 170
 
@@ -3884,7 +3884,7 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
    integer with two or more other integers, such that the concatenation of
    the input numbers is also a 0 to 9 pandigital 10-digit number?
 
-   Answer: 6ffe65352f717c1731666a107ace96c1
+Answer: 6ffe65352f717c1731666a107ace96c1
 
 # Soal 171
 
@@ -3898,14 +3898,14 @@ Answer: a4f66a42a5b5dc395d00463d77e0a0c6
    Find the last nine digits of the sum of all n, 0 < n < 10^20, such that
    f(n) is a perfect square.
 
-   Answer: ff586db8c4a5699ec78c645fcb27db7b
+Answer: ff586db8c4a5699ec78c645fcb27db7b
 
 # Soal 172
 
    How many 18-digit numbers n (without leading zeros) are there such that no
    digit occurs more than three times in n?
 
-   Answer: f5f260ee21ead7478403c2ccd18a1829
+Answer: f5f260ee21ead7478403c2ccd18a1829
 
 # Soal 173
 
@@ -3968,7 +3968,7 @@ Answer: 73166006522ed7f51ed3e2ca66353b66
 
    Give your answer as comma separated integers, without any whitespaces.
 
-   Answer: 796dddd004c3465229058072f5b4583e
+Answer: 796dddd004c3465229058072f5b4583e
 
 # Soal 176
 
@@ -3980,7 +3980,7 @@ Answer: 73166006522ed7f51ed3e2ca66353b66
    Find the smallest integer that can be the length of a cathetus of exactly
    47547 different integer sided right-angled triangles.
 
-   Answer: c47c782ebaf8cdbb60eebfa86cd0003c
+Answer: c47c782ebaf8cdbb60eebfa86cd0003c
 
 # Soal 177
 
@@ -4016,7 +4016,7 @@ Answer: d7a85236af930db0f7e84f2de8ee7ac2
    once.
    How many pandigital step numbers less than 10^40 are there?
 
-   Answer: 2ffddfa898fa5df6321aebea84d4f33f
+Answer: 2ffddfa898fa5df6321aebea84d4f33f
 
 # Soal 179
 
@@ -4024,7 +4024,7 @@ Answer: d7a85236af930db0f7e84f2de8ee7ac2
    same number of positive divisors. For example, 14 has the positive
    divisors 1, 2, 7, 14 while 15 has 1, 3, 5, 15.
 
-   Answer: bafa0132bc7fc422a8d53bebb9d003c9
+Answer: bafa0132bc7fc422a8d53bebb9d003c9
 
 # Soal 180
 
@@ -4065,7 +4065,7 @@ Answer: 6459f69d151314c59df404868f45fa96
    In how many ways can sixty black objects B and forty white objects W be
    thus grouped?
 
-   Answer: 0e1233ecbc058dabf54a8602eac55d95
+Answer: 0e1233ecbc058dabf54a8602eac55d95
 
 # Soal 182
 
@@ -4101,7 +4101,7 @@ Answer: 6459f69d151314c59df404868f45fa96
    Find the sum of all values of e, 1<e<φ(1009,3643) and gcd(e,φ)=1, so that
    the number of unconcealed messages for this value of e is at a minimum.
 
-   Answer: 088ad9a61e60b9309e91cfc3ed27d729
+Answer: 088ad9a61e60b9309e91cfc3ed27d729
 
 # Soal 183
 
@@ -4128,7 +4128,7 @@ Answer: 6459f69d151314c59df404868f45fa96
 
    Find ΣD(N) for 5 ≤ N ≤ 10000.
 
-   Answer: 438bc10af8f8eb366ec1371478ca3d3c
+Answer: 438bc10af8f8eb366ec1371478ca3d3c
 
 # Soal 184
 
@@ -4245,7 +4245,7 @@ Answer: b21d68f1871abf1d5bbcf1206b3f1643
    How many composite integers, n < 10^8, have precisely two, not necessarily
    distinct, prime factors?
 
-   Answer: b3e6977523511d2cbbef8fccb1e394db
+Answer: b3e6977523511d2cbbef8fccb1e394db
 
 # Soal 188
 
@@ -4260,7 +4260,7 @@ Answer: b21d68f1871abf1d5bbcf1206b3f1643
 
    Find the last 8 digits of 1777↑↑1855.
 
-   Answer: 62746b4d40a2b87c3dd6caee5d33e6a1
+Answer: 62746b4d40a2b87c3dd6caee5d33e6a1
 
 # Soal 189
 
@@ -4296,7 +4296,7 @@ numbers with x[1] + x[2] + ... + x[m] = m for which
 
    Find Σ[P[m]] for 2 ≤ m ≤ 15.
 
-   Answer: 40cfcabd9b30d79ec81151fc756e9946
+Answer: 40cfcabd9b30d79ec81151fc756e9946
 
 # Soal 191
 
@@ -4336,7 +4336,7 @@ Answer: e04dfa598b22a87570f63063f3ff595d
    Find the sum of all denominators of the best approximations to √n for the
    denominator bound 10^12, where n is not a perfect square and 1 < n ≤ 100000.
 
-   Answer: e5ec7d4b094709b1fcebbd73b10e6264
+Answer: e5ec7d4b094709b1fcebbd73b10e6264
 
 # Soal 193
 
@@ -4345,7 +4345,7 @@ Answer: e04dfa598b22a87570f63063f3ff595d
 
    How many squarefree numbers are there below 2^50?
 
-   Answer: ea29fcf755b560777b0b6d8714234d18
+Answer: ea29fcf755b560777b0b6d8714234d18
 
 # Soal 194
 
@@ -4377,7 +4377,7 @@ Answer: e070561d568a80a0e45d7835e3817ba4
 
    Find T(1053779).
 
-   Answer: 0fe232937a6d9f2a40825b86f568a38c
+Answer: 0fe232937a6d9f2a40825b86f568a38c
 
 # Soal 196
 
@@ -4406,7 +4406,7 @@ Answer: e070561d568a80a0e45d7835e3817ba4
 
    Find  S(5678027) + S(7208785).
 
-   Answer: fb6b6b0a4b7b31ba429152bc0b6bd037
+Answer: fb6b6b0a4b7b31ba429152bc0b6bd037
 
 # Soal 197
 
@@ -4417,7 +4417,7 @@ Answer: e070561d568a80a0e45d7835e3817ba4
    Find u[n] + u[n+1] for n = 10^12.
    Give your answer with 9 digits after the decimal point.
 
-   Answer: c98cbf87636906f2465d481be815e454
+Answer: c98cbf87636906f2465d481be815e454
 
 # Soal 198
 
@@ -4435,7 +4435,7 @@ Answer: e070561d568a80a0e45d7835e3817ba4
    How many ambiguous numbers x = p/q,0 < x < 1/100, are there whose
    denominator q does not exceed 10^8?
 
-   Answer: e59816f440fec9368c681314a127f3ee
+Answer: e59816f440fec9368c681314a127f3ee
 
 # Soal 199
 
@@ -4473,7 +4473,7 @@ Answer: 0f8fd87159c28ae5fea6ac91a95d48dd
    Find the 200th prime-proof sqube containing the contiguous sub-string
    "200".
 
-   Answer: c911c8e346aa813da5f5ed4f8e9128d8
+Answer: c911c8e346aa813da5f5ed4f8e9128d8
 
 # Soal 201
 
@@ -4562,7 +4562,7 @@ Answer: e9774949b5efad0d40d60ede379c5321
    Find the sum of the distinct squarefree numbers in the first 51 rows of
    Pascal's triangle.
 
-   Answer: d7ec16d216c923d3c927f46cfc914e92
+Answer: d7ec16d216c923d3c927f46cfc914e92
 
 # Soal 204
 
@@ -4578,7 +4578,7 @@ Answer: e9774949b5efad0d40d60ede379c5321
    How many generalised Hamming numbers of type 100 are there which don't
    exceed 10^9?
 
-   Answer: 4118ffb9edc56a033b5b27ca0bf34366
+Answer: 4118ffb9edc56a033b5b27ca0bf34366
 
 # Soal 205
 
@@ -4593,7 +4593,7 @@ Answer: e9774949b5efad0d40d60ede379c5321
    What is the probability that Pyramidal Pete beats Cubic Colin? Give your
    answer rounded to seven decimal places in the form 0.abcdefg
 
-   Answer: ba6c6c3888227a0799eca38191b587be
+Answer: ba6c6c3888227a0799eca38191b587be
 
 # Soal 206
 
@@ -4601,7 +4601,7 @@ Answer: e9774949b5efad0d40d60ede379c5321
    1_2_3_4_5_6_7_8_9_0,
    where each “_” is a single digit.
 
-   Answer: 09f9d87cb4b1ebb34e1f607e55a351d8
+Answer: 09f9d87cb4b1ebb34e1f607e55a351d8
 
 # Soal 207
 
@@ -4631,7 +4631,7 @@ Answer: e9774949b5efad0d40d60ede379c5321
 
    Find the smallest m for which P(m) < 1/12345
 
-   Answer: 3f17b264ed1717fe5fbde1e399bd501f
+Answer: 3f17b264ed1717fe5fbde1e399bd501f
 
 # Soal 208
 
@@ -4685,7 +4685,7 @@ Answer: 954157aa4762df2ee29580ee5a351b13
 
    What is N(1,000,000,000)?
 
-   Answer: 0c808b02789c4db462322ab2ac070bbb
+Answer: 0c808b02789c4db462322ab2ac070bbb
 
 # Soal 211
 
@@ -4697,7 +4697,7 @@ Answer: 954157aa4762df2ee29580ee5a351b13
    Find the sum of all n, 0 < n < 64,000,000 such that σ[2]\(n) is a perfect
    square.
 
-   Answer: 5fe0ed146690e7bca448687a94353a73
+Answer: 5fe0ed146690e7bca448687a94353a73
 
 # Soal 212
 
@@ -4733,7 +4733,7 @@ Answer: 954157aa4762df2ee29580ee5a351b13
 
    What is the combined volume of all 50000 cuboids, C[1],...,C[50000] ?
 
-   Answer: 76650c9c077929e1ce5a80a1ac81fa96
+Answer: 76650c9c077929e1ce5a80a1ac81fa96
 
 # Soal 213
 
@@ -4745,7 +4745,7 @@ Answer: 954157aa4762df2ee29580ee5a351b13
    What is the expected number of unoccupied squares after 50 rings of the
    bell? Give your answer rounded to six decimal places.
 
-   Answer: f81ee7dd444a3d895a4a446f9d115bf8
+Answer: f81ee7dd444a3d895a4a446f9d115bf8
 
 # Soal 214
 
@@ -4771,7 +4771,7 @@ Answer: 954157aa4762df2ee29580ee5a351b13
    What is the sum of all primes less than 40000000 which generate a chain of
    length 25?
 
-   Answer: 1cefd865483c03552d5247ffb05685c7
+Answer: 1cefd865483c03552d5247ffb05685c7
 
 # Soal 215
 
@@ -4800,7 +4800,7 @@ Answer: 60212c9ec4a6cd1d14277c32b6adf2d8
 
    How many numbers t(n) are prime for n ≤ 50,000,000 ?
 
-   Answer: e512153424a482deb9de401ac0465a72
+Answer: e512153424a482deb9de401ac0465a72
 
 # Soal 217
 
@@ -4816,7 +4816,7 @@ Answer: 60212c9ec4a6cd1d14277c32b6adf2d8
 
    Find T(47) mod 3^15
 
-   Answer: 11bff97aac06892e1a07ebf7febfa8db
+Answer: 11bff97aac06892e1a07ebf7febfa8db
 
 # Soal 218
 
@@ -4915,7 +4915,7 @@ Answer: cb000c24f653d9c8f78b74123e6515ab
 
    Give your answer in micrometres (10^-6 m) rounded to the nearest integer.
 
-   Answer: 6984ba429b968467619ec98a8ee51abf
+Answer: 6984ba429b968467619ec98a8ee51abf
 
 # Soal 223
 
@@ -4946,7 +4946,7 @@ Answer: c43cfb12750dee27b4b0d016261e831b
    Find the 124th odd number that does not divide any terms of the above
    sequence.
 
-   Answer: f1981e4bd8a0d6d8462016d2fc6276b3
+Answer: f1981e4bd8a0d6d8462016d2fc6276b3
 
 # Soal 226
 
@@ -5090,7 +5090,7 @@ Answer: 040735038021ff4704bbd3a0964369ef
    Find the sum of the terms in the prime factorisation of
    ^20000000C[15000000].
 
-   Answer: ef8bc4d9a843e71126bd10b5065132a5
+Answer: ef8bc4d9a843e71126bd10b5065132a5
 
 # Soal 232
 
@@ -5109,7 +5109,7 @@ Answer: 040735038021ff4704bbd3a0964369ef
 
    Give your answer rounded to eight decimal places in the form 0.abcdefgh .
 
-   Answer: c8d5b243aa6e6b507725766f7c197a1d
+Answer: c8d5b243aa6e6b507725766f7c197a1d
 
 # Soal 233
 
@@ -5120,7 +5120,7 @@ Answer: 040735038021ff4704bbd3a0964369ef
 
    What is the sum of all positive integers N ≤ 10^11 such that f(N) = 420 ?
 
-   Answer: 7e80b27798170abb493e3b4671bd82ca
+Answer: 7e80b27798170abb493e3b4671bd82ca
 
 # Soal 234
 
@@ -5141,7 +5141,7 @@ Answer: 040735038021ff4704bbd3a0964369ef
 
    What is the sum of all semidivisible numbers not exceeding 999966663333 ?
 
-   Answer: c24a5d60f8ce5d04dec7466987c84d68
+Answer: c24a5d60f8ce5d04dec7466987c84d68
 
 # Soal 235
 
@@ -5152,7 +5152,7 @@ Answer: 040735038021ff4704bbd3a0964369ef
 
    Give your answer rounded to 12 places behind the decimal point.
 
-   Answer: 41b13508789be1001308e065d4f83ea2
+Answer: 41b13508789be1001308e065d4f83ea2
 
 # Soal 236
 
@@ -5249,7 +5249,7 @@ Answer: 0742988a3948491b15fb48e476c78a6a
 
    Find ∑ p(k), for 0 < k ≤ 2·10^15.
 
-   Answer: 424ed6613a372ccb9a90dddb8961ca16
+Answer: 424ed6613a372ccb9a90dddb8961ca16
 
 # Soal 239
 
@@ -5264,7 +5264,7 @@ Answer: 0742988a3948491b15fb48e476c78a6a
    Give your answer rounded to 12 places behind the decimal point in the form
    0.abcdefghijkl.
 
-   Answer: 451fd2b8c19fbfec650a5c4699f6ef6e
+Answer: 451fd2b8c19fbfec650a5c4699f6ef6e
 
 # Soal 240
 
@@ -5281,7 +5281,7 @@ Answer: 0742988a3948491b15fb48e476c78a6a
    In how many ways can twenty 12-sided dice (sides numbered 1 to 12) be
    rolled so that the top ten sum to 70?
 
-   Answer: cb31a3106db3876e77cd160664cd683e
+Answer: cb31a3106db3876e77cd160664cd683e
 
 # Soal 241
 
@@ -5296,7 +5296,7 @@ Answer: 0742988a3948491b15fb48e476c78a6a
    Find the sum of all positive integers n ≤ 10^18 for which p(n) has the
    form k + ^1⁄[2], where k is an integer.
 
-   Answer: 556bfef2cacd1eff8af9126c5c13dcbc
+Answer: 556bfef2cacd1eff8af9126c5c13dcbc
 
 # Soal 242
 
@@ -5314,7 +5314,7 @@ Answer: 0742988a3948491b15fb48e476c78a6a
 
    How many odd-triplets are there with n ≤ 10^12 ?
 
-   Answer: ba73cb75365ddca8f94a23e3fedfb6de
+Answer: ba73cb75365ddca8f94a23e3fedfb6de
 
 # Soal 243
 
@@ -5336,7 +5336,7 @@ Answer: 0742988a3948491b15fb48e476c78a6a
    Find the smallest denominator d, having a resilience R(d) < 15499/94744
    .
 
-   Answer: 531721a10786c5c2a444b474fcf039f9
+Answer: 531721a10786c5c2a444b474fcf039f9
 
 # Soal 244
 
@@ -5403,7 +5403,7 @@ Answer: f8fd502ec1d0084a79d43d9dc5bd3a3d
    Find the sum of all composite integers 1 < n ≤ 2×10^11, for which C(n) is
    a unit fraction.
 
-   Answer: 0ebeb502fb0bd7157609835d27c266bc
+Answer: 0ebeb502fb0bd7157609835d27c266bc
 
 # Soal 246
 
@@ -5455,7 +5455,7 @@ Answer: 257956694e7665e3d512ad5b819ef79d
 
    Find the 150,000^th such number.
 
-   Answer: b69a3ba674f6c7c5f2ce244f9e9cc873
+Answer: b69a3ba674f6c7c5f2ce244f9e9cc873
 
 # Soal 249
 
@@ -5465,7 +5465,7 @@ Answer: 257956694e7665e3d512ad5b819ef79d
    number.
    Enter the rightmost 16 digits as your answer.
 
-   Answer: a470ee3ca52f2b68d7034e48b39b8b26
+Answer: a470ee3ca52f2b68d7034e48b39b8b26
 
 # Soal 250
 
@@ -5473,7 +5473,7 @@ Answer: 257956694e7665e3d512ad5b819ef79d
    250250^250250}, the sum of whose elements is divisible by 250. Enter the
    rightmost 16 digits as your answer.
 
-   Answer: 4a5614f3700956273fe0d271f921d5f4
+Answer: 4a5614f3700956273fe0d271f921d5f4
 
 # Soal 251
 
@@ -5588,7 +5588,7 @@ Answer: 228de0a37019fd7c7051029f3d126422
 
    What is ∑ sg(i) for 1 ≤ i ≤ 150?
 
-   Answer: 936014adf2de65d41979ad900325e485
+Answer: 936014adf2de65d41979ad900325e485
 
 # Soal 255
 
@@ -5758,7 +5758,7 @@ The player taking the last stone(s) wins the game.
    configurations
    with x[i] ≤ y[i] ≤ z[i] ≤ 1000.
 
-   Answer: cab69719e6968409ba167707a09875cb
+Answer: cab69719e6968409ba167707a09875cb
 
 # Soal 261
 
@@ -5909,7 +5909,7 @@ Answer: c25cebbc8dce4bdcf96cb395a11afcc3
    Let p be the product of the primes below 190.
    Find PSR(p) mod 10^16.
 
-   Answer: 32da1d501e539ab509f104e2db68d57a
+Answer: 32da1d501e539ab509f104e2db68d57a
 
 # Soal 267
 
@@ -5931,7 +5931,7 @@ Answer: c25cebbc8dce4bdcf96cb395a11afcc3
    answer rounded to 12 digits behind the decimal point in the form
    0.abcdefghijkl.
 
-   Answer: b8dd3306c2c64eacb0ac36b414892edb
+Answer: b8dd3306c2c64eacb0ac36b414892edb
 
 # Soal 268
 
@@ -5941,7 +5941,7 @@ Answer: c25cebbc8dce4bdcf96cb395a11afcc3
    Find how many positive integers less than 10^16 are divisible by at least
    four distinct primes less than 100.
 
-   Answer: 6f84b20c10311cb24a824416a3c3e0a4
+Answer: 6f84b20c10311cb24a824416a3c3e0a4
 
 # Soal 269
 
@@ -6000,7 +6000,7 @@ Answer: 2a592dfd1e9e3e9e38578affa7c72605
 
    Find S(13082761331670030).
 
-   Answer: c4157aab542bd0dfa465c890e1286cc5
+Answer: c4157aab542bd0dfa465c890e1286cc5
 
 # Soal 272
 
@@ -6014,7 +6014,7 @@ Answer: 2a592dfd1e9e3e9e38578affa7c72605
 
    Find the sum of the positive numbers n≤10^11 for which C(n)=242.
 
-   Answer: d84d2020055b3e8867dc359e739e0312
+Answer: d84d2020055b3e8867dc359e739e0312
 
 # Soal 273
 
@@ -6033,7 +6033,7 @@ Answer: 2a592dfd1e9e3e9e38578affa7c72605
    Find ∑S(N), for all squarefree N only divisible by primes of the form 4k+1
    with 4k+1 < 150.
 
-   Answer: 2b03731e58e9d60e559ee5fdce4f0d14
+Answer: 2b03731e58e9d60e559ee5fdce4f0d14
 
 # Soal 274
 
@@ -6058,7 +6058,7 @@ Answer: 2a592dfd1e9e3e9e38578affa7c72605
    10 and less than 1000 is 39517. What is the sum of the divisibility
    multipliers for the primes that are coprime to 10 and less than 10^7?
 
-   Answer: ffd68ca67b9c3ea2653d375051e70288
+Answer: ffd68ca67b9c3ea2653d375051e70288
 
 # Soal 275
 
@@ -6090,7 +6090,7 @@ Answer: a2a192f9790dcbfe4b450a82c4461d4a
    How many primitive integer sided triangles exist with a perimeter not
    exceeding 10 000 000?
 
-   Answer: 29ae64e74ebfdf459dac56786e95c5d5
+Answer: 29ae64e74ebfdf459dac56786e95c5d5
 
 # Soal 277
 
@@ -6123,7 +6123,7 @@ Answer: a2a192f9790dcbfe4b450a82c4461d4a
    What is the smallest a[1] > 10^15 that begins with the sequence
    "UDDDUdddDDUDDddDdDddDDUDDdUUDd"?
 
-   Answer: 9508afff135320c18d82c93a8b70cd11
+Answer: 9508afff135320c18d82c93a8b70cd11
 
 # Soal 278
 
@@ -6144,14 +6144,14 @@ Answer: a2a192f9790dcbfe4b450a82c4461d4a
 Find ∑ f(p\*q,p\*r,q\*r), where p, q and r are prime numbers and
 p < q < r < 5000.
 
-   Answer: 7e680606b5e9890a19894dbdbbbd102a
+Answer: 7e680606b5e9890a19894dbdbbbd102a
 
 # Soal 279
 
    How many triangles are there with integral sides, at least one integral
    angle (measured in degrees), and a perimeter that does not exceed 10^8?
 
-   Answer: 1f51455a8180fdeeb21285dfb6cba45f
+Answer: 1f51455a8180fdeeb21285dfb6cba45f
 
 # Soal 280
 
@@ -6169,7 +6169,7 @@ p < q < r < 5000.
    the top row?
    Give your answer rounded to 6 decimal places.
 
-   Answer: 27f07f04d1908e5ce4fa6eac09881cc2
+Answer: 27f07f04d1908e5ce4fa6eac09881cc2
 
 # Soal 281
 
@@ -6215,7 +6215,7 @@ Answer: a1cc665e127af4e907e13087ee777bd5
    Find the sum of the perimeters of all integer sided triangles for which
    the area/perimeter ratios are equal to positive integers not exceeding 1000.
 
-   Answer: 08afda4bc05c8f3ef71c9ffea1ddc0c8
+Answer: 08afda4bc05c8f3ef71c9ffea1ddc0c8
 
 # Soal 284
 
@@ -6240,7 +6240,7 @@ Answer: a1cc665e127af4e907e13087ee777bd5
    1 ≤ n ≤ 10000 (decimal) and give your answer in the base 14 system using
    lower case letters where necessary.
 
-   Answer: aff724582e583649876f518f9b340a69
+Answer: aff724582e583649876f518f9b340a69
 
 # Soal 285
 
@@ -6263,7 +6263,7 @@ Answer: a1cc665e127af4e907e13087ee777bd5
    If he plays 10^5 turns with k = 1, k = 2, k = 3, ..., k = 10^5, what is
    the expected value of his total score, rounded to five decimal places?
 
-   Answer: bbae95d0ce2999cae57782c3746aecb6
+Answer: bbae95d0ce2999cae57782c3746aecb6
 
 # Soal 286
 
@@ -6277,7 +6277,7 @@ Answer: a1cc665e127af4e907e13087ee777bd5
 
    Find q and give your answer rounded to 10 decimal places.
 
-   Answer: cc5a1ef0deabf698733bcef4f1149498
+Answer: cc5a1ef0deabf698733bcef4f1149498
 
 # Soal 287
 
@@ -6332,7 +6332,7 @@ Answer: 6c2beec8a6c0bc788d5e45c317b0d7ca
 
    Find NF(61,10^7) mod 61^10
 
-   Answer: 192bf4aa33ea85e922d583f60fe99955
+Answer: 192bf4aa33ea85e922d583f60fe99955
 
 # Soal 289
 
@@ -6366,7 +6366,7 @@ Answer: 9fa32696df356b3d41faa7dd278c88a9
    How many integers 0 ≤ n < 10^18 have the property that the sum of the
    digits of n equals the sum of digits of 137n?
 
-   Answer: 8246684fec8ece9f0ee3c9898c8c9d6a
+Answer: 8246684fec8ece9f0ee3c9898c8c9d6a
 
 # Soal 291
 
@@ -6415,7 +6415,7 @@ Answer: 27f50f02ef10f170379b144435e0144b
    Find the sum of all distinct pseudo-Fortunate numbers for admissible
    numbers N less than 10^9.
 
-   Answer: db116b39f7a3ac5366079b1d9fe249a5
+Answer: db116b39f7a3ac5366079b1d9fe249a5
 
 # Soal 294
 
@@ -6464,7 +6464,7 @@ Consider the circles:
 
    Find L(100 000).
 
-   Answer: 5beaace6425205fe879116ee07dae961
+Answer: 5beaace6425205fe879116ee07dae961
 
 # Soal 296
 
@@ -6477,7 +6477,7 @@ Consider the circles:
    How many triangles ABC with a perimeter not exceeding 100 000 exist such
    that BE has integral length?
 
-   Answer: 45986a4405b2dd6c163516319e0c4a1b
+Answer: 45986a4405b2dd6c163516319e0c4a1b
 
 # Soal 297
 
@@ -6497,7 +6497,7 @@ Consider the circles:
 
    Find ∑ z(n) for 0<n<10^17.
 
-   Answer: d3fd75f5447698748a826562750a1986
+Answer: d3fd75f5447698748a826562750a1986
 
 # Soal 298
 
@@ -6535,7 +6535,7 @@ Consider the circles:
    value of |L-R| after 50 turns? Give your answer rounded to eight decimal
    places using the format x.xxxxxxxx .
 
-   Answer: d078fd564995aa2a813a29f44ad79611
+Answer: d078fd564995aa2a813a29f44ad79611
 
 # Soal 299
 
@@ -7985,7 +7985,7 @@ Answer: 2e74b2fb574d6318cdbf2a41ad006de7
    Give your answer rounded to 10 digits behind the decimal point in the form
    a.bcdefghijk.
 
-   Answer: 211b5626459be71baefc78478d18bdc3
+Answer: 211b5626459be71baefc78478d18bdc3
 
 # Soal 354
 
@@ -8016,7 +8016,7 @@ Answer: e36240897614dc46e83405ae8cdf198c
 
    Find Co(200000).
 
-   Answer: 41cb97b6d02878d79f8b2e3b6c74920a
+Answer: 41cb97b6d02878d79f8b2e3b6c74920a
 
 # Soal 356
 
@@ -8028,7 +8028,7 @@ Answer: e36240897614dc46e83405ae8cdf198c
 
    Note: ![](files/p_356_cubicpoly2.gif) represents the floor function.
 
-   Answer: ab2104e80fa7da630ce7fd835d8006ee
+Answer: ab2104e80fa7da630ce7fd835d8006ee
 
 # Soal 357
 
@@ -8038,7 +8038,7 @@ Answer: e36240897614dc46e83405ae8cdf198c
    Find the sum of all positive integers n not exceeding 100 000 000
    such thatfor every divisor d of n, d+n/d is prime.
 
-   Answer: ed25b13b18a21c1077fed00ef42f503b
+Answer: ed25b13b18a21c1077fed00ef42f503b
 
 # Soal 358
 
@@ -8248,7 +8248,7 @@ Answer: d631977573d415a4766de9e6bd388cca
 
    Calculate ∑M(10^18,10^9,p\*q\*r) for 1000<p<q<r<5000 and p,q,r prime.
 
-   Answer: 53addf69042b0cefbeb94f3bd3224918
+Answer: 53addf69042b0cefbeb94f3bd3224918
 
 # Soal 366
 
@@ -8348,7 +8348,7 @@ Answer: bfb15c388f4721cbd5eb89f17be2eef2
 
    Find ∑f(n) for 4 ≤ n ≤ 13.
 
-   Answer: 0f8828f58dbac4f15f296c79b686ed0e
+Answer: 0f8828f58dbac4f15f296c79b686ed0e
 
 # Soal 370
 
@@ -8363,7 +8363,7 @@ Answer: bfb15c388f4721cbd5eb89f17be2eef2
 
    How many geometric triangles exist with perimeter ≤ 2.5·10^13 ?
 
-   Answer: 85b5048e25677205555a5308991c2e04
+Answer: 85b5048e25677205555a5308991c2e04
 
 # Soal 371
 
@@ -8382,7 +8382,7 @@ Answer: bfb15c388f4721cbd5eb89f17be2eef2
    Note: We assume that each licence plate seen is equally likely to have any
    three digit number on it.
 
-   Answer: 537403a97924621c604ce5ab6288b97d
+Answer: 537403a97924621c604ce5ab6288b97d
 
 # Soal 372
 
@@ -8409,7 +8409,7 @@ Answer: 5fdeda0dca23d12ae3eb1763b2c6f5ea
 
    Find S(10^7).
 
-   Answer: 888d60a6b2b4b9146d7c9c14ffd82673
+Answer: 888d60a6b2b4b9146d7c9c14ffd82673
 
 # Soal 374
 
@@ -8439,7 +8439,7 @@ Answer: 5fdeda0dca23d12ae3eb1763b2c6f5ea
    Find ∑f(n)·m(n) for 1 ≤ n ≤ 10^14.
    Give your answer modulo 982451653, the 50 millionth prime.
 
-   Answer: 6fcb063062076b5aaaff3e3cd03e4b2f
+Answer: 6fcb063062076b5aaaff3e3cd03e4b2f
 
 # Soal 375
 
@@ -8456,7 +8456,7 @@ Answer: 5fdeda0dca23d12ae3eb1763b2c6f5ea
 
    Find M(2 000 000 000).
 
-   Answer: 68a12e3f2e4ccbae9c8555e547fbe096
+Answer: 68a12e3f2e4ccbae9c8555e547fbe096
 
 # Soal 376
 
@@ -8514,7 +8514,7 @@ Answer: c64df302990eb3738f8ec62ea6b66c0b
    Find .
    Give the last 9 digits as your answer.
 
-   Answer: a915ccbae49de15208c88affba84d206
+Answer: a915ccbae49de15208c88affba84d206
 
 # Soal 378
 
@@ -8531,7 +8531,7 @@ Answer: c64df302990eb3738f8ec62ea6b66c0b
    Find Tr(60 000 000).
    Give the last 18 digits of your answer.
 
-   Answer: 336745dc9d90928596237c4b471a8927
+Answer: 336745dc9d90928596237c4b471a8927
 
 # Soal 379
 
@@ -8544,7 +8544,7 @@ Answer: c64df302990eb3738f8ec62ea6b66c0b
 
    Find g(10^12).
 
-   Answer: de20f710cb6665c48795072197ad53e0
+Answer: de20f710cb6665c48795072197ad53e0
 
 # Soal 380
 
@@ -8565,7 +8565,7 @@ Answer: c64df302990eb3738f8ec62ea6b66c0b
    exponent.E.g. if the answer is 1234567891011 then the answer format would
    be 1.2346e12.
 
-   Answer: c86d2f4c17c8134fbebed5d37a0f90d7
+Answer: c86d2f4c17c8134fbebed5d37a0f90d7
 
 # Soal 381
 
@@ -8580,7 +8580,7 @@ Answer: c64df302990eb3738f8ec62ea6b66c0b
 
    Find ∑S(p) for 5 ≤ p < 10^8.
 
-   Answer: 80c84973a9643e46d49d79d7284e7ff3
+Answer: 80c84973a9643e46d49d79d7284e7ff3
 
 # Soal 382
 
@@ -8626,7 +8626,7 @@ Answer: 56a121bcf3bb674d0d3ce561b6b24ea5
 
    Find T[5]\(10^18).
 
-   Answer: c1bc7c945344e1967bfaced9ade895a0
+Answer: c1bc7c945344e1967bfaced9ade895a0
 
 # Soal 384
 
@@ -8660,7 +8660,7 @@ Answer: 56a121bcf3bb674d0d3ce561b6b24ea5
 
    Find ΣGF(t) for 2≤t≤45.
 
-   Answer: ea0bb1fff1a51b48971762b93aeed103
+Answer: ea0bb1fff1a51b48971762b93aeed103
 
 # Soal 385
 
@@ -8686,7 +8686,7 @@ Let A(n) be the sum of the areas of all such triangles.
    that for every point P on the boundary of the ellipse, AP + PB is
    constant.
 
-   Answer: a21c033d9e119c293e51966ea78c9950
+Answer: a21c033d9e119c293e51966ea78c9950
 
 # Soal 386
 
@@ -8704,7 +8704,7 @@ Let A(n) be the sum of the areas of all such triangles.
 
    Find ΣN(n) for 1 ≤ n ≤ 10^8
 
-   Answer: d1d893f7c50910aa10daec5e9352e86d
+Answer: d1d893f7c50910aa10daec5e9352e86d
 
 # Soal 387
 
@@ -8736,7 +8736,7 @@ Let A(n) be the sum of the areas of all such triangles.
    Find the sum of the strong, right truncatable Harshad primes less than
    10^14.
 
-   Answer: a20cbd8639767decfa2c2c9955eb6be3
+Answer: a20cbd8639767decfa2c2c9955eb6be3
 
 # Soal 388
 
@@ -8750,7 +8750,7 @@ Let A(n) be the sum of the areas of all such triangles.
    Find D(10^10). Give as your answer the first nine digits followed by the
    last nine digits.
 
-   Answer: 2bab886c7d98d802d9249c9e12d72c25
+Answer: 2bab886c7d98d802d9249c9e12d72c25
 
 # Soal 389
 
@@ -8765,7 +8765,7 @@ Let A(n) be the sum of the areas of all such triangles.
    The sum, I, is noted.
    Find the variance of I, and give your answer rounded to 4 decimal places.
 
-   Answer: 79a080d38b837547b975c97b44764dfb
+Answer: 79a080d38b837547b975c97b44764dfb
 
 # Soal 390
 
@@ -8782,7 +8782,7 @@ Let A(n) be the sum of the areas of all such triangles.
 
    Find S(10^10).
 
-   Answer: ed7f2fbc05a2fd2033d80de671f35ea3
+Answer: ed7f2fbc05a2fd2033d80de671f35ea3
 
 # Soal 391
 
@@ -8815,7 +8815,7 @@ Let A(n) be the sum of the areas of all such triangles.
 
    Find Σ(M(n))^3 for 1 ≤ n ≤ 1000.
 
-   Answer: b2947548d4f5c4878c5f788f9849e750
+Answer: b2947548d4f5c4878c5f788f9849e750
 
 # Soal 392
 
@@ -8862,7 +8862,7 @@ Answer: 3268b0bc489187db3d234c097040d909
    You are given that f(4) = 88.
    Find f(10).
 
-   Answer: 58e4990838fb3d1725872da30f9db748
+Answer: 58e4990838fb3d1725872da30f9db748
 
 # Soal 394
 
@@ -8889,7 +8889,7 @@ procedure. Instead, he eats all of the remaining pie.
 
    Find E(40) rounded to 10 decimal places behind the decimal point.
 
-   Answer: f8ad575e1a03365a60b6429c3b7a64df
+Answer: f8ad575e1a03365a60b6429c3b7a64df
 
 # Soal 395
 
@@ -8964,7 +8964,7 @@ Answer: 4665c73fdca473ccc0643fc982f24e06
    For example, F(1, 10) = 41 and F(10, 100) = 12492.
    Find F(10^6, 10^9).
 
-   Answer: 07f769df9543bc05e6318878c34d074d
+Answer: 07f769df9543bc05e6318878c34d074d
 
 # Soal 398
 
@@ -8980,7 +8980,7 @@ Answer: 4665c73fdca473ccc0643fc982f24e06
    Find E(10^7, 100).Give your answer rounded to 5 decimal places behind the
    decimal point.
 
-   Answer: fa0a25d62fa225e05fd8736713a9bfc0
+Answer: fa0a25d62fa225e05fd8736713a9bfc0
 
 # Soal 399
 
@@ -9012,7 +9012,7 @@ Answer: 4665c73fdca473ccc0643fc982f24e06
    this problem isn't guaranteed to be the 100 000 000th squarefree fibonacci
    number, rather it represents only a lower bound for that number.
 
-   Answer: a0819cfe3be6a04645b8d4fe2345e184
+Answer: a0819cfe3be6a04645b8d4fe2345e184
 
 # Soal 400
 
@@ -9054,7 +9054,7 @@ Answer: 60aa790c07af1446c1e2deba72543a1f
 
    Find SIGMA2(10^15) modulo 10^9.
 
-   Answer: 982a249d8b45ef10c98c32dabac00751
+Answer: 982a249d8b45ef10c98c32dabac00751
 
 # Soal 402
 
@@ -9075,7 +9075,7 @@ Answer: 60aa790c07af1446c1e2deba72543a1f
 
    Find the last 9 digits of Σ S(F[k]) for 2 ≤ k ≤ 1234567890123.
 
-   Answer: fa7ae8e9243f01b0eac10ec5aaff1f42
+Answer: fa7ae8e9243f01b0eac10ec5aaff1f42
 
 # Soal 403
 
@@ -9092,7 +9092,7 @@ Answer: 60aa790c07af1446c1e2deba72543a1f
 
    Find S(10^12). Give your answer mod 10^8.
 
-   Answer: 31c018e3781a3e170366f01e30f09602
+Answer: 31c018e3781a3e170366f01e30f09602
 
 # Soal 404
 
@@ -9194,7 +9194,7 @@ Answer: 0766b1ee975f5674d30fd6c3c934c6e0
 
    Find ∑M(n) for 1 ≤ n ≤ 10^7.
 
-   Answer: f4da34a4b357123cb142739a52e010f2
+Answer: f4da34a4b357123cb142739a52e010f2
 
 # Soal 408
 
@@ -9214,7 +9214,7 @@ Answer: 0766b1ee975f5674d30fd6c3c934c6e0
 
    Find P(10 000 000) mod 1 000 000 007.
 
-   Answer: 2c09e247c6144c16cae2358d316affd9
+Answer: 2c09e247c6144c16cae2358d316affd9
 
 # Soal 409
 
@@ -9248,7 +9248,7 @@ Answer: 56c32e75a2656ec08ce177089bda2f53
    We can verify that F(1, 5) = 10, F(2, 10) = 52 and F(10, 100) = 3384.
    Find F(10^8, 10^9) + F(10^9, 10^8).
 
-   Answer: 45826f3a23aa321f97acb1d2a8f2170b
+Answer: 45826f3a23aa321f97acb1d2a8f2170b
 
 # Soal 411
 
@@ -9268,7 +9268,7 @@ Answer: 56c32e75a2656ec08ce177089bda2f53
 
    Find ∑ S(k^5) for 1 ≤ k ≤ 30.
 
-   Answer: e351762bf2220ca1396e6a9ee3f6c84f
+Answer: e351762bf2220ca1396e6a9ee3f6c84f
 
 # Soal 412
 
@@ -9289,7 +9289,7 @@ Answer: 56c32e75a2656ec08ce177089bda2f53
 
    Find LC(10000, 5000) mod 76543217.
 
-   Answer: 8919ccca34b7ccc293d33e06872c668d
+Answer: 8919ccca34b7ccc293d33e06872c668d
 
 # Soal 413
 
@@ -9307,7 +9307,7 @@ Answer: 56c32e75a2656ec08ce177089bda2f53
 
    Find F(10^19).
 
-   Answer: 569ad33af889215704df5a9e278aa004
+Answer: 569ad33af889215704df5a9e278aa004
 
 # Soal 414
 
@@ -9377,7 +9377,7 @@ Answer: 42f095bdfd71e1ae4ae0ceead1bb1802
 
    Find T(10^11) mod 10^8.
 
-   Answer: 2357ad217832274f444cae2a6580b193
+Answer: 2357ad217832274f444cae2a6580b193
 
 # Soal 416
 
@@ -9395,7 +9395,7 @@ Answer: 42f095bdfd71e1ae4ae0ceead1bb1802
 
    Find the last 9 digits of F(10, 10^12).
 
-   Answer: 6f398386fdfec57ac166d4970c2bcad2
+Answer: 6f398386fdfec57ac166d4970c2bcad2
 
 # Soal 417
 
@@ -9424,7 +9424,7 @@ Answer: 42f095bdfd71e1ae4ae0ceead1bb1802
 
    Find ∑L(n) for 3 ≤ n ≤ 100 000 000
 
-   Answer: 93a7df08c972f1e7788516d056a7e016
+Answer: 93a7df08c972f1e7788516d056a7e016
 
 # Soal 418
 
@@ -9466,7 +9466,7 @@ Answer: b032468ddb4847d8a2273789379753f5
    comma.
    E.g. for n = 40 the answer would be 31254,20259,11625
 
-   Answer: b27db655498b3d64ad4338fcdc9d178f
+Answer: b27db655498b3d64ad4338fcdc9d178f
 
 # Soal 420
 
@@ -9500,7 +9500,7 @@ Answer: e265e34e34fc54e8ceecd5e4b94b1381
 
    Find ∑ s(n,10^8) for 1 ≤ n ≤ 10^11.
 
-   Answer: 481fcc5ff16ccf1645fb136c123ed660
+Answer: 481fcc5ff16ccf1645fb136c123ed660
 
 # Soal 422
 
@@ -9556,7 +9556,7 @@ Answer: 7034610688a8851f742f912143c1becf
    ^1 π denotes the prime-counting function, i.e. π(n) is the number of
    primes ≤ n.
 
-   Answer: e2add9d46ebd8ba59a07dca791cd629b
+Answer: e2add9d46ebd8ba59a07dca791cd629b
 
 # Soal 424
 
@@ -9632,7 +9632,7 @@ Answer: c412afe5b5d76dbfbb77443ed5836d89
 
    Find F(10^7).
 
-   Answer: 3d229894ba4c585138125e802af2d06e
+Answer: 3d229894ba4c585138125e802af2d06e
 
 # Soal 426
 
@@ -9694,7 +9694,7 @@ Answer: b5d8157a351482da47da0512ca374007
 
    Find f(7 500 000) mod 1 000 000 009.
 
-   Answer: ecb4da2c940b517c63d8d256814dd511
+Answer: ecb4da2c940b517c63d8d256814dd511
 
 # Soal 428
 
@@ -9735,7 +9735,7 @@ Answer: c6010c109b66b34bf3594e63eb58b446
 
    Find S(100 000 000!) modulo 1 000 000 009.
 
-   Answer: ec4f87b0c01680e951326d9e85d2c03f
+Answer: ec4f87b0c01680e951326d9e85d2c03f
 
 # Soal 430
 
@@ -9815,7 +9815,7 @@ Answer: 5e5d81aa8bfaf92f68cdef0154c5c238
    Find S(510510,10^11).
    Give the last 9 digits of your answer.
 
-   Answer: e171c2872d650e47589842faa80f5707
+Answer: e171c2872d650e47589842faa80f5707
 
 # Soal 433
 
@@ -9833,7 +9833,7 @@ Answer: 5e5d81aa8bfaf92f68cdef0154c5c238
 
    Find S(5·10^6).
 
-   Answer: 0eeca9fa5cf25a2bfae01f1f04d6cd35
+Answer: 0eeca9fa5cf25a2bfae01f1f04d6cd35
 
 # Soal 434
 
@@ -9869,7 +9869,7 @@ Answer: 5e5d81aa8bfaf92f68cdef0154c5c238
    E.g. S(5) = 25021721.
    Find S(100), give your answer modulo 1000000033
 
-   Answer: f51d9fd41a8ce217682321a020be6fec
+Answer: f51d9fd41a8ce217682321a020be6fec
 
 # Soal 435
 
@@ -9912,7 +9912,7 @@ Answer: 0f08231a97e872f565a085de75743a1c
    Give your answer rounded to 10 places behind the decimal point in the form
    0.abcdefghij
 
-   Answer: d797ed72189f045e8ea48aa960fec1f3
+Answer: d797ed72189f045e8ea48aa960fec1f3
 
 # Soal 437
 
@@ -9941,7 +9941,7 @@ Answer: 0f08231a97e872f565a085de75743a1c
    Find the sum of the primes less than 100,000,000 with at least one
    Fibonacci primitive root.
 
-   Answer: 98bb66462d635d8225416a644e4637b0
+Answer: 98bb66462d635d8225416a644e4637b0
 
 # Soal 438
 
@@ -9963,7 +9963,7 @@ conditions.
 
    Find ∑S(t) for n = 7.
 
-   Answer: ff0c265a14c2c0bb56f10dbff1768338
+Answer: ff0c265a14c2c0bb56f10dbff1768338
 
 # Soal 439
 
@@ -9974,7 +9974,7 @@ conditions.
    You are given that S(10^3) = 563576517282 and S(10^5) mod 10^9 = 215766508.
    Find S(10^11) mod 10^9.
 
-   Answer: da937ac1432c8ccd4de6f68df36e7980
+Answer: da937ac1432c8ccd4de6f68df36e7980
 
 # Soal 440
 
@@ -9997,7 +9997,7 @@ conditions.
 
    Find S(2000) mod 987 898 789.
 
-   Answer: 214573d310bf2f02e066e4a9c193cc23
+Answer: 214573d310bf2f02e066e4a9c193cc23
 
 # Soal 441
 
@@ -10028,7 +10028,7 @@ Answer: 152cc265f5461c5055db95a122280416
 
    Find E(10^18).
 
-   Answer: c31bb13db787bce9a169dce600aec863
+Answer: c31bb13db787bce9a169dce600aec863
 
 # Soal 443
 
@@ -10047,7 +10047,7 @@ Answer: 152cc265f5461c5055db95a122280416
 
    Find g(10^15).
 
-   Answer: 28f9d9a9bf8fb3d606e0b711b59f42aa
+Answer: 28f9d9a9bf8fb3d606e0b711b59f42aa
 
 # Soal 444
 
@@ -10085,7 +10085,7 @@ remaining at the table must leave with their currently-held tickets.
    10 significant digits. Use a lowercase e to separate mantissa and exponent
    (e.g. S[3]\(100) = 5.983679014e5).
 
-   Answer: e6745c386ba3c0de1bf56897e453c7c8
+Answer: e6745c386ba3c0de1bf56897e453c7c8
 
 # Soal 445
 
@@ -10118,7 +10118,7 @@ Answer: 0183cdbc44f24e971bd824e9deb2b478
 
    Find F(10^7) (mod 1 000 000 007)
 
-   Answer: 0a9aa05f7bce906adb602af96ba06dc0
+Answer: 0a9aa05f7bce906adb602af96ba06dc0
 
 # Soal 447
 
@@ -10133,7 +10133,7 @@ Answer: 0183cdbc44f24e971bd824e9deb2b478
 
    Find F(10^14) (mod 1 000 000 007).
 
-   Answer: ea764a33b7368fccb4a1bbd37768d08c
+Answer: ea764a33b7368fccb4a1bbd37768d08c
 
 # Soal 448
 
@@ -10146,7 +10146,7 @@ Answer: 0183cdbc44f24e971bd824e9deb2b478
 
    Find S(99999999019) mod 999999017.
 
-   Answer: e6e7e87005c7b070cbc08ce727ae4e6a
+Answer: e6e7e87005c7b070cbc08ce727ae4e6a
 
 # Soal 449
 
@@ -10167,7 +10167,7 @@ Answer: 0183cdbc44f24e971bd824e9deb2b478
    your answer as the number rounded to 8 decimal places behind the decimal
    point.
 
-   Answer: 8ac19d0d06980691526883bc8c0950ef
+Answer: 8ac19d0d06980691526883bc8c0950ef
 
 # Soal 450
 
@@ -10210,7 +10210,7 @@ Answer: 0183cdbc44f24e971bd824e9deb2b478
 
    Find T(10^6).
 
-   Answer: d4ac68b5850e626fa95199b2b03efd53
+Answer: d4ac68b5850e626fa95199b2b03efd53
 
 # Soal 451
 
@@ -10237,7 +10237,7 @@ modular inverse of m modulo n equals m itself.
 
    Find ∑I(n) for 3≤n≤2·10^7
 
-   Answer: 9848878734a1d751a0e428147ab0b4aa
+Answer: 9848878734a1d751a0e428147ab0b4aa
 
 # Soal 452
 
@@ -10250,7 +10250,7 @@ modular inverse of m modulo n equals m itself.
 
    Find F(10^9, 10^9) mod 1 234 567 891.
 
-   Answer: a75f50818cab61a160cafa2c4145ed23
+Answer: a75f50818cab61a160cafa2c4145ed23
 
 # Soal 453
 
@@ -10267,7 +10267,7 @@ modular inverse of m modulo n equals m itself.
 
    Find Q(12345, 6789) mod 135707531.
 
-   Answer: 7f5ed466531a399174a64c6de41ea707
+Answer: 7f5ed466531a399174a64c6de41ea707
 
 # Soal 454
 
@@ -10283,7 +10283,7 @@ modular inverse of m modulo n equals m itself.
    We can verify that F(15) = 4 and F(1000) = 1069.
    Find F(10^12).
 
-   Answer: cf4e45f50c511e558b3dccb3ed481cb5
+Answer: cf4e45f50c511e558b3dccb3ed481cb5
 
 # Soal 455
 
@@ -10323,7 +10323,7 @@ Answer: 22d6cf30a29e14e5c78dca980edc2796
 
    Find C(2 000 000).
 
-   Answer: e2811a92b4658ca420be740f6c66572b
+Answer: e2811a92b4658ca420be740f6c66572b
 
 # Soal 457
 
@@ -10336,7 +10336,7 @@ Answer: 22d6cf30a29e14e5c78dca980edc2796
 
    Find SR(10^7).
 
-   Answer: 5eae79c2f4887f6cf08c099840317a51
+Answer: 5eae79c2f4887f6cf08c099840317a51
 
 # Soal 458
 
@@ -10350,7 +10350,7 @@ Answer: 22d6cf30a29e14e5c78dca980edc2796
 
    Find T(10^12). Give the last 9 digits of your answer.
 
-   Answer: d304abee61f0f6ac83a73de56d2fe578
+Answer: d304abee61f0f6ac83a73de56d2fe578
 
 # Soal 459
 
@@ -10375,7 +10375,7 @@ Players alternate turns. A player wins by turning the grid all black.
 
    Find W(10^6).
 
-   Answer: abe2c990b8f028376186c2bc339e4c1e
+Answer: abe2c990b8f028376186c2bc339e4c1e
 
 # Soal 460
 
@@ -10411,7 +10411,7 @@ Then the required time is sqrt(5) / 1.8205 ≈ 1.2283.
 
    Find F(10000). Give your answer rounded to nine decimal places.
 
-   Answer: 134fd9e25365ddb970971dd21f386408
+Answer: 134fd9e25365ddb970971dd21f386408
 
 # Soal 461
 
@@ -10431,7 +10431,7 @@ Then the required time is sqrt(5) / 1.8205 ≈ 1.2283.
 
    Find g(10000). ^
 
-   Answer: 70c3eff774c9d5cdb29284c16b9d1bc6
+Answer: 70c3eff774c9d5cdb29284c16b9d1bc6
 
 # Soal 462
 
@@ -10459,7 +10459,7 @@ We can verify that F(6) = 5, F(8) = 9, F(20) = 450 and F(1000) ≈
    exponent. E.g. if the answer is 112,233,445,566,778,899 then the answer
    format would be 1.1223344557e17.
 
-   Answer: 77c84f6238d9987d204eb771d3dcde13
+Answer: 77c84f6238d9987d204eb771d3dcde13
 
 # Soal 463
 
@@ -10534,7 +10534,7 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
 
    Find P(7^13) mod 1 000 000 007.
 
-   Answer: 64de4b2572602c3bdea4b4360a694ca7
+Answer: 64de4b2572602c3bdea4b4360a694ca7
 
 # Soal 466
 
@@ -10556,7 +10556,7 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
 
    Find P(64,10^16).
 
-   Answer: ff8b91e50170810dccd15ea59fb5efd8
+Answer: ff8b91e50170810dccd15ea59fb5efd8
 
 # Soal 467
 
@@ -10586,7 +10586,7 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
 
    Find f(10 000) mod 1 000 000 007.
 
-   Answer: 3ee327e7b4415f9e1cb75e3363c388b5
+Answer: 3ee327e7b4415f9e1cb75e3363c388b5
 
 # Soal 468
 
@@ -10611,7 +10611,7 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
 
    Find F(11 111 111) mod 1 000 000 993.
 
-   Answer: b7aa617d57bf1947ddfb9ae47c0feaac
+Answer: b7aa617d57bf1947ddfb9ae47c0feaac
 
 # Soal 469
 
@@ -10629,7 +10629,7 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
    Find E(10^18). Give your answer rounded to fourteen decimal places in the
    form 0.abcdefghijklmn.
 
-   Answer: 3c2b641262880db5b735cfa4d4c957bc
+Answer: 3c2b641262880db5b735cfa4d4c957bc
 
 # Soal 470
 
@@ -10670,7 +10670,7 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
 
    Calculate F(20), rounded to the nearest integer.
 
-   Answer: a37644507221e441ca9667e1c7e660c4
+Answer: a37644507221e441ca9667e1c7e660c4
 
 # Soal 471
 
@@ -10696,7 +10696,7 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
 
    For G(10) the answer would have been 2.059722222e1.
 
-   Answer: d632b70a0a349ed70ac17ef6246dd7d8
+Answer: d632b70a0a349ed70ac17ef6246dd7d8
 
 # Soal 472
 
@@ -10756,7 +10756,7 @@ Answer: 7d7ff31d9448e86ba9c901878c1fa5c6
    Find the sum of the positive integers not exceeding $10^{10}$ whose
    phigital representation is palindromic.
 
-   Answer: a4ea7a2040b6385b6d12863fd693e434
+Answer: a4ea7a2040b6385b6d12863fd693e434
 
 # Soal 474
 
@@ -10769,7 +10769,7 @@ Answer: 7d7ff31d9448e86ba9c901878c1fa5c6
 
    Find F(10^6!, 65432) modulo (10^16 + 61).
 
-   Answer: dcfd11c680aa4cce11e1eee1a448440c
+Answer: dcfd11c680aa4cce11e1eee1a448440c
 
 # Soal 475
 
@@ -10789,7 +10789,7 @@ Answer: 7d7ff31d9448e86ba9c901878c1fa5c6
 
    Find f(600) mod 1 000 000 007.
 
-   Answer: 6be2411783d9ca8e7ad174b269a85be5
+Answer: 6be2411783d9ca8e7ad174b269a85be5
 
 # Soal 476
 
@@ -10803,7 +10803,7 @@ Answer: 7d7ff31d9448e86ba9c901878c1fa5c6
 
    Find S(1803) rounded to 5 decimal places behind the decimal point.
 
-   Answer: 4d6a99b2a0f22af561aeeb69c0126fef
+Answer: 4d6a99b2a0f22af561aeeb69c0126fef
 
 # Soal 477
 
