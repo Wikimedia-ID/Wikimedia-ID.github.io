@@ -335,16 +335,15 @@ Answer: 5052c3765262bb2c6be537abd60b305e
 
 Jika gerakan dimulai dari pojok kiri atas dari kisi berukuran 2×2, dan hanya diperbolehkan untuk bergerak ke kanan atau ke bawah, maka akan ada persis 6 buah rute untuk menuju ke pojok kanan bawah.
 
-<div style="text-align:center;">
 ![](files-v1/p015.gif)
-</div>
+
 Berapakah jumlah rute yang ada jika kisi memiliki ukuran 20×20?
 
 Answer: 928f3957168ac592c4215dcd04e0b678
 
 # Soal 16
 
-<p>2<sup>15</sup> = 32768 dan jumlah semua digitnya adalah 3 + 2 + 7 + 6 + 8 = 26./p>
+<p>2<sup>15</sup> = 32768 dan jumlah semua digitnya adalah 3 + 2 + 7 + 6 + 8 = 26.</p>
 <p>Berapakah jumlah digit dari angka 2<sup>1000</sup>?</p>
 
 Answer: 6a5889bb0190d0211a991f47bb19a777
@@ -452,7 +451,7 @@ Answer: 7f155b45cb3f0a6e518d59ec348bff84
 
 <p>Barisan Fibonacci dibentuk dari hubungan berulang:</p>
 <blockquote>F<sub><i>n</i></sub> = F<sub><i>n</i>&minus;1</sub> + F<sub><i>n</i>&minus;2</sub>, dimana F<sub>1</sub> = 1 and F<sub>2</sub> = 1.</blockquote>
-<p>Sehingga 12 suku pertamanya adalah:<p>
+<p>Sehingga 12 suku pertamanya adalah:</p>
 <blockquote>F<sub>1</sub> = 1<br />
 F<sub>2</sub> = 1<br />
 F<sub>3</sub> = 2<br />
@@ -1391,9 +1390,9 @@ Answer: 9d702ffd99ad9c70ac37e506facc8c38
 # Soal 68
 
 <p>Terdapat sebuah cincin 3-gon &quot;ajaib&quot; , berisi angka dari 1 sampai 6, dan setiap angka pada satu garis lurus akan berjumlah sembilan.</p>
-<div style="text-align:center;">
-![](files-v1/p068_1.gif)<br />
-</div>
+
+![](files-v1/p068_1.gif)
+
 <p>Dengan melihat garis yang titik luar dengan angka terkecil (4,3,2 pada contoh ini), lalu melihat berputar <b>searah jarum jam</b>, setiap gambar akan menghasilkan solusi unik. sebagai contoh, solusi dari bentuk di atas dapat ditulis dengan himpunan: 4,3,2; 6,2,1; 5,1,3.</p>
 <p>Cincin di atas dapat dibuat dengan berbagai jumlah angka dalam satu garis lurus, yaitu: 9, 10, 11, and 12. Terdapat sebanyak delapan solusi untuk cincin di atas.</p>
 <div style="text-align:center;">
@@ -1429,9 +1428,8 @@ Answer: 9d702ffd99ad9c70ac37e506facc8c38
 </div>
 <p>Dengan menyatukan setiap himpunan, kita bisa mendapatkan bilangan dengan 9 angka; dan angka terbesar untuk cincin 3-gon adalah 432621513.</p>
 <p>Dengan menggunakan angka dari 1 sampai 10, dan dengan mencoba berbagai macam susunan, kita dapat membuat bilangan dengan 16 atau 17 angka. Berapakah bilangan dengan <b>16 angka</b> terbesar yang dapat dibentuk dari cincin 5-gon &quot;ajaib&quot;?</p>
-<div style="text-align:center;">
-![](files-v1/p068_2.gif)<br />
-</div>
+
+![](files-v1/p068_2.gif)
 
 Answer: 26227442c6fed0292a528ac3790175be
 
@@ -1691,7 +1689,7 @@ Answer: f9ffec84499832add77e6a8bb00246ec
 
 # Soal 82
 
-<p class="small_notice">CATATAN: Soal ini adalah versi yang lebih menantang dari <a href="problem=81">Problem 81</a>.</p>
+<p class="small_notice">CATATAN: Soal ini adalah versi yang lebih menantang dari <a href="#soal-81">Soal 81</a>.</p>
 <p>Jalur yang memiliki hasil penjumlahan angka-angka terkecil, pada matriks ukuran 5 x 5 berikut ini, ditandai dengan angka berwarna merah; jumlahnya adalah 994. Jalur dapat dimulai di manapun pada kolom paling kiri, dan harus selesai di manapun pada kolom paling kanan, dan hanya diperbolehkan untuk bergeser ke atas, bawah, dan kanan.</p>
 <div style="text-align:center;">
 $$
@@ -1710,7 +1708,7 @@ Answer: e6b3b1cd89b018d4754cf63863f6690a
 
 # Soal 83
 
-<p class="small_notice">CATATAN: Soal ini adalah versi yang jauh lebih menantang dari <a href="problem=81">Problem 81</a>.</p>
+<p class="small_notice">CATATAN: Soal ini adalah versi yang jauh lebih menantang dari <a href="#soal-81">Soal 81</a>.</p>
 <p>Pada matriks ukuran 5 x 5 berikut ini, jalur yang memiliki hasil penjumlahan angka-angka terkecil, dimulai dari pojok kiri atas, ke pojok kanan bawah, denagn bergerak ke kiri, kanan, atas, dan bawah, ditandai oleh angka berwarna merah, dan jumlahnya adalah 2297.</p>
 <div style="text-align:center;">
 $$
@@ -1841,9 +1839,9 @@ Answer: ead3264438ef83a8c2da2e98067b4445
 # Soal 85
 
 <p>Dengan menghitung secara teliti, dapat terlihat bahwa terdapat delapan belas segi empat, pada kotak-kotak berukuran 3 x 2:</p>
-<div style="text-align:center;">
+
 ![](files-v1/p085.gif)
-</div>
+
 <p>Namun, tidak ada kotak-kotak yang bisa menghasilkan persis dua juta segi empat. Carilah ukuran kotak-kotak yang bisa menghasilkan segi empat mendekati dua juta buah, lalu hitunglah luas kotak-kotak tersebut.</p>
 
 Answer: 92bf5e6240737e0326ea59846a83e076
@@ -1851,9 +1849,9 @@ Answer: 92bf5e6240737e0326ea59846a83e076
 # Soal 86
 
 <p>Seekor laba-laba ditandai dengan huruf S, berada pada salah satu pojok ruangan berbentuk balok, dengan ukuran 6 x 5 x 3, dan seekor lalat ditandai dengan huruf F, berada di pojok seberangnya. Dengan berjalan pada permukaan ruangan, panjang jalur terpendek yang berupa &quot;garis lurus&quot; dari S ke F adalah 10, dan jalurnya ditunjukkan pada gambar.</p>
-<div style="text-align:center;">
+
 ![](files-v1/p086.gif)<br />
-</div>
+
 <p>Tetapi, biasanya terdapat sampai tiga pilihan jalur terpendek untuk setiap balok, dan jalur terpendek dari pilihan tersebut terkadang bukanlah merupakan bilangan bulat.</p>
 <p>Jika rotasi dari balok diabaikan, terdapat 2060 buah jalur terpendek berbeda, untuk balok yang memiliki panjang sisi berupa bilangan bulat berukuran maksimum M x M x M (semua jalur terpendek adalah bilangan bulat), untuk  M = 100. Ini adalah nilai M paling kecil, yang bisa menghasilkan jalur terpendek berupa bilangan bulat lebih dari dua ribu buah; jumlah jalur terpendek saat M = 99 adalah 1975.</p>
 <p>Carilah nilai M minimal, sehingga jumlah jalur terpendek yang ada melebihi satu juta buah (jalur harus berupa bilangan bulat).</p>
@@ -1910,9 +1908,7 @@ Answer: 5c572eca050594c7bc3c36e7e8ab9550
 
 <p>Sebagai contoh, bilangan kuadrat 64 dapat dibentuk dengan cara:</p>
 
-<div style="text-align:center;">
-![](files-v1/p090.gif)<br />
-</div>
+![](files-v1/p090.gif)
 
 <p>Bahkan, dengan memilih angka pada kubus secara hati-hati, kita dapat menampilkan semua bilangan kuadrat kurang dari seratus: 01, 04, 09, 16, 25, 36, 49, 64, and 81.</p>
 
@@ -1935,15 +1931,11 @@ Answer: 6a61d423d02a1c56250dc23ae7ff12f3
 
 <p>Titik P (<i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>) dan Q (<i>x</i><sub>2</sub>, <i>y</i><sub>2</sub>) memiliki koordinat berupa bilangan bulat, dan apabila digabung dengan titik origin, O(0,0), akan terbentuk &Delta;OPQ.</p>
 
-<div style="text-align:center;">
-![](files-v1/p091_1.gif)<br />
-</div>
+![](files-v1/p091_1.gif)
 
 <p>Terdapat persis empat belas segitiga siku-siku, yang dapat dibentuk jika koordinat berada di antara 0 dan 2, angka 0 dan 2 di ikut sertakan; atau dapat ditulis <br />0 &le; <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> &le; 2.</p>
 
-<div style="text-align:center;">
-![](files-v1/p091_2.gif)<br />
-</div>
+![](files-v1/p091_2.gif)
 
 <p>Diberikan0 &le; <i>x</i><sub>1</sub>, <i>y</i><sub>1</sub>, <i>x</i><sub>2</sub>, <i>y</i><sub>2</sub> &le; 50, berapa banyak segitiga siku-siku yang dapat dibentuk?</p>
 
@@ -2164,7 +2156,7 @@ Answer: 74db120f0a8e5646ef5a30154e9f6deb
 <p>Dapat <i>terlihat</i> bahwa untuk himpunan optimal, A = {<i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, ... , <i>a</i><sub>n</sub>}, himpunan optimal selanjutnya adalah B = {<i>b</i>, <i>a</i><sub>1</sub>+<i>b</i>, <i>a</i><sub>2</sub>+<i>b</i>, ... ,<i>a</i><sub>n</sub>+<i>b</i>}, dimana <i>b</i> adalah anggota &quot;tengah&quot; dari baris sebelumnya.</p>
 <p>Dengan menerapkan &quot;aturan&quot; ini, kita bisa menduga bahwa himpunan optimum selanjutnya untuk <i>n</i> = 6 akan menjadi A = {11, 17, 20, 22, 23, 24}, dengan S(A) = 117. Tetapi, ternyata himpunan ini bukanlah yang paling optimal, karena kita hanya menggunakan algoritma yang membuat himpunan mendekati optimal. Himpunan optimal untuk <i>n</i> = 6 adalah A = {11, 18, 19, 20, 22, 25}, dengan S(A) = 115 dan teks angka-angka yang ada adalah: 111819202225.</p>
 <p>Diberikan A adalah himpunan istimewa optimal untuk <i>n</i> = 7, carilah teks angka-angkanya.</p>
-<p class="note">CATATAN: Soal ini berhubungan dengan <a href="problem=105">Problem 105</a> dan <a href="problem=106">Problem 106</a>.</p>
+<p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-105">Soal 105</a> dan <a href="#soal-106">Soal 106</a>.</p>
 
 Answer: af8c238336c2a79bb81a24b3fef3330d
 
@@ -2186,7 +2178,7 @@ Answer: c8771ddd4df191098d70a8e94dd1cde7
 </ol>
 <p>Sebagai contoh, {81, 88, 75, 42, 87, 84, 86, 65} bukanlah himpunan yang memiliki penjumlahan istimewa, sebab dapat ditemukan 65 + 87 + 88 = 75 + 81 + 84, contoh lain {157, 150, 164, 119, 79, 159, 161, 139, 158} memenuhi kedua sifat di atas untuk semua kombinasi himpunan bagian yang mungkin, dan S(A) = 1286.</p>
 <p>Menggunakan <a href="{{ site.baseurl }}project/resources/p105_sets.txt">sets.txt</a> (klik kanan dan pilih "Save Link/Target As..."), sebuah file text berukuran 4K dengan seratus himpunan yang memiliki tujuh sampai dua belas anggota (dua contoh di atas adalah dua himpuan pertama pada file tersebut), carilah semua himpunan yang memiliki penjumlahan istimewa, A<sub>1</sub>, A<sub>2</sub>, ..., A<sub><i>k</i></sub>, dan carilah nilai dari S(A<sub>1</sub>) + S(A<sub>2</sub>) + ... + S(A<sub><i>k</i></sub>).</p>
-<p class="note">CATATAN: Soal ini berhubungan dengan <a href="problem=103">Problem 103</a> dan <a href="problem=106">Problem 106</a>.</p>
+<p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-103">Soal 103</a> dan <a href="#soal-106">Soal 106</a>.</p>
 
 Answer: c87d30e494eff438fe37b4c810167da0
 
@@ -2203,16 +2195,16 @@ Mengejutkannya, dari 25 pasangan himpunan bagian yang ada, yang bisa didapat dar
 
 Untuk _n_ = 12, berapa banyak pasangan yang perlu di uji dengan sifat pertama, dari 261625 pasangan himpunan bagian yang ada?
 
-NOTE: Soal ini berhubungan dengan [Problem 103](problem=103) dan [Problem 105](problem=105).
+NOTE: Soal ini berhubungan dengan [Soal 103](#soal-103) dan [Soal 105](#soal-105).
 
 Answer: c8fd9e36fdeb06bcc93a0732c667b6d8
 
 # Soal 107
 
 <p>Jaringan tidak beraturan berikut ini memiliki dari tujuh titik dan dua belas garis with a total bobot 243.</p>
-<div style='text-align:center;'>
-![](files-v1/p107_1.gif)<br />
-</div>
+
+![](files-v1/p107_1.gif)
+
 <p>Jaringan di atas dapat dituliskan pada matriks berikut ini.</p>
 <table cellpadding='5' cellspacing='0' border='1' align='center'>
 <tr>
@@ -2241,9 +2233,9 @@ Answer: c8fd9e36fdeb06bcc93a0732c667b6d8
 </tr>
 </table>
 <p>Tetapi, kita dapat menyederhanakan jaringan tersebut dengan membuang beberapa garis, dan semua titik masih tetap terhubung. Jaringan yang paling sederhana ditunjukkan pada gambar di bawah. Jaringan ini memiliki bobot 93, dan dapat menghemat 243 &minus; 93 = 150 bobot, dari jaringan mula-mula.</p>
-<div style='text-align:center;'>
-![](files-v1/p107_2.gif)<br />
-</div>
+
+![](files-v1/p107_2.gif)
+
 <p>Menggunakan <a href="{{ site.baseurl }}project/resources/p107_network.txt">network.txt</a> (klik kanan dan pilih 'Save Link/Target As...'), sebuah file text berukuran 6K berisi sebuah jaringan dengan empat puluh titik, dan diberikan dalam bentuk matriks, carilah jumlah penghematan maksimum yang dapat dilakukan, dengan membuang beberapa garis namun dengan memastikan bahwa semua titik tetap terhubung.</p>
 
 Answer: b0db1202ec966e7855ca23626eb285b8
@@ -2251,54 +2243,34 @@ Answer: b0db1202ec966e7855ca23626eb285b8
 # Soal 108
 
 <p>Dalam persamaan berikut <var>x</var>, <var>y</var>, dan <var>n</var> adalah bilangan bulat positif.</p>
-<div style="text-align:center;">
-<table align="center">
-<tr>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>x</var></span></div></td>
-<td> + </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>y</var></span></td>
-<td> = </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>n</var></span></div></td>
-</tr>
-</table>
-</div>
+
+    						   1   1   1
+    						   ─ + ─ = ─
+    						   x   y   n
+
 <p>Untuk <var>n</var> = 4 terdapat persis empat solusi berbeda:</p>
-<div style="text-align:center;">
-<table align="center">
-<tr>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">5</span></td>
-<td> + </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">20</span></td>
-<td> = </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">4</span></td>
-</tr>
-<tr>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">6</span></td>
-<td> + </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">12</span></td>
-<td> = </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">4</span></td>
-</tr>
-<tr>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">8</span></td>
-<td> + </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">8</span></td>
-<td> = </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;">4</span></td>
-</tr>
-</table>
-</div>
+
+    						   1   1    1
+    						   ─ + ─  = ─
+    						   5   20   4
+    						   1   1    1
+    						   ─ + ─  = ─
+    						   6   12   4
+    						   1   1    1
+    						   ─ + ─  = ─
+    						   8   8    4
+
 <p>Berapakah nilai terkecil <var>n</var> sehingga terdapat solusi berbeda melebihi seribu buah?</p>
-<p class="note">CATATAN: Soal ini adalah versi lebih mudah dari <a href="problem=110">Problem 110</a>; dan sangat disarankan Anda menyelesaikan soal ini terlebih dahulu.</p>
+<p class="note">CATATAN: Soal ini adalah versi lebih mudah dari <a href="#soal-110">Soal 110</a>; dan sangat disarankan Anda menyelesaikan soal ini terlebih dahulu.</p>
 
 Answer: 765ba18edd2844db2db95fba25d2f3e7
 
 # Soal 109
 
 <p>Dalam permainan darts, seorang pemain akan melempar tiga buah dart ke papan target yang dibagi menjadi dua puluh bagian yang sama besar, diberi angka dari satu sampai dua puluh.</p>
-<div style='text-align:center;'>
-![](files-v1/p109.gif)<br />
-</div>
+
+![](files-v1/p109.gif)
+
 <p>Nilai dari sebuah dart ditentukan dari angka yang dimiliki oleh daerah dimana dart tersebut mendarat. Jika dart mendarat di luar lingkaran merah/hijau, maka pemain akan mendapat nilai nol. Daerah berwarna hitam dan krim dalam lingkaran akan mengalikan nilai dengan satu. Tetapi, garis merah/hijau pada bagian luar dan bagian tengah lingkaran akan melipatgandakan nilai, masing-masing menjadi dua kali (double) dan tiga kali (treble).</p>
 <p>Pada tengah-tengah papan, terdapat dua buah lingkaran sepusat yang disebut bull region, atau bulls-eye. Bagian luar bull bernilai 25 poin, dan bagian dalam bull adalah double bull dan bernilai dua kali lipatnya, yaitu 50 poin.</p>
 <p>Terdapat berbagai variasi dari aturan yang ada, namun aturan yang paling sering digunakan adalah para pemain akan mulai dengan skor 301 atau 501, dan pemain pertama yang bisa mengurangi skornya sampai nol adalah pemenangnya. Tetapi, setiap pemain harus memperhatikan sistem &quot;doubles out&quot;, dimana setiap pemain harus mendaratkan dart terakhir mereka di mana saja yang memiliki nilai double(termasuk double bulls-eye berwarna merah di tengah papan) untuk menang; setiap tiga dart yang membuat nilai total pemain menjadi satu atau kurang dari satu, akan mengakibatkan skor ketiga dart tersebut diabaikan (&quot;bust&quot;).</p>
@@ -2373,20 +2345,14 @@ Answer: e6aebd5be1ba81557dbcc5f6f57bbe5c
 # Soal 110
 
 <p>Dalam persamaan berikut <var>x</var>, <var>y</var>, dan <var>n</var> adalah bilangna bulat positif.</p>
-<div style="text-align:center;">
-<table align="center">
-<tr>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>x</var></span></div></td>
-<td> + </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>y</var></span></td>
-<td> = </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>n</var></span></div></td>
-</tr>
-</table>
-</div>
+
+    						   1   1   1
+    						   ─ + ─ = ─
+    						   x   y   n
+
 <p>Dapat dibuktikan bahwa saat <var>n</var> = 1260 terdapat 113 buah solusi berbeda, dan ini adalah merupakan nilai <var>n</var> terkecil yang akan menghasilkan solusi berbeda lebih dari seratus buah.</p>
 <p>Berapakah nilai terkecil <var>n</var> sehingga terdapat solusi berbeda melebihi empat juta buah?</p>
-<p class="note">CATATAN: Soal ini adalah versi yang lebih sulit dari <a href="problem=108">Problem 108</a> dan tidak memungkinkan untuk diselesaikan dengan cara mencoba satu persatu, perlu cara yang cerdas untuk menyelesaikan soal ini.</p>
+<p class="note">CATATAN: Soal ini adalah versi yang lebih sulit dari <a href="#soal-108">Soal 108</a> dan tidak memungkinkan untuk diselesaikan dengan cara mencoba satu persatu, perlu cara yang cerdas untuk menyelesaikan soal ini.</p>
 
 Answer: 591a7a92f10322866e6a02f3b2386a1c
 
@@ -2698,7 +2664,7 @@ Answer: de48ca72bf252a8be7e0aad762eadcf8
 
 # Soal 115
 
-CATATAN: Ini adalah versi yang lebih menantang dari [Problem 114](problem=114).
+CATATAN: Ini adalah versi yang lebih menantang dari [Soal 114](#soal-114).
 
 Sebuah blok berukuran _n_ satuan panjang diwajibkan berisi kotak merah dengan panjang minimal _m_ satuan, dan pada blok tersebut diperbolehkan untuk memiliki dua bagian kotak merah yang wajib dipisahkan oleh setidaknya satu kotak hitam (kedua bagian kotak merah boleh memiliki panjang berbeda).
 
@@ -2737,10 +2703,8 @@ Answer: 006f52e9102a8d3be2fe5614f42ba989
     						 └╨───┘  └───╨┘
 
 <p>Jika warna-warna yang ada tidak boleh dicampur, maka akan terdapat 7 + 3 + 2 = 12 cara untuk mengisi kotak hitam yang memiliki panjang lima satuan.</p>
-
 <p>Berapakah banyaknya cara kotak hitam dengan panjang lima puluh satuan dapat di isi dengan cara seperti di atas, dan kotak hitam tersebut hanya diperbolehkan di isi oleh satu warna?</p>
-
-<p class="note">CATATAN: Soal ini berhubungan dengan <a href="problem=117">Problem 117</a>.</p>
+<p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-117">Soal 117</a>.</p>
 
 Answer: c21ca0ec54e6d1646a953a480f68feb4
 
@@ -2902,7 +2866,7 @@ Answer: c21ca0ec54e6d1646a953a480f68feb4
 </table>
 
 <p>Berapa banyak cara kotak hitam dengan panjang lima puluh satuan dapat di isi?</p>
-<p class="note">CATATAN: Soal ini berhubungan dengan <a href="problem=116">Problem 116</a>.</p>
+<p class="note">CATATAN: Soal ini berhubungan dengan <a href="#soal-116">Soal 116</a>.</p>
 
 Answer: 542612809b3dd08cf518b85450fce8d6
 
@@ -3059,9 +3023,9 @@ Answer: 1b5635e8ab723e01570ca783129493dd
 # Soal 126
 
 <p>Jumlah kubus paling sedikit yang diperlukan untuk menutupi permukaan balok dengan ukuran 3&nbsp;x&nbsp;2&nbsp;x&nbsp;1 adalah dua puluh dua buah.</p>
-<div style='text-align:center;'>
-![](files-v1/p126.gif)<br />
-</div>
+
+![](files-v1/p126.gif)
+
 <p>Jika kita akan menambahkan lapisan kedua, maka kita akan memerulukan empat puluh enam kubus, untuk menutupi semua permukaan, dan lapisan ketiga akan memerlukan tujuh puluh delapan kubus, lalu lapisan ke empat akan memerlukan seratus dan delapan belas kubus untuk menutupi semua permukaan.</p>
 <p>Dan, lapisan pertama untuk menutupi balok dengan ukuran 5&nbsp;x&nbsp;1&nbsp;x&nbsp;1 juga memerlukan dua puluh dua kubus; sedangkan untuk balok berukuran 5&nbsp;x&nbsp;3&nbsp;x&nbsp;1, 7&nbsp;x&nbsp;2&nbsp;x&nbsp;1, dan 11&nbsp;x&nbsp;1&nbsp;x&nbsp;1 semua memerlukan empat puluh enam buah kubus.</p>
 <p>Kita akan menyatakan C(<i>n</i>) untuk melambangkan banyaknya balok yang dapat ditutupi dengan <i>n</i> buah kubus pada salah satu lapisannya. Sehingga C(22) = 2, C(46) = 4, C(78) = 5, dan C(118) = 8.</p>
@@ -3096,9 +3060,9 @@ Answer: c6b1ae935b33c90a2c320b5f6ef3e4ba
 
 <p>Sebuah ubin segienam dengan angka 1 dikelilingi oleh enam buah ubin segienam lainnya, dimulai dari arah &quot;pukul 12&quot; dan ubin di beri nomor 2 sampai 7 secara berlawanan arah jarum jam.</p>
 <p>Lapisan baru ditambahkan dengan cara yang sama, dengan lapisan selanjutnya diberi nomor dari 8 sampai 19, 20 sampai 37, 38 sampai 61, dan seterusnya. Diagram berikut ini menunjukkan tiga lapisan pertama.</p>
-<div style='text-align:center;'>
+
 ![](files-v1/p128.gif)
-</div>
+
 <p>Dengan mencari selisih antara ubin <i>n</i> dengan ke enam buah ubin di sebelahnya, kita akan mendefinisikan PD(<i>n</i>) sebagai banyaknya selisih ubin-ubin tersebut yang merupakan bilangan prima.</p>
 <p>Sebagai contoh, jika dihitung searah jarum jam, pada ubin 8, maka didapat selisih 12, 29, 11, 6, 1, dan 13. Sehingga PD(8) = 3.</p>
 <p>Dengan cara yang sama, selisih di sekitar ubin 17 adalah 1, 17, 16, 1, 11, dan 10, sehingga PD(17) = 2.</p>
@@ -3239,9 +3203,9 @@ Answer: 44845aa0f47ec925a3b43e6460a55e27
 # Soal 138
 
 <p>Terdapat sebuah segitiga sama kaki dengan panjang alas <i>b</i> = 16, dan panjang kaki L = 17.</p>
-<div style='text-align:center;'>
+
 ![](files-v1/p138.gif)
-</div>
+
 <p>Dengan menggunakan teorema Pythagoras, dapat terlihat bahwa tinggi segitiga tersebut adalah<i>h</i> = &radic;(17<sup>2</sup> &minus; 8<sup>2</sup>) = 15, dimana hanya berseleisih satu satuan dari alasnya.</p>
 <p>Dengan <i>b</i> = 272 dan L = 305, kita bisa mendapatkan <i>h</i> = 273, dimana hanya berselisih satu satuan dari alasnya, dan ini adalah segitiga terkecil kedua yang memiliki sifat <i>h</i> = <i>b</i> &plusmn; 1.</p>
 <p>Carilah &sum; L untuk dua belas segitiga sama kaki terkecil pertama, dimana <i>h</i> = <i>b</i> &plusmn; 1 dan <i>b</i>, L adalah bilangan bulat positif.</p>
@@ -3252,9 +3216,9 @@ Answer: f7524f4d0d6d042c0f92a0d6469aff85
 
 <p>Misalkan (<i>a</i>, <i>b</i>, <i>c</i>) adalah ketiga sisi dari sebuah segitiga siku-siku, dengan panjang sisi yang diurutkan dari kecil ke besar. Kita dapat mengumpulkan empat buah segitiga tersebut bersama-sama untuk membentuk suatu persegi dengan panjang sisi <i>c</i>.</p>
 <p>Sebagai contoh, segitiga (3, 4, 5) dapat diletakkan bersama-sama untuk membentuk persegi dengan ukuran 5 x 5, dengan sebuah lubang persegi berukuran 1 x 1 di tengahnya. Dan dapat terlihat bahwa persegi berukuran 5 x 5 tersebut dapat ditutup oleh dua puluh lima ubin persegi berukuran 1 x 1.</p>
-<div style='text-align:center;'>
+
 ![](files-v1/p139.gif)
-</div>
+
 <p>Tetapi, jika segitiga (5, 12, 13) digunakan, maka akan terdapat lubang berukuran 7 x 7, dan segitiga tersebut tidak bisa digunakan untuk membuat persegi dengan ukuran 13 x 13.</p>
 <p>Diketahui keliling dari suatu segitiga siku-siku adalah kurang dari satu juta satuan panjang, berapa banyak segitiga siku-siku yang dapat digunakan untuk membentuk persegi besar seperti contoh di atas?</p>
 
@@ -3313,7 +3277,9 @@ Answer: d3de282705508407532aa20ca8928e3b
 <p>Misalkan terdapat sebuah segitiga ABC dengan besar semua sisi bagian dalamnya kurang dari 120 derajat. Misalkan X adalah titik yang terletak di dalam segitiga tersebut, dan misalkan XA = p, XC = q, dan XB = r.</p>
 <p>Fermat pernah menantang Torricelli untuk mencari posisi X saat p + q + r memiliki nilai sekecil mungkin.</p>
 <p>Torricelli dapat membuktikan, bahwa jika segitiga sama sisi AOB, BNC dan AMC digambarkan pada setiap sisi segitiga ABC, lingkaran luar dari segitiga AOB, BNC, dan AMC akan berpotongan di satu titik T, di dalam segitiga. Kemudian ia membuktikan bahwa T, yang disebut titik Torricelli/Fermat, mempunyai nilai p + q + r terkecil. Bahkan lebih luar biasanya lagi, dapat dibuktikan bahwa saat hasil penjumlahan dibuat sekecil mungkin, AN = BM = CO = p + q + r dan AN, BM serta CO juga saling berpotongan pada titik T.</p>
-<div style='text-align:center;'>![](files-v1/p143_torricelli.gif)</div>
+
+![](files-v1/p143_torricelli.gif)
+
 <p>Jika hasil penjumlahan telah dibuat sekecil mungkin dan a, b, c, p, q serta r semuanya adalah bilangan bulat positif, kita akan menyebut segitiga ABC sebagai segitiga Torricelli. Sebagai contoh, a = 399, b = 455, c = 511 adalah salah satu contoh dari segitiga Torricelli triangle, dengan p + q + r = 784.</p>
 <p>Carilah jumlah semua hasil berbeda dari p + q + r &le; 120000 untuk segitiga Torricelli.</p>
 
@@ -3324,7 +3290,10 @@ Answer: ec2d4c1a0c204d1f06ea5e2d189034f6
 <p>Dalam ilmu fisika tentang laser, sebuah "white cell" adalah sebuah sistem cermin yang bertindak untuk menunda jalannya sinar laser. Saat sinar memasuki cell, sinar akan memantul di dalam cell, sampai sinar tersebut berhasil kembali keluar.</p>
 <p>Sebuah white cell akan kita anggap memiliki bentuk elips dengan persamaan 4<i>x</i><sup>2</sup> + <i>y</i><sup>2</sup> = 100</p>
 <p>Bagian pada interval &minus;0.01 &le; <i>x</i> &le; +0.01 di sebelah atas adalah kosong, sehingga memungkinkan sinar untuk masuk dan keluar dari lubang tersebut.</p>
-<div style='text-align:center;'>![](files-v1/p144_1.gif)![](files-v1/p144_2.gif)</div>
+
+![](files-v1/p144_1.gif)
+![](files-v1/p144_2.gif)
+
 <p>Sinar pada soal ini mulai bergerak dari titik (0.0,10.1) di luar white cell, dan sinar pertama kali menabrak dinding cell di (1.4,-9.6).</p>
 <p>Setiap kali sinar laser menabrak permukaan elips, sinar tersebut akan mengikuti hukum pemantulan pada fisika "sudut datang sama dengan sudut pandul." Sehingga, kedua sudut, baik sudut datang maupun sudut pantul akan memiliki besar sudut yang sama pada titik pemantulan cermin.</p>
 <p>Pada gambar di sebelah kiri, garis merah menunjukkan dua titik kontak pertama antara sinar laser dengan dinding white cell; garis biru menunjukkan garis singgung pada sebuah titik di elips yang merupakan titik pemantulan pertama.</p><p>Kemiringan atau gradien <i>m</i> dari garis singgung pada titik (<i>x</i>,<i>y</i>) apapun yang menyinggung elips adalah: <i>m</i> = &minus;4<i>x</i>/<i>y</i></p><p>Garis normal yang ada adalah tegak lurus dengan garis singgung ini, dan berpotongan pada titik pantul.</p>
@@ -3355,7 +3324,9 @@ Answer: 525bd2bf0e31b0f19b38a1d21f2f6a16
 # Soal 147
 
 <p>Pada kotak-kotak bersilang berukuran 3x2, terdapat sebanyak 37 persegi panjang berbeda yang dapat dibuat mengikuti garis yang ada seperti terlihat pada gambar.</p>
-<div >![](files-v1/p147.gif)</div>
+
+![](files-v1/p147.gif)
+
 <p>Terdapat 5 ukuran kotak-kotak bersilang lain yang lebih keci dari 3x2, yaitu 1x1, 2x1, 3x1, 1x2 dan 2x2. Jika setiap kotak-kotak bersilang tersebut dicari jumlah persegi panjangnya, maka akan didapat jumlah persegi panjang sebagai berikut:</p>
 <p>1x1: 1
 <br />2x1: 4
@@ -3372,6 +3343,7 @@ Answer: d0fca7d85d4a4df043a2ae5772ea472e
 # Soal 148
 
 <p>Kita dapat dengan mudah membuktikan bahwa tidak ada satupun bilangan pada tujuh baris pertama segitiga pascal yang habis dibagi 7:</p>
+
 
                                        1
                                     1     1
@@ -3407,9 +3379,7 @@ Answer: 8a631ab4e3d06baf88299bf4e501b837
 "Lagged Fibonacci Generator":</p>
 
 <p>Untuk 1 &le; <i>k</i> &le; 55, <i>s</i><sub><i>k</i></sub> = [100003 &minus; 200003<i>k</i> + 300007<i>k</i><sup>3</sup>] (modulo 1000000) &minus; 500000.<br />
-
 Untuk 56 &le; <i>k</i> &le; 4000000, <i>s</i><sub><i>k</i></sub> = [<i>s</i><sub><i>k&minus;24</i></sub> + <i>s</i><sub><i>k&minus;55</i></sub> + 1000000] (modulo 1000000) &minus; 500000.</p>
-
 <p>Sehingga, <i>s</i><sub>10</sub> = &minus;393027 dan <i>s</i><sub>100</sub> = 86613.</p>
 
 <p>Bilangan-bilangan <i>s</i> tersebut kemudian disusun dalam tabel berukuran 2000&times;2000, menggunakan 2000 bilangan pertama untuk mengisi baris pertama (secara berurutan), lalu 2000 bilangan selanjutnya untuk mengisi baris kedua, dan seterusnya.</p>
@@ -3422,9 +3392,9 @@ Answer: 96affc386f4b786c2521a32944424982
 
 <p>Pada suatu barisan bilangan berbentuk segitiga, terdapat bilangan bulat positif dan negatif, kita akan mencari sebuah segitiga yang lebih kecil, yang akan memuat bilangan-bilangan yang memiliki hasil penjumlahan sekecil mungkin.</p>
 <p>Pada contoh berikut ini, kita dapat dengan mudah membuktikan bahwa segitiga yang ditandai memiliki hasil penjumlahan &minus;42.</p>
-<div style="text-align:center;">
+
 ![](files-v1/p150.gif)
-</div>
+
 <p>Kita akan membuat barisan bilangan berbentuk segitiga seperti di atas, namun dengan seratus buah baris, sehingga kita akan membuat 500500 buah angka acak <span style="font-style: italic">s<sub>k</sub></span> pada rentang &plusmn;2<sup>19</sup>, menggunakan sebuah alat pembentuk angka acak (yang dikenal sebagai Linear Congruential Generator) sebagai berikut:</p>
 <p style="margin-left:50px;"><span style="font-style: italic">t</span> := 0
 <br />
@@ -3460,7 +3430,9 @@ Answer: 1802939e514020769701c59b422c0498
 <p>Setiap Senin pagi, kepala tempat percetakan membuka amplop baru, yang berisi selembar kertas pemeriksa warna besar berukuran A1.</p>
 <p>Ia memotong kertas itu menjadi dua bagian sama besar, sehingga terdapat dua lembar kertas berukuran A2. Kemudian dia memotong lagi salah satu dari kertas tersebut menjadi dua, sehingga didapat dua lembar kertas berukuran A3, dan begitu seterusnya sampai ia mendapat kertas berukuran A5 yang ia perlukan untuk mengerjakan pekerjaan pertama di awal minggu.</p>
 <p>Semua kertas yang tidak terpakai dikembalikan ke dalam amplop.</p>
-<div style='text-align:center;'>![](files-v1/p151.gif)</div>
+
+![](files-v1/p151.gif)
+
 <p>Saat awal dari setiap pekerjaan, ia mengambil kertas dari amplop secara acak. Jika kertas tersebut sudah berukuran A5, maka langsung ia gunakan. Tetapi apabila ia mendapat kertas yang lebih besar, ia akan melakukan proses pemotongan kembali, sampai ia mendapatkan ukuran kertas yang diperlukan, dan kembali menaruh sisanya ke dalam amplop.</p>
 <p>Dengan mengabaikan pekerjaan pertama dan terakhir dalam setiap minggu, carilah perkiraan berapa kali kepala tempat percetakan tersebut hanya menemukan selembar kertas di dalam amplop (untuk setiap minggunya).</p>
 <p>Berikan jawaban anda yang dibulatkan enam angka di belakang koma dengan format x.xxxxxx&nbsp;.</p>
@@ -3502,16 +3474,16 @@ Untuk membedakannya, maka bilangan bulat Gaussian dengan <var>b</var> &ne; 0 aka
 <br />
 Sebuah bilangan bulat Gaussian akan disebut pembagi dari bilangan bulat rasional <var>n</var>, apabila hasil pembagiannya juga merupakan bilangan bulat Gaussian.
 <br />
-Sebagai contoh, kita akan membagi 5 dengan 1+2<var>i</var>, kita dapat mengerjakan ![](files-v1/p153_formule1.gif) dengan cara sebagai berikut:
+Sebagai contoh, kita akan membagi 5 dengan 1+2<var>i</var>, kita dapat mengerjakan <img src="files-v1/p153_formule1.gif"/> dengan cara sebagai berikut:
 <br />
 Kalikan pembilang dan penyebut dengan konjugat kompleks dari 1+2<var>i</var>: yaitu 1&minus;2<var>i</var>.
 <br />
 Hasilnya adalah
-![](files-v1/p153_formule2.gif).
+<img src="files-v1/p153_formule2.gif"/>.
 <br />
 Sehingga 1+2<var>i</var> adalah merupakan pembagi dari 5.
 <br />
-Perlu diingat bahwa 1+<var>i</var> bukanlah pembagi dari 5 karena ![](files-v1/p153_formule5.gif).
+Perlu diingat bahwa 1+<var>i</var> bukanlah pembagi dari 5 karena <img src="files-v1/p153_formule5.gif"/>.
 <br />
 Perlu diingat juga bahwa jika sebuah bilangan bulat Gaussian (<var>a</var>+<var>bi</var>) merupakan pembagi dari suatu bilangan bulat rasional <var>n</var>, maka konjugat kompleksnya (<var>a</var>&minus;<var>bi</var>) juga merupakan pembagi dari <var>n</var>.</p>
 <p>Pada kenyataannya, 5 memiliki enam buah pembagi yang memiliki bagian real <i>a</i> positif: {1, 1 + 2<var>i</var>, 1 &minus; 2<var>i</var>, 2 + <var>i</var>, 2 &minus; <var>i</var>, 5}.
@@ -3531,7 +3503,10 @@ dengan bagian real <i>a</i> positif</td><td>Banyaknya s(<var>n</var>) dari <br /
 </tr><tr>
 <td>5</td><td>1, 1+2<var>i</var>, 1-2<var>i</var>, 2+<var>i</var>, 2-<var>i</var>, 5</td><td>12</td>
 </tr></table>
-<p>Untuk pembagi dengan bagian real <i>a</i> positif, kita bisa mendapatkan: ![](files-v1/p153_formule6.gif).</p>
+<p>Untuk pembagi dengan bagian real <i>a</i> positif, kita bisa mendapatkan:</p>
+
+![](files-v1/p153_formule6.gif)
+
 <p>Untuk 1 &le; <var>n</var> &le; 10<sup>5</sup>, &sum; s(<var>n</var>)=17924657155.</p>
 <p>Berapakah &sum; s(<var>n</var>) untuk 1 &le; <var>n</var> &le; 10<sup>8</sup>?</p>
 
@@ -3540,7 +3515,9 @@ Answer: 08ec9d6e6c2275d37e7a227fb2d1f06f
 # Soal 154
 
 <p>Sebuah piramida/limas segitiga dibuat menggunakan bola-bola, sehingga setiap bola bersandar pada tiga buah bola di bawahnya.</p>
-<div >![](files-v1/p154_pyramid.gif)</div>
+
+![](files-v1/p154_pyramid.gif)
+
 <p>Lalu kita akan menghitung banyaknya jalur dari puncak piramida ke setiap posisi:</p>
 <p>Setiap jalur dimulai dari puncak piramida, dan turun ke salah satu dari tiga bola yang ada di bawahnya.</p>
 <p>Akibatnya, banyaknya jalur yang diperlukan untuk sampai ke posisi tertentu bisa didapatkan dengan menjumlahkan bilangan pada bola-bola di atas bola tersebut (tergantung posisi bola, kita mungkin bisa menjumlahkan bilangan maksimal sampai tiga buah bola di atasnya).</p>
@@ -3555,14 +3532,17 @@ Answer: de866633fa075beb3897cbbc8abf2400
 <p>Sebuah rangkaian listrik menggunakan kapasitor yang sama, yang memiiki kapasitansi C.
 <br />
 Kapasitor dapat dihubungkan baik secara seri ataupun pararel untuk membentuk sub-rangkaian, sub-rangkaian dapat juga dihubungkan secara seri atau pararel dengan kapasitor lain atau dengan sub-rangkaian lain untuk membentuk sub-rangkaian yang lebih besar, dan seterusnya sampai membentuk rangkaian final.</p>
-<p>Dengan menggunakan prosedur sederhana ini, dan jika tersedia sampai sebanyak <var>n</var> kapasitor identik, kita dapat membuat rangkaian yang memiliki nilai kapasitansi berbeda-beda. Sebagai contoh, dengan menggunakan maksimal sebanyak <var>n</var>=3 kapasitor dengan kapasitansi 60 ![](files-v1/p155_capsmu.gif)F pada tiap kapastiornya, kita bisa mendapatkan tujuh nilai kapasitansi berbeda: </p>
-<div style='text-align:center;'>![](files-v1/p155_capacitors1.gif)</div>
+<p>Dengan menggunakan prosedur sederhana ini, dan jika tersedia sampai sebanyak <var>n</var> kapasitor identik, kita dapat membuat rangkaian yang memiliki nilai kapasitansi berbeda-beda. Sebagai contoh, dengan menggunakan maksimal sebanyak <var>n</var>=3 kapasitor dengan kapasitansi 60 μF pada tiap kapastiornya, kita bisa mendapatkan tujuh nilai kapasitansi berbeda: </p>
+
+![](files-v1/p155_capacitors1.gif)
+
 <p>Jika kita lambangkan <var>D</var>(<var>n</var>) sebagai banyaknya nilai kapasitansi berbeda yang bisa didapatkan saat disediakan sebanyak <var>n</var> buah kapasitor berkapasitansi sama, sesuai dengan prosedur di atas, kita akan mendapatkan: <var>D</var>(1)=1, <var>D</var>(2)=3, <var>D</var>(3)=7 ...</p>
 <p>Carilah <var>D</var>(18).</p>
 <p><i>Catatan :</i> Saat menghubungkan kapastior C<sub>1</sub>, C<sub>2</sub> dan seterusnya secara pararel, total kapasitansinya akan menjadi C<sub>T</sub>&nbsp;=&nbsp;C<sub>1</sub>&nbsp;+&nbsp;C<sub>2</sub>&nbsp;+...,
 <br />
-Sedangkan saat dihubungkan secara seri, nilai kapasitansi total akan mengikuti aturan:
-![](files-v1/p155_capsform.gif)</p>
+Sedangkan saat dihubungkan secara seri, nilai kapasitansi total akan mengikuti aturan:</p>
+
+![](files-v1/p155_capsform.gif)
 
 Answer: da0a3fc900cc8ae42d514e280524ee39
 
@@ -3754,7 +3734,9 @@ Answer: 049419b9fdad9af74d5888626fff56a3
 # Soal 163
 
 <p>Misalkan terdapat sebuah segitiga sama sisi, dan digambarkan sebuah garis lurus dari semua titik pada segitiga ke tengah-tengah sisi di seberangnya, seperti pada gambar <i>size 1</i> berikut ini.</p>
-<div style='text-align:center;'>![](files-v1/p163.gif)</div>
+
+![](files-v1/p163.gif)
+
 <p>Sekarang enam belas segitiga berbeda ukuran, bentuk, arah hadap, dan tempat dapat ditemukan pada segitiga ini. Menggunakan segitiga <i>size 1</i> sebagai segitiga pembangun, kita dapat membentuk segitiga yang lebih besar, salah satunya adalah segitiga <i>size 2</i> pada gambar di atas. Sekarang kita dapat melihat bahwa terdapat seratus empat buah segitiga berbeda, jika kita mengamati segitiga <i>size 2</i>.</p>
 <p>Dapat terlihat bahwa segitiga <i>size 2</i> dibentuk dari 4 buah segitiga <i>size 1</i>. Sebuah segitiga <i>size 3</i> nantinya akan berisi 9 buah segitiga <i>size 1</i> dan segitiga dengan ukuran <i>size n</i> akan berisi <i>n<sup>2</sup></i> buah segitiga <i>size 1</i>.</p>
 <p>Jika kita melambangkan T(<var>n</var>) sebagai banyaknya segitiga yang dapat diamati dari segitiga dengan ukuran <i>size <var>n</var></i>, maka</p>
@@ -3876,9 +3858,9 @@ Answer: f5f260ee21ead7478403c2ccd18a1829
 # Soal 173
 
 <p>Kita akan membuat sebuah bidang berbentuk persegi dengan &quot;lubang&quot; berbentuk persegi di tengahnya, sehingga bidang tersebut simetris secara vertikal maupun horizontal. Sebagai contoh, menggunakan persis tiga puluh dua ubin persegi, kita bisa membentuk dua macam bidang yang berbeda:</p>
-<div style="text-align:center;">
+
 ![](files-v1/p173_square_laminas.gif)
-</div>
+
 <p>Dengan seratus buah ubin, dan Anda tidak diharuskan untuk menggunakan semua ubin, Anda dapat membentuk empat puluh satu bidang berbeda.</p>
 <p>Jika disediakan satu juta buah ubin, berapa banyak cara bidang persegi seperti di atas yang dapat dibentuk?</p>
 
@@ -3888,9 +3870,9 @@ Answer: 177f825c89a68aefae37b8dec9bb8a9b
 
 <p>Kita akan membuat sebuah bidang berbentuk persegi dengan &quot;lubang&quot; berbentuk persegi di tengahnya, sehingga bidang tersebut simetris secara vertikal maupun horizontal.</p>
 <p>Jika diberikan delapan buah ubin persegi, maka kita hanya dapat membentuk bidang dengan satu cara: yaitu bidang yang berukuran 3x3 dengan lubang berukuran 1x1 di tengahnya. Tetapi, menggunakan tiga puluh dua ubin, kita dapat membentuk dua bidang berbeda.</p>
-<div style="text-align:center;">
+
 ![](files-v1/p173_square_laminas.gif)
-</div>
+
 <p>Jika <var>t</var> melambangkan banyaknya ubin yang digunakan, kita dapat mengatakan bahwa <var>t</var> = 8 adalah bidang tipe L(1) dan <var>t</var> = 32 adalah bidang tipe L(2).</p>
 <p>Misalkan N(<var>n</var>) adalah banyaknya <var>t</var> &le; 1000000, sehingga <var>t</var> akan membentuk bidang tipe L(<var>n</var>); sebagai contoh, N(15) = 832.</p>
 <p>Berapakah &sum; N(<var>n</var>) untuk 1 &le; <var>n</var> &le; 10?</p>
@@ -3923,7 +3905,9 @@ Answer: c47c782ebaf8cdbb60eebfa86cd0003c
 # Soal 177
 
 <p>Misalkan ABCD adalah segiempat konveks, dengan diagonal AC dan BD. Pada setiap titik sudut, setiap diagonal akan membuat sebuah sudut dengan dua buah sisi lain, sehingga akan terbentuk delapan buah sudut pada pojok segi empat.</p>
-<p >![](files-v1/p177_quad.gif)</p>
+
+![](files-v1/p177_quad.gif)
+
 <p>Sebagai contoh, pada titik A, terdapat dua buah sudut, yaitu CAD dan CAB.</p>
 <p>Segi empat seperti ini, yang ke delapan sudut pada pojok segi empatnya merupakan bilangan bulat (diukur dalam derajat) akan kita sebut sebagai &quot;Segi empat bersudut bilangan bulat&quot;. Salah satu contoh segi empat bersudut bilangan bulat adalah sebuah persegi, dimana kedelapan sudut pada pojok segiempatnya adalah 45&deg;. Contoh lain adalah sebuah segi empat dengan sudut DAC = 20&deg;, BAC = 60&deg;, ABD = 50&deg;, CBD = 30&deg;, BCA = 40&deg;, DCA = 30&deg;, CDB = 80&deg;, dan ADB = 50&deg;.</p>
 <p>Berapakah banyaknya semua segi empat bersudut bilangan bulat?</p>
@@ -4021,7 +4005,8 @@ Answer: 438bc10af8f8eb366ec1371478ca3d3c
 
 <p>Terdapat himpunan <var>I<sub>r</sub></var> yang berisi titik-titik (<var>x</var>,<var>y</var>) yang koordinatnya berupa bilangan bulat , yang titik-titiknya berada dalam lingkaran berjari-jari <var>r</var>, dan berpusat di pusat koordinat, yaitu lingkaran <var>x</var><sup>2</sup> + <var>y</var><sup>2</sup> &lt; <var>r</var><sup>2</sup>.</p>
 <p>Untuk jari-jari 2, <var>I</var><sub>2</sub> berisi sembilan titik, yaitu (0,0), (1,0), (1,1), (0,1), (-1,1), (-1,0), (-1,-1), (0,-1) dan (1,-1). Terdapat delapan segitiga yang titik-titik sudutnya merupakan anggota <var>I</var><sub>2</sub> yang sebelah dalam segitiganya terdapat pusat koordinat. Dua dari mereka ditunjukkan di gambar berikut, Segitiga lainnya bisa didapatkan dengan cara merotasikan kedua segitiga ini.</p>
-<p >![](files-v1/p184.gif)</p>
+
+![](files-v1/p184.gif)
 
 <p>Untuk jari-jari 3, terdapat 360 segitiga yang di dalam segitiganya terdapat pusat koordinat, dan titik-titik sudutnya merupakan anggota <var>I</var><sub>3</sub>. Lalu untuk <var>I</var><sub>5</sub> banyaknya segitiga serupa adalah 10600.</p>
 
@@ -4127,13 +4112,14 @@ Answer: 62746b4d40a2b87c3dd6caee5d33e6a1
 
 <p>Perhatikan susunan 64 buah segitiga berikut:</p>
 
-<div >![](files-v1/p189_grid.gif)</div>
+![](files-v1/p189_grid.gif)
 
 <p>Kita akan mewarnai setiap segitiga dengan salah satu dari tiga warna: merah, hijau, atau biru, sehingga tidak ada dua buah segitiga bersebelahan yang mempunyai warna yang sama. Jika berhasil, maka hasil pewarnaan tersebut akan dianggap berhasil. Di soal ini, dua segitiga dikatakan bersebelahan apabila memiliki satu sisi yang sama.<br />
 Catatan: Jika hanya sama titik sudutnya saja, segitiga tersebut tidak dianggap bersebelahan.</p> 
 
 <p>Contoh berikut ini adalah hasil pewarnaan yang sah pada segitiga di atas:</p>
-<div >![](files-v1/p189_colours.gif)</div>
+
+![](files-v1/p189_colours.gif)
 
 <p>Proses pewarnaan C' yang didapatkan dari hasil rotasi atau refelksi pewarnaan C akan dianggap <i>berbeda</i> dari C, keduali hasil pewarnaan keduanya identik.</p>
 
@@ -4178,7 +4164,7 @@ Sebuah <i>pendekatan terbaik</i> untuk mencari <var>x</var> untuk <i>batas penye
 
 <p>Sebagai contoh, pendekatan terbaik &radic;13 untuk batas penyebut 20 adalah 18/5, dan pendekatan terbaik &radic;13 untuk batas penyebut 30 adalah 101/28.</p>
 
-<p>Carilah jumlah semua penyebut yang merupakan pendekatan terbaik untuk &radic;<var>n</var, untuk batas penyebut 10<sup>12</sup>, dimana <var>n</var> adalah bilangan yang bukan merupakan kuadrat sempurna, dan 1 &lt; <var>n</var> &le; 100000.</p>
+<p>Carilah jumlah semua penyebut yang merupakan pendekatan terbaik untuk &radic;<var>n</var>, untuk batas penyebut 10<sup>12</sup>, dimana <var>n</var> adalah bilangan yang bukan merupakan kuadrat sempurna, dan 1 &lt; <var>n</var> &le; 100000.</p>
 
 Answer: e5ec7d4b094709b1fcebbd73b10e6264
 
@@ -4192,8 +4178,10 @@ Answer: ea29fcf755b560777b0b6d8714234d18
 
 # Soal 194
 
-<p>Terdapat gambar yang dibuat dengan unit A: ![](files-v1/p194_GraphA.png)
-dan unit B: ![](files-v1/p194_GraphB.png), dimana setiap unit ditempelkan satu sama lain pada garis vertikalnya seperti pada gambar ![](files-v1/p194_Fig.png).</p>
+<p>Terdapat gambar yang dibuat dengan unit A: <img src="files-v1/p194_GraphA.png"/>
+dan unit B: <img src="files-v1/p194_GraphB.png"/>, dimana setiap unit ditempelkan satu sama lain pada garis vertikalnya seperti pada gambar:</p>
+
+![](files-v1/p194_Fig.png)
 
 <p>Sebuah susunan dengan tipe (<var>a</var>,<var>b</var>,<var>c</var>) adalah gambar yang dibuat dengan <var>a</var> buah unit A dan <var>b</var> buah unit B, dimana titik-titik pada setiap gambar diwarnai menggunakan <var>c</var> buah warna, sehingga tidak ada dua titik bersebelahan yang mempunyai warna yang sama.<br />
 Gambar gabungan di atas merupakan salah satu contoh dari konfigurasi tipe (2,2,6), pada kenyataannya terdapat tipe (2,2,<var>c</var>) untuk <var>c</var> &ge; 4.</p>
@@ -4277,9 +4265,9 @@ Answer: e59816f440fec9368c681314a127f3ee
 # Soal 199
 
 <p>Tiga lingkaran dengan jari-jari sama diletakan dalam suatu lingkaran besar, sehingga setiap lingkaran akan saling menyinggung satu sama lain, dan lingkaran yang ada di dalam tidak saling menumpuk satu sama lain. terdapat empat daerah yang masih belum ditutupi, yang akan di isi lagi secara berulang-ulang dengan lingkaran yang juga saling menyinggung lingkaran lainnya.</p>
-<div style='text-align:center;'>
+
 ![](files-v1/p199_circles_in_circles.gif)
-</div>
+
 <p>
 Pada setiap iterasi, lubang akan di isi dengan sebuah lingkaran sebesar mungkin, dimana setelah lingkaran tersebut diletakkan, akan muncul lubang baru lagi untuk iterasi selanjutnya. Setelah 3 iterasi (seperti pada gambar), terdapat sebanyak 108 lubang dan perbandingan luas lubang dengan luas keseluruhan adalah 0.06790342, dibulatkan sampai delapan angka di belakang koma.
 </p>
@@ -4346,9 +4334,7 @@ Answer: b7ad07c58c81a940b8ff067a13b2760d
 
 <p>Jika titik sudut diberi label A, B dan C. Terdapat 2 cara untuk sinar laser dapat memasuki titik C, memantul di dalam 11 kali, kemudian keluar ke titik y ang sama: salah satu caranya ditunjukkan pada gambar berikut; cara satunya lagi adalah kebalikan dari cara ini.</p>
 
-<div style="text-align:center;">
-  ![](files-v1/p201_laserbeam.gif)
-</div>
+![](files-v1/p201_laserbeam.gif)
 
 <p>Terdapat 80840 cara untuk sinar laser dapat memasuki titik C, memantul 1000001 kali, kemudian keluar melalui titik yang sama.</p>
 
@@ -4446,9 +4432,8 @@ Answer: 3f17b264ed1717fe5fbde1e399bd501f
 <p>Sebuah robot bergerak dengan jalur satu per lima busur lingkaran (72&deg;), dengan bebas memilih arah putaran, apakah searah jarum jam atau berlawanan jarum jam pada setiap langkahnya, namun tidak boleh berputar saat diam di tempat.</p>
 
 <p>Salah satu dari 70932 jalur tertutup yang dibentuk dari 25 busur dimulai dari utara adalah</p>
-<div style="text-align:center;">
+
 ![](files-v1/p208_robotwalk.gif)
-</div>
 
 <p>Diketahui bahwa robot mula-mula menghadap utara, berapa banyak jalur tertutup yang dapat dibuat, dengan 70 buah busur (70 kali berjalan), sehingga setelah langkah terakhir robot, robot tersebut akan kembali ke titik awalnya?<br />
 <!--(Journeys are allowed to return multiple times to the start.)-->
@@ -4571,9 +4556,7 @@ Answer: 1cefd865483c03552d5247ffb05685c7
 
 <p>Sebagai contoh, tembok berukuran 9&times;3 berikut ini tidak diperbolehkan, karena adanya garis lurus (running crack) yang ditunjukkan dengan garis merah:</p>
 
-<div style="text-align:center;">
 ![](files-v1/p215_crackfree.gif)
-</div>
 
 <p>Terdapat delapan cara untuk membangun dinding berukuran 9&times;3 yang bebas garis lurus (running crack), dan dapat dituliskan W(9,3) = 8.</p>
 
@@ -4595,7 +4578,7 @@ Answer: e512153424a482deb9de401ac0465a72
 # Soal 217
 
 <p>
-Sebuah bilangan bulat positif dengan <var>k</var>-angka, disebut seimbang apabila hasil penjumlahan &lceil;<sup><var>k</var></sup>/<sub>2</sub>&rceil;-angka pertama sama dengan hasil penjumlahan &lceil;<sup><var>k</var></sup>/<sub>2</sub>&rceil;-angka terakhir, dimana &lceil;<var>x</va>&rceil;, adalah hasil <span style="font-style: italic">pembulatan ke atas</span> dari <var>x</var>, sehingga &lceil;&pi;&rceil; = 4 dan &lceil;5&rceil; = 5.</p>
+Sebuah bilangan bulat positif dengan <var>k</var>-angka, disebut seimbang apabila hasil penjumlahan &lceil;<sup><var>k</var></sup>/<sub>2</sub>&rceil;-angka pertama sama dengan hasil penjumlahan &lceil;<sup><var>k</var></sup>/<sub>2</sub>&rceil;-angka terakhir, dimana &lceil;<var>x</var>&rceil;, adalah hasil <span style="font-style: italic">pembulatan ke atas</span> dari <var>x</var>, sehingga &lceil;&pi;&rceil; = 4 dan &lceil;5&rceil; = 5.</p>
 <p>Sebagai contoh, semua bilangan palindrom adalah bilangan seimbang, contoh lainnya adalah 13722.</p>
 <p>T(<var>n</var>) adalah jumlah semua bilangan seimbang yang kurang dari 10<sup><var>n</var></sup>. <br />
 Sehingga: T(1) = 45, T(2) = 540 dan T(5) = 334795890. </p>
@@ -4654,8 +4637,7 @@ Answer: 578c22ef288b88c60fbcf4541351aff5
 
 <p>Lalu <b><i>D</i></b><sub>n</sub> akan membentuk suatu gambar menarik yang dikenal sebagai <i>Heighway Dragon</i> dengan orde <i>n</i>.  Sebagai contoh, <b><i>D</i></b><sub>10</sub> ditunjukan pada gambar berikut; dengan menghitung setiap huruf &quot;F&quot; sebagai satu langkah, titik (18,16) yang di tandai tersebut bisa dicapai setelah berjalan 500 langkah.</p>
 
-<div style="text-align:center;">
-![](files-v1/p220.gif)</div>
+![](files-v1/p220.gif)
 
 <p>Dimanakan posisi kursor setelah 10<sup>12</sup> langkah di <b><i>D</i></b><sub>50</sub> ?<br />
 Berikan jawaban Anda dengan format <i>x</i>,<i>y</i> tanpa spasi.</p>
@@ -4747,12 +4729,11 @@ Answer: f1981e4bd8a0d6d8462016d2fc6276b3
 
 # Soal 226
 
-<p><i>Kurva blancmange</i> adalah kumpulan titik (<var>x</var>,<var>y</var>) yang memenuhi 0&thinsp;&le;&thinsp;<var>x</var>&thinsp;&le;&thinsp;1 dan ![](files-v1/p226_formula.gif) ,<br />dimana <var>s</var>(<var>x</var>) = adalah selisih antara <var>x</var> dengan bilangan bulat terdekat.</p>
+<p><i>Kurva blancmange</i> adalah kumpulan titik (<var>x</var>,<var>y</var>) yang memenuhi 0&thinsp;&le;&thinsp;<var>x</var>&thinsp;&le;&thinsp;1 dan <img src="files-v1/p226_formula.gif"/> ,<br />dimana <var>s</var>(<var>x</var>) = adalah selisih antara <var>x</var> dengan bilangan bulat terdekat.</p>
 
 <p>Luas di bawah kurva blancmange sama dengan &frac12;, yang ditunjukkan dengan warna pink pada diagram berikut.</p>
 
-<div style="text-align:center;">
-![](files-v1/p226_scoop2.gif)</div>
+![](files-v1/p226_scoop2.gif)
 
 <p>Misalkan <var>C</var> adalah sebuah lingkaran dengan pusat (&frac14;,&frac12) dan jari-jari &frac14;, yang ditunjukkan dengan warna hitam pada diagram di atas.</p>
 
@@ -4800,8 +4781,7 @@ Answer: 7b87cd0a96f0f2f12f911cdc66608d95
 
 <p>Sebagai contoh, hasil penjumlahan dari <var>S</var><sub>3</sub> dan <var>S</var><sub>4</sub> adalah bangun dengan enam sisi bewarna pink berikut:</p>
 
-<div style="text-align:center;">
-![](files-v1/p228.png)</div>
+![](files-v1/p228.png)
 
 <p>Berapakah banyaknya sisi yang dimiliki oleh <var>S</var><sub>1864</sub>&thinsp;+&thinsp;<var>S</var><sub>1865</sub>&thinsp;+&thinsp;&hellip;&thinsp;+&thinsp;<var>S</var><sub>1909</sub>?</p>
 
@@ -4989,8 +4969,7 @@ Answer: 6e707fcffc510520d981ae16a29579bb
 
 <p>Diagram berikut ini menunjukkan salah satu jalur dari papan berukuran 4 &times; 10:</p>
 
-<div style="text-align:center;">
-![](files-v1/p237.gif)</div>
+![](files-v1/p237.gif)
 
 <p>T(10) adalah 2329. Berapakah T(10<sup>12</sup>) modulo 10<sup>8</sup>?</p>
 
@@ -4998,49 +4977,42 @@ Answer: 0742988a3948491b15fb48e476c78a6a
 
 # Soal 238
 
-<style type="text/css">
-table.p238 td { padding: 0px 3px 0px 3px; }
-</style>
+Create a sequence of numbers using the "Blum Blum Shub" pseudo-random
+number generator:
 
-<p>Buatlah sebuah barisan bilangan dengan alat pembuat bilangan acak "Blum Blum Shub":</p>
+                      s[0]   = 14025256
+                      s[n+1] = s[n]^2 mod 20300713
 
-<center><table class="p238">
+Concatenate these numbers  s[0]s[1]s[2]… to create a string w of infinite
+length.
+Then, w = 14025256741014958470038053646…
 
-  <tr>
-    <td style="text-align:right"><var>s</var><sub>0</sub></td>
-    <td>=</td>
-    <td>14025256</td>
-  </tr><tr>
-    <td><var>s</var><sub><var>n</var>+1</sub></td>
-    <td>=</td>
-    <td><var>s</var><sub><var>n</var></sub><sup>2</sup> mod 20300713</td>
-  </tr>
-</table></center>
+For a positive integer k, if no substring of w exists with a sum of digits
+equal to k, p(k) is defined to be zero. If at least one substring of w
+exists with a sum of digits equal to k, we define p(k) = z, where z is the
+starting position of the earliest such substring.
 
-<p>Lalu gabungkan bilangan-bilangan &thinsp;<var>s</var><sub>0</sub><var>s</var><sub>1</sub><var>s</var><sub>2</sub>&hellip; untuk membuat sebuah string <var>w</var> dengan panjang tak hingga.<br />
-Maka, <var>w</var>&thinsp;=&thinsp;<span style='font-family:courier new;font-size:12pt;color:#0000ff;'>14025256741014958470038053646&hellip;</span></p>
+For instance:
 
-<p>Untuk bilangan bulat positif <var>k</var>, jika tidak terdapat substring dari <var>w</var> yang hasil penjumlahan angka-angkanya sama dengan <var>k</var>, <var>p</var>(<var>k</var>) akan dinyatakan sebesar nol. Jika setidaknya terdapat satu substring dari <var>w</var> yang memiliki hasil penjumlahan angka-angkanya sama dengan <var>k</var>, kita nyatakan <var>p</var>(<var>k</var>)&thinsp;=&thinsp;<var>z</var>, dimana <var>z</var> adalah posisi mulai dari substring tersebut.</p>
+The substrings 1, 14, 1402, …
+with respective sums of digits equal to 1, 5, 7, …
+start at position 1, hence p(1) = p(5) = p(7) = … = 1.
 
-<p>Sebagai contoh:</p>
+The substrings 4, 402, 4025, …
+with respective sums of digits equal to 4, 6, 11, …
+start at position 2, hence p(4) = p(6) = p(11) = … = 2.
 
-<p>Substrings <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>1</span>, <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>14</span>, <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>1402</span>, &hellip; <br />
-dengan hasil penjumlahan angka masing-masing sama dengan 1, 5, 7, &hellip;<br />
-dimulai dari posisi <b>1</b>, sehingga <var>p</var>(1)&thinsp;=&thinsp;<var>p</var>(5)&thinsp;=&thinsp;<var>p</var>(7)&thinsp;=&thinsp;&hellip;&thinsp;=&thinsp;<b>1</b>.</p>
+The substrings 02, 0252, …
+with respective sums of digits equal to 2, 9, …
+start at position 3, hence p(2) = p(9) = … = 3.
 
-<p>Substrings <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>4</span>, <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>402</span>, <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>4025</span>, &hellip;<br />
-dengan hasil penjumlahan angka masing-masing sama dengan 4, 6, 11, &hellip;<br />
-dimulai dari posisi <b>2</b>, sehingga <var>p</var>(4)&thinsp;=&thinsp;<var>p</var>(6)&thinsp;=&thinsp;<var>p</var>(11)&thinsp;=&thinsp;&hellip;&thinsp;=&thinsp;<b>2</b>.</p>
+Note that substring 025 starting at position 3, has a sum of digits equal
+to 7, but there was an earlier substring (starting at position 1) with a
+sum of digits equal to 7, so p(7) = 1, not 3.
 
-<p>Substrings <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>02</span>, <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>0252</span>, &hellip;<br />
-dengan hasil penjumlahan angka masing-masing sama dengan 2, 9, &hellip;<br />
-dimulai dari posisi <b>3</b>, sehingga <var>p</var>(2)&thinsp;=&thinsp;<var>p</var>(9)&thinsp;=&thinsp;&hellip;&thinsp;=&thinsp;<b>3</b>.<p>
+We can verify that, for 0 < k ≤ 10^3, ∑ p(k) = 4742.
 
-<p>Perhatikan bahwa substring <span style='font-family:courier new;font-size:12pt;color:#0000ff;'>025</span> yang dimulai dari posisi <b>3</b>, memiliki hasil penjumlahan angka sama dengan 7, namun sudah terdapat substring lain (dimulai dari posisi <b>1</b>) yang telah memiliki hasil penjumlahan angka 7, sehingga <var>p</var>(7)&thinsp;=&thinsp;1, <i>bukan</i> 3.</p>
-
-<p>Kita dapat membuktikan bahwa, untuk 0&thinsp;<&thinsp;<var>k</var>&thinsp;&le;&thinsp;10<sup>3</sup>, &sum;&thinsp;<var>p</var>(<var>k</var>) = 4742.</p>
-
-<p>Carilah &sum;&thinsp;<var>p</var>(<var>k</var>), untuk 0&thinsp;<&thinsp;<var>k</var>&thinsp;&le;&thinsp;2&middot;10<sup>15</sup>.</p>
+Find ∑ p(k), for 0 < k ≤ 2·10^15.
 
 Answer: 424ed6613a372ccb9a90dddb8961ca16
 
@@ -5127,7 +5099,8 @@ Answer: 531721a10786c5c2a444b474fcf039f9
 <p>Sebuah gerakan dilambangkan dengan huruf kapital dari arah yang di inginkan (Left/Kiri, Right/Kanan, Up/Atas, Down/Bawah), yang akan melambangkan arah kotak bergeser untuk mengisi kotak kosong, sebagai contoh, dimulai dari konfigurasi (<b>S</b>), dengan urutan <b>LULUR</b> kita akan mencapai konfigurasi (<b>E</b>):</p>
 <p><div style="text-align: center;">
 <table cellspacing='0' cellpadding='2' border='0' align='center'>
-<tr><td width = '25'>(<b>S</b>)</td><td width='100'>![](files-v1/p244_start.gif)</td><td width = '25'>,&nbsp;(<b>E</b>)</td><td width='100'>![](files-v1/p244_example.gif)</td>
+<tr><td width = '25'>(<b>S</b>)</td><td width='100'><img src="files-v1/p244_start.gif"/></td><td width = '25'>,&nbsp;(<b>E</b>)</td><td width='100'><img src="files-v1/p244_example.gif"/></td>
+</tr>
 </table>
 </div>
 </p>
@@ -5155,7 +5128,8 @@ Dimana <var>m</var><sub><var>k</var></sub> adalah nilai ASCII dari huruf ke-<var
 carilah semua jalur terpendek untuk mencapai konfigurasi (<b>T</b>).</p>
 <p><div style="text-align: center;">
 <table cellspacing='0' cellpadding='2' border='0' align='center'>
-<tr><td width = '25'>(<b>S</b>)</td><td width='100'>![](files-v1/p244_start.gif)</td><td width = '25'>,&nbsp;(<b>T</b>)</td><td width='100'>![](files-v1/p244_target.gif)</td>
+<tr><td width = '25'>(<b>S</b>)</td><td width='100'><img src="files-v1/p244_start.gif"/></td><td width = '25'>,&nbsp;(<b>T</b>)</td><td width='100'><img src="files-v1/p244_target.gif"/></td>
+</tr>
 </table>
 </div>
 </p>
@@ -5200,8 +5174,8 @@ Diberikan lingkaran c dengan pusat M dan jari-jari r dan sebuah titik G yang mem
 </p>
 Pembentukkan titik-titik pada elips ditunjukkan pada gambar berikut.
 </p>
-<div style="text-align:center;">
-![](files-v1/p246_anim.gif)</div>
+
+![](files-v1/p246_anim.gif)
 
 <p>
 Diketahui terdapat titik M(-2000,1500) dan G(8000,1500).<br /> 
@@ -5210,8 +5184,9 @@ Lokus dari titik-titik yang memiliki panjang yang sama dari G dan c akan membent
 Dari titik P di luar e, digambar dua buah garis singgung elips t<sub>1</sub> dan t<sub>2</sub>.<br />
 Titik dimana t<sub>1</sub> dan t<sub>2</sub> menyentuh elips adalah R dan S.
 </p>
-<div style="text-align:center;">
-![](files-v1/p246_ellipse.gif)</div>
+
+![](files-v1/p246_ellipse.gif)
+
 <p>
 Berapa banyak titik potong P memiliki sudut RPS lebih besar dari 45 derajat?
 </p>
@@ -5226,8 +5201,9 @@ S<sub>1</sub> adalah persegi terbesar yang bisa muat di bawah kurva.<br />
 S<sub>2</sub> adalah persegi terbesar yang bisa muat diletakkan di daerah sisanya, dan seterusnya. <br />
 <i>indeks</i> dari S<sub><var>n</var></sub> berupa pasangan bilangan (kiri, bawah), menandakan banyaknya persegi di sebelah kiri dari S<sub><var>n</var></sub> dan banyaknya persegi di bawah S<sub><var>n</var></sub>.
 </p>
-<div style="text-align:center;">
-![](files-v1/p247_hypersquares.gif)</div>
+
+![](files-v1/p247_hypersquares.gif)
+
 <p>
 Diagram di atas menunjukkan beberapa persegi sesuai dengan aturan di atas, yang diberi nomor. <br />
 Pada S<sub>2</sub> terdapat satu persegi di sebelah kirinya, dan tidak ada persegi di bawahnya, sehingga indeks dari S<sub>2</sub> adalah (1,0).<br />
@@ -5265,8 +5241,9 @@ Answer: 4a5614f3700956273fe0d271f921d5f4
 
 <p>
 Sebuah triplet bilangan bulat positif (<var>a</var>,<var>b</var>,<var>c</var>) akan disebut triplet Cardano apabila memenuhi kondisi:</p>
-<div style="text-align:center;">
-![](files-v1/p251_cardano.gif)</div>
+
+![](files-v1/p251_cardano.gif)
+
 <p>
 Sebagai contoh, (2,1,5) adalah triplet Cardano.
 </p>
@@ -5275,7 +5252,7 @@ Terdapat 149 triplet Cardano dimana <var>a</var>+<var>b</var>+<var>c</var> &le; 
 </p>
 <p>
 Carilah berapa banyak triplet Cardano yang ada, dimana <var>a</var>+<var>b</var>+<var>c</var> &le; 110,000,000.
- 
+</p>
 
 Answer: 9690315a09a4d9f58dcc19ad96e6e889
 
@@ -5288,9 +5265,9 @@ Diberikan himpunan titik-titk pada suatu bidang, kita akan menyatakan lubang kon
 Sebagai contoh, gambar di bawah ini menunjukkan himpunan dari dua puluh buah titik, dan beberapa lubang konveks seperti yang dijelaskan di atas. 
 Lubang konveks ditunjukkan oleh segi tujuh berwarna merah memiliki luas 1049694.5 satuan luas, dimana luas ini adalah luas terbesar yang memungkinkan dibentuk oleh lubang konveks pada titik-titik yang diberikan.
 </p>
-<div style="text-align:center;">
-![](files-v1/p252_convexhole.gif)</div>
-<p>
+
+![](files-v1/p252_convexhole.gif)
+
 <style type="text/css">
 table.p252 td {
   padding: 0px 3px 0px 3px;
@@ -5331,7 +5308,7 @@ Answer: 53b1ced82e1b588d756750c4d2f77e0d
 
 <p>Seorang anak kecil memiliki &ldquo;ulat nomor&rdquo; yang berisi empat puluh buah jigsaw puzzle, setiap potong puzzle memiliki sebuah nomor padanya, sehingga, saat semua puzzle digabung dalam satu garis, akan muncul nomor 1 sampai 40 secara berurutan.</p>
 
-<p>Setiap malam, ayah dari anak tersebut harus mengambil potongan puzzle ulat yang telah tersebar di ruang bermain. Ia mengambil potongan puzzle secara acak, lalu meletakannya di urutan yang benar.<br /> Maka lama kelamaan ulat akan terbentuk, akan terbentuk segmen ulat berbeda yang lama kelamaan akan tersambung menjadi satu ulat utuh.<br /> Banyaknya segmen ulat dimulai dari nol buah (tidak ada segmen tercipta sama sekali), hingga terdapat sebelas atau dua belas buah segmen ulat, lalu kembali menjadi nol lagi sebelum semua segmen bergabung menjadi satu (semua potongan telah diletakkan dengan benar).<p>
+<p>Setiap malam, ayah dari anak tersebut harus mengambil potongan puzzle ulat yang telah tersebar di ruang bermain. Ia mengambil potongan puzzle secara acak, lalu meletakannya di urutan yang benar.<br /> Maka lama kelamaan ulat akan terbentuk, akan terbentuk segmen ulat berbeda yang lama kelamaan akan tersambung menjadi satu ulat utuh.<br /> Banyaknya segmen ulat dimulai dari nol buah (tidak ada segmen tercipta sama sekali), hingga terdapat sebelas atau dua belas buah segmen ulat, lalu kembali menjadi nol lagi sebelum semua segmen bergabung menjadi satu (semua potongan telah diletakkan dengan benar).</p>
 
 <p>For example:</p>
 <div align='center'>
@@ -5396,8 +5373,9 @@ Answer: 936014adf2de65d41979ad900325e485
 Jika <var>d</var> bernilai ganjil, tetapkan <var>x</var><sub>0</sub> = 2&times;10<sup>(<var>d</var>-1)&frasl;2</sup>.<br />
 Jika <var>d</var> bernilai genap, tetapkan <var>x</var><sub>0</sub> = 7&times;10<sup>(<var>d</var>-2)&frasl;2</sup>.<br />
 Ulangi:</p>
-<p align='center'>
-![](files-v1/p255_Heron.gif)</p>
+
+![](files-v1/p255_Heron.gif)
+
 <!--
 <table align='center'>
 <tr><td><var>x</var><sub><var>k</var>+1</sub> =</td>
@@ -5411,7 +5389,11 @@ Ulangi:</p>
 </p>
 <p>Sebagai contoh, kita akan mencari akar-kuadrat-dibulatkan dari <var>n</var> = 4321.<br />
 <var>n</var> mempunyai 4 angka (digit), sehingga <var>x</var><sub>0</sub> = 7&times;10<sup>(4-2)&frasl;2</sup> = 70.<br />
+</p>
+
 ![](files-v1/p255_Example.gif)
+
+<p>
 <!--<var>x</var><sub>1</sub> = &lfloor;(70 + &lceil;4321&frasl;70&rceil;)&frasl;2&rfloor; = 66.<br />
 <var>x</var><sub>2</sub> = &lfloor;(66 + &lceil;4321&frasl;66&rceil;)&frasl;2&rfloor; = 66.--><br />
 Karena <var>x</var><sub>2</sub> = <var>x</var><sub>1</sub>, maka kita berhenti sampai di sini.<br />
@@ -5441,9 +5423,8 @@ Kita menggunakan istilah 'luas' untuk menyatakan luas permukaan lantai ruangan, 
 
 <p>Terdapat satu aturan untuk menyusun tatami: tidak boleh ada titik yang menjadi tempat bertemu ujung empat tikar berbeda.<br />
 Sebagai contoh, perhatikan dua susunan berikut ini untuk ruangan berukuran 4&times;4:</p>
-<div align='center'>
-![](files-v1/p256_tatami3.gif)<br />
-</div>
+
+![](files-v1/p256_tatami3.gif)
 
 <p>Susunan di sebelah kiri dapat diterima, sedangkan yang di sebelah kanan tidak: tanda "<span style="color:red"><b>X</b></span>" bewarna merah di tengah-tengah, menandakan tempat dimana empat tatami bertemu.</p>
 
@@ -5471,9 +5452,9 @@ Answer: ef8eb0c177d00a5b80e1723786a22698
 (AB = c, BC = a and AC = b).<BR />
 Garis bagi dari segitiga tersebut berpotongan pada titik E, F, dan G (perhatikan gambar berikut).
 </p>
-<div align='center'>
-![](files-v1/p257_bisector.gif)<br />
-</div>
+
+![](files-v1/p257_bisector.gif)
+
 <p>
 Segmen garis EF, EG dan FG membagi segitiga ABC menjadi empat segitiga kecil: AEG, BFE, CGF dan EFG.<BR />
 Dapat dibuktikan bahwa pada keempat segitiga tersebut, perbandingan luas(ABC)/luas(segitiga keicl) adalah merupakan bilangan rasional.<BR />
@@ -5491,9 +5472,9 @@ Answer: 3ba58bde91c83c98904050d90e466ce2
 <p>Sebuah barisan dinyatakan dengan:</p>
 <p>
 <ul><li><var>g</var><sub><var>k</var></sub> = 1, for 0 &le; <var>k</var> &le; 1999</li>
-<li><var>g</var><sub><var>k</var></sub> = <var>g</var><sub><var>k</var>-2000</sub> + <var>g</var><sub><var>k</var>-1999</sub>, untuk <var>k</var> &ge; 2000.
+<li><var>g</var><sub><var>k</var></sub> = <var>g</var><sub><var>k</var>-2000</sub> + <var>g</var><sub><var>k</var>-1999</sub>, untuk <var>k</var> &ge; 2000.</li>
 </ul></p>
-<p>Carilah <var>g</var><sub><var>k</var></sub> mod 20092010 untuk <var>k</var> = 10<sup>18</sup>.
+<p>Carilah <var>g</var><sub><var>k</var></sub> mod 20092010 untuk <var>k</var> = 10<sup>18</sup>.</p>
 
 Answer: 18eca0138f3acbde20dcc24ed06627ea
 
@@ -5562,9 +5543,7 @@ Answer: d45ddf64010ed143228a6a6b84837de9
 
 <p>Fungsi berikut ini akan menggambarkan topografi dari daerah <i>kontinu</i> suatu pegunungan, nilai <dfn title="height above sea level">ketinggian</dfn> <var>h</var> di titik (<var>x</var>,<var>y</var>) manapun adalah:</p>
 
-<div align='center'>
-![](files-v1/p262_formula1.gif)<br />
-</div>
+![](files-v1/p262_formula1.gif)
 
 <p>Seekor nyamuk akan terbang dari A(200,200) ke B(1400,1400), tanpa keluar dari daerah yang dibatasi 0&nbsp;&#8804;&nbsp;<var>x</var>,&nbsp;<var>y</var>&nbsp;&#8804;&nbsp;1600.</p>
 
@@ -5597,8 +5576,8 @@ Kita mungkin dapat menemukan pasangan seksi rangkap tiga, yang berarti terdapat 
 <P>
 Kita akan menyebut bilangan <var>n</var> yang :
 <UL>
-<LI>(<var>n</var>-9, <var>n</var>-3), (<var>n</var>-3,<var>n</var>+3), (<var>n</var>+3, <var>n</var>+9) membentuk pasangan seksi rangkap tiga, dan 
-<LI>bilangan <var>n</var>-8, <var>n</var>-4, <var>n</var>, <var>n</var>+4 dan <var>n</var>+8 adalah bilangan praktis,
+<LI>(<var>n</var>-9, <var>n</var>-3), (<var>n</var>-3,<var>n</var>+3), (<var>n</var>+3, <var>n</var>+9) membentuk pasangan seksi rangkap tiga, dan</li>
+<LI>bilangan <var>n</var>-8, <var>n</var>-4, <var>n</var>, <var>n</var>+4 dan <var>n</var>+8 adalah bilangan praktis,</li>
 </UL> 
 sebagai sebuah surga insinyur.
 </P>
@@ -5631,7 +5610,7 @@ A(1, 8), B(8, -1), C(-4, -7)<br /><br /><br />
 A(8, 1), B(1, -8), C(-4, 7)<br />
 A(2, 9), B(9, -2), C(-6, -7)<br />
 A(9, 2), B(2, -9), C(-6, 7)<br /></td>
-<td>![](files-v1/p264_TriangleCentres.gif)</td>
+<td><img src="files-v1/p264_TriangleCentres.gif"/></td>
 </tr>
 </table></p>
 
@@ -5647,7 +5626,8 @@ Answer: 287514a045a38be0a75a1786694c77ee
 <p>2<sup>N</sup> angka biner dapat diletakkan pada sebuah lingkaran, sehingga jika N-digit sub-barisan dibaca searah jarum jam semuanya berbeda.</p>
 
 <p>Untuk N=3, memungkinkan dibuat dua susunan melingkar yang memenuhi aturan di atas, hasil rotasi dapat diabaikan:</p>
-<div align='center'>![](files-v1/p265_BinaryCircles.gif)</div>
+
+![](files-v1/p265_BinaryCircles.gif)
 
 <p>Untuk lingkaran di sebelah kiri, hasil 3-digit sub-barisan yang ada, dibaca searah jarum jam, adalah:<br /> 000, 001, 010, 101, 011, 111, 110 and 100.</p>
 
@@ -5725,7 +5705,8 @@ Answer: f7ba868cb52a9b9c7e58b1b92e230be8
 </ul></p>
 
 <p>Dengan menganggap hasil refleksi atau rotasi sebagai hasil yang berbeda, C(N) adalah banyaknya cara untuk memotong persegi berukuran N&times;N. Sebagai contoh, C(1)&thinsp;=&thinsp;2 dan C(2)&thinsp;=&thinsp;30 (ditunjukkan pada gambar berikut).</p>
-<div align='center'>![](files-v1/p270_CutSquare.gif)</div>
+
+![](files-v1/p270_CutSquare.gif)
 
 <p>Berapakah C(30) mod 10<sup>8</sup> ?</p>
 
@@ -5755,6 +5736,7 @@ Saat <var>n</var>=91, terdapat 8 kemungkinan nilai untuk <var>x</var>, yaitu : 9
 Sehingga, C(91)=8.</P>
 <P>
 Carilah hasil penjumlahan bilangan positif <var>n</var>&le;10<sup>11</sup> dimana C(<var>n</var>)=242.
+</p>
 
 Answer: d84d2020055b3e8867dc359e739e0312
 
@@ -5800,7 +5782,8 @@ Answer: ffd68ca67b9c3ea2653d375051e70288
 </ul></p>
 
 <p>Saat menghitung patung, segala macam susunan yang merupakan refleksi terhadap sumbu y tidak dianggap berbeda. Sebagai contoh, terdapat 18 patung seimbang dengan orde 6 yang ditunjukkan pada gambar di bawah; perlu diingat bahwa setiap pasang patung hasil pencermina (terhadap sumbu <var>y</var>) dihitung sebagai satu patung:</p>
-<div align='center'>![](files-v1/p275_sculptures2.gif)</div>
+
+![](files-v1/p275_sculptures2.gif)
 
 <p>Terdapat 964 patung seimbang dengan orde 10 dan 360505 dengan orde 15.<br />Berapa banyak patung seimbang yang memiliki orde 18?</p>
 
@@ -5860,6 +5843,7 @@ Kenyataannya, 23 adalah bilangan bukan <var>b</var> terbesar untuk <var>a</var><
 </p>
 <p>
 Carilah &sum; <var>f</var>(<var>p*q,p*r,q*r</var>), dimana <var>p</var>, <var>q</var> dan <var>r</var> adalah bilangan prima dan <var>p</var> &lt; <var>q</var> &lt; <var>r</var> &lt; 5000.
+</p>
 
 Answer: 7e680606b5e9890a19894dbdbbbd102a
 
@@ -5890,7 +5874,7 @@ Answer: 27f07f04d1908e5ce4fa6eac09881cc2
 
 <p>Sebagai contoh, <var>f</var>(2,1)&thinsp;=&thinsp;1, <var>f</var>(2,2)&thinsp;=&thinsp;<var>f</var>(3,1)&thinsp;=&thinsp;2 dan <var>f</var>(3,2)&thinsp;=&thinsp;16. <br />Berbagai pilihan peletakan topping <var>f</var>(3,2) ditunjukkan pada gambar berikut:</p>
 
-<div align='center'>![](files-v1/p281_pizza.gif)</div>
+![](files-v1/p281_pizza.gif)
 
 <p>Carilah hasil penjumlahan dari semua <var>f</var>(<var>m</var>,<var>n</var>) yang memenuhi <var>f</var>(<var>m</var>,<var>n</var>)&thinsp;&le;&thinsp;10<sup>15</sup>.</p>
 
@@ -5901,12 +5885,14 @@ Answer: ceee6ced9d64aad844310c8ce2aae2b7
 <p>
 Untuk bilangan bulat tidak negatif <var>m</var>, <var>n</var>, fungsi Ackermann <var>A</var>(<var>m</var>, <var>n</var>) dinyatakan sebagai berikut:
 </p>
-<div align='center'>![](files-v1/p282_formula.gif)</div>
+
+![](files-v1/p282_formula.gif)
+
 <p>
 Sebagai contoh <var>A</var>(1, 0) = 2, <var>A</var>(2, 2) = 7 dan <var>A</var>(3, 4) = 125.
 </p>
 <p>
-Carilah ![](files-v1/p282formula3.gif)<var>A</var>(<var>n</var>, <var>n</var>) dan berikan jawaban Anda yang telah di modulo dengan 14<sup>8</sup>.</p>
+Carilah <img src="files-v1/p282formula3.gif"/><var>A</var>(<var>n</var>, <var>n</var>) dan berikan jawaban Anda yang telah di modulo dengan 14<sup>8</sup>.</p>
 
 Answer: a1cc665e127af4e907e13087ee777bd5
 
@@ -5968,7 +5954,9 @@ bit selanjutnya melambangkan sub daerah kiri atas, kanan atas, kiri bawah, dan k
 <li>"11" melambangkan bahwa daerah tersebut berisis hanya piksel putih.</li></ul></p>
 
 <p>Perhatikan gambar berukuran 4&times;4 berikut (tanda berwarna menunjukkan tempat dimana proses pemisahan dapat berlangsung):</p>
-<div align='center'>![](files-v1/p287_quadtree.gif)</div>
+
+![](files-v1/p287_quadtree.gif)
+
 <p>Gambar ini dapat dituliskan dengan beberapa barisan, sebagai contoh :<bp />
 "<span style='color:red;'><b>0</b></span><span style='color:blue;'><b>0</b></span>10101010<span style='color:green;'><b>0</b></span>1011111011<span style='color:orange;'><b>0</b></span>10101010", dengan panjang 30, atau<br />
 "<span style='color:red;'><b>0</b></span>10<span style='color:green;'><b>0</b></span>101111101110", dengan panjang 16, yang dimana merupakan panjang barisan terpendek untuk gambar ini.</p>
@@ -6017,7 +6005,9 @@ Banyak sekali lintasan yang memungkinkan pada E(<var>m</var>,<var>n</var>), namu
 Sebuah lintasan yang tidak memotong dirinya sendiri, hanya menyinggung dirinya pada titik potong lingkaran, namun tidak pernah memotong jalur itu sendiri.</p>
 
 <p>Gambar berikut ini menunjukkan E(3,3) dan juga merupakan sebuah contoh dari lintasan Eulerian yang tidak memotong dirinya sendiri.<br />
-<div align='center'>![](files-v1/p289_euler.gif)</div></p>
+</p>
+
+![](files-v1/p289_euler.gif)
 
 <p>Misal L(<var>m</var>,<var>n</var>) adalah banyaknya lintasan Eulerian yang tidak memotong dirinya sendiri pada E(<var>m</var>,<var>n</var>).<br />
 Sebagai contoh, L(1,2)&thinsp;=&thinsp;2, L(2,2)&thinsp;=&thinsp;37 dan L(3,3)&thinsp;=&thinsp;104290.</p>
@@ -6035,7 +6025,7 @@ Answer: 8246684fec8ece9f0ee3c9898c8c9d6a
 # Soal 291
 
 <p>
-Sebuah bilangan prima <var>p</var> akan disebut sebagai prima Panaitopol jika ![](files-v1/p291_formula.gif) untuk <br /> <var>x</var> dan <var>y</var> bilangan bulat.
+Sebuah bilangan prima <var>p</var> akan disebut sebagai prima Panaitopol jika <img src="files-v1/p291_formula.gif"/> untuk <br /> <var>x</var> dan <var>y</var> bilangan bulat.
 </p>
 <p>
 Carilah berapa banyak prima Panaitopol yang kurang dari 5&times;10<sup>15</sup>.
@@ -6089,8 +6079,8 @@ Sehingga d(42) = 4+2 = 6.
 <p>
 Untuk bilangan bulat n, dinyatakan S(n) sebagai banyaknya bilangan bulat k < 10<sup>n</sup> yang memenuhi sifat berikut:
 <ul>
-<li>k habis dibagi 23 dan
-<li>d(k) = 23.
+<li>k habis dibagi 23 dan</li>
+<li>d(k) = 23.</li>
 </ul>
 </p>
 Diketahui S(9) = 263626 dan S(42) = 6377168878570056.
@@ -6118,7 +6108,9 @@ C<sub>2</sub>: (<var>x</var>-12)<sup>2</sup>+(<var>y</var>-4)<sup>2</sup>=65
 </p>
 <p>
 Lingkaran C<sub>0</sub>, C<sub>1</sub> dan C<sub>2</sub> digambarkan pada gambar berikut.</p>
-<div align='center'>![](files-v1/p295_lenticular.gif)</div>
+
+![](files-v1/p295_lenticular.gif)
+
 <p>
 C<sub>0</sub> dan C<sub>1</sub> membentuk lubang lentikular, hal yang sama juga terjadi pada lingkaran C<sub>0</sub> dan C<sub>2</sub>.</p>
 <p>
@@ -6140,7 +6132,9 @@ Diketahui sebuah segitiga <var>ABC</var> memiliki panjang sisi bilangan bulat de
 <var>k</var> adalah garis bagi dari sudut <var>ACB</var>.<BR /> <var>m</var> adalah garis singgung pada titik <var>C</var> pada lingkaran luar segitiga <var>ABC</var>.<BR /> <var>n</var> adalah garis yang sejajar dengan <var>m</var> dan melalui <var>B</var>.<BR />
 Perpotongan antara <var>n</var> dan <var>k</var> akan disebut <var>E</var>.
 </p>
-<div align='center'>![](files-v1/p296_bisector.gif)</div>
+
+![](files-v1/p296_bisector.gif)
+
 <p>
 Berapa banyak segitiga <var>ABC</var> dengan panjang keliling kurang dari 100 000 yang ada, yang memiliki panjang <var>BE</var> berupa bilangan bulat?
 </p>
@@ -6291,7 +6285,9 @@ Answer: d078fd564995aa2a813a29f44ad79611
 <p>Empat buah titik dengan koordinat bilangan bulat dipilih:<br />A(<var>a</var>,&nbsp;0), B(<var>b</var>,&nbsp;0), C(0,&nbsp;<var>c</var>) dan D(0,&nbsp;<var>d</var>), 
 dengan 0&nbsp;&lt;&nbsp;<var>a</var>&nbsp;&lt;&nbsp;<var>b</var> dan 0&nbsp;&lt;&nbsp;<var>c</var>&nbsp;&lt;&nbsp;<var>d</var>.<br />
 Titik P, yang juga memiliki koordinat bilangan bulat, dipilih dari garis AC sehingga ketiga segitiga ABP, CDP dan BDP adalah sebangun <dfn title="Have equal angles">similar</dfn>.</p>
-<div align='center'>![](files-v1/p299_ThreeSimTri.gif)</div>
+
+![](files-v1/p299_ThreeSimTri.gif)
+
 <p>Mudah untuk membuktikan bahwa tiga buah segitiga sebangun, namun hanya jika <var>a</var>=<var>c</var>.</p>
 
 <p>Sehingga, diketahui <var>a</var>=<var>c</var>, kita akan mencari triplet (<var>a</var>,<var>b</var>,<var>d</var>) sehingga setidaknya terdapat satu titik P (dengan koordinat bilangan bulat) yang ada pada garis AC, yang akan membuat tiga segitiga ABP, CDP dan BDP semuanya sebangun.</p>
@@ -6316,7 +6312,7 @@ Tentu saja protein alami berbentuk tiga dimensi, namun kita hanya akan memperhit
 
 <p>Gambar berikut ini menunjukkan dua kemungkinan cara sebuah protein dapat dilipat (titik temu H-H ditunjukkan dengan titik berwarna merah).</p>
 
-<div align='center'>![](files-v1/p300_protein.gif)</div>
+![](files-v1/p300_protein.gif)
 
 <p>Lipatan sebelah kiri hanya memiliki enam buah titik temu H-H, sehingga lipatan ini tidak akan terjadi secara alamiah.<br />
 Di sisi lain, lipatan di sebelah kanan memiliki sembilan titik temu H-H, dimana merupakan jumlah yang optimal untuk protein ini.</p>
@@ -6384,9 +6380,9 @@ Answer: 1ea8b8d64cead5149721a128b0de378c
 <p>
 Untuk bilangan bulat <var>n</var>, dinyatakan <var>f</var>(<var>n</var>) sebagai bilangan positif kelipatan <var>n</var> terkecil, yang ditulis di basis 10, dan hanya menggunakan digit &le; 2.</p>
 <p>Sehingga <var>f</var>(2)=2, <var>f</var>(3)=12, <var>f</var>(7)=21, <var>f</var>(42)=210, <var>f</var>(89)=1121222.</p>
-<p>Juga, ![](files-v1/p303_formula100.gif).</p>
+<p>Juga, <img src="files-v1/p303_formula100.gif">.</p>
 <p>
-Carilah ![](files-v1/p303_formula10000.gif).
+Carilah <img src="files-v1/p303_formula10000.gif"/>.
 </p>
 
 Answer: b904a0b3d922e628a828e744ee7d3a60
@@ -6399,7 +6395,7 @@ Untuk setiap bilangan bulat positif <var>n</var> fungsi next_prime(<var>n</var>)
 <p>
 Barisan a(<var>n</var>) dinyatakan dengan:<BR />
 a(1)=next_prime(10<sup>14</sup>) dan a(<var>n</var>)=next_prime(a(<var>n</var>-1)) untuk n&gt;1.
-<p/>
+</p>
 <p>
 Barisan fibonacci f(<var>n</var>) dinyatakan dengan:
 f(0)=0, f(1)=1 dan f(<var>n</var>)=f(<var>n</var>-1)+f(<var>n</var>-2) untuk <var>n</var>&gt;1.
@@ -6410,6 +6406,7 @@ Barisan b(<var>n</var>) dinyatakan sebagai f(a(<var>n</var>)).
 <p>
 Carilah &sum;b(<var>n</var>) untuk 1&le;<var>n</var>&le;100 000. 
 Berikan jawaban Anda yang telah di mod 1234567891011. 
+</p>
 
 Answer: 499427a3e4bf9ad34a6df3056604b4c1
 
@@ -6447,8 +6444,9 @@ Pemain pertama yang tidak bisa melakukan gerakan lagi dianggap kalah.</p>
 <li>Jika <var>n</var> = 4, terdapat tiga gerakan yang mungkin dilakukan oleh pemain pertama; ia dapat memenangkan permainan dengan mewarnai dua persegi di tengah.</li>
 <li>Jika <var>n</var> = 5, terdapat empat gerakan yang mungkin dilakukan oleh pemain pertama (ditunjukkan pada gambar berikut denagn warna merah); namun tidak peduli apapun yang ia lakukan, pemain kedua (biru) akan selalu menang.</li>
 </ul>
-<div align='center'>![](files-v1/p306_pstrip.gif)</div>
 </p>
+
+![](files-v1/p306_pstrip.gif)
 
 <p>Sehingga, untuk 1 &le; <var>n</var> &le; 5, terdapat 3 buah nilai <var>n</var> yang akan membuat pemain pertama menjadi pemenang.<br />
 Hal yang sama, untuk 1 &le; <var>n</var> &le; 50, terdapat 40 buah nilai <var>n</var> yang akan membuat pemain pertama menjadi pemenang.</p>
@@ -6548,6 +6546,7 @@ Answer: 0c49094fa750365e13bb20ec4a158b6d
 Dapat ditunjujkkan bahwa <i>semua</i> <var>x</var> dari barisan ini merupakan bilangan prima, dan <i>semua</i> <var>x</var> barisan ini, muncul secara berurutan!</p>
 
 <p>Jika seseorang mengguanakn program Fractran di atas untuk menyelesaikan Project Euler Soal 7 (mencari pilangan prima ke-10001), berapa banyak iterasi yang dibutuhkan sampai program menghasilkan 2<sup>bilangan prima ke-1000</sup> ?
+</p>
 
 Answer: 43e736dfc6478a52653814248a71771d
 
@@ -6555,7 +6554,7 @@ Answer: 43e736dfc6478a52653814248a71771d
 
 <p>Dalam permasalhan "Tangga Menyilang" klasik, kita diberikan informasi panjang dari dua buah tangga sebagai <var>x</var> dan <var>y</var>, kedua tangga bersandar pada tembok di seberangnya dan ujung-ujungnya berada di tepi jalan sempit. Kita juga diberikan informasi tentang tinggi titik persilangan tangga <var>h</var> jika diukur dari jalan, dan kita diminta untuk mencari lebar jalan (<var>w</var>).</p>
 
-<div align='center'>![](files-v1/p309_ladders.gif)</div>
+![](files-v1/p309_ladders.gif)
 
 <p>Di soal ini, kita hanya akan melihat kondisi dimana ke empat variabel adalah bilangan bulat positif.<br />
 Sebagai contoh, jika <var>x</var> = 70, <var>y</var> = 119 dan <var>h</var> = 30, kita dapat menghitung <var>w</var> = 56.</p>
@@ -6589,7 +6588,7 @@ Kita akan menyebut ABCD sebagai sebuah <i>bangun sisi-empat biclinic bilangan bu
 AB = 19, BC = 29, CD = 37, AD = 43, BD = 48 dan AO = CO = 23.
 </p>
 
-<div align='center'>![](files-v1/p311_biclinic.gif)</div>
+![](files-v1/p311_biclinic.gif)
 
 <p>B(<var>N</var>) adalah banyaknya bangun sisi-empat biclinic bilangan bulat ABCD berbeda yang memenuhi AB<sup>2</sup>+BC<sup>2</sup>+CD<sup>2</sup>+AD<sup>2</sup> &le; <var>N</var>.<br />
 Kita dapat membuktikan bahwa B(10 000) = 49 dan B(1 000 000) = 38239.
@@ -6606,13 +6605,13 @@ Answer: 36115d4f7dc07eea106d78e8431868e6
 - <var>S</var><sub><var>n</var>+1</sub> didapatkan dari <var>S</var><sub><var>n</var></sub> dengan meletakan tiga buah salinan dari <var>S</var><sub><var>n</var></sub> sehingga setiap dua buah salinan memiliki satu titik pojok yang bertemu.
 </p>
 
-<div align='center'>![](files-v1/p312_sierpinskyAt.gif)</div>
+![](files-v1/p312_sierpinskyAt.gif)
 
 <p>Misal C(<var>n</var>) adalah banyaknya siklus yang berputar persis satu kali dan melalui semua titik pada <var>S</var><sub><var>n</var></sub>.<br />
 Sebagai contoh, C(3) = 8 karena terdapat delapan buah jalur yang bisa digambar pada <var>S</var><sub>3</sub>, seperti ditunjukkan pada gambar berikut:
 </p>
 
-<div align='center'>![](files-v1/p312_sierpinsky8t.gif)</div>
+![](files-v1/p312_sierpinsky8t.gif)
 
 <p>Juga dapat dibuktikan bahwa :<br />
 C(1) = C(2) = 1<br />
@@ -6630,11 +6629,11 @@ Answer: 535113d1a81f421fe814d48205dac570
 
 <p>Dalam permainan menggeser, sebuah potongan boleh bergeser secara horizontal ataupun vertikal ke tempat yang kosong. Sasaran dari permainan ini adalah untuk memindahkan potongan merah dari pojok kiri atas ke pojok kanan bawah; ruang kosong selalu berada pertama kali di pojok kanan bawah. Sebagai contoh, gambar-gambar berikut ini akan menunjukkan bahwa permainan dapat diselesaikan dalam lima langkah untuk kisi berukuran 2 x 2.</p>
 
-<div align='center'>![](files-v1/p313_sliding_game_1.gif)</div>
+![](files-v1/p313_sliding_game_1.gif)
 
 <p>S(m,n) menunjukkan jumlah gerakan minimal untuk menyelesaikan permaian pada kisi berukuran m x n. Sebagai contoh, dapat dibuktikan bahwa S(5,4) = 25.</p>
 
-<div align='center'>![](files-v1/p313_sliding_game_2.gif)</div>
+![](files-v1/p313_sliding_game_2.gif)
 
 <p>Terdapat persis 5482 ukuran kisi dimana S(m,n) = p<sup>2</sup>, dimana p &lt; 100 adalah bilangan prima.</p>
 
@@ -6659,7 +6658,9 @@ Walaupun tidak diperbolehkan, namun terdapat ide untuk membuat hasil yang lebih 
 <p>
 Tetapi, jika Anda memotong dari pinggiran persegi empat buah segitiga dengan panjang sisi 75 m, 75 m dan 75&radic;2 m luas wilayah yang dibatasi dinding akan menjadi 238750 m<sup>2</sup> dan kelilingnya menjadi 1400+300&radic;2 m. Sehingga bentuk ini akan memberikan perbandingan luas yang ditutupi dinding/panjang dinding sebesar 130.87, dimana hasil ini lebih baik.
 </p>
-<div align='center'>![](files-v1/p314_landgrab.gif)</div>
+
+![](files-v1/p314_landgrab.gif)
+
 <p>
 Carilah nilai perbandingan maksimum dari luas yang ditutupi dinding/panjang dinding.<BR />
 Berikan jawaban Anda dibulatkan hingga 8 angka di belakang koma dengan format abc.defghijk.
@@ -6669,7 +6670,7 @@ Answer: aa457cae6f67945d50683a85a9b70230
 
 # Soal 315
 
-<p><div align='center'>![](files-v1/p315_clocks.gif)</div></p>
+![](files-v1/p315_clocks.gif)
 
 <p>Sam dan Max diminta untuk mengubah dua buah jam digital menjadi dua buah jam "akar kuadrat digital".<br />
 Jam akar kuadrat digital adalah sebuah jam yang menghitung akar kuadrat tahap demi tahap.</p>
@@ -6743,9 +6744,9 @@ untuk <var>p</var> = 31415926<b>535</b>897...., kita dapatkan <var>k</var> = 9<b
 untuk <var>p</var> = 35528714365004956000049084876408468<b>535</b>4..., kita dapatkan <var>k</var> = 36<br />
 dan sebagainya, dan kita dapat menemukan bahwa <var>g</var>(535) = 1008.</p>
 
-<p>Diberikan ![](files-v1/p316_decexp1.gif), carilah ![](files-v1/p316_decexp2.gif)</p>
+<p>Diberikan <img src="files-v1/p316_decexp1.gif"/>, carilah <img src="files-v1/p316_decexp2.gif"/></p>
 
-<u><i>Catatan</i></u>: ![](files-v1/p316_decexp3.gif) adalah fungsi pembulatan ke bawah.
+<u><i>Catatan</i></u>: <img src="files-v1/p316_decexp3.gif"/> adalah fungsi pembulatan ke bawah.
 
 Answer: 2495e8f6e9d4cdadbf0411144e7180b9
 
@@ -6845,11 +6846,11 @@ Answer: 8426f939c3ee410a8c4d43886ef77ccb
 
 <p>Sebuah barisan horizontal berisi 2<var>n</var> + 1 buah persegi memiliki <var>n</var> buah potongan merah diletakkan pada ujungnya, dan <var>n</var> buah potongan biru di ujung satunya lagi, dipisahkan oleh satu buah persegi kosong di tengah-tengahnya. Sebagai contoh, saat <var>n</var> = 3.</p>
 
-<p><div align='center'>![](files-v1/p321_swapping_counters_1.gif)</div></p>
+![](files-v1/p321_swapping_counters_1.gif)
 
 <p>Setiap potongan dapat berpindah dari satu persegi ke persegi di sebelahnya (bergeser) atau dapat melompati potongan lain (melompat) selama persegi di sebelah potongan yang ingin dilompati masih kosong.</p>
 
-<p><div align='center'>![](files-v1/p321_swapping_counters_2.gif)</div></p>
+![](files-v1/p321_swapping_counters_2.gif)
 
 <p>Misal M(<var>n</var>) menyatakan banyaknya gerakan minimum untuk membalik posisi dari potongan berwarna; yaitu, memindahkan semua potongan merah ke kanan dan semua potongan biru ke kiri.</p>
 <p>Dapat dibuktikan bahwa M(3) = 15, dimana bilangan ini juga merupakan bilangan segitiga.</p>
@@ -6945,8 +6946,10 @@ middle;"/>.
 <p>
 Sehingga 10 sukup ertama dari <var>a<sub>n</sub></var> adalah: 1,1,0,3,0,3,5,4,1,9.
 </p>
-<p>Misal <var>f</var>(<var>N,M</var>) menyatakan banyaknya pasangan (<var>p,q</var>) sehingga: <div align=center>![](files-v1/p326_formula2.gif)</div>
-</p>
+<p>Misal <var>f</var>(<var>N,M</var>) menyatakan banyaknya pasangan (<var>p,q</var>) sehingga:</p>
+
+![](files-v1/p326_formula2.gif)
+
 <p>
 Dapat terlihat bahwa <var>f</var>(10,10)=4 dengan pasangan-pasangan (3,3), (5,5), (7,9) dan (9,10).
 </p>
@@ -6962,7 +6965,7 @@ Answer: d95dff1a5ceee0064993d98defdd603e
 
 <p>Tiga buah ruangan dihubungkan satu sama lain dengan pintu otomatis.</p>
 
-<div align='center'>![](files-v1/p327_rooms_of_doom.gif)</div>
+![](files-v1/p327_rooms_of_doom.gif)
 
 <p>Setiap pintu dioperasikan dengan kartu keamanan. Sesaat setelah anda memasuki suatu ruangan, pintu akan secara otomatis tertutup, dan kartu keamanan tidak dapat digunakan lagi. Pada ruangan mulai (start), sebuah mesin akan mulai mengeluarkan banyak sekali kartu, namun setiap ruangan (termasuk ruangan start) memiliki alat pemindai, dan jika alat tersebut mendeteksi bahwa Anda memegang lebih dari tiga kartu keamanan, atau jika alat tersebut mendeteksi ada kartu keamanan yang tergeletak di lantai, maka semua pintu akan terkunci selamanya. Tetapi, setiap ruangan memiliki sebuah kotak yang dapat Anda gunakan untuk menyimpan kartu keamanan sebanyak apapun, yang dapat digunakan nanti.</p>
 
@@ -7010,9 +7013,9 @@ Sehingga, pada kenyataannya, kita baru saja mendeskripsikan strategi optimal unt
 
 <p>Misal C(<var>n</var>) adalah biaya pada kasus terburuk yang diperoleh dengan strategi paling optimal untuk <var>n</var>, seperti yang dijelaskan di atas.<br />
 Sehingga C(1) = 0, C(2) = 1, C(3) = 2 dan C(8) = 12.<br />
-Dengan cara yang sama, C(100) = 400 dan ![](files-v1/p328_sum1.gif)C(<var>n</var>) = 17575.</p>
+Dengan cara yang sama, C(100) = 400 dan <img src="files-v1/p328_sum1.gif"/>C(<var>n</var>) = 17575.</p>
 
-<p>Carilah ![](files-v1/p328_sum2.gif)C(<var>n</var>).</p>
+<p>Carilah <img src="files-v1/p328_sum2.gif"/>C(<var>n</var>).</p>
 
 Answer: 92a3220ad5b17a562c039e6e93d6df90
 
@@ -7035,7 +7038,7 @@ Answer: e392a8b1b053c83e68663e08456bb392
 
 Sebuah barisan tak hingga bilangan real <var>a</var>(<var>n</var>) dinyatakan untuk semua bilangan bulat <var>n</var> sebagai berikut:
 
-<div align='center'>![](files-v1/p330_formula.gif)</div>
+![](files-v1/p330_formula.gif)
 
 <p>Sebagai contoh,<br />
 <table class="formula"><tr>
@@ -7145,7 +7148,7 @@ Answer: d385d3fe0995b48a782a91477525b154
 
 <p>Pada setiap langkah, Anda dapat memilih sebuah disk dan membalik semua disk yang terletak pada kolom dan baris yang sama dengan disk ini: sehingga 2&times;<var>N</var>-1 buah disk telah dibalik. Permainan berakhir saat semua disk menunjukkan sisi berwarna putih. Contoh berikut ini menunjukkan proses permainan pada papan berukuran 5&times;5.</p>
 
-<div align='center'>![](files-v1/p331_crossflips3.gif)</div>
+![](files-v1/p331_crossflips3.gif)
 
 <p>Dapat dibuktikan bahwa 3 adalah jumlah langkah minimal untuk menyelesaikan permainan ini.</p>
 
@@ -7153,12 +7156,12 @@ Answer: d385d3fe0995b48a782a91477525b154
 disk yang terletak di pojok kanan bawah memiliki koordinat (<var>N</var>-1,0) dan disk di pojok kiri atas memiliki koordinat (0,<var>N</var>-1). </p>
 
 <p>Misal C<sub><var>N</var></sub> adalah susunan disk pada papan dengan <var>N</var>&times;<var>N</var> buah disk yang memenuhi aturan berikut:<br />
-Sebuah disk pada posisi (<var>x</var>,<var>y</var>) memenuhi ![](files-v1/p331_crossflips1.gif), harus menunjukkan sisi hitam; selain itu, disk harus menunjukkan sisi putih. C<sub>5</sub> ditunjukkan pada gambar di atas.</p>
+Sebuah disk pada posisi (<var>x</var>,<var>y</var>) memenuhi <img src="files-v1/p331_crossflips1.gif"/>, harus menunjukkan sisi hitam; selain itu, disk harus menunjukkan sisi putih. C<sub>5</sub> ditunjukkan pada gambar di atas.</p>
 
 <p>Misal T(<var>N</var>) adalah jumlah minimal langkah yang diperlukan untuk menyelesaikan permaian dimulai dari susunan C<sub><var>N</var></sub> atau 0 jika susunan C<sub><var>N</var></sub> tidak dapat diselesaikan.<br />
 Kita telah melihat bahwa T(5)=3. Anda juga diberikan informasi bahwa T(10)=29 dan T(1 000)=395253.</p>
 
-<p>Carilah ![](files-v1/p331_crossflips2.gif).</p>
+<p>Carilah <img src="files-v1/p331_crossflips2.gif"/>.</p>
 
 Answer: b609ccc578e71db9de0524fff94e1b70
 
@@ -7166,7 +7169,7 @@ Answer: b609ccc578e71db9de0524fff94e1b70
 
 <p>Sebuah <b>segitiga bola</b> adalah gambar yang dibentuk pada permukaan sebuah bola dengan tiga buah <b>busur lingkaran besar</b> yang saling berpotongan membentuk tiga titik.</p>
 
-<div align='center'>![](files-v1/p332_spherical.jpg)</div>
+![](files-v1/p332_spherical.jpg)
 
 <p>Misal C(<var>r</var>) adalah bola dengan pusat (0,0,0) dan panjang jari-jari <var>r</var>.<br />
 Misal Z(<var>r</var>) adalah himpunan titik-titik pada permukaan C(<var>r</var>) dengan koordinat bilangan bulat.<br />
@@ -7176,7 +7179,7 @@ Misal A(<var>r</var>) adalah luas wilayah dari segitiga bola terkecil pada T(<va
 
 <p>Sebagai contoh A(14) adalah 3.294040 dibulatkan hingga enam angka di belakang koma.</p>
 
-<p>Carilah ![](files-v1/p332_sum.gif) A(<var>r</var>). Berikan jawaban Anda dibulatkan hingga enam angka di belakang koma.</p>
+<p>Carilah <img src="files-v1/p332_sum.gif"/> A(<var>r</var>). Berikan jawaban Anda dibulatkan hingga enam angka di belakang koma.</p>
 
 Answer: c2ae53ebfb15db373cfe5d71078ea1ca
 
@@ -7209,82 +7212,11 @@ Seorang anak kecil memainkan sebuah permaian, yang hanya memperbolehkan satu bua
 
 <p>Sebagai contoh, terdapat dua buah mangkuk bersebelahan berisi masing-masing 2 dan 3 butir kacang polong, mangkuk lainnya kosong. Delapan langkah berikut ini akan menyelesaikan permainan:</p>
 
-<div align='center'>![](files-v1/p334_beans.gif)</div>
+![](files-v1/p334_beans.gif)
 
-<p>Anda diberikan pola berikut:<br />
-<table class="formula" style="margin-left:50px;">
-<tr>
-   <td>
-      <var>t</var><sub><i>0</i></sub> = 123456.
-   </td>
-</tr></table>
+Anda diberikan pola berikut:
 
-<table class="formula" style="margin-left:50px;">
-<tr>
-   <td>
-      <var>t</var><sub><i>i</i></sub> = 
-   </td>
-   <td>![](files-v1/p334_cases.gif)</td>
-   <td>
-   <table class="formula">
-      <tr>
-      <td></td>
-      <td>
-         <table class="frac">
-         <tr><td><var>t</var><sub><i>i-1</i></sub></td></tr>
-         <tr><td class="overline">2</td></tr>
-         </table>
-      </td>
-      <td>
-         ,
-      </td>
-      <td></td>
-      <td>
-         jika <var>t</var><sub><i>i-1</i></sub> genap
-      </td>
-      </tr>
-      <tr>
-      <td>![](files-v1/p334_lfloor.gif)</td>
-      <td>
-         <table class="frac">
-         <tr><td><var>t</var><sub><i>i-1</i></sub></td></tr>
-         <tr><td class="overline">2</td></tr>
-         </table>
-      </td>
-      <td>
-         ![](files-v1/p334_rfloor.gif)
-      </td>
-      <td>
-         926252, 
-      </td>
-      <td>
-         jika <var>t</var><sub><i>i-1</i></sub> ganjil
-      </td>
-      </tr>
-   </table>
-   <td>
-</tr>
-<tr>
-   <td></td>
-   <td></td>
-   <td>
-      dimana &lfloor;<var>x</var>&rfloor; adalah fungsi pembulatan ke bawah (floor)
-   </td>
-</tr>
-<tr>
-   <td></td>
-   <td></td>
-   <td>
-      dan ![](files-v1/p334_oplus.gif) adalah operasi bitwise XOR.
-   </td>
-</tr></table>
-
-<table class="formula" style="margin-left:50px;">
-<tr>
-   <td>
-      <var>b</var><sub><i>i</i></sub> = ( <var>t</var><sub><i>i</i></sub> mod 2<sup>11</sup>) + 1.
-   </td>
-</tr></table></p>
+![](files/p_334.png)
 
 <p>Dua buah suku pertama dari barisan di atas adalah <var>b</var><sub><i>1</i></sub> = 289 dan <var>b</var><sub><i>2</i></sub> = 145.<br />
 Jika kita memulai permainan dengan <var>b</var><sub><i>1</i></sub> dan <var>b</var><sub><i>2</i></sub> buah kacang polong pada dua mangkok yang bersebelahan, 3419100 gerakan akan diperlukan untuk menyelesaikan permaian.</p>
@@ -7297,13 +7229,13 @@ Answer: 71851da3058acf6b74e90251bdf4aa8f
 
 <p>Saat Peter merasa bosan, ia meletakkan beberapa mangkuk, berisi satu buah kacang polong pada tiap mangkuknya, disusun membentuk suatu lingkaran. Setelah ini, ia mengambil semua kacang polong dari satu mangkuk, dan meletakkannya satu persatu pada mangkuk di sebelahnya searah jarum jam. Ia mengulang proses ini lagi, dimulai dari mangkuk dimana ia menjatuhkan kacang polong terakhir, sampai kondisi mula-mula muncuk kembali. Sebagai contoh, dengan 5 mangkuk, ia melakukan tindakan berikut:</p>
 
-<div align='center'>![](files-v1/p335_mancala.gif)</div>
+![](files-v1/p335_mancala.gif)
 
 <p>Sehingga dengan 5 buah mangkuk, Peter memerlukan 15 gerakan untuk mengembalikan kondisi mangkuk ke kondisi mula-mula.</p>
 
 <p>Misal <var>M</var>(<var>x</var>) menyatakan banyaknya gerakan yang diperlukan agar mangkuk-mangkuk dapat kembali ke kondisi awal, dimulai dengan <var>x</var> buah mangkuk. Maka, <var>M</var>(5) = 15. Dapat juga dibuktikan bahwa <var>M</var>(100) = 10920.</p>
 
-<p>Carilah ![](files-v1/p335_sum.gif)<var>M</var>(2<sup><var>k</var></sup>+1). Berikan jawaban Anda yang telah di modulo 7<sup>9</sup>.</p>
+<p>Carilah <img src="files-v1/p335_sum.gif"/><var>M</var>(2<sup><var>k</var></sup>+1). Berikan jawaban Anda yang telah di modulo 7<sup>9</sup>.</p>
 
 Answer: 9a519cfa0ebdd4d1dd318f14b5799eea
 
@@ -7317,7 +7249,7 @@ Beberapa susunan, seperti ADCB, dapat diselesaikan dengan mudah: gerbong A dan D
 
 <p>Menggunakan empat buah gerbong, susunan gerbong terburuk yang mungkin dialami Simon, dimana kita akan menyebut susunan tersebut <i>susunan maximix</i>, adalah DACB dan DBAC; setiap gerbong memerlukan lima rotasi (bahkan walaupun menggunakan cara yang paling efisien, cara tersebut masih membutuhkan tiga rotasi). Proses yang Simon gunakan untuk memperbaiki posisi gerbong DACB ditunjukkan pada gambar berikut.</p>
 
-<div align='center'>![](files-v1/p336_maximix.gif)</div>
+![](files-v1/p336_maximix.gif)
 
 <p>Dapat dibuktikan bahwa terdapat 24 susunan maximix untuk enam buah gerbong, dimana susunan maximix ke sepuluh adalah DFAECB.</p>
 
@@ -7348,9 +7280,7 @@ Answer: a60bbbe1b90254043fb92820492a2f96
 Saat kita memotong kertas tersebut menjadi dua bagian mengikuti garis pada kotak-kotak, dan kemudian menysun potongan kertas tersebut tanpa tertumpuk satu sama lain, kita dapat membuat persegi panjang baru dengan ukuran yang berbeda.</p>
 <p>Sebagai contoh, dari kertas berukuran 9 &times; 4 , kita dapat membuat persegi panjang dengan ukuran 18 &times; 2, 12 &times; 3 dan 6 &times; 6 dengan memotong dan menyusun kertas dengan cara berikut:</p>
 
-<div align='center'>
-![](files-v1/p338_gridpaper.gif)<br />
-</div>
+![](files-v1/p338_gridpaper.gif)
 
 <p>Dengan cara yang sama, dari kertas berukuran 9 &times; 8 , kita dapat membuat persegi panjang dengan ukuran 18 &times; 4 dan 12 &times; 6 .</p>
 
@@ -7394,7 +7324,7 @@ F(<var>n</var>) = <var>n</var> - c untuk semua <var>n</var> &gt; b <BR />
 F(<var>n</var>) = F(a + F(a + F(a + F(a + <var>n</var>)))) untuk semua <var>n</var> &le; b.
 </p>
 <P>
-Juga, dinyatakan S(a, b, c) = ![](files-v1/p340_formula.gif).
+Juga, dinyatakan S(a, b, c) = <img src="files-v1/p340_formula.gif"/>.
 </P>
 <P>
 Sebagai contoh, jika a = 50, b = 2000 dan c = 40, maka F(0) = 3240 dan F(2000) = 2040.<BR />
@@ -7478,9 +7408,7 @@ Answer: 0e10bd111425ad8e1343ac79dac7bb0e
 
 <p>Pemenangnya adalah pemain yang mengambil dolar perak.</p>
 
-<div align='center'>
-![](files-v1/p344_silverdollar.gif)<br />
-</div>
+![](files-v1/p344_silverdollar.gif)
 
 <p>Sebuah <i>susunan kemenangan</i> adalah susunan dari koin-koin pada kertas dimana pemain pertama pasti akan menang, tidak peduli apapun yang dilakukan oleh pemain kedua.</p>
 
@@ -7614,9 +7542,7 @@ Answer: cad3ce6a252568bbcb41ca627d7e58ae
 <p>Sebuah <i>taman segi enam</i> dengan orde <var>n</var> dibentuk dari kumpulan titik-titik yang dapat membentuk segitiga-segitiga kecil yang berada di dalam segi enam dengan panjang sisi <var>n</var>. Berikut in adalah sebuah contoh dari taman segi enam dengan orde 5:
 </p>
 
-<div align='center'>
-![](files-v1/p351_hexorchard.png)<br />
-</div>
+![](files-v1/p351_hexorchard.png)
 
 <p>
 Titik yang diberi tanda hijau adalah titik yang tidak dapat terlihat dari titik tengah, karena terhalang oleh titik lain yang lebih dekat dengan titik tengah. Dapat kita lihat bahwa untuk taman segi enam denagn orde 5, 30 titik tidak dapat terlihat dari titik tengah.
@@ -7731,9 +7657,7 @@ Answer: 211b5626459be71baefc78478d18bdc3
 
 <p>Misalkan terdapat sarang madu dari lebah madu, dimana setiap sel adalah sebuah segi enam sempurna dengan panjang sisi 1.</p>
 
-<div align='center'>
 ![](files-v1/p354_bee_honeycomb.png)
-</div>
 
 <p>
 Satu buah sel ditempati oleh ratu lebah.<br />
@@ -7766,10 +7690,10 @@ Misal <var>a</var><sub><var>n</var></sub> adalah akar real terbesar dari sebuah 
 Sebagai contoh, <var>a</var><sub>2</sub> = 3.86619826...</p>
 
 <p>
-Carilah delapan digit terakhir dari![](files-v1/p356_cubicpoly1.gif).</p>
+Carilah delapan digit terakhir dari <img src="files-v1/p356_cubicpoly1.gif"/>.</p>
 
 <p>
-<u><i>Catatan</i></u>: ![](files-v1/p356_cubicpoly2.gif) menyatakan fungsi pembulatan ke bawah.</p>
+<u><i>Catatan</i></u>: <img src="files-v1/p356_cubicpoly2.gif"/> menyatakan fungsi pembulatan ke bawah.</p>
 
 Answer: ab2104e80fa7da630ce7fd835d8006ee
 
@@ -7894,17 +7818,17 @@ Beberapa suku pertama dari {T<sub><var>n</var></sub>} adalah sebagai berikut:<br
 </p>
 
 <p>
-Kita akan menyatakan {A<sub><var>n</sub></var>} sebagai barisan bilangan bulat berurutan yang didapat dari ekspresi biner dari setiap elemen yang muncul dari sub barisan di {T<sub><var>n</sub></var>}.<br />
-Sebagai contoh, bilangan desimal 18 dapat dinyatakan sebagai 10010 di dalam bilangan biner. 10010 muncul di {T<sub><var>n</sub></var>} (T<sub>8</sub> hingga T<sub>12</sub>), sehingga 18 adalah elemen dari {A<sub><var>n</sub></var>}.<br />
-Bilangan desimal 14 dituliskan sebagai 1110 dalam biner. 1110 tidak pernah muncul di {T<sub><var>n</sub></var>}, sehingga 14 bukanlah elemen dari {A<sub><var>n</sub></var>}.
+Kita akan menyatakan {A<sub><var>n</var></sub>} sebagai barisan bilangan bulat berurutan yang didapat dari ekspresi biner dari setiap elemen yang muncul dari sub barisan di {T<sub><var>n</var></sub>}.<br />
+Sebagai contoh, bilangan desimal 18 dapat dinyatakan sebagai 10010 di dalam bilangan biner. 10010 muncul di {T<sub><var>n</var></sub>} (T<sub>8</sub> hingga T<sub>12</sub>), sehingga 18 adalah elemen dari {A<sub><var>n</var></sub>}.<br />
+Bilangan desimal 14 dituliskan sebagai 1110 dalam biner. 1110 tidak pernah muncul di {T<sub><var>n</var></sub>}, sehingga 14 bukanlah elemen dari {A<sub><var>n</var></sub>}.
 </p>
 
 <p>
-Beberapa suku pertama dari A<sub><var>n</sub></var> adalah sebagai berikut:<br />
+Beberapa suku pertama dari A<sub><var>n</var></sub> adalah sebagai berikut:<br />
 <div align='center'>
 <table cellspacing='1' cellpadding='5' border='0' align='center'>
 <tr><td align='left'><var>n</var></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>&hellip;</td></tr>
-<tr><td>A<sub><var>n</sub></var></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>18</td><td>&hellip;</td></tr></table></div>
+<tr><td>A<sub><var>n</var></sub></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>18</td><td>&hellip;</td></tr></table></div>
 </p>
 
 <p>
@@ -7912,7 +7836,7 @@ Kita juga dapat membuktikan bahwa A<sub>100</sub> = 3251 dan A<sub>1000</sub> = 
 </p>
 
 <p>
-Carilah 9 digit terakhir dari ![](files-v1/p361_Thue-Morse1.gif).
+Carilah 9 digit terakhir dari <img src="files-v1/p361_Thue-Morse1.gif"/>.
 </p>
 
 Answer: 6540278145900f1fa45b95cc2f9599f1
@@ -7945,7 +7869,7 @@ Answer: b62f0d524bec8653ba7b8a2cab70260b
 
 <p>Sebuah kurva B&eacute;zier kubik dibentuk dengan empat titik: P<sub>0</sub>, P<sub>1</sub>, P<sub>2</sub> dan P<sub>3</sub>.</p>
 
-<div >![](files-v1/p363_bezier.png)</div>
+![](files-v1/p363_bezier.png)
 
 <p>Kurva dibangun dengan cara sebagai berikut:<br />
 Pada segmen garis P<sub>0</sub>P<sub>1</sub>, P<sub>1</sub>P<sub>2</sub> dan P<sub>2</sub>P<sub>3</sub> titik Q<sub>0</sub>,Q<sub>1</sub> dan Q<sub>2</sub> digambarkan sehingga<br />
@@ -7983,9 +7907,7 @@ Terdapat <var>N</var> buah bangku pada satu baris. Kemudian akan ada <var>N</var
 Misal T(<var>N</var>) adalah banyaknya kemungkinan bahwa <var>N</var> buah bangku akan ditempati oleh <var>N</var> orang dengan aturan tersebut.<BR /> Gambar berikut ini menunjukkan T(4)=8.
 </p>
 
-<div align='center'>
 ![](files-v1/p364_comf_dist.gif)
-</div>
 
 <p>Kita dapat membuktikan bahwa T(10) = 61632 dan T(1 000) mod 100 000 007 = 47255094.</p>
 <p>Carilah T(1 000 000) mod 100 000 007.</p>
@@ -8266,13 +8188,13 @@ Answer: 537403a97924621c604ce5ab6288b97d
 # Soal 372
 
 <p>
-Misal R(<var>M</var>, <var>N</var>) adalah banyaknya titik koordinat bilangan bulat (<var>x</var>, <var>y</var>) yang memenuhi <var>M</var>&lt;<var>x</var>&le;<var>N</var>, <var>M</var>&lt;<var>y</var>&le;<var>N</var> dan ![](files-v1/p372_pencilray1.jpg) adalah bilangan ganjil.<br />
+Misal R(<var>M</var>, <var>N</var>) adalah banyaknya titik koordinat bilangan bulat (<var>x</var>, <var>y</var>) yang memenuhi <var>M</var>&lt;<var>x</var>&le;<var>N</var>, <var>M</var>&lt;<var>y</var>&le;<var>N</var> dan <img src="files-v1/p372_pencilray1.jpg"/> adalah bilangan ganjil.<br />
 Dapat dibuktikan bahwa R(0, 100) = 3019 dan R(100, 10000) = 29750422.<br />
 Carilah R(2&middot;10<sup>6</sup>, 10<sup>9</sup>).
 </p>
 
 <p>
-<u><i>Catatan</i></u>: ![](files-v1/p372_pencilray2.gif) memiliki arti fungsi pembulatan ke bawah.</p>
+<u><i>Catatan</i></u>: <img src="files-v1/p372_pencilray2.gif"/> memiliki arti fungsi pembulatan ke bawah.</p>
 </p>
 
 Answer: 5fdeda0dca23d12ae3eb1763b2c6f5ea
@@ -8440,6 +8362,7 @@ Misal T(<var>n</var>) adalah bilangan segitiga ke-<var>n</var>, sehingga T(<var>
 </td>
 </tr>
 </table>
+</p>
 <p>
 Misal dT(<var>n</var>) adalah banyaknya faktor dari T(<var>n</var>).<BR>
 Sebagai contoh:
@@ -8464,7 +8387,7 @@ Misal <var>f</var>(<var>n</var>) adalah banyaknya pasangan (<var>x</var>,<var>y<
 <P>
 Dan misal <var>g</var> adalah <b>fungsi penjumlahan</b> dari <var>f</var>, sehingga: 
 <var>g</var>(<var>n</var>) = &sum; <var>f</var>(<var>i</var>)  untuk 1 &le; <var>i</var> &le; <var>n</var>.
-<P>
+</P>
 <P>
 Anda diberikan informasi bahwa <var>g</var>(10<sup>6</sup>) = 37429395.
 </P>
@@ -8517,9 +8440,9 @@ Answer: 80c84973a9643e46d49d79d7284e7ff3
 
 <p>
 Sebuah himpunan S yang berisi bilangan positif dapat disebut dapat <i>membentuk sebuah poligon</i> P jika:<ul>
-<li> tidak terdapat dua sisi dari P yang memiliki panjang yang sama,
-<li> panjang dari setiap sisi P adalah merupakan anggota S, dan
-<li> S tidak memiliki anggota lain yang bukan merupakan panjang sisi pada P.
+<li> tidak terdapat dua sisi dari P yang memiliki panjang yang sama,</li>
+<li> panjang dari setiap sisi P adalah merupakan anggota S, dan</li>
+<li> S tidak memiliki anggota lain yang bukan merupakan panjang sisi pada P.</li>
 </ul>
 </p>
 
@@ -8532,8 +8455,8 @@ Himpunan {1, 2, 3} dan {2, 3, 4, 9} tidak dapat membentuk poligon sama sekali.<b
 
 <p>
 Perhatikan barisan bilangan s, yang dinyatakan sebagai berikut:<ul>
-<li>s<sub>1</sub> = 1, s<sub>2</sub> = 2, s<sub>3</sub> = 3
-<li>s<sub><var>n</var></sub> = s<sub><var>n</var>-1</sub> + s<sub><var>n</var>-3</sub> for <var>n</var> &gt; 3.
+<li>s<sub>1</sub> = 1, s<sub>2</sub> = 2, s<sub>3</sub> = 3</li>
+<li>s<sub><var>n</var></sub> = s<sub><var>n</var>-1</sub> + s<sub><var>n</var>-3</sub> for <var>n</var> &gt; 3.</li>
 </ul></p>
 
 <p>
@@ -8573,7 +8496,9 @@ Answer: c1bc7c945344e1967bfaced9ade895a0
 
 <P>Dinyatakan barisan b(n) = (-1)<sup>a(n)</sup>.
 <BR/>Barisan ini disebut sebagai barisan <B>Rudin-Shapiro</B>.</P>
-<P>Perhatikan juga barisan dari hasil penjumlahan b(n): ![](files-v1/p384_formula.gif).</P>
+<P>Perhatikan juga barisan dari hasil penjumlahan b(n):</p>
+
+![](files-v1/p384_formula.gif)
 
 <P>Beberapa pasangan pertama dari barisan ini adalah:
 <BR/><TT>n&nbsp; &nbsp; &nbsp &nbsp; 0 &nbsp &nbsp; 1 &nbsp &nbsp; 2 &nbsp &nbsp; 3 &nbsp &nbsp; 4 &nbsp &nbsp; 5 &nbsp &nbsp; 6 &nbsp &nbsp; 7
@@ -8598,10 +8523,10 @@ Answer: ea0bb1fff1a51b48971762b93aeed103
 
 # Soal 385
 
-<P>
 Untuk setiap segitiga <var>T</var> pada suatu bidang datar, dapat ditunjukkan bahwa terdapat elips unik dengan luas terbesar yang semua bagian elipsnya berada di dalam <var>T</var>.
-<P align=center>
-![](files-v1/p385_ellipsetriangle.png)</P>
+
+![](files-v1/p385_ellipsetriangle.png)
+
 <P>
 Untuk nilai <var>n</var> yang diketahui, segitiga <var>T</var> akan memiliki ketentuan:<BR />
 - titik sudut dari <var>T</var> mempunyai koordinat berupa bilangan bulat dengan nilai absolut &le; n, dan <BR />
@@ -8753,14 +8678,13 @@ Salah satu contoh kisi seperti ini adalah kertas grafik logaritmik (logarithmic 
 <P>
 Perhatikan kisi rectilinear pada sistem koordinat Kartesius, dengan sifat-sifat berikut:<br /><ul><li>Garis-garis kisinya adalah sejajar dengan sumbu pada sistem koordinat Kartesius.</li><li>Terdapat N+2 garis kisi vertikal dan N+2 garis kisi horizontal. Sehingga akan terdapat (N+1) x (N+1) buah sel persegi panjang.</li><li>Persamaan dari dua garis kisi vertikal terluar adalah x = -1 dan x = 1.</li><li>Persamaan dari garis kisi horizontal terluar adalah y = -1 dan y = 1.</li><li>Sel persegi panjang akan diberi warna merah apabila ia bertumpukan dengan sebuah <dfn title="Lingkaran satuan adalah sebuah lingkaran yang memiliki panjang jari-jari 1 dan berpusat di titik origin O(0,0)">lingkaran satuan</dfn>, selain itu sel persegi panjang akan diberi warna hitam.</li></ul>Untuk permasalahan ini, kita akan meminta Anda untuk mencari posisi dari N buah garis kisi horizontal dan vertikal yang masih tersisa, sehingga luas yang dimiliki oleh sel bewarna merah adalah sekecil mungkin.
 </p>
-<p>
-Sebagai contoh, berikut ini adalah gambar solusi untuk N = 10:
-<P align=center>
-![](files-v1/p392_gridlines.png)</P>
 
-</p>
+Sebagai contoh, berikut ini adalah gambar solusi untuk N = 10:
+
+![](files-v1/p392_gridlines.png)
+
 Luas daerah yang dimiliki oleh sel bewarna merah untuk N = 10 dibulatkan hingga 10 angka di belakang koma adalah 3.3469640797.
-</p>
+
 <p>
 Carilah posisi garis-garis kisi untuk N = 400.<BR /> 
 Sebagai jawaban Anda, berikan luas daerah yang dimiliki oleh sel bewarna merah dibulatkan hingga 10 angka di belakang koma.
@@ -8792,8 +8716,8 @@ Saat terdapat <var>F</var> bagian dari kue pai yang masih tersisa, ia melakukan 
 - Berlawanan arah jarum jam dari potongan pertama, ia mengambil dua potongan kue pai pertama dan memakannya.<BR />
 Saat terdapat sisa kue pai kurang dari <var>F</var> bagian, ia tidak melakukan prosedur di atas lagi. Melainkan, ia akan memakan semua kue pai yang masih tersisa.
 </p>
-<P align=center>
-![](files-v1/p394_eatpie.gif)</P>
+
+![](files-v1/p394_eatpie.gif)
 
 </p>
 <p>
@@ -8822,7 +8746,7 @@ Dimulai dari sebuah persegi dengan panjang sisi 1. Kemudian, kemudian salah satu
 Gambar yang dihasilkan, setelah prosedur di atas diulang-ulang sebanyak tak hingga kali, akan menghasilkan pohon Pythagoras.
 </p>
 
-<div align='center'>![](files-v1/p395_pythagorean.gif)</div>
+![](files-v1/p395_pythagorean.gif)
 
 <p>
 Dapat ditunjukkan bahwa terdapat setidaknya satu buah persegi, yang sisinya sejajar dengan persegi paling besar pada pohon Pythagoras, dimana persegi tersebut akan menutup pohon Pythagoras dengan sempurna.
@@ -8838,18 +8762,18 @@ Answer: 505048b0c619161d05b9b3e492f3edc3
 <p>
 Untuk setiap bilangan bulat positif n, <b>barisan Goodstein lemah ke-<var>n</var></b> {g<sub>1</sub>, g<sub>2</sub>, g<sub>3</sub>, ...} dinyatakan dengan:
 <ul>
-<li> g<sub>1</sub> = <var>n</var>
-<li> untuk <var>k</var> &gt; 1, g<sub><var>k</var></sub> didapatkan dengan cara menuliskan g<sub><var>k</var>-1</sub> dalam basis <var>k</var>, kemudian mengubahnya menjadi bilangan basis <var>k</var> + 1, dan menguranginya dengan 1.
+<li> g<sub>1</sub> = <var>n</var></li>
+<li> untuk <var>k</var> &gt; 1, g<sub><var>k</var></sub> didapatkan dengan cara menuliskan g<sub><var>k</var>-1</sub> dalam basis <var>k</var>, kemudian mengubahnya menjadi bilangan basis <var>k</var> + 1, dan menguranginya dengan 1.</li>
 </ul>
 Barisan ini akan berhenti saat g<sub><var>k</var></sub> menjadi 0.
 </p>
 <p>
 Sebagai contoh, barisan Goodstein lemah ke-6 adalah {6, 11, 17, 25, ...}:
 <ul>
-<li> g<sub>1</sub> = 6.
-<li> g<sub>2</sub> = 11 karena 6 = 110<sub>2</sub>, 110<sub>3</sub> = 12, dan 12 - 1 = 11.
-<li> g<sub>3</sub> = 17 karena 11 = 102<sub>3</sub>, 102<sub>4</sub> = 18, dan 18 - 1 = 17.
-<li> g<sub>4</sub> = 25 karena 17 = 101<sub>4</sub>, 101<sub>5</sub> = 26, dan 26 - 1 = 25.
+<li> g<sub>1</sub> = 6.</li>
+<li> g<sub>2</sub> = 11 karena 6 = 110<sub>2</sub>, 110<sub>3</sub> = 12, dan 12 - 1 = 11.</li>
+<li> g<sub>3</sub> = 17 karena 11 = 102<sub>3</sub>, 102<sub>4</sub> = 18, dan 18 - 1 = 17.</li>
+<li> g<sub>4</sub> = 25 karena 17 = 101<sub>4</sub>, 101<sub>5</sub> = 26, dan 26 - 1 = 25.</li>
 </ul>
 dan seterusnya.
 </p>
@@ -8934,22 +8858,23 @@ Answer: a0819cfe3be6a04645b8d4fe2345e184
 
 <p>
 Sebuah <b>pohon Fibonacci</b> adalah sebuah pohon biner yang secara rekursif dinyatakan dengan:<ul>
-<li>T(0) adalah pohon kosong.
-<li>T(1) adalah pohon biner (binary tree) yang hanya memiliki satu simpul (node).
-<li>T(<var>k</var>) terdiri dari sebuah simpul akar (root node) yang mempunyai T(<var>k</var>-1) dan T(<var>k</var>-2) sebagai anaknya.
+<li>T(0) adalah pohon kosong.</li>
+<li>T(1) adalah pohon biner (binary tree) yang hanya memiliki satu simpul (node).</li>
+<li>T(<var>k</var>) terdiri dari sebuah simpul akar (root node) yang mempunyai T(<var>k</var>-1) dan T(<var>k</var>-2) sebagai anaknya.</li>
 </ul>
 </p>
 
 <p>
 Pada pohon seperti ini, dua orang pemain memainkan sebuah permainan mengambil. Pada setiap giliran, seorang pemain memilih sebuah simpul dan mengambil simpul tersebut juga mengambil pohon yang berakar kepada simpul tersebut.<br />
-Pemain yang terpaksa harus mengambil simpul akar dari semua pohon adalah yang kalah.<p>
+Pemain yang terpaksa harus mengambil simpul akar dari semua pohon adalah yang kalah.</p>
 
 <p>
 Ini adalah gerakan kemenangan untuk pemain pertama pada giliran pertama untuk T(<var>k</var>) dari <var>k</var>=1 sampai <var>k</var>=6.
-<p align=center>![](files-v1/p400_winning.png)</p>
 </p>
 
-</p>
+![](files-v1/p400_winning.png)
+
+<p>
 Misal <var>f</var>(<var>k</var>) adalah banyaknya gerakan kemenangan dari pemain pertama (yaitu gerakan yang menyebabkan pemain kedua tidak memungkinkan untuk menang) pada giliran pertama dari permainan, saat permainan dimainkan dengan T(<var>k</var>).
 </p>
 
@@ -9034,9 +8959,7 @@ E<sub><var>a</var></sub> adalah sebuah elips dengan persamaan x<sup>2</sup> + 4y
 E<sub><var>a</var></sub>' adalah bayangan hasil rotasi dari E<sub><var>a</var></sub> sejauh &theta; derajat berlawanan arah jarum jam dengan pusat rotasi origin O(0, 0) untuk 0&deg; &lt; &theta; &lt; 90&deg;.
 </p>
 
-<div align='center'>
 ![](files-v1/p404_c_ellipse.gif)
-</div>
 
 <p>
 <var>b</var> adalah jarak antara titik origin dengan dua titik potong yang terdekat ke origin, dan <var>c</var> adalah jarak serupa dengan dua titik potong lainnya.<br />
@@ -9063,17 +8986,13 @@ Misal <var>T</var>(0) adalah sebuah persegi panjang.<br />
 Untuk <var>n</var> > 0, misal <var>T</var>(<var>n</var>) didaptkan dari <var>T</var>(<var>n</var>-1) dengan menggantikan semua persegi panjang dengan aturan berikut:
 </p>
 
-<div align='center'>
 ![](files-v1/p405_tile1.png)
-</div>
 
 <p>
 Animasi berikut ini mendemonstrasikan proses pemasangan ubin persegi panjang <var>T</var>(<var>n</var>) untuk <var>n</var> dari 0 sampai 5:
 </p>
 
-<div align='center'>
 ![](files-v1/p405_tile2.gif)
-</div>
 
 <p>
 Misal <var>f</var>(<var>n</var>) adalah banyaknya titik dimana empat buah ubin bertemu pada <var>T</var>(<var>n</var>).<br />
@@ -9153,9 +9072,9 @@ Answer: 2c09e247c6144c16cae2358d316affd9
 # Soal 409
 
 <p>Misal <var>n</var> adalah sebuah bilangan bulat positif. Perhatikan posisi pada permainan <b>nim</b> dimana:<ul>
-<li>Terdapat <var>n</var> buah tumpukan tidak kosong.
-<li>Setiap tumpukan memiliki banyak batu dari 2<sup><var>n</var></sup>.
-<li>Tidak ada dua tumpukan yang memiliki banyak batu yang sama.
+<li>Terdapat <var>n</var> buah tumpukan tidak kosong.</li>
+<li>Setiap tumpukan memiliki banyak batu dari 2<sup><var>n</var></sup>.</li>
+<li>Tidak ada dua tumpukan yang memiliki banyak batu yang sama.</li>
 </ul></p>
 <p>Misal W(<var>n</var>) adalah banyaknya posisi nim kemenangan yang memenuhi kondisi di atas (sebuah posisi dimana pemain pertama akan menang). Sebagai contoh, W(1) = 1, W(2) = 6, W(3) = 168, W(5) = 19764360 dan W(100) mod 1&nbsp;000&nbsp;000&nbsp;007 = 384777056.
 </p>
@@ -9188,7 +9107,9 @@ Misal S(<var>n</var>) adalah banyaknya stasiun maksimal yang dapat dilewati.
 Sebagai contoh, jika <var>n</var> = 22, terdapat 11 buah stasiun berbeda, dan jalur yang sah sesuai dengan aturan di atas hanya dapat melewati paling banyak 5 stasiun. Sehingga, S(22) = 5.
 Contoh ini diilustrasikan dengan gambar berikut, dengan sebuah contoh jalur optimal:
 </p>
-<p align=center>![](files-v1/p411_longpath.png)</p>
+
+![](files-v1/p411_longpath.png)
+
 <p>
 Dapat juga dibuktikan bahwa S(123) = 14 dan S(10000) = 48.
 </p><p>
@@ -9203,12 +9124,13 @@ Answer: e351762bf2220ca1396e6a9ee3f6c84f
 
 <p>Sebagai contoh, L(5, 3) akan terlihat seperti ini:</p>
 
-<p>![](files-v1/p412_table53.png)</p>
+![](files-v1/p412_table53.png)
 
 <p>Kita ingin memberi nomor pada setiap sel dari L(<var>m</var>,&nbsp;<var>n</var>) dengan bilangan bulat berurutan 1, 2, 3, ... sehingga bilangan pada setiap sel lebih kecil daripada bilangan di sel sebelah bawah dan di sebelah kirinya.</p>
 
 <p>Sebagai contoh, berikut ini adalah dua buah cara penomoran yang sah dari L(5,&nbsp;3):</p>
-<p>![](files-v1/p412_tablenums.png)</p>
+
+![](files-v1/p412_tablenums.png)
 
 <p>Misal LC(<var>m</var>, <var>n</var>) adalahnya banyak cara penomoran yang sah dari L(<var>m</var>, <var>n</var>).<br />
 Dapat dibuktikan bahwa LC(3,&nbsp;0) = 42, LC(5,&nbsp;3) = 250250, LC(6,&nbsp;3) = 406029023400 dan LC(10,&nbsp;5) mod 76543217 = 61251715.</p>
@@ -9256,8 +9178,8 @@ Basis 21: (14,6,20,13,7)<sub>21</sub>
 Dinyatakan <var>C<sub>b</sub></var> sebagai konstanta Kaprekar pada basis <var>b</var> untuk bilangan 5 digit.
 Dinyatakan fungsi <var>sb(i)</var> sebagai
 <ul> 
-<li> 0 jika i = <var>C<sub>b</sub></var> atau jika <var>i</var> tertulis dalam basis <var>b</var> yang dibentuk dari 5 digit yang sama
-<li> Selain itu, <var>sb(i)</var> dinyatakan sebagai banyaknya iterasi yang diperlukan untuk melakukan kebiasaan Kaprekar pada bilangan basis <var>b</var> untuk sampai pada <var>C<sub>b</sub></var>
+<li> 0 jika i = <var>C<sub>b</sub></var> atau jika <var>i</var> tertulis dalam basis <var>b</var> yang dibentuk dari 5 digit yang sama</li>
+<li> Selain itu, <var>sb(i)</var> dinyatakan sebagai banyaknya iterasi yang diperlukan untuk melakukan kebiasaan Kaprekar pada bilangan basis <var>b</var> untuk sampai pada <var>C<sub>b</sub></var></li>
 </ul>
 Perlu diingat bahwa kita dapat menyatakan <var>sb(i)</var> untuk semua bilangan bulat <var>i</var> &lt; <var>b</var><sup>5</sup>. Jika <var>i</var> tertulis dalam basis <var>b</var>, maka akan diperlukan kurang dari 5 digit, bilangan akan diisi oleh angka nol pada bagian depannya sampai kita dapatkan bilangan 5 digit sebelum kita menerapkan kebiasaan Kaprekar.
 </P>
@@ -9344,6 +9266,7 @@ Diketahui bahwa &sum;L(n) untuk 3 &le; n &le; 1 000 000 sama dengan 55535191115.
 </p>
 <p>
 Carilah &sum;L(n) untuk 3 &le; n &le; 100 000 000
+</p>
 
 Answer: 93a7df08c972f1e7788516d056a7e016
 
@@ -9351,8 +9274,8 @@ Answer: 93a7df08c972f1e7788516d056a7e016
 
 <p>
 Misal <var>n</var> adalah sebuah bilangan bulat positif. Sebuah kumpulan bilangan bulat (<var>a</var>, <var>b</var>, <var>c</var>) disebut sebagai sebuah <i>tripel faktorisasi</i> dari <var>n</var> jika:<ul>
-<li> 1 &le; <var>a</var> &le; <var>b</var> &le; <var>c</var>
-<li> <var>a</var>&middot;<var>b</var>&middot;<var>c</var> = <var>n</var>.
+<li> 1 &le; <var>a</var> &le; <var>b</var> &le; <var>c</var></li>
+<li> <var>a</var>&middot;<var>b</var>&middot;<var>c</var> = <var>n</var>.</li>
 </ul>
 </p>
 <p>
@@ -9397,9 +9320,7 @@ Answer: b27db655498b3d64ad4338fcdc9d178f
 <p>Sebuah <i>matriks bilangan bulat positif</i> adalah sebuah matriks yang semua elemennya adalah bilangan bulat positif.<br />
 Beberapa matriks bilangan bulat positif dapat diekspresikan sebagai hasil kuadrat dari matriks bilangan bulat positif lain dengan dua cara yang berbeda. Berikut ini adalah contohnya:</p>
 
-<div align='center'>
 ![](files-v1/p420_matrix.gif)
-</div>
 
 <p>
 Kita nyatakan F(<var>N</var>) sebagai banyaknya matriks bilangan bulat positif 2x2, dimana memiliki <dfn title="hasil penjumlahan dari elemen-elemen matriks yang ada pada diagonal utama">hasil jumlah diagonal utama (trace)</dfn> kurang dari <var>N</var> dan dapat dinyatakan sebagai hasil kuadrat dari matriks bilangan bulat positif lain dengan dua cara yang berbeda.<br />
@@ -9439,12 +9360,13 @@ Answer: 481fcc5ff16ccf1645fb136c123ed660
 
 <p>Sekarang kita akan menyatakan sebuah barisan dari titik-titik di H, {P<sub><var>i</var></sub> : <var>i</var> &ge; 1}, sebagai:
 <ul>
-<li> P<sub>1</sub> = (13, 61/4).
-<li> P<sub>2</sub> = (-43/6, -4).
-<li> Untuk <var>i</var> > 2, P<sub><var>i</var></sub> adalah titik unik pada H yang berbeda dari P<sub><var>i</var>-1</sub> dan garis P<sub><var>i</var></sub>P<sub><var>i</var>-1</sub> adalah sejajar dengan garis P<sub><var>i</var>-2</sub>X. Dapat ditunjukkan bahwa P<sub><var>i</var></sub> selalu dapat terdefinisi, dan koordinatnya selalu rasional.
+<li> P<sub>1</sub> = (13, 61/4).</li>
+<li> P<sub>2</sub> = (-43/6, -4).</li>
+<li> Untuk <var>i</var> > 2, P<sub><var>i</var></sub> adalah titik unik pada H yang berbeda dari P<sub><var>i</var>-1</sub> dan garis P<sub><var>i</var></sub>P<sub><var>i</var>-1</sub> adalah sejajar dengan garis P<sub><var>i</var>-2</sub>X. Dapat ditunjukkan bahwa P<sub><var>i</var></sub> selalu dapat terdefinisi, dan koordinatnya selalu rasional.</li>
 </ul>
-![](files-v1/p422_hyperbola.gif)
 </p>
+
+![](files/p_422_hyperbola.gif)
 
 <p>Anda diberikan informasi bahwa P<sub>3</sub>  = (-19/2, -229/24), P<sub>4</sub> = (1267/144, -37/12) dan P<sub>7</sub> = (17194218091/143327232, 274748766781/1719926784).</p>
 
@@ -9479,13 +9401,13 @@ Answer: e2add9d46ebd8ba59a07dca791cd629b
 
 # Soal 424
 
-<div >![](files-v1/p424_kakuro1.gif)</div>
+![](files/p_424_kakuro1.gif)
 
 <p>Gambar di atas adalah sebuah contoh dari teka-teki kakuro rahasia (juga dikenal sebagai penjumlahan menyilang, atau penyilangan jumlah genap), dengan solusi akhirnya ada di sebelah kanan. (Aturan yang biasa digunakan pada teka-teki kakuro dapat dengan mudah ditemukan di banyak situs internet. Informasi lainnya yang berhubungan saat ini juga dapat ditemukan di <a href="http://krazydad.com/" target="_blank">krazydad.com</a> dimana penulisnya telah memberikan data teka-teki untuk tantangan ini.)</p>
 
 <p>Sebuah text file yang dapat di download (<a href="{{ site.baseurl }}project/resources/p424_kakuro200.txt">kakuro200.txt</a>) berisi deskripsi dari 200 teka-teki seperti ini, gabungan dari tipe 5x5 dan 6x6. Teka-teki pertama pada file ini adalah contoh di atas, yang dituliskan sebagai berikut:</p>
 
-6,X,X,(vCC),(vI),X,X,X,(hH),B,O,(vCA),(vJE),X,(hFE,vD),O,O,O,O,(hA),O,I,(hJC,vB),O,O,(hJC),H,O,O,O,X,X,X,(hJE),O,O,X
+<p>6,X,X,(vCC),(vI),X,X,X,(hH),B,O,(vCA),(vJE),X,(hFE,vD),O,O,O,O,(hA),O,I,(hJC,vB),O,O,(hJC),H,O,O,O,X,X,X,(hJE),O,O,X</p>
 
 <p>Karakter pertama adalah digit numerik yang menandakan ukuran dari kotak-kotak. Digit ini dapat memiliki nilai 6 (untuk sebuah teka-teki kakuro 5x5) atau nilai 7 (untuk teka-teki 6x6) diikuti oleh tanda koma (,). Kelebihan satu baris di atas dan di kiri diperlukan untuk memasukkan informasi.</p>
 
@@ -9556,9 +9478,9 @@ Dapat ditunjukkan bahwa setelah dilakukan beberapa kali perubahan, sistem akan a
 <P>
 Kita nyatakan barisan {<var>t</var><sub><var>i</var></sub>}:<BR />
 <ul>
-<li><var>s</var><sub>0</sub> = 290797
-<li><var>s</var><sub><var>k</var>+1</sub> = <var>s</var><sub><var>k</var></sub><sup>2</sup> mod 50515093
-<li><var>t</var><sub><var>k</var></sub> = (<var>s</var><sub><var>k</var></sub> mod 64) + 1
+<li><var>s</var><sub>0</sub> = 290797</li>
+<li><var>s</var><sub><var>k</var>+1</sub> = <var>s</var><sub><var>k</var></sub><sup>2</sup> mod 50515093</li>
+<li><var>t</var><sub><var>k</var></sub> = (<var>s</var><sub><var>k</var></sub> mod 64) + 1</li>
 </ul>
 </P>
 <P>
@@ -9596,10 +9518,10 @@ Misal C<sub>out</sub> adalah lingkaran yang memiliki panjang diameter WZ.<br/>
 <p>
 Kumpulan bilangan (<var>a</var>, <var>b</var>, <var>c</var>) akan disebut sebagai sebuah <em>tripel kalung</em> jika Anda dapat meletakkan <var>k</var> &ge; 3 lingkaran berbeda C<sub>1</sub>, C<sub>2</sub>, ..., C<sub><var>k</var></sub> sehingga:
 <ul>
-<li>C<sub><var>i</var></sub> tidak memiliki titik dalam lingkaran yang sama dengan lingkaran C<sub><var>j</var></sub> untuk 1 &le; <var>i</var>, <var>j</var> &le; <var>k</var> dan <var>i</var> &ne; <var>j</var>,
-<li>C<sub><var>i</var></sub> menyinggung lingkaran C<sub>in</sub> dan C<sub>out</sub> untuk 1 &le; <var>i</var> &le; <var>k</var>,
-<li>C<sub><var>i</var></sub> menyinggung lingkaran C<sub><var>i</var>+1</sub> untuk 1 &le; <var>i</var> < <var>k</var>, dan
-<li>C<sub><var>k</var></sub> menyinggung lingkaran C<sub>1</sub>.
+<li>C<sub><var>i</var></sub> tidak memiliki titik dalam lingkaran yang sama dengan lingkaran C<sub><var>j</var></sub> untuk 1 &le; <var>i</var>, <var>j</var> &le; <var>k</var> dan <var>i</var> &ne; <var>j</var>,</li>
+<li>C<sub><var>i</var></sub> menyinggung lingkaran C<sub>in</sub> dan C<sub>out</sub> untuk 1 &le; <var>i</var> &le; <var>k</var>,</li>
+<li>C<sub><var>i</var></sub> menyinggung lingkaran C<sub><var>i</var>+1</sub> untuk 1 &le; <var>i</var> < <var>k</var>, dan</li>
+<li>C<sub><var>k</var></sub> menyinggung lingkaran C<sub>1</sub>.</li>
 </ul></p>
 
 <p>
@@ -9795,8 +9717,8 @@ Untuk <var>n</var>-buah bilangan bulat <var>t</var> = (<var>a</var><sub>1</sub>,
 <P>
 Terdapat dua buah kondisi:
 <ul>
-<li><var>x</var><sub>1</sub>, ..., <var>x</var><sub><var>n</var></sub> semuanya adalah bilangan real.
-<li>Jika <var>x</var><sub>1</sub>, ..., <var>x</var><sub><var>n</var></sub> adalah berurutan, &lfloor;<var>x</var><sub><var>i</var></sub>&rfloor; = <var>i</var> untuk 1 &le; <var>i</var> &le; <var>n</var>. (&lfloor;&middot;&rfloor;: fungsi pembulatan ke bawah.)
+<li><var>x</var><sub>1</sub>, ..., <var>x</var><sub><var>n</var></sub> semuanya adalah bilangan real.</li>
+<li>Jika <var>x</var><sub>1</sub>, ..., <var>x</var><sub><var>n</var></sub> adalah berurutan, &lfloor;<var>x</var><sub><var>i</var></sub>&rfloor; = <var>i</var> untuk 1 &le; <var>i</var> &le; <var>n</var>. (&lfloor;&middot;&rfloor;: fungsi pembulatan ke bawah.)</li>
 </ul>
 </P>
 <P>
@@ -9825,11 +9747,11 @@ Answer: da937ac1432c8ccd4de6f68df36e7980
 
 <p>Kita akan memasang ubin pada sebuah papan dengan panjang <var>n</var> dan tinggi 1 sampai semua bagian tertutupi, dengan blok ubin berukuran 1 &times; 2 atau 1 &times; 1, yang memiliki satu digit desimal di atasnya:</p>
 
-![](files/p_440_tiles.png)
+![](files-v1/p440_tiles.png)
 
 <p>Sebagai contoh, berikut ini adalah beberapa cara untuk memasang ubin pada papan dengan panjang <var>n</var> = 8:</p>
 
-![](files/p_440_some8.png)
+![](files-v1/p440_some8.png)
 
 <p>Misal T(<var>n</var>) adalah banyaknya cara untuk memasang ubin pada papan dengan panjang <var>n</var> seperti dijelaskan di atas.</p>
 
@@ -9916,8 +9838,8 @@ Answer: 28f9d9a9bf8fb3d606e0b711b59f42aa
 
 <p>Misal E(<var>p</var>) menyatakan dugaan banyaknya (expected number) pemain yang meninggalkan meja saat permainan berakhir, pada permainan yang dimainkan oleh <var>p</var> orang (Sebagai contoh E(111)&nbsp;=&nbsp;5.2912 saat dibulatkan hingga 5 angka).</p>
 
-<p>Misal S<sub>1</sub>(<var>N</var>) = ![](files-v1/p444_sum.png) E(<var>p</var>)<br/>
-Misal S<sub><var>k</var></sub>(<var>N</var>) = ![](files-v1/p444_sum.png) S<sub><var>k</var>-1</sub>(<var>p</var>) untuk <var>k</var> &gt; 1</p>
+<p>Misal S<sub>1</sub>(<var>N</var>) = <img src="files-v1/p444_sum.png"/> E(<var>p</var>)<br/>
+Misal S<sub><var>k</var></sub>(<var>N</var>) = <img src="files-v1/p444_sum.png"/> S<sub><var>k</var>-1</sub>(<var>p</var>) untuk <var>k</var> &gt; 1</p>
 
 <p>Carilah S<sub>20</sub>(10<sup>14</sup>) dan tuliskan jawaban Anda sesuai dengan aturan notasi ilmiah, dibulatkan hingga 10 angka. Gunakan huruf kecil untuk memisahkan mantissa dan eksponen (Sebagai contoh S<sub>3</sub>(100) = 5.983679014e5).</p>
 
@@ -9955,6 +9877,7 @@ F(1024)=77532377300600.<BR />
 </P>
 <P>
 Carilah F(10<sup>7</sup>) (mod 1 000 000 007)
+</p>
 
 Answer: 0a9aa05f7bce906adb602af96ba06dc0
 
@@ -10071,6 +9994,7 @@ Juga I(100)=51 dan I(7)=1.<BR />
 </P>
 <P>
 Carilah &sum;I(n) untuk 3&le;n&le;2&middot;10<sup>7</sup>
+</p>
 
 Answer: 9848878734a1d751a0e428147ab0b4aa
 
@@ -10107,7 +10031,7 @@ Answer: 7f5ed466531a399174a64c6de41ea707
 <tr>
 <td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>x</var></span></div></td>
 <td> + </td>
-<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>y</var></span></td>
+<td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>y</var></span></div></td>
 <td> = </td>
 <td><div style="text-align:center;">1<br /><span style="border-top:1px solid #000;"><var>n</var></span></div></td>
 </tr>
@@ -10156,7 +10080,7 @@ C(600) = 8950634<br />
 C(40&nbsp;000) = 2666610948988
 </p>
 
-<p>Carilah C(2&nbsp;000&nbsp;000).
+<p>Carilah C(2&nbsp;000&nbsp;000).</p>
 
 Answer: e2811a92b4658ca420be740f6c66572b
 
@@ -10197,13 +10121,14 @@ Pada setiap kotak terdapat sebuah disk yang memiliki satu sisi putih dan satu si
 Permainan dimulai dengan semua disk menunjukkan sisi bewarna putihnya.</p>
 
 <p>Sebuah putaran yang dilakukan dengan membalikkan semua disk dalam sebuah persegi panjang besar dengan aturan sebagai berikut:
-<p><ul>
+<ul>
 <li>pojok kanan atas dari persegi panjang haruslah berisi disk putih</li>
 <li>Lebar dari persegi panjang haruslah merupakan bilangan kuadrat sempurna (1, 4, 9, 16, ...)</li>
 <li>Panjang dari persegi panjang haruslah merupakan sebuah <dfn title="Bilangan segitiga dinyatakan sebagai &frac12;&nbsp;n(n + 1) untuk bilangan bulat positif n.">bilangan segitiga</dfn> (1, 3, 6, 10, ...)</li>
-</ul></p>
+</ul>
+</p>
 
-<p align=center>![](files-v1/p459-flipping-game-0.png)</p>
+![](files-v1/p459-flipping-game-0.png)
 
 <p>Kedua pemain melakukan hal ini secara bergantian. Pemain dikatakan menang apabila ia dapat membalik semua disk menjadi hitam.</p>
 
@@ -10212,8 +10137,8 @@ W(1) = 1, W(2) = 0, W(5) = 8 dan W(10<sup>2</sup>) = 31395.</p>
 
 <p>Untuk N=5, delapan buah gerakan kemenangan yang dapat dilakukan oleh pemain pertama pada giliran pertamanya adalah:</p>
 
-<p align=center>![](files-v1/p459-flipping-game-1.png)</p>
-<p align=center>![](files-v1/p459-flipping-game-2.png)</p>
+![](files-v1/p459-flipping-game-1.png)
+![](files-v1/p459-flipping-game-2.png)
 
 <p>Carilah W(10<sup>6</sup>).</p>
 
@@ -10239,7 +10164,9 @@ Sehingga total waktu yang diperlukan adalah 1.2283 + 0.6667 + 1.2283 = 3.1233.
 <p>
 Gambar di kanan adalah kemungkinan jalur lain. Total waktu yang diperlukan untuk jalur ini adalah 0.98026 + 1 + 0.98026 = 2.96052. Sehingga dapat terlihat bahwa jalur ini merupakan jalur tercepat untuk <var>d</var> = 4.
 </p>
-<p align=center>![](files-v1/p460_ant.jpg)</p>
+
+![](files-v1/p460_ant.jpg)
+
 <p>
 Misal F(<var>d</var>) adalah total waktu yang diperlukan jika semut memilih jalur tercepat. Sebagai contoh, F(4) &asymp; 2.960516287.<br>
 Dapat dibuktikan bahwa F(10) &asymp; 4.668187834 dan F(100) &asymp; 9.217221972.
@@ -10343,8 +10270,9 @@ Answer: 6d3598e116ae19efe33063bccf0b693b
 
 <p>Untuk permasalahan ini, sebuah poligon dapat memiliki beberapa titik yang berada di dalam satu garis lurus. Tetapi, sebuah poligon tetap tidak diperbolehkan untuk memiliki sisi yang saling berpotongan, dan tidak bisa memiliki luas wilayah sebesar nol.</p>
 
-<p>Sebagai contoh, hanya gambar pertama yang merupakan poligon polar (kernel pada gambar kedua, ketiga, dan keempat tidak memuat titik origin di dalamhya, dan pada gambar kelima tidak terdapat kernel sama sekali):
-<p align=center>![](files-v1/p465_polygons.png)</p></p>
+<p>Sebagai contoh, hanya gambar pertama yang merupakan poligon polar (kernel pada gambar kedua, ketiga, dan keempat tidak memuat titik origin di dalamhya, dan pada gambar kelima tidak terdapat kernel sama sekali):</p>
+
+![](files-v1/p465_polygons.png)
 
 <p>Perhatikan bahwa poligon pertama mempunyai tiga buah titik yang berada pada satu garis lurus.</p>
 
@@ -10489,8 +10417,10 @@ Answer: a37644507221e441ca9667e1c7e660c4
 <p>Segitiga &Delta;ABC berada di dalam elips dengan persamaan $\frac {x^2} {a^2} + \frac {y^2} {b^2} = 1$, 0&nbsp;<&nbsp;2<var>b</var>&nbsp;<&nbsp;<var>a</var>, <var>a</var> dan <var>b</var> adalah bilangan bulat.</p>
 <p>Misal <var>r</var>(<var>a</var>,<var>b</var>) adalah panjang jari-jari dari lingkaran dalam segitiga &Delta;ABC saat lingkaran dalam berpusat di (2<var>b</var>, 0) dan memiliki salah satu koordinat koordinat $\left( \frac a 2, \frac {\sqrt 3} 2 b\right)$.</p>
 <p>Sebagai contoh, <var>r</var>(3,1)&nbsp;=&nbsp;&frac12;, <var>r</var>(6,2)&nbsp;=&nbsp;1, <var>r</var>(12,3)&nbsp;=&nbsp;2.</p>
-<p align=center>![](files-v1/p471-triangle-inscribed-in-ellipse-1.png)</p>
-<p align=center>![](files-v1/p471-triangle-inscribed-in-ellipse-2.png)</p>
+
+![](files-v1/p471-triangle-inscribed-in-ellipse-1.png)
+![](files-v1/p471-triangle-inscribed-in-ellipse-2.png)
+
 <p>Misal $G(n) = \sum_{a=3}^n \sum_{b=1}^{\lfloor \frac {a - 1} 2 \rfloor} r(a, b)$</p>
 <p>Diberikan informasi <var>G</var>(10) = 20.59722222, <var>G</var>(100) = 19223.60980 (dibulatkan hingga 10 angka di belakang koma).</p>
 <p>Carilah <var>G</var>(10<sup>11</sup>).</p>
@@ -10511,9 +10441,9 @@ Answer: d632b70a0a349ed70ac17ef6246dd7d8
 
 <p>Perlu diingat bahwa karena adanya aturan ke 1, beberapa bangku dipastikan akan kosong, dan banyak maksimum orang yang akan duduk adalah kurang dari <var>N</var> (untuk <var>N</var> > 1).</p>
 
-<p>Ini adalah contoh penempatan yang mungkin untuk <var>N</var> = 15:
-<p align=center>![](files-v1/p472_n15.png)</p>
-</p>
+Ini adalah contoh penempatan yang mungkin untuk <var>N</var> = 15:
+
+![](files-v1/p472_n15.png)
 
 <p>Dapat kita lihat bahwa apabila orang pertama memilih bangku yang benar, maka 15 bangku tersebut dapat memuat hingga 7 orang.<br/>
 Kita juga dapat melihat bahwa orang pertama memiliki 9 pilihan agar terdapat sebanyak mungkin jumlah orang yang dapat duduk.</p>
@@ -10588,7 +10518,7 @@ Answer: 4d6a99b2a0f22af561aeeb69c0126fef
 <p>Sebuah permainan barisan bilangan dimulai dengan sebuah barisan bilangan <var>S</var> yang memiliki <var>N</var>-buah bilangan yang tertulis pada suatu barisan.</p>
 <p>Dua orang memainkan permainan secara bergantian. Pada gilirannya, seorang pemain harus memilih dan mengambil salah satu diantara bilangan yang pertama atau yang terakhir yang masih terdapat ada di barisan.</p>
 <p>Nilai yang didapatkan oleh pemain adalah hasil penjumlahan dari semua bilangan yang telah diambil. Setiap pemain akan berusaha untuk mendapatkan hasil penjumlahan terbesar.</p>
-</p>Jika <var>N</var> = 4 dan <var>S</var> = {1, 2, 10, 3}, maka setiap pemain akan berusaha mendapatkna nilai terbesar dengan cara berikut:</p>
+<p>Jika <var>N</var> = 4 dan <var>S</var> = {1, 2, 10, 3}, maka setiap pemain akan berusaha mendapatkna nilai terbesar dengan cara berikut:</p>
 <ul>
 <li>Pemain 1: mengambil bilangan pertama (1)</li>
 <li>Pemain 2: mengambil bilangan terakhir yang masih tersisa di barisan (3)</li>
@@ -10596,7 +10526,7 @@ Answer: 4d6a99b2a0f22af561aeeb69c0126fef
 <li>Pemain 2: mengambil bilangan yang masih tersisa di barisan (2)</li>
 </ul>
 <p>Skor pemain 1 adalah 1 + 10 = 11.</p>
-<p>Misal <var>F</var>(<var>N</var>) adalah besar skor pemain 1 apabila kedua pemain saling berusaha untuk mendapatkan nilai terbesar pada permainan barisan bilangan dengan barisan <var>S</var> = {<var>s</var><sub>1</sub>, <var>s</var><sub>2</sub>,&nbsp;...,&nbsp;<var>s<sub>N</var></sub>} yang dinyatakan dengan:</p>
+<p>Misal <var>F</var>(<var>N</var>) adalah besar skor pemain 1 apabila kedua pemain saling berusaha untuk mendapatkan nilai terbesar pada permainan barisan bilangan dengan barisan <var>S</var> = {<var>s</var><sub>1</sub>, <var>s</var><sub>2</sub>,&nbsp;...,&nbsp;<var>s<sub>N</sub></var>} yang dinyatakan dengan:</p>
 <ul>
 <li><var>s</var><sub>1</sub> = 0</li>
 <li><var>s</var><sub><var>i</var>+1</sub> = (<var>s<sub>i</sub></var><sup>2</sup> + 45) modulo 1 000 000 007</li>
