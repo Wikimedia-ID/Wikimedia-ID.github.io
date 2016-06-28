@@ -137,7 +137,7 @@ Answer: 0f53ea7949d32ef24f9186207600403c
 
 <div style="text-align:center;"> <var>a</var><sup>2</sup> + <var>b</var><sup>2</sup> = <var>c</var><sup>2</sup></div>
 
-Sebagai contoh, 3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25 = 5<sup>2</sup>.</br>
+Sebagai contoh, 3<sup>2</sup> + 4<sup>2</sup> = 9 + 16 = 25 = 5<sup>2</sup>.
 
 Dan hanya terdapat persis satu <i>triplet Pythagoras</i> yang bisa memenuhi a + b + c = 1000.
 Temukan <i>triplet Pythagoras</i> tersebut dan tentukanlah hasil a × b × c.
@@ -10658,6 +10658,7 @@ Answer: b97e157bf53033d21f610d2350b92faf
         $("#wrapper").toggleClass("toggled");
     });
     </script>
+    
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -10665,6 +10666,7 @@ Answer: b97e157bf53033d21f610d2350b92faf
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
     ga('create', 'UA-80001227-1', 'auto');
     ga('send', 'pageview');</script>
+    
     <script type="text/javascript">
     
 // create the back to top button
