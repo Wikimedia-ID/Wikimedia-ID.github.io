@@ -32,3 +32,45 @@ background-size:cover;
     width: 100%;
     height: 100%;
 }
+
+.btn-black{
+	color:#fff;
+	background-color:#000;
+	border-color:#000;
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:uppercase;
+	font-weight:700;
+	border-radius:3px;
+	font-size:18px;
+	padding:20px 40px
+}
+
+.btn-black.focus,.btn-black:focus{
+	color:#fff;
+	background-color:#000;
+	border-color:#000
+}
+
+.btn-black:hover{
+	color:#fff;
+	background-color:#000;
+	border-color:#ac2925
+}
+
+.btn-black.active,.btn-black:active,.open>.dropdown-toggle.btn-black{
+	color:#fff;
+	background-color:#000;
+	border-color:#000
+}
+
+.btn-black.active.focus,.btn-black.active:focus,.btn-black.active:hover,.btn-black:active.focus,.btn-black:active:focus,.btn-black:active:hover,.open>.dropdown-toggle.btn-black.focus,.open>.dropdown-toggle.btn-black:focus,.open>.dropdown-toggle.btn-black:hover{
+	color:#fff;
+	background-color:#000;
+	border-color:#000
+}
+
+.btn-black.active,.btn-black:active,.open>.dropdown-toggle.btn-black{
+	background-image:none
+}
+
+.btn-black.disabled.focus,.btn-black.disabled:focus,.btn-black.disabled:hover,.btn-black[disabled].focus,.btn-black[disabled]:focus,.btn-black[disabled]:hover,fieldset[disabled] .btn-black.focus,fieldset[disabled] .btn-black:focus,fieldset[disabled] .btn-black:hover{background-color:#d9534f;border-color:#d43f3a}.btn-black .badge{color:#d9534f;background-color:#fff}
