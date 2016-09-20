@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Modul Besut Kode Universitas
 
 0.  Pendaftaran dengan Google Form pada link berikut: Daftar Besut Kode Universitas
