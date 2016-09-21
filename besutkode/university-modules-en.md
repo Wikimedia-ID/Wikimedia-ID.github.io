@@ -1,4 +1,8 @@
-# University modules
+---
+layout: main
+---
+
+# Besut Kode University modules
 
 0.  Google Form Registration
 
@@ -29,6 +33,7 @@
     0.  Edit [peserta.md](https://github.com/BesutKode/BesutKode.github.io/blob/master/peserta.md) to add your name to the public participant list
 
         Here you will add your:
+
          * GitHub username and link to your GitHub pages site
          * Project Euler username
          * list of Project Euler problems solved
