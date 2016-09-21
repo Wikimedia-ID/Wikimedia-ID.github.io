@@ -30,7 +30,7 @@ layout: main
 
     0.  Create an account on [Stackoverflow](http://stackoverflow.com/), and earn any [badge](http://stackoverflow.com/help/badges)
     
-    0.  Edit [peserta.md](https://github.com/BesutKode/BesutKode.github.io/blob/master/peserta.md) to add your name to the public participant list
+    0.  Edit [peserta-universitas.md](https://github.com/BesutKode/BesutKode.github.io/blob/master/peserta-universitas.md) to add your name to the public participant list
 
         Here you will add your:
 
@@ -43,7 +43,7 @@ layout: main
 
         Your edit will become a Pull Request on the Besut Kode repository.
 
-        After 30 minutes, Wikimedia Indonesia staff will check the Pull Request,
+        Within 24 hours, Wikimedia Indonesia staff will check the Pull Request,
         and then either accept or reject and close it.
         If your first pull request is rejected, you may resubmit a second pull request.
         If your second pull request is rejected, you are ineligible to partipate in Besut Kode.
