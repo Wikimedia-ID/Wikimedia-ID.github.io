@@ -33,6 +33,7 @@ layout: main
     0.  Sunting [peserta.md](https://github.com/BesutKode/BesutKode.github.io/blob/master/peserta.md) dan tambahkan nama Anda ke daftar peserta
 
         Pada halaman ini Anda harus menambahkan:
+
          * Nama pengguna GitHub dan pranala ke halaman website GitHub pages Anda
          * Nama pengguna Project Euler
          * Daftar soal Project Euler yang berhasil diselesaikan
