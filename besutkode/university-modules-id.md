@@ -4,11 +4,9 @@ layout: main
 
 # Modul Besut Kode Universitas
 
-0.  Pendaftaran dengan Google Form pada link berikut: Daftar Besut Kode Universitas
+0.  Pendaftaran dengan Google Form pada link berikut: [Daftar Besut Kode Universitas](https://docs.google.com/forms/d/e/1FAIpQLScQUn88sB26uuiYouxVibeVqU-hvRNY5KYGbX84Dqx-iYWvTw/viewform)
 
 0.  Daftar dan buat beberapa akun kemudian selesaikan beberapa kontribusi kecil:
-
-    0.  Bergabung di [Google Summer of Code Indonesia - Facebook Group](https://www.facebook.com/groups/gsoc.indonesia).
 
     0.  Buat akun di [Project Euler](http://projecteuler.net/) dan selesaikan tiga soal untuk memperoleh penghargaan [Baby Steps](https://projecteuler.net/award=1) (harap login ke dalam Project Euler untuk mengakses link ini).
 
