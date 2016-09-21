@@ -8,6 +8,8 @@ layout: main
 
 0.  Daftar dan buat beberapa akun kemudian selesaikan beberapa kontribusi kecil:
 
+    0.  Bergabung di [Google Summer of Code Indonesia - Facebook Group](https://www.facebook.com/groups/gsoc.indonesia).
+
     0.  Buat akun di [Project Euler](http://projecteuler.net/) dan selesaikan tiga soal untuk memperoleh penghargaan [Baby Steps](https://projecteuler.net/award=1).
 
         Nama pengguna Anda harus muncul pada halaman pengguna dari [Indonesia](https://projecteuler.net/country=Indonesia).
@@ -54,12 +56,9 @@ layout: main
 
 0.  Babak Eliminasi (20 Okt - 20 Nov)
 
-    Babak eliminasi terdiri dari 3 tugas, yang dikerjakan secara berurutan, termasuk tugas yang akan
-    mempersiapkan peserta untuk berkontribusi aktif dalam proyek open source, yang diperlukan di Google Summer of Code.
-
-    * dokumentasi
-    * riset
-    * pemrograman
+    Babak eliminasi terdiri dari lima tugas, yang dikerjakan secara berurutan, termasuk tugas yang akan
+    mempersiapkan peserta untuk berkontribusi aktif dalam proyek open source, yang diperlukan di Google Summer of Code:
+    dokumentasi, riset, pemrograman.
 
     Setiap peserta yang berhasil ikut serta dalam program akan diberikan tugas pertama pada 20 Oktober pukul 00:01
     lewat e-mail.
@@ -79,7 +78,7 @@ layout: main
     Pada akhir babak ini, semua peserta harus sudah menyelesaikan tugas berikut *selama* babak ini:
 
     - Berkontribusi di Wikipedia bahasa Indonesia.
-    - Berkolaborasi di proyek Github yang populer\.
+    - Berkolaborasi di proyek Github yang populer.
     - Menyelesaikan soal Project Euler dengan tigkat kesulitan 50%.
     - Meningkatkan integrasi sebuah proyek di GitHub.
     - Menggunakan perangkat analisa kode statik untuk memecahkan masalah dengan kode.
