@@ -8,9 +8,9 @@ layout: main
 
 0.  Set up your accounts and do a small contribution
 
-    0.  Creating an account in [Project Euler](http://projecteuler.net/) and complete three problems to be given the [Baby Steps](https://projecteuler.net/award=1) award.
+    0.  Creating an account in [Project Euler](http://projecteuler.net/) and complete three problems to be given the [Baby Steps](https://projecteuler.net/award=1) award (log in required to see awards).
 
-        Your username must appear on the list at https://projecteuler.net/country=Indonesia
+        Your username must appear on the list at https://projecteuler.net/country=Indonesia  (log in required).
 
     0.  Creating an account on [GitHub](https://GitHub.com), and set up a [GitHub Pages](https://pages.github.com/) website.
 
