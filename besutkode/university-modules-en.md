@@ -8,6 +8,8 @@ layout: main
 
 0.  Set up your accounts and do a small contribution
 
+    0.  Join [Google Summer of Code Indonesia - Facebook Group](https://www.facebook.com/groups/gsoc.indonesia).
+
     0.  Creating an account in [Project Euler](http://projecteuler.net/) and complete three problems to be given the [Baby Steps](https://projecteuler.net/award=1) award.
 
         Your username must appear on the list at https://projecteuler.net/country=Indonesia
@@ -55,11 +57,8 @@ layout: main
 0.  Elimination round (Ock 20 - Nov 20)
 
     The elimination round consists of five tasks, performed consecutively, including tasks that will
-    prepare the participant for working effectively on an open source project, as is required for GSOC projects.
-
-    * documentation
-    * research
-    * programming
+    prepare the participant for working effectively on an open source project, as is required for GSOC projects:
+    documentation, research, programming.
 
     Each participant who successfully entered the program will be sent their first task on 20 Ock 00:01
     via email.
