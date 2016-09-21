@@ -30,7 +30,7 @@ layout: main
 
     0.  Buat akun di [Stackoverflow](http://stackoverflow.com/), dan raih [badge](http://stackoverflow.com/help/badges) apapun.
     
-    0.  Sunting [peserta.md](https://github.com/BesutKode/BesutKode.github.io/blob/master/peserta.md) dan tambahkan nama Anda ke daftar peserta
+    0.  Sunting [peserta-universitas.md](https://github.com/BesutKode/BesutKode.github.io/blob/master/peserta-universitas.md) dan tambahkan nama Anda ke daftar peserta
 
         Pada halaman ini Anda harus menambahkan:
 
@@ -43,7 +43,7 @@ layout: main
 
         Suntingan Anda akan menjadi Pull Request di repository Besut Kode.
 
-        Setelah 30 menit, staf Wikimedia Indonesia akan memeriksa Pull Request,
+        Setelah 24 jam, staf Wikimedia Indonesia akan memeriksa Pull Request,
         yang kemudian akan menerima atau menolaknya.
         Jika pull request Anda ditolak pertama kali, Anda boleh mencoba untuk ke dua kalinya.
         Jika pull request kedua Anda ditolak, Anda tidak diperbolehkan lagi mengikuti Besut Kode.
