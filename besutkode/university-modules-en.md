@@ -55,13 +55,10 @@ layout: main
 0.  Elimination round (Ock 20 - Nov 20)
 
     The elimination round consists of five tasks, performed consecutively, including tasks that will
-    prepare the participant for working effectively on an open source project, as is required for GSOC projects.
+    prepare the participant for working effectively on an open source project, as is required for GSOC projects:
+    documentation, research and programming.
 
-    * documentation
-    * research
-    * programming
-
-    Each participant who successfully entered the program will be sent their first task on 20 Ock 00:01
+    Each participant who successfully entered the program will be sent their first task on 20 October 00:01
     via email.
 
     An automated process will check for regular Github activity of each participant.
