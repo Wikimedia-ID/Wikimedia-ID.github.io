@@ -4,7 +4,7 @@ layout: main
 
 # Besut Kode University modules
 
-0.  Google Form Registration
+0.  [Google Form Registration](https://docs.google.com/forms/d/e/1FAIpQLScQUn88sB26uuiYouxVibeVqU-hvRNY5KYGbX84Dqx-iYWvTw/viewform)
 
 0.  Set up your accounts and do a small contribution
 
