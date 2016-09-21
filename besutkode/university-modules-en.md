@@ -10,7 +10,7 @@ layout: main
 
     0.  Creating an account in [Project Euler](http://projecteuler.net/) and complete three problems to be given the [Baby Steps](https://projecteuler.net/award=1) award (log in required to see awards).
 
-        Your username must appear on the list at https://projecteuler.net/country=Indonesia  (log in required).
+        Your username must appear on the list on the semi-private [Indonesia](https://projecteuler.net/country=Indonesia) list (log in required).
 
     0.  Creating an account on [GitHub](https://GitHub.com), and set up a [GitHub Pages](https://pages.github.com/) website.
 
