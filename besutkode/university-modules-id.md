@@ -24,7 +24,7 @@ layout: main
         Koreksi satu baris saja sudah cukup.
         Kontribusi Github sebelum Besut Kode Universitas juga diterima.
 
-    0.  Buat akun di [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Halaman_Utama), lalu ciptakan halaman pengguna yang menyebutkan tentang 'Besut Kode', kemudian sunting satu artikel Wikipedia bahasa Indonesia.
+    0.  Buat akun di [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Halaman_Utama), lalu ciptakan halaman pengguna yang menyebutkan tentang 'Besut Kode Universitas', kemudian sunting satu artikel Wikipedia bahasa Indonesia.
 
         Suntingan satu baris sudah cukup.
 
