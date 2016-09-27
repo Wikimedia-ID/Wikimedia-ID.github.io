@@ -24,7 +24,7 @@ layout: main
         One line fixes are OK.
         Github contributions before Besut Kode are accepted.
 
-    0.  Create an account on [Indonesian Wikipedia](https://id.wikipedia.org/wiki/Halaman_Utama), create a user page that must mention 'Besut Kode', and make one edit to a bahasa Wikipedia content page.
+    0.  Create an account on [Indonesian Wikipedia](https://id.wikipedia.org/wiki/Halaman_Utama), create a user page that must mention 'Besut Kode Universitas', and make one edit to a bahasa Wikipedia content page.
 
         One line edits are OK.
 
