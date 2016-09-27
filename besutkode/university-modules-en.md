@@ -19,7 +19,7 @@ layout: main
 
         Your GitHub pages website must mention your Project Euler username.
 
-    0.  Submit a change to a Github project with more than 50 [stars](https://help.github.com/articles/about-stars/).
+    0.  Improve a GitHub project that has 50 or more [stars](https://help.github.com/articles/about-stars/).
 
         One line fixes are OK.
         Github contributions before Besut Kode are accepted.
@@ -39,9 +39,10 @@ layout: main
          * list of Project Euler problems solved
          * Wikimedia username
          * stackoverflow profile and user id (the number) [5037965](http://stackoverflow.com/users/5037965/john-vandenberg)
-         * URL and name of the 50-starred GitHub project containing a small change added.
+         * URL and name of the 50-starred GitHub project containing your contribution.
 
-        Your edit will become a Pull Request on the Besut Kode repository.
+        Submit your edit as a Pull Request on the
+        [BesutKode.github.io](https://github.com/BesutKode/BesutKode.github.io) repository.
 
         Within 24 hours, Wikimedia Indonesia staff will check the Pull Request,
         and then either accept or reject and close it.
