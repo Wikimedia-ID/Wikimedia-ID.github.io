@@ -19,7 +19,7 @@ layout: main
 
         Halaman GitHub Anda harus menyebutkan nama pengguna Project Euler Anda.
 
-    0.  Kontribusikan sesuatu kedalam Github project yang memiliki 50 [bintang](https://help.github.com/articles/about-stars/).
+    0.  Kontribusikan sesuatu kedalam Github project yang memiliki [50](https://github.com/search?o=desc&q=stars%3A%3E%3D50&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93) [bintang](https://help.github.com/articles/about-stars/).
 
         Koreksi satu baris saja sudah cukup.
         Kontribusi Github sebelum Besut Kode Universitas juga diterima.

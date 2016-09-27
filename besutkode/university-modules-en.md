@@ -19,7 +19,7 @@ layout: main
 
         Your GitHub pages website must mention your Project Euler username.
 
-    0.  Improve a GitHub project that has 50 or more [stars](https://help.github.com/articles/about-stars/).
+    0.  Improve a GitHub project that has [50](https://github.com/search?o=desc&q=stars%3A%3E%3D50&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93) or more [stars](https://help.github.com/articles/about-stars/).
 
         One line fixes are OK.
         Github contributions before Besut Kode are accepted.
