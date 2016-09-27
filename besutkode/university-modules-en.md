@@ -19,7 +19,7 @@ layout: main
 
         Your GitHub pages website must mention your Project Euler username.
 
-    0.  Submit a change to a Github project with more than 50 stars.
+    0.  Submit a change to a Github project with more than 50 [stars](https://help.github.com/articles/about-stars/).
 
         One line fixes are OK.
         Github contributions before Besut Kode are accepted.
