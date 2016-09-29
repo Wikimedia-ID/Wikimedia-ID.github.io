@@ -19,16 +19,16 @@ layout: main
 
         Halaman GitHub Anda harus menyebutkan nama pengguna Project Euler Anda.
 
-    0.  Kontribusikan sesuatu kedalam Github project yang memiliki [50](https://github.com/search?o=desc&q=stars%3A%3E%3D50&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93) [bintang](https://help.github.com/articles/about-stars/).
+    0.  Kontribusikan sesuatu ke dalam GitHub project yang memiliki [50](https://github.com/search?o=desc&q=stars%3A%3E%3D50&s=updated&type=Repositories&utf8=%E2%9C%93) atau lebih [bintang](https://help.github.com/articles/about-stars/) .
 
         Koreksi satu baris saja sudah cukup.
-        Kontribusi Github sebelum Besut Kode Universitas juga diterima.
+        Kontribusi GitHub sebelum Besut Kode Universitas juga diterima.
 
     0.  Buat akun di [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Halaman_Utama), lalu ciptakan halaman pengguna yang menyebutkan tentang 'Besut Kode Universitas', kemudian sunting satu artikel Wikipedia bahasa Indonesia.
 
         Suntingan satu baris sudah cukup.
 
-    0.  Buat akun di [Stackoverflow](http://stackoverflow.com/), dan raih [badge](http://stackoverflow.com/help/badges) apapun.
+    0.  Buat akun di [Stackoverflow](http://stackoverflow.com/), dan raih [badge](http://stackoverflow.com/help/badges) apa pun.
     
     0.  Sunting [peserta-universitas.md](https://github.com/BesutKode/BesutKode.github.io/blob/master/peserta-universitas.md) dan tambahkan nama Anda ke daftar peserta
 
@@ -41,14 +41,14 @@ layout: main
          * Profil stackoverflow dan user id (nomor unik) [5037965](http://stackoverflow.com/users/5037965/john-vandenberg)
          * URL dan nama dari proyek GitHub 50 bintang yang Anda kontribusikan.
 
-        Suntingan Anda akan menjadi Pull Request di repository Besut Kode.
+        Ajukan suntingan Anda sebagai Pull Request di repository [BesutKode.github.io](https://github.com/BesutKode/BesutKode.github.io).
 
         Setelah 24 jam, staf Wikimedia Indonesia akan memeriksa Pull Request,
         yang kemudian akan menerima atau menolaknya.
         Jika pull request Anda ditolak pertama kali, Anda boleh mencoba untuk ke dua kalinya.
         Jika pull request kedua Anda ditolak, Anda tidak diperbolehkan lagi mengikuti Besut Kode.
 
-    Ketika pull request di merged, para peserta akan mendapatkan e-mail yang berisikan contoh
+    Ketika pull request di-merge, para peserta akan mendapatkan e-mail yang berisikan contoh
     tugas Besut Kode, yang tidak akan digunakan dalam babak eliminasi.
     Peserta bisa menggunakan contoh tugas ini sebagai persiapan dalam babak eliminasi.
 
@@ -61,8 +61,8 @@ layout: main
     Setiap peserta yang berhasil ikut serta dalam program akan diberikan tugas pertama pada 20 Oktober pukul 00:01
     lewat e-mail.
 
-    Proses automatisasi akan memeriksa aktifitas Github setiap peserta.
-    Peserta harus memiliki aktifitas di Github selama 72 jam,
+    Proses automatisasi akan memeriksa aktivitas GitHub setiap peserta.
+    Peserta harus memiliki aktivitas di GitHub selama 72 jam,
     dimulai dari 20 Oktober pukul 00:01, di dalam repository pilihan yang
     daftarnya akan dirilis pada 20 Oktober pukul 00:01.
 
@@ -76,8 +76,8 @@ layout: main
     Pada akhir babak ini, semua peserta harus sudah menyelesaikan tugas berikut *selama* babak ini:
 
     - Berkontribusi di Wikipedia bahasa Indonesia.
-    - Berkolaborasi di proyek Github yang populer.
-    - Menyelesaikan soal Project Euler dengan tigkat kesulitan 50%.
+    - Berkolaborasi di proyek GitHub yang populer.
+    - Menyelesaikan soal Project Euler dengan tingkat kesulitan 50%.
     - Meningkatkan integrasi sebuah proyek di GitHub.
     - Menggunakan perangkat analisa kode statik untuk memecahkan masalah dengan kode.
 
@@ -87,7 +87,7 @@ layout: main
     Hanya 60 mahasiswa yang akan lolos babak eliminasi.
 
     Jika terdapat lebih dari 60 mahasiswa, mentor akan memilih
-    60 yang terbaik berdasarkan aktifitas mereka di GitHub dan Stackoverflow.
+    60 yang terbaik berdasarkan aktivitas mereka di GitHub dan Stackoverflow.
 
 0.  Challenge mentoring (Nov 21 to Dec 20)
 
@@ -95,10 +95,10 @@ layout: main
     dan semua peserta akan diundang untuk bergabung dalan grup WhatsApp dan IRC channel
     untuk berkolaborasi bersama.
 
-    Tema tantangan dan aktifitas akan sama persis bagi semua peserta,
+    Tema tantangan dan aktivitas akan sama persis bagi semua peserta,
     namun masing-masing peserta akan memliki solusi sendiri untuk tugas ini.
-    Setiap peserta boleh memilih bahasa pemrograman yang kita sediakan
-    utuk menyelesaikan tugas ini.
+    Setiap peserta boleh memilih bahasa pemrograman yang kami sediakan
+    untuk menyelesaikan tugas ini.
 
     Selama periode ini, kami akan mengadakan lokakarya di mana para peserta
     dan mentor dapat berkolaborasi dalam memecahkan tugas.
@@ -116,7 +116,7 @@ layout: main
 
 Para mentor akan mengevaluasi solusi yang dikirimkan dan memilih lima yang terbaik.
 
-Pemenag akan diumumkan pada 10 Februari 2017.
+Pemenang akan diumumkan pada 10 Februari 2017.
 
 Hadiah pertama dan kedua adalah laptop Asus dan perjalanan ke FOSSASIA 2017 di Singapore pada bulan Maret 2017.
 
