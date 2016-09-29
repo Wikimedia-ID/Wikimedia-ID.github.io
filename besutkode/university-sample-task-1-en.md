@@ -2,7 +2,9 @@
 layout: main
 ---
 
-# Task
+# Sample task 1
+
+## Task
 
 Contribute 20 new bahasa Indonesia translated messages to the file
 https://github.com/phpmyadmin/localized_docs/blob/master/po/id.po .
@@ -15,7 +17,7 @@ Note: these commits do not currently meet the Besut Kode criteria for the
 as the `localized_docs` project does not yet have 50 stars
 (only 10 stars as of 29 September).
 
-# Background
+## Background
 
 *Read The Docs* (RTD) is a commonly used service for hosting documentation.
 
