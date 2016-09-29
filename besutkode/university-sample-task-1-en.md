@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Task
 
 Contribute 20 new bahasa Indonesia translated messages to the file
