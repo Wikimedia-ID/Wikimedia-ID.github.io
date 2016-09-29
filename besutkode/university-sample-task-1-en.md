@@ -86,6 +86,7 @@ Even with a good reason, it is not recommended to do this when there are a lot o
 to the same file, such as a group task like Besut Kode, as merge conflicts may occur.
 
 Related StackOverflow tags:
+
 - [read-the-docs](http://stackoverflow.com/questions/tagged/read-the-docs)
 - [gettext](http://stackoverflow.com/questions/tagged/gettext)
 - [weblate](http://stackoverflow.com/questions/tagged/weblate)
