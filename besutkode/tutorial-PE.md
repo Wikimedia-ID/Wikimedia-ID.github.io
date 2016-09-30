@@ -15,6 +15,8 @@ Langkah-langkah mendaftar di Project Euler adalah:
 2. Klik 'register':
 
   ![Alt](/besutkode/img/tutspe/klikreg.png "klik pada tombol register")
+  
+  ** tombol register **
 
 3. Masukan data-data pengguna:
 
