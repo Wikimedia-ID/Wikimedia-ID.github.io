@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Tutorial Project Euler
 ---
 
 # Tutorial Project Euler
