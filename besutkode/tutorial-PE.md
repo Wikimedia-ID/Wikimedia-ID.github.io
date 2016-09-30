@@ -10,8 +10,11 @@ Project Euler adalah sebuah situs yang didedikasikan khusus sebagai tempat untuk
   Langkah-langkah mendaftar di Project Euler adalah:
   1. Kunjungi link berikut: [daftar Project Euler](https://projecteuler.net/register)
   2. Klik 'register':
+  
   ![Alt](/besutkode/img/tutspe/klikreg.png "klik pada tombol register")
+  
   3. Masukan data-data pengguna:
+  
   ![Alt](/besutkode/img/tutspe/regis.png "masukan data pengguna")
   
   Setelah akun selesai dibuat, ubah pengaturan Negara Anda menjadi Indonesia.
