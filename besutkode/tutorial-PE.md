@@ -28,11 +28,16 @@ Langkah-langkah untuk mengubah setelan negara adalah sebagai berikut:
 Setelah mengubah pengaturan negara, setiap kali Anda menyelesaikan soal, Anda akan secara automatis tercatat di halaman pengguna dari Indonesia.
 Untuk memastikan hal tersebut, Anda bisa mengikuti langkah-langkah berikut:
   
-  1. Setelah log in ke dalam Project Euler, klik pada tombol 'Statistic'
-  > ![Alt](/besutkode/img/tutspe/klikstat.png "klik tombol statistic")
-  2. Setelah masuk ke halaman statistic, klik 'Country'
-  > ![Alt](/besutkode/img/tutspe/klikstat.png "klik tombol country")
-  3. Pada halaman ini, Anda bisa melihat semua nama pengguna dari Indonesia yang telah berhasil memecahkan soal di Project Euler
-  > ![Alt](/besutkode/img/tutspe/indolist.png "daftar pengguna dari Indonesia")
+    1. Setelah log in ke dalam Project Euler, klik pada tombol 'Statistic'
+    
+    ![Alt](/besutkode/img/tutspe/klikstat.png "klik tombol statistic")
+    
+    2. Setelah masuk ke halaman statistic, klik 'Country'
+    
+    ![Alt](/besutkode/img/tutspe/klikstat.png "klik tombol country")
+    
+    3. Pada halaman ini, Anda bisa melihat semua nama pengguna dari Indonesia yang telah berhasil memecahkan soal di Project Euler
+    
+    ![Alt](/besutkode/img/tutspe/indolist.png "daftar pengguna dari Indonesia")
  
 Soal-soal pada Project Euler juga tersedia di bahasa Indonesia pada pranala berikut [ini](http://wikimedia-id.github.io/projecteuler/)
