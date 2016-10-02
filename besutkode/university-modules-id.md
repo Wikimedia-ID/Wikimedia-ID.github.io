@@ -25,7 +25,7 @@ title: Modul Besut Kode Universitas
         Koreksi satu baris saja sudah cukup.
         Kontribusi GitHub sebelum Besut Kode Universitas juga diterima.
 
-    0.  Buat akun di [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Halaman_Utama), lalu ciptakan halaman pengguna yang menyebutkan tentang 'Besut Kode Universitas', kemudian sunting satu artikel Wikipedia bahasa Indonesia.
+    0.  Buat akun di [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Halaman_Utama), lalu ciptakan [halaman pengguna](https://id.wikipedia.org/wiki/Wikipedia:Halaman_pengguna) yang menyebutkan tentang 'Besut Kode Universitas', kemudian sunting satu [artikel](https://id.wikipedia.org/wiki/Wikipedia:Apa_yang_dinamakan_artikel) Wikipedia bahasa Indonesia.
 
         Suntingan satu baris sudah cukup.
 
