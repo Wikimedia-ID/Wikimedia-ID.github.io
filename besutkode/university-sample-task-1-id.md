@@ -1,3 +1,7 @@
+---
+layout: main
+---
+
 # Contoh tugas 1
 
 ## Tugas
