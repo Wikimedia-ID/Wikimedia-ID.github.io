@@ -5,27 +5,27 @@ title: Modul Besut Kode Universitas
 
 # Modul Besut Kode Universitas
 
-0.  Pendaftaran dengan Google Form pada link berikut: [Daftar Besut Kode Universitas](https://docs.google.com/forms/d/e/1FAIpQLScQUn88sB26uuiYouxVibeVqU-hvRNY5KYGbX84Dqx-iYWvTw/viewform)
+0.  [Daftar Besut Kode Universitas](https://docs.google.com/forms/d/e/1FAIpQLScQUn88sB26uuiYouxVibeVqU-hvRNY5KYGbX84Dqx-iYWvTw/viewform)
 
-0.  Daftar dan buat beberapa akun kemudian selesaikan beberapa kontribusi kecil:
+0.  Buatlah akun pada ke-4 situs dibawah ini dan mulailah berkontribusi:
 
-    0.  Buat akun di [Project Euler](http://projecteuler.net/) dan selesaikan tiga soal untuk memperoleh penghargaan [Baby Steps](https://projecteuler.net/award=1) (harap login ke dalam Project Euler untuk mengakses link ini).
+    0.  Buat akun di [Project Euler](http://projecteuler.net/) dan selesaikan tiga soal untuk memperoleh penghargaan [Baby Steps](https://projecteuler.net/award=1) (harap login ke dalam Project Euler untuk mengakses pranala ini).
 
         Nama pengguna Anda harus muncul pada halaman pengguna dari [Indonesia](https://projecteuler.net/country=Indonesia).
 
-    0.  Buat akun di [GitHub](https://GitHub.com), dan bangun website dengan [GitHub Pages](https://pages.github.com/).
+    0.  Apabila Anda tidak memiliki akun Github, buat akun [GitHub](https://GitHub.com) Anda, login dan mulailah menyunting situs web Anda menggunakan [GitHub Pages](https://pages.github.com/).
 
-        Anda diperbolehkan menggunakan [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/#the-automatic-page-generator)
-        untuk mulai membangun website Anda, namun Anda harus menyuntingnya kemudian.
+        Anda boleh menggunakan [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/#the-automatic-page-generator)
+        pada awal penciptaan situs web Anda, namun Anda harus menyunting halamannya kemudian karena pengetahuan ini diperlukan pada tahap berikutnya.
 
         Halaman GitHub Anda harus menyebutkan nama pengguna Project Euler Anda.
 
-    0.  Kontribusikan sesuatu ke dalam GitHub project yang memiliki [50](https://github.com/search?o=desc&q=stars%3A%3E%3D50&s=updated&type=Repositories&utf8=%E2%9C%93) atau lebih [bintang](https://help.github.com/articles/about-stars/) .
+    0.  Pilih GitHub project yang memiliki [50](https://github.com/search?o=desc&q=stars%3A%3E%3D50&s=updated&type=Repositories&utf8=%E2%9C%93) atau lebih [bintang](https://help.github.com/articles/about-stars/) dan mulai perbaiki kodenya.
 
         Koreksi satu baris saja sudah cukup.
         Kontribusi GitHub sebelum Besut Kode Universitas juga diterima.
 
-    0.  Buat akun di [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Halaman_Utama), lalu ciptakan [halaman pengguna](https://id.wikipedia.org/wiki/Wikipedia:Halaman_pengguna) yang menyebutkan tentang 'Besut Kode Universitas', kemudian sunting satu [artikel](https://id.wikipedia.org/wiki/Wikipedia:Apa_yang_dinamakan_artikel) Wikipedia bahasa Indonesia.
+    0.  Buat akun dan halaman pengguna Anda di [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Halaman_Utama) yang menyebutkan tentang 'Besut Kode Universitas', kemudian sunting satu artikel Wikipedia bahasa Indonesia.
 
         Suntingan satu baris sudah cukup.
 
@@ -40,7 +40,7 @@ title: Modul Besut Kode Universitas
          * Daftar soal Project Euler yang berhasil diselesaikan
          * Nama pengguna Wikipedia
          * Profil stackoverflow dan user id (nomor unik) [5037965](http://stackoverflow.com/users/5037965/john-vandenberg)
-         * URL dan nama dari proyek GitHub 50 bintang yang Anda kontribusikan.
+         * URL dan nama proyek GitHub (dengan 50 bintang) pilihan Anda.
 
         Ajukan suntingan Anda sebagai Pull Request di repository [BesutKode.github.io](https://github.com/BesutKode/BesutKode.github.io).
 
