@@ -1,5 +1,6 @@
 ---
 layout: main
+title: Besut Kode University modules
 ---
 
 # Besut Kode University modules
@@ -53,7 +54,7 @@ layout: main
     Besut Kode task, which will not be used in the elimination round.
     Participants may use this example task to prepare for the elimination round.
 
-0.  Elimination round (Ock 20 - Nov 20)
+0.  Elimination round (Oct 20 - Nov 20)
 
     The elimination round consists of five tasks, performed consecutively, including tasks that will
     prepare the participant for working effectively on an open source project, as is required for GSOC projects:
@@ -64,8 +65,8 @@ layout: main
 
     An automated process will check for regular Github activity of each participant.
     Participants must have activity on Github for each 72 hour block of time from
-    starting from 20 Ock 00:01, to a respository in the list of acceptable repositories
-    which will be published on 20 Ock 00:01.
+    starting from 20 Oct 00:01, to a respository in
+    [the list of acceptable repositories](http://wikimedia-id.github.io/besutkode/university-activity-repositories-en.html).
 
     In addition to the five tasks, each participant must have three badges on their
     Stackoverflow account at the end of this round.
