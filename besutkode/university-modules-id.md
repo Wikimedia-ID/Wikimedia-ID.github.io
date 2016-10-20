@@ -65,7 +65,7 @@ title: Modul Besut Kode Universitas
     Proses automatisasi akan memeriksa aktivitas GitHub setiap peserta.
     Peserta harus memiliki aktivitas di GitHub selama 72 jam,
     dimulai dari 20 Oktober pukul 00:01, di
-    [dalam repository pilihan yang daftarnya](http://wikimedia-id.github.io/besutkode/university-activity-repositories-en.html).
+    [dalam repository pilihan yang terdaftar](http://wikimedia-id.github.io/besutkode/university-activity-repositories-id.html).
 
     Selain lima tugas tersebut, masing-masing peserta harus memperoleh 3 badges
     di akun Stackoverflow pada akhir babak ini.
