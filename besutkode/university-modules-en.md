@@ -52,7 +52,8 @@ title: Besut Kode University modules
 
     When the pull request is merged, the participant will be sent an email containing an example
     Besut Kode task, which will not be used in the elimination round.
-    Participants may use this example task to prepare for the elimination round.
+    Participants may use [this example task](https://wikimedia-id.github.io/besutkode/university-sample-task-1-en.html)
+    to prepare for the elimination round.
 
 0.  Elimination round (Oct 20 - Nov 20)
 
