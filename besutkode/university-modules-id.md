@@ -51,7 +51,8 @@ title: Modul Besut Kode Universitas
 
     Ketika pull request di-merge, para peserta akan mendapatkan e-mail yang berisikan contoh
     tugas Besut Kode, yang tidak akan digunakan dalam babak eliminasi.
-    Peserta bisa menggunakan contoh tugas ini sebagai persiapan dalam babak eliminasi.
+    Peserta bisa menggunakan [contoh tugas](https://wikimedia-id.github.io/besutkode/university-sample-task-1-id.html)
+    ini sebagai persiapan dalam babak eliminasi.
 
 0.  Babak Eliminasi (20 Okt - 20 Nov)
 
