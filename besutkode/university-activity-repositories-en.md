@@ -25,7 +25,7 @@ The list of acceptable repositories is:
    [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo),
    excluding repositories that are only lists.
    You may submit a request to add an eligible repository to that awesome list.
-   See [CONTRIBUTING](https://github.com/GitIndonesia/awesome-indonesia-repo/blob/master/CONTRIBUTING.md).  If it is not accepted, the repository is not eligible.  Join
+   See [CONTRIBUTING](https://github.com/GitIndonesia/awesome-indonesia-repo/blob/master/CONTRIBUTING.md).  However, the request does not count as a contribution activity. If it is not accepted, the repository is not eligible.  Join
    [gitter.im/GitIndonesia/awesome-indonesia-repo](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
    or [Facebook group GitHubID](https://www.facebook.com/groups/GitHubID/) to
    discuss adding new entries.
