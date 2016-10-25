@@ -26,3 +26,5 @@ Daftar repositori yang dapat diterima adalah:
    Lihat [CONTRIBUTING](https://github.com/GitIndonesia/awesome-indonesia-repo/blob/master/CONTRIBUTING.md). Namun, permintaan tersebut tidak dihitung sebagai aktivitas kontribusi.  Jika permintaan tersebut tidak diterima, maka repositori tersebut tidak memenuhi syarat.  Bergabunglah ke
    [gitter.im/GitIndonesia/awesome-indonesia-repo](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
    atau [grup Facebook GitHubID](https://www.facebook.com/groups/GitHubID/) untuk membahas penambahan entri baru.
+
+-  28 Oktober: Sebuah ***blog post*** pada GitHub Pages Anda sendiri.
