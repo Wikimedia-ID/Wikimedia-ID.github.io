@@ -1,9 +1,9 @@
 ---
 layout: main
-title: Besut Kode Universitas GitHub activity repositories
+title: Repositori aktivitas GitHub Besut Kode Universitas
 ---
 
-# GitHub activity repositories
+# Repositori aktivitas GitHub
 
 Selama Besut Kode Universitas, peserta harus selalu aktif di repositori
 GitHub yang terdaftar pada halaman ini selama babak eliminasi.
@@ -23,6 +23,6 @@ Daftar repositori yang dapat diterima adalah:
 -  25 Oktober: Repositori GitHub yang terdaftar di
    [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo), kecuali repo-repo yang hanya berupa daftar.
    Anda diperbolehkan mengirim permintaan untuk menambahkan repositori yang memenuhi syarat ke daftar *awesome* tersebut.
-   Lihat [CONTRIBUTING](https://github.com/GitIndonesia/awesome-indonesia-repo/blob/master/CONTRIBUTING.md).  Jika permintaan tersebut tidak diterima, maka repositori tersebut tidak memenuhi syarat.  Bergabunglah ke
+   Lihat [CONTRIBUTING](https://github.com/GitIndonesia/awesome-indonesia-repo/blob/master/CONTRIBUTING.md). Namun, permintaan tersebut tidak dihitung sebagai aktivitas kontribusi.  Jika permintaan tersebut tidak diterima, maka repositori tersebut tidak memenuhi syarat.  Bergabunglah ke
    [gitter.im/GitIndonesia/awesome-indonesia-repo](https://gitter.im/GitIndonesia/awesome-indonesia-repo)
    atau [grup Facebook GitHubID](https://www.facebook.com/groups/GitHubID/) untuk membahas penambahan entri baru.
