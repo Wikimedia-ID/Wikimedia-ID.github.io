@@ -30,4 +30,4 @@ The list of acceptable repositories is:
    or [Facebook group GitHubID](https://www.facebook.com/groups/GitHubID/) to
    discuss adding new entries.
 
--  28 October: A *blog post* on your own GitHub Pages.
+-  28 October: A **blog post** on your own GitHub Pages.
