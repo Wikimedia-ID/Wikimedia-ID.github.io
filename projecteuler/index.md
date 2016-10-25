@@ -579,7 +579,7 @@ Answer: 142dfe4a33d624d2b830a9257e96726d
 
 <p>Kita dapat menyebut bilangan dengan <var>n</var> digit sebagai bilangan <i>pandigital</i> jika kita menggunakan semua digit dari 1 sampai <var>n</var> satu kali; sebagai contoh, bilangan 5 digit, 15234, adalah bilangan <i>pandigital</i> 1 sampai 5</p>
 
-<p>7254 dapat ditulis sebagai hasil perkalian bilangan 39 &times; 186 = 7254, dan jika identitas ini dilihat dengan seksama, kita dapat menemukan semua angka dari 1 sampai 9.  Identitas seperti ini dapat juga disebut <i>pandigital</i>.</p>
+<p>7254 dapat ditulis sebagai hasil perkalian bilangan 39 &times; 186 = 7254, dan jika identitas ini dilihat dengan saksama, kita dapat menemukan semua angka dari 1 sampai 9.  Identitas seperti ini dapat juga disebut <i>pandigital</i>.</p>
 
 <p>Carilah jumlah dari semua bilangan, yang jika ditulis sebagai hasil kali, identitasnya dapat  ditulis sebagai <i>pandigital</i> 1 sampai 9.</p>
 
@@ -1838,7 +1838,7 @@ Answer: 61b28c4fbe8560003ee50fa5619d7a1e
 </ol>
 </li>
 </ul>
-<p>Masalah utama dari soal ini berkaitan dengan kemungkinan untuk mengunjungi petak tertentu setelah melakukan putaran dadu. Perlu dijelaskan, bahwa dengan mengabaikan petak G2J, karena petak ini tidak mungkin menjadi petak yang ditempati setelah pemain memutar dadu, sehingga petak G2J akan mempunyai probabilitas nol untuk disinggahi setelah dadu diputar. Petak CH akan memiliki peluang paling kecil untuk ditempati, karena 10 dari 16 kartu pada chance/kesempatan akan membuat pemain pindah ke petak lain, dan kita hanya akan menghitung posisi paling akhir dari setiap putaran dadu pemain. Kita tidak akan membuat perbedaan antara &quot;hanya sekedar lewat&quot; dengan masuk ke PENJARA, dan kita juga akan mengabaikan aturan yang mengharuskan pemain memiliki dadu kembar untuk  &quot;keluar dari penjara&quot;, dengan asumsi semua pemain pasti membayar untuk keluar dari penjara.</p>
+<p>Masalah utama dari soal ini berkaitan dengan kemungkinan untuk mengunjungi petak tertentu setelah melakukan putaran dadu. Perlu dijelaskan, bahwa dengan mengabaikan petak G2J, karena petak ini tidak mungkin menjadi petak yang ditempati setelah pemain memutar dadu, sehingga petak G2J akan mempunyai probabilitas nol untuk disinggahi setelah dadu diputar. Petak CH akan memiliki peluang paling kecil untuk ditempati, karena 10 dari 16 kartu pada chance/kesempatan akan membuat pemain pindah ke petak lain, dan kita hanya akan menghitung posisi paling akhir dari setiap putaran dadu pemain. Kita tidak akan membuat perbedaan antara &quot;hanya sekadar lewat&quot; dengan masuk ke PENJARA, dan kita juga akan mengabaikan aturan yang mengharuskan pemain memiliki dadu kembar untuk  &quot;keluar dari penjara&quot;, dengan asumsi semua pemain pasti membayar untuk keluar dari penjara.</p>
 <p>Dengan memulai dari petak GO, lalu memberi nomor untuk setiap petak secara berurutan dari 00 ke 39, kita dapat merangkaikan bilangan dua digit tersebut, untuk membentuk untai yang akan melambangkan petak-petak yang telah dikunjungi.</p>
 <p>Secara statistik, dapat ditunjukan tiga petak yang paling populer dikunjungi. Secara berurutan petak tersebut adalah, PENJARA (6.24%) = petak ke-10, E3 (3.18%) = petak ke-24, dan petak GO (3.09%) = petak ke-00. Sehingga ketiga petak yang paling sering dikunjungi tersebut dapat ditulis dengan bilangan enam digit: 102400.</p>
 <p>Jika kita tidak menggunakan dadu bermuka enam, dan kedua dadu diganti menjadi dadu bermuka empat, carilah bilangan enam digit yang melambangkan kotak yang paling sering dikunjungi seperti di atas.</p>
@@ -2910,7 +2910,7 @@ Answer: 0dd05ec40fe11279c2203b72e92a450a
 
 # Soal 121
 
-Terdapat sebuah kantong berisi satu disk merah dan satu disk biru. Dalam suatu permainan, seorang pemain akan mengambil sebuah disk secara acak, dan warna disk yang diambil tersebut akan dicatat. Setelah satu putaran, disk akan dikembalikan ke kantong, kemudian ditambahkan satu buah disk merah, dan kembali diambil satu disk secara acak.
+Terdapat sebuah kantung berisi satu disk merah dan satu disk biru. Dalam suatu permainan, seorang pemain akan mengambil sebuah disk secara acak, dan warna disk yang diambil tersebut akan dicatat. Setelah satu putaran, disk akan dikembalikan ke kantung, kemudian ditambahkan satu buah disk merah, dan kembali diambil satu disk secara acak.
 
 Pemain diharuskan membayar £1 untuk bermain, dan ia akan menang apabila ia dapat mengambil disk biru lebih banyak dibanding disk merah saat akhir permainan.
 
@@ -6353,9 +6353,9 @@ Answer: 5a0d6315bc18279c46a1fb8cbd2f16b5
 
 <p>Sebagai contoh <var>X</var>(1,2,3) = 0 karena, tidak peduli apapun yang dilakukan oleh pemain pertama, lawannya selalu akan dapat melakukan gerakan yang akan meninggalkan dua buah tumpukan dengan jumlah batu yang sama, yang dimana setiap gerakan pemain pertama akan selalu dapat diikuti oleh lawannya sampai tidak ada batu tersisa; sehingga pemain pertama akan kalah. Untuk mengambarkan:<br />
 - Pemain pertama melakukan gerakan sehingga tumpukan menjadi (1,2,1)<br />
-- Pemain kedua merubah tumpukan menjadi (1,0,1)<br />
-- Pemain pertama merubah tumpukan menjadi (0,0,1)<br />
-- Pemain kedua merubah tumpukan menjadi (0,0,0), dan kemudian ia menang.</p>
+- Pemain kedua mengubah tumpukan menjadi (1,0,1)<br />
+- Pemain pertama mengubah tumpukan menjadi (0,0,1)<br />
+- Pemain kedua mengubah tumpukan menjadi (0,0,0), dan kemudian ia menang.</p>
 
 <p>Untuk berapa banyak bilangan bulat <var>n</var>&thinsp;&le;&thinsp;2<sup>30</sup> yang menyebabkan <var>X</var>(<var>n</var>,2<var>n</var>,3<var>n</var>) = 0 ?
 </p>
@@ -7642,15 +7642,15 @@ Terdapat stasiun di bulan pada suatu titik di permukaan C(<var>r</var>) yang mem
 </p>
 
 <p>
-Semua stasiun dihubungkan satu sama lain melalui jalan terpendek pada permukaan bulan melalui stasiun-stasiun lain. Sebuah perjalanan antara dua stasiun adalah beresiko. Jika <var>d</var> adalah panjang jalan antara dua stasiun, (<var>d</var>/(&pi; <var>r</var>))<sup>2</sup> adalah tingkat resiko dari perjalanan (mari kita sebut ini sebagai resiko perjalanan). Jika perjalanan melibatkan lebih dari dua stasiun, resiko perjalanan didapat dari hasil penjumlahan resiko pada jalan-jalan yang digunakan.
+Semua stasiun dihubungkan satu sama lain melalui jalan terpendek pada permukaan bulan melalui stasiun-stasiun lain. Sebuah perjalanan antara dua stasiun adalah berisiko. Jika <var>d</var> adalah panjang jalan antara dua stasiun, (<var>d</var>/(&pi; <var>r</var>))<sup>2</sup> adalah tingkat risiko dari perjalanan (mari kita sebut ini sebagai risiko perjalanan). Jika perjalanan melibatkan lebih dari dua stasiun, risiko perjalanan didapat dari hasil penjumlahan risiko pada jalan-jalan yang digunakan.
 </p>
 
 <p>
-Perjalanan langsung dari stasiun Kutub Utara ke stasiun Kutub Selatan memiliki jarak &pi;<var>r</var> dan resiko 1. Perjalanan dari stasiun Kutub Utara ke stasiun Kutub Selatan melalui (0,<var>r</var>,0) memiliki panjang yang sama, namun resiko yang elbih kecil: (&frac12;&pi;<var>r</var>/(&pi;<var>r</var>))<sup>2</sup>+(&frac12;&pi;<var>r</var>/(&pi;<var>r</var>))<sup>2</sup>=0.5.
+Perjalanan langsung dari stasiun Kutub Utara ke stasiun Kutub Selatan memiliki jarak &pi;<var>r</var> dan risiko 1. Perjalanan dari stasiun Kutub Utara ke stasiun Kutub Selatan melalui (0,<var>r</var>,0) memiliki panjang yang sama, namun risiko yang elbih kecil: (&frac12;&pi;<var>r</var>/(&pi;<var>r</var>))<sup>2</sup>+(&frac12;&pi;<var>r</var>/(&pi;<var>r</var>))<sup>2</sup>=0.5.
 </p>
 
 <p>
-Resiko terkecil perjalanan dari stasiun Kutub Utara ke stasiun Kutub Selatan pada C(<var>r</var>) adalah M(<var>r</var>).
+Risiko terkecil perjalanan dari stasiun Kutub Utara ke stasiun Kutub Selatan pada C(<var>r</var>) adalah M(<var>r</var>).
 </p>
 
 <p>
@@ -7780,7 +7780,7 @@ Orang ke-1 mendapatkan kamar 1 di lantai 1 karena lantai 1 masih kosong.
 </p>
 
 <p>
-Dan pada akhirnya, setiap orang di antrian akan mendapatkan sebuah kamar di hotel.
+Dan pada akhirnya, setiap orang di antrean akan mendapatkan sebuah kamar di hotel.
 </p>
 
 <p>
@@ -7931,7 +7931,7 @@ Answer: d631977573d415a4766de9e6bd388cca
 # Soal 365
 
 <P>
-Koefisien binomial C(10<sup>18</sup>,10<sup>9</sup>) adalah sebuah bilangan dengan lebih dari 9 milyar (9&times;10<sup>9</sup>) digit.
+Koefisien binomial C(10<sup>18</sup>,10<sup>9</sup>) adalah sebuah bilangan dengan lebih dari 9 miliar (9&times;10<sup>9</sup>) digit.
 </P>
 <P>
 Misal M(n,k,m) menyatakan koefisien binomial C(n,k) modulo m.
