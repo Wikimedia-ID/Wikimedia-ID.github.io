@@ -28,3 +28,5 @@ Daftar repositori yang dapat diterima adalah:
    atau [grup Facebook GitHubID](https://www.facebook.com/groups/GitHubID/) untuk membahas penambahan entri baru.
 
 -  28 Oktober: Sebuah ***blog post*** pada GitHub Pages Anda sendiri.
+
+-  31 October: Repositori apa pun yang tidak memiliki lisensi. Buatlah sebuah *issue* di repo tersebut yang menjelaskan mengapa repo itu harus memiliki lisensi, dan lisensi apa yang sebaiknya diadopsi. Lihat [contoh berikut](https://github.com/endymuhardin/buku-git/issues/5).

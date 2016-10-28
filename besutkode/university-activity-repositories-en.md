@@ -31,3 +31,5 @@ The list of acceptable repositories is:
    discuss adding new entries.
 
 -  28 October: A **blog post** on your own GitHub Pages.
+
+-  31 October: Any repository without a license. Create an issue on the repo explaining why it should have a license and what license it should adopt. See [this example](https://github.com/endymuhardin/buku-git/issues/5).
