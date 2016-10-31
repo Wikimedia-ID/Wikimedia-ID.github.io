@@ -33,3 +33,6 @@ The list of acceptable repositories is:
 -  28 October: A **blog post** on your own GitHub Pages.
 
 -  31 October: Any repository without a license. Create an issue on the repo explaining why it should have a license and what license it should adopt. See [this example](https://github.com/endymuhardin/buku-git/issues/5).
+
+-  3 November: Any [**open data**](https://en.wikipedia.org/wiki/Open_data) repository with a license. See 
+[Awesome Public Datasets](http://awesomelists.top/#/repos/caesar0301/awesome-public-datasets) for some examples. You may add a license to an open data repo if it doesn't have one, but it **does not** count as a contribution activity, and it **must** be merged before the deadline.

@@ -30,3 +30,6 @@ Daftar repositori yang dapat diterima adalah:
 -  28 Oktober: Sebuah ***blog post*** pada GitHub Pages Anda sendiri.
 
 -  31 October: Repositori apa pun yang tidak memiliki lisensi. Buatlah sebuah *issue* di repo tersebut yang menjelaskan mengapa repo itu harus memiliki lisensi, dan lisensi apa yang sebaiknya diadopsi. Lihat [contoh berikut](https://github.com/endymuhardin/buku-git/issues/5).
+
+-  3 November: Repositori [**data terbuka**](https://id.wikipedia.org/wiki/Data_terbuka) yang memiliki lisensi. Lihat 
+[Awesome Public Datasets](http://awesomelists.top/#/repos/caesar0301/awesome-public-datasets) untuk beberapa contoh. Anda boleh menambahkan lisensi ke sebuah repo data terbuka jika repo tersebut belum memiliki lisensi, namun penambahan lisensi tersebut **tidak** dihitung sebagai aktivitas kontribusi, dan **harus** di-*merge* sebelum tenggat waktu.
