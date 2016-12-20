@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: posts
 title: Blog Pertama
 ---
 
