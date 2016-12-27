@@ -15,4 +15,4 @@ setiap tahun dan diikuti oleh 17 organisasi perangkat lunak terbuka yang akan di
 
 Mentor Besut Kode, John Vandenberg, yang didatangkan langsung dari Australia untuk melatih peserta dari Indonesia berkenalan dan berkomunitas untuk perangkat lunak terbuka telah menjadi mentor sukarelawan Google Code-in untuk organisasi Wikimedia Foundation sejak 2014.
 
-![alt text](http://wikimedia-id.github.io/besutkode/img/John%20Besut%20Kode%20Mentor.jpg "John Vandenberg mentor Besut Kode SMA"){: .img-responsive .center-block } 
+![John Vandenberg Mentor Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/John%20Besut%20Kode%20Mentor.jpg "John Vandenberg mentor Besut Kode SMA"){: .img-responsive .center-block } 
