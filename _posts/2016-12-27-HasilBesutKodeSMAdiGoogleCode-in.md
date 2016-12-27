@@ -17,4 +17,4 @@ Mentor Besut Kode, John Vandenberg, didatangkan langsung dari Australia untuk me
 
 ![John Vandenberg Mentor Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/John%20Besut%20Kode%20Mentor.jpg "John Vandenberg mentor Besut Kode SMA"){: .img-responsive .center-block } 
 
-John telah menjadi mentor sukarelawan Google Code-in untuk organisasi Wikimedia Foundation sejak 2014, dan memiliki tujuan bahwa penggiat perangkat lunak terbuka tidak hanya bisa "menggunakan" namun juga "membesut" (memperbaiki) perangkat yang mereka pikir berguna untuk digunakan. 
+John telah menjadi mentor sukarelawan Google Code-in untuk organisasi Wikimedia Foundation sejak 2014, dan berkeinginan bahwa pengguna perangkat lunak terbuka tidak hanya bisa "menggunakan" namun juga "membesut" (memperbaiki) perangkat mereka sering gunakan. 
