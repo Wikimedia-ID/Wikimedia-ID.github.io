@@ -457,11 +457,9 @@ title: index
 	{% for post in site.posts limit:10 %}
             <div class="vote-item">
                 <div class="row">
-                    <div class="col-md-8">
+                    <div class="col-md-6">
                         <a href="{{ post.url }}" class="vote-title"> {{ post.title }} </a>
-                        <div class="vote-info">
-                            <i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }}
-                        </div>
+			</br>
                     </div>
                 </div>
             </div>
