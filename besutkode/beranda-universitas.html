@@ -455,8 +455,8 @@ title: index
             <div class="vote-item">
                 <div class="row">
                     <div class="col-md-12">
-                        <a href="{{ post.url }}" class="vote-title"> <h3>{{ post.title }}</h3> </a>
-			<i class="fa fa-clock-o"></i> <p> {{ post.date | date: "%-d %b %Y" }} </p>
+                        <a href="{{ post.url }}" class="vote-title"> <h3> {{ post.title }} </h3> </a>
+			<i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }} 
 			</br>
 			</br>
                     </div>
