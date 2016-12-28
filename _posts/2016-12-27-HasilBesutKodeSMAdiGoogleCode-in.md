@@ -1,6 +1,8 @@
 ---
 layout: posts
 title: Hasil Besut Kode SMA di Google Code-in
+categories:
+- SMA
 ---
 
 # Hasil Besut Kode SMA di Google Code-in
