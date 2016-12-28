@@ -70,6 +70,9 @@
                         <a class="page-scroll" href="#team">Alur Waktu</a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="#blog">Blog</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="#faq">Pertanyaan Umum</a>
                     </li>
                     <li>
@@ -423,6 +426,33 @@
                 
             </div>
     </section>
+
+<!-- blog -->
+<section id="blog">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Blog Besut Kode</h2>
+		    <h3 class="section-subheading text-muted">Blog Terbaru</h3>
+            </div>
+
+        <!-- latest 10 blog -->
+	{% for post in site.categories['SMA'] %}
+            <div class="vote-item">
+                <div class="row">
+                    <div class="col-md-12">
+                        <a href="{{ post.url }}" class="vote-title"> <h3> {{ post.title }} </h3> </a>
+			<i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }} 
+			</br>
+			</br>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+
+        </div>
+    </div>
+</section>
 
     <!-- FAQ -->
     <section id="faq">
