@@ -1,7 +1,8 @@
 ---
 layout: posts
 title: Blog Pertama
-categories: Universitas
+categories:
+- Universitas
 ---
 
 # Blog Pertama
