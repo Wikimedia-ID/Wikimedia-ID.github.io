@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Besut Kode SMA di Google Code-in
+title: Besut Kode SMA: Apa, Kapan, Bagaimana, Mengapa?
 categories:
 - SMA
 tag:
