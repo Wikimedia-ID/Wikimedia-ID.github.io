@@ -69,11 +69,26 @@
 
     <!-- Services Section -->
     <section id="top">
+        {% assign author = site.data.authors[page.author] %}
         <div class="container">
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
                 {{ content }}
+                </div>
+                <div class="col-md-1"></div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-5">
+                Oleh: {{ author.name }}
+                </div>
+                <div class="col-md-5">
+                    <h5 style="display: inline;">Tags:</h5>
+                                {% for tag in page.tags %}
+                                    <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
+                                {% endfor %}
                 </div>
                 <div class="col-md-1"></div>
             </div>
