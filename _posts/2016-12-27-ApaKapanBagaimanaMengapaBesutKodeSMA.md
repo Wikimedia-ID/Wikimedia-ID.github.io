@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Besut Kode SMA: Apa, Kapan, Bagaimana, Mengapa?
+title: Besut Kode SMA Apa, Kapan, Bagaimana, Mengapa?
 categories:
 - SMA
 tag:
