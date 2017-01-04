@@ -26,7 +26,7 @@ Mentor Besut Kode, John Vandenberg, didatangkan langsung dari Australia untuk me
 ## **Mengapa Besut Kode SMA?**
 John telah menjadi mentor sukarelawan Google Code-in untuk organisasi Wikimedia Foundation sejak 2014. Keinginan John dengan upaya Besut Kode ini ada dua: pegguna perangkat lunak terbuka di Indonesia tidak hanya bisa "menggunakan" namun juga "membesut" (memperbaiki) perangkat mereka sering gunakan. Jadi peserta Besut Kode SMA adalah anak-anak Indonesia yang ingin memiliki keahlian untuk memperbaik perangkat lunak terbuka. Besut Kode adalah ajang pembelajaran yang tepat untuk anak-anak yang bersedia mempelajari hal-hal baru terkait dengan pemrograman komputer dan berjejaring. Untuk hal ini seluruh aktivitas Besut Kode dilakukan pada GitHub. 
 
-![Peserta Besut Kode SMA Gelombang I]( Wikimedia-ID.github.io/besutkode/img/blog/Besut Kode SMA Gelombang I.jpg "Peserta Besut Kode SMA Gel I berkumpul"){: .img-responsive .center-block } 
+![Peserta Besut Kode SMA Gelombang I]( http://wikimedia-id.github.io/besutkode/img/blog/Besut%20Kode%20SMA%20Gelombang%20I.jpg "Peserta Besut Kode SMA Gel I berkumpul"){: .img-responsive .center-block } 
 
 ## **Kapan sih Besut Kode SMA?**
 Pendaftaran Besut Kode dibuka menjadi tiga gelombang, yang dibuka pada bulan 27 Juni, 21 Juli, dan 21 Agustus serta ditutup pada tanggal 20 September. Walaupun pemenang Besut Kode diumumkan bergelombang, sebagai peserta terbaik, namun karena hadiah utama besut kode adalah pelatihan intensif untuk mengikuti Google Code-in maka keberhasilan akhir dari keikutsertaan Besut Kode adalah keberhasilan peserta yang berhasil menyelesaikan kompetisi pemrograman internasional Google Code-in 2016, dan pengumumannya akan dilakukan oleh Google Code-in pada pertengahan Januari 2017. 
