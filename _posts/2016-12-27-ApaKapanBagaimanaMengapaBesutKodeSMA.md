@@ -9,8 +9,6 @@ tag:
 - Open source Indonesia
 ---
 
-# Besut Kode SMA: Apa, Kapan, Bagaimana, Mengapa?
-
 Tepat enam bulan yang lalu, pada tanggal 27 Juni 2016 Wikimedia Indonesia meluncurkan "Besut Kode", sebuah program kompetisi online pengembangan 
 perangkat lunak bersumber terbuka untuk pelajar SMA, SMK, dan MAN yang berumur 13-17 tahun. 
 
