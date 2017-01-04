@@ -74,6 +74,12 @@
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
+                <h1>{{ page.title }}</h1>
+                    </br>
+                Oleh: {{ author.name }}
+                    </br>
+                    </br>
+                    </br>
                 {{ content }}
                 </div>
                 <div class="col-md-1"></div>
@@ -81,10 +87,7 @@
             <hr>
             <div class="row">
                 <div class="col-md-1"></div>
-                <div class="col-md-5">
-                Oleh: {{ author.name }}
-                </div>
-                <div class="col-md-5">
+                <div class="col-md-10">
                     <h5 style="display: inline;">Tags:</h5>
                                 {% for tag in page.tags %}
                                     <button class="btn btn-white btn-xs" type="button">{{ tag }}</button>
