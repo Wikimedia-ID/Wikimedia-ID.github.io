@@ -6,7 +6,7 @@ categories:
 tag:
 - Besut Kode SMA
 - Kompetisi pemrograman perangkat lunak terbuka
-- Open source 
+- Open source Indonesia
 ---
 
 # Besut Kode SMA: Apa, Kapan, Bagaimana, Mengapa?
