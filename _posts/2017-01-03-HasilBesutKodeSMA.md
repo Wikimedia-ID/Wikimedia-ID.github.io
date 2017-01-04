@@ -17,19 +17,13 @@ kompetisi pemrograman internasional [Google Code-in](https://developers.google.c
 
 Sebelum kita membahas pencapaian peserta Besut Kode SMA dari Indonesia di Google Code-in mari kita lihat dahulu hasil dari Besut Kode SMA sejak digelarnya di bulan Juni 2016. 
 
-##Pendaftar Besut Kode SMA
+## Pendaftar Besut Kode SMA
 Total ada **290 peserta** yang mendaftar untuk mengikuti Besut Kode SMA yang **berasal dari 49 kota** di Indonesia, kota-kota besar masih menjawarai jumlah peserta yang tertarik untuk mengikuti besut kode. Bandung meningkati urutan pertama dengan 52 peserta, diikuti oleh Jakarta (35), Yogyakarta (28)
 Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12). 
 ![Grafik pie total peserta Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Chart%20Peserta%20Besut%20Kode%20SMA.png "Total Peserta BEsut Kode SMA dalam grafik"){: .img-responsive .center-block } 
 
-Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan sertifikat Besut Kode SMA, enam peserta mendapatkan sertifikat Project Euler, dan tiga peserta mendapatkan komputer jinjing (laptop) 
 
-##Penerima sertifikat Besut Kode SMA
-1. Rafid Aslam - Kebumen
-2. Sage Muhammad Abdullah - Jakarta
-3. Yudhistira Gowo Samiaji - Jakarta
-4. Muhammad Kaisar Arkhan - Jakarta
-5. Raefaldhi Amartya Junior - Bandung
+Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan sertifikat Besut Kode SMA, enam peserta mendapatkan sertifikat Project Euler, dan tiga peserta mendapatkan komputer jinjing (laptop) 
 
 ## Penerima sertifikat Project Euler Besut Kode
 1. Rafid Aslam - Kebumen
@@ -40,7 +34,16 @@ Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan
 6. Galangkangin Gotera - Bali
 7. Maharaj Fawwaz Almuqaddim Yusran - Yogyakarta
 
+## Penerima sertifikat Besut Kode SMA
+1. Rafid Aslam - Kebumen
+2. Sage Muhammad Abdullah - Jakarta
+3. Yudhistira Gowo Samiaji - Jakarta
+4. Muhammad Kaisar Arkhan - Jakarta
+5. Raefaldhi Amartya Junior - Bandung
+
 ## Penerima laptop Besut Kode SMA
 1. Rafid Aslam - Kebumen
 2. Raefaldhi Amartya Junior - Bandung
 3. Yudhistira Gowo Samiaji - Jakarta
+
+Pengalaman Yudhis dalam mengikuti kompetisi Besut Kode SMA dapat via rumah inspirasi di[sini](http://rumahinspirasi.com/yudhis-menang-kompetisi-pemrograman-besut-kode-2016/)  
