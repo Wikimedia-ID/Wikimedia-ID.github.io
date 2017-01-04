@@ -7,21 +7,40 @@ tag:
 - Besut Kode SMA
 - Kompetisi pemrograman perangkat lunak terbuka
 - Open source
+- Pemenang laptop Besut Kode SMA
+- Laptop ASUS X455LA
 author: siska
 ---
-#Hasil Besut Kode SMA
 
 Masuk pada bulan ketujuh berjalannya program Besut Kode SMA, pesertanya kini sedang menjajal kompetisi baru: 
 kompetisi pemrograman internasional [Google Code-in](https://developers.google.com/open-source/gci/). 
 
 Sebelum kita membahas pencapaian peserta Besut Kode SMA dari Indonesia di Google Code-in mari kita lihat dahulu hasil dari Besut Kode SMA sejak digelarnya di bulan Juni 2016. 
 
+##Pendaftar Besut Kode SMA
 Total ada **290 peserta** yang mendaftar untuk mengikuti Besut Kode SMA yang **berasal dari 49 kota** di Indonesia, kota-kota besar masih menjawarai jumlah peserta yang tertarik untuk mengikuti besut kode. Bandung meningkati urutan pertama dengan 52 peserta, diikuti oleh Jakarta (35), Yogyakarta (28)
 Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12). 
+![Grafik pie total peserta Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Chart%20Peserta%20Besut%20Kode%20SMA.png "Total Peserta BEsut Kode SMA dalam grafik"){: .img-responsive .center-block } 
 
 Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan sertifikat Besut Kode SMA, enam peserta mendapatkan sertifikat Project Euler, dan tiga peserta mendapatkan komputer jinjing (laptop) 
 
 ##Penerima sertifikat Besut Kode SMA
-1. Rafid Aslan - Kebumen
-2. 
- 
+1. Rafid Aslam - Kebumen
+2. Sage Muhammad Abdullah - Jakarta
+3. Yudhistira Gowo Samiaji - Jakarta
+4. Muhammad Kaisar Arkhan - Jakarta
+5. Raefaldhi Amartya Junior - Bandung
+
+## Penerima sertifikat Project Euler Besut Kode
+1. Rafid Aslam - Kebumen
+2. Sage Muhammad Abdullah - Jakarta
+3. Yudhistira Gowo Samiaji - Jakarta
+4. Muhammad Kaisar Arkhan - Jakarta
+5. Raefaldhi Amartya Junior - Bandung
+6. Galangkangin Gotera - Bali
+7. Maharaj Fawwaz Almuqaddim Yusran - Yogyakarta
+
+## Penerima laptop Besut Kode SMA
+1. Rafid Aslam - Kebumen
+2. Raefaldhi Amartya Junior - Bandung
+3. Yudhistira Gowo Samiaji - Jakarta
