@@ -32,7 +32,7 @@ Besut Kode SMA sendiri adalah ajang pembelajaran yang tepat untuk anak-anak yang
 ![Peserta Besut Kode SMA Gelombang I]( http://wikimedia-id.github.io/besutkode/img/blog/Besut%20Kode%20SMA%20Gelombang%20I.jpg "Peserta Besut Kode SMA Gel I berkumpul"){: .img-responsive .center-block } 
 
 ## **Kapan Besut Kode SMA diselenggarakan?**
-Besut Kode SMA diselenggarakan dengan rentang waktu 27 Juni - 30 Januari 2017. Pendaftaran Besut Kode dibuka menjadi tiga gelombang, yang dibuka pada bulan 27 Juni 2016 (Gelombang I), 21 Juli (Gelombang II), dan 21 Agustus (Gelombang III) Besut Kode sendiri ditutup pada tanggal 20 September 2016. 
+Besut Kode SMA diselenggarakan dengan rentang waktu 27 Juni - 30 Januari 2017. Pendaftaran Besut Kode dibuka menjadi tiga gelombang, yang dibuka pada bulan 27 Juni 2016 (Gelombang I), 21 Juli (Gelombang II), dan 21 Agustus (Gelombang III) Besut Kode SMA sendiri menutup seluruh pendaftaran baru pada tanggal 20 September 2016. 
 
 Keberhasilan akhir dari keikutsertaan Besut Kode dilihat dari kemampuan peserta yang diuji untuk menyelesaikan kompetisi pemrograman tingkat internasional Google Code-in 2016, dan pengumumannya sendiri akan dilakukan oleh Google Code-in pada pertengahan Januari 2017. 
 
