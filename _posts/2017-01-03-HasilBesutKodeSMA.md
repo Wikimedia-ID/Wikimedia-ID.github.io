@@ -15,6 +15,8 @@ author: siska
 Masuk pada bulan ketujuh berjalannya program Besut Kode SMA, pesertanya kini sedang menjajal kompetisi baru: 
 kompetisi pemrograman internasional [Google Code-in](https://developers.google.com/open-source/gci/). Kompetisi ini dimulai pada bulan November 2016 dan akan berakhir pada pertengahan Januari 2017. 
 
+![Penerima laptop Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Penerima%20Laptop%20Besut%20Kode%20SMA.png "Penerima laptop Besut Kode SMA"){: .img-responsive .center-block }
+
 Sebelum kita membahas pencapaian peserta Besut Kode SMA dari Indonesia di Google Code-in mari kita lihat dahulu hasil dari Besut Kode SMA sejak digelarnya di bulan Juni 2016. 
 
 ## Pendaftar Besut Kode SMA
@@ -38,9 +40,6 @@ Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan
 3. Yudhistira Gowo Samiaji - Jakarta
 4. Muhammad Kaisar Arkhan - Jakarta
 5. Raefaldhi Amartya Junior - Bandung
-
-![Penerima laptop Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Penerima%20Laptop%20Besut%20Kode%20SMA.png "Penerima laptop Besut Kode SMA"){: .img-responsive .center-block }
-
 
 ## Penerima laptop Besut Kode SMA
 1. Rafid Aslam - Kebumen
