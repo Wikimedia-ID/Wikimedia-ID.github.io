@@ -16,7 +16,7 @@ perangkat lunak bersumber terbuka untuk pelajar SMA, SMK, dan MAN yang berumur 1
 Pada program ini pelajar SMA diminta untuk memecahkan soal yang diberikan, dan mentor akan menyatakan peserta tersebut lolos ke putaran selanjutnya 
 atau gugur. Peserta yang lolos selain mendapatkan sertifikat juga akan dianalisa apakah berbakat, dimana mentor akan membantu peserta untuk dapat 
 mengikuti [Google Code-in](https://developers.google.com/open-source/gci/), kompetisi kode internasional yang diselenggarakan oleh Google 
-setiap tahun dan diikuti oleh 17 organisasi perangkat lunak terbuka yang akan dibuka pada November 2016. 
+setiap tahun dan diikuti oleh 17 organisasi perangkat lunak terbuka yang dibuka pada November 2016. 
 
 Mentor Besut Kode, John Vandenberg, didatangkan langsung dari Australia untuk melatih peserta dari Indonesia mengenal dan memperbaiki (membesut) perangkat lunak terbuka. 
 
@@ -31,12 +31,10 @@ Besut Kode SMA sendiri adalah ajang pembelajaran yang tepat untuk anak-anak yang
 
 ![Peserta Besut Kode SMA Gelombang I]( http://wikimedia-id.github.io/besutkode/img/blog/Besut%20Kode%20SMA%20Gelombang%20I.jpg "Peserta Besut Kode SMA Gel I berkumpul"){: .img-responsive .center-block } 
 
-## **Kapan sih Besut Kode SMA?**
-Pendaftaran Besut Kode dibuka menjadi tiga gelombang, yang dibuka pada bulan 27 Juni, 21 Juli, dan 21 Agustus serta ditutup pada tanggal 20 September 2016. 
+## **Kapan Besut Kode SMA diselenggarakan?**
+Besut Kode SMA diselenggarakan dengan rentang waktu 27 Juni - 30 Januari 2017. Pendaftaran Besut Kode dibuka menjadi tiga gelombang, yang dibuka pada bulan 27 Juni 2016 (Gelombang I), 21 Juli (Gelombang II), dan 21 Agustus (Gelombang III) Besut Kode sendiri ditutup pada tanggal 20 September 2016. 
 
-Walaupun pemenang Besut Kode diumumkan bergelombang, sebagai peserta terbaik, namun karena hadiah utama besut kode adalah pelatihan intensif untuk mengikuti Google Code-in. 
-
-Maka keberhasilan akhir dari keikutsertaan Besut Kode dilihat dari keberhasilan peserta yang berhasil menyelesaikan kompetisi pemrograman internasional Google Code-in 2016, dan pengumumannya akan dilakukan oleh Google Code-in pada pertengahan Januari 2017. 
+Keberhasilan akhir dari keikutsertaan Besut Kode dilihat dari kemampuan peserta yang diuji untuk menyelesaikan kompetisi pemrograman tingkat internasional Google Code-in 2016, dan pengumumannya sendiri akan dilakukan oleh Google Code-in pada pertengahan Januari 2017. 
 
 Apa yang terjadi saat peserta mendaftar Besut Kode? Peserta yang telah mengisi formulir pendaftaran melalui google docs kemudian diminta menyelesaikan [modul 1 hingga modul 5](http://wikimedia-id.github.io/besutkode/modul.html). 
 
