@@ -15,7 +15,7 @@ tag:
 [Dwi Satria Utama](https://github.com/RioSatria) adalah desainer yang ditugaskan untuk mendesain sertifikat Besut Kode SMA, penugasan khusus ini penting karena sertifikat ini menjadi unik dikarenakan upaya memperolehnya yang dipastikan dilakukan dengan susah payah. 
 
 Para peserta harus melalui berbagai rintangan mulai dari mengerjakan modul, mempelajari GitHub, membuat video YouTube, 
-mencari dan menyelesaikan bugnya sendiri dan berkontribusi secara teratur pada GitHub selama lebih dari dua bulan. 
+mencari *bug* dan menyelesaikan *bug* tersebut sendiri, serta berkontribusi secara teratur pada GitHub selama lebih dari dua bulan. 
 
 Jadi seperti apa sih sertifikat yang diperoleh dengan susah payah ini, dan apa yang diilustrasikan didalamnya? 
 
