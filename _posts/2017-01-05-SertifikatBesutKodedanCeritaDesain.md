@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Sertifikat Besut Kode SMA dan Cerita di Balik Desainnya
+title: Sertifikat Besut Kode SMA dan Cerita di Balik Desainnya (bag I: Project Euler)
 author: siska
 categories:
 - SMA
