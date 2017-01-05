@@ -27,23 +27,23 @@ Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12).
 Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan sertifikat Besut Kode SMA, enam peserta mendapatkan sertifikat Project Euler, dan tiga peserta mendapatkan komputer jinjing (laptop). Salah satu peserta, Yudhis, didokumentasikan pengalamannya dalam mengikuti kompetisi Besut Kode SMA via rumah inspirasi di[sini](http://rumahinspirasi.com/yudhis-menang-kompetisi-pemrograman-besut-kode-2016/)  
 
 ## Penerima sertifikat Project Euler Besut Kode
-1. Rafid Aslam - Kebumen
-2. Sage Muhammad Abdullah - Jakarta
-3. Muhammad Kaisar Arkhan - Jakarta
-4. Raefaldhi Amartya Junior - Bandung
-5. Galangkangin Gotera - Bali
-6. Maharaj Fawwaz Almuqaddim Yusran - Yogyakarta
+1. [Rafid Aslam](https://github.com/rafidaslam) - Kebumen
+2. [Sage Muhammad Abdullah](https://github.com/laymonage) - Jakarta
+3. [Muhammad Kaisar Arkhan](https://github.com/yukiisbored) - Jakarta
+4. [Raefaldhi Amartya Junior](https://github.com/raefaldhia) - Bandung
+5. [Galangkangin Gotera](https://github.com/thegalang) - Bali
+6. [Maharaj Fawwaz Almuqaddim Yusran](https://github.com/Magicpotatoes2) - Yogyakarta
 
 ## Penerima sertifikat Besut Kode SMA
-1. Rafid Aslam - Kebumen
-2. Sage Muhammad Abdullah - Jakarta
-3. Yudhistira Gowo Samiaji - Jakarta
-4. Muhammad Kaisar Arkhan - Jakarta
-5. Raefaldhi Amartya Junior - Bandung
+1. [Rafid Aslam](https://github.com/rafidaslam) - Kebumen
+2. [Sage Muhammad Abdullah](https://github.com/laymonage) - Jakarta
+3. [Yudhistira Gowo Samiaji](https://github.com/SacredWKnight) - Jakarta
+4. [Muhammad Kaisar Arkhan](https://github.com/yukiisbored) - Jakarta
+5. [Raefaldhi Amartya Junior](https://github.com/raefaldhia) - Bandung
 
 ## Penerima laptop Besut Kode SMA
-1. Rafid Aslam - Kebumen
-2. Raefaldhi Amartya Junior - Bandung
-3. Yudhistira Gowo Samiaji - Jakarta
+1. [Rafid Aslam](https://github.com/rafidaslam) - Kebumen
+2. [Raefaldhi Amartya Junior](https://github.com/raefaldhia) - Bandung
+3. [Yudhistira Gowo Samiaji](https://github.com/SacredWKnight) - Jakarta
 
 Lihat juga: [Sertifikat Besut Kode SMA, Project Euler, dan cerita dibalik desainnya](https://wikimedia-id.github.io/sma/2017/01/05/SertifikatBesutKodedanCeritaDesain.html)
