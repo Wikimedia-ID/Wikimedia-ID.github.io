@@ -19,7 +19,7 @@ Seperti sertifikat sebelumnya, sertifikat Besut Kode SMA didesain oleh [Dwi Satr
 
 Sisi pertama adalah sisi bahasa Indonesia, dan sisi kedua adalah sisi dalam bahasa Inggris. Sertifikat dalam dwibahasa ini dibuat dengan tujuan agar sertifikat ini mumpuni dijadikan rujukan di tingkat nasional ataupun internasional. 
 
-![Sertifikat Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Sertifikat%20Besut%20Kode%20SMA.png "Sertifikat Besut Kode SMA" {: .img-responsive .center-block } 
+![Sertifikat Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Sertifikat%20Besut%20Kode%20SMA.png "Sertifikat Besut Kode SMA") {: .img-responsive .center-block } 
 
 Lalu deskripsi apa yang dicantumkan pada sertifikat besut kode SMA? 
 
