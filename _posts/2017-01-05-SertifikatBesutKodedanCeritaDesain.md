@@ -20,6 +20,10 @@ mencari dan menyelesaikan bugnya sendiri dan berkontribusi secara teratur pada G
 Jadi seperti apa sih sertifikat yang diperoleh dengan susah payah ini, dan apa yang diilustrasikan didalamnya? 
 
 ## Sertifikat Project Euler Besut Kode SMA
+1. Nomor sertifikat adalah nomor yang dirujuk apabila ada yang bertanya kepada Wikimedia Indonesia mengenai sertifikat. Seluruh sertifikat yang dikeluarkan oleh Wikimedia Indonesia bisa divalidasi oleh Wikimedia Indonesia untuk menghindari munculnya sertifikat "palsu". 
+2. Nama asli adalah nama penerima sertifikat sesuai dengan akta kelahiran ataupun identitas yang disediakan
+3. Nama akun project euler adalah nama alias pengguna, nama kedua ini dalam bidang teknologi cukup umum dilakukan dimana kontribusi biasanya menggunakan nama alias dan hanya bisa di runut dalam nama aliasnya. 
+4. Pencapaian peserta adalah hal-hal yang berhasil dilakukan oleh peserta saat diuji dalam kompetisi. 
 
 ![Sertifikat Project Euler Besut Kode tampak muka](http://wikimedia-id.github.io/besutkode/img/blog/Sertifikat%20Project%20Euler%20tampak%20muka.png
  "Sertifikat Project Euler Besut Kode tampak muka"){: .img-responsive .center-block } 
