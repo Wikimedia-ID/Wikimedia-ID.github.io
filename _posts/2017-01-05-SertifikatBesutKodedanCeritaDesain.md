@@ -38,13 +38,13 @@ Pada project euler, soal soal awal hingga 100 soal pertama memiliki tingkat 1-10
 
 >Peserta tidak bisa serta merta membaca soal lalu mulai mengkode, bisa jadi ratusan baris kode yang ia lakukan salah, hanya karena ia membaca soal tanpa mengerti cara menyelesaikannya. Tingkat kesulitan 50 persen mengharuskan peserta membaca dengan baik, mengerti, berpikir untuk memecahkannya, mampu memecahkannya, dan mulai mengkode. Kalau buru buru, malah bisa jadi sia sia dan jawabannya salah. 
 
-Sementara tampak belakang diilustrasikan soal yang mereka berhasil pecahkan, pranala video ke YouTube dimana peserta mengunggah cara mereka mengetahui solusinya dan mengkode solusi tersebut sehingga mendapatkan jawaban. 
+Sementara tampak belakang diilustrasikan soal yang mereka berhasil pecahkan, pranala video ke YouTube dimana peserta mempresentasikan dalam bentuk video bagaimana mereka mengetahui cara pemecahan soal tersebut dan mengkode solusi sehingga mendapatkan jawaban. 
 
 ![Sertifikat Project Euler Tampak Belakang](http://wikimedia-id.github.io/besutkode/img/blog/Project%20Euler%20Sertifikat%20Tampak%20Belakang.png "PEsertifikatbelakang"){: .img-responsive .center-block } 
 
 Mengapa video? Menurut John, video penting karena peserta harus bisa mempresentasikan bagaimana mereka mengetahui jawabannya. 
 
->Sudah banyak jawaban-jawaban di internet bertebaran mengenai cara pemecahan soal-soal project euler. Yang paling banyak bisa ditemukan adalah jawabannya tanpa penyelesaiannya. Beberapa video juga menerangkan bagaimana cara mendapatkan jawaban tersebut. Di jaman internet, dimana semua bisa dicari melalui google, jawaban anda benar atau tidak, tidak penting, karena jawaban bisa dicontek. Namun cara Anda mendapatkan jawaban yang benar tersebut, walaupun Anda mencontek, penting. Mengapa? Karena artinya Anda mengerti, dalam matematika kalau Anda sudah mengerti cara menyelesaikan suatu soal, ini artiknya Anda diberikan soal lain yang mirip, Anda sudah bisa mengerjakannya sendiri. Karena itu kemampuan presentasi akan mencerminkan apakah Anda mengetahu apa yang Anda katakan, atau Anda sebenarnya tidak mengerti Anda sedang berbicara apa... Langsung dapat terlihat. 
+>Sudah banyak jawaban-jawaban bertebaran di internet mengenai jawaban dari soal-soal project euler. Di jaman internet, dimana semua bisa dicari melalui google, jawaban benar atau tidak, menjadi tidak penting, karena jawaban bisa dicontek. Namun, cara Anda mendapatkan jawaban yang benar, walaupun artinya Anda mencontek, penting. Mengapa? Karena artinya Anda mengerti, dalam matematika kalau Anda sudah mengerti cara menyelesaikan suatu soal, ini artinya Anda diberikan soal lain yang mirip, Anda sudah bisa mengerjakannya sendiri. Karena itu pada saat presentasi, mentor akan dapat mengetahui apakah peserta yang presentasi mengerti apa yang sedang mereka katakan, atau peserta sebenarnya tidak mengerti sedang berbicara apa... Hal ini langsung dapat terlihat. 
 
 Yang menarik, saat ditanya perasaan peserta mengenai project euler, banyak dari mereka merasa senang, dan menjadikan Project Euler sebagai "hal yang paling menyenangkan dari Besut Kode SMA". Simak video wawancara mereka dibawah 
 
