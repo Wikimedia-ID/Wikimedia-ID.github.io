@@ -46,6 +46,8 @@ Mengapa video? Menurut John, video penting karena peserta harus bisa mempresenta
 
 >Sudah banyak jawaban-jawaban bertebaran di internet mengenai jawaban dari soal-soal project euler. Di jaman internet, dimana semua bisa dicari melalui google, jawaban benar atau tidak, menjadi tidak penting, karena jawaban bisa dicontek. Namun, cara Anda mendapatkan jawaban yang benar, walaupun artinya Anda mencontek, penting. Mengapa? Karena artinya Anda mengerti, dalam matematika kalau Anda sudah mengerti cara menyelesaikan suatu soal, ini artinya Anda diberikan soal lain yang mirip, Anda sudah bisa mengerjakannya sendiri. Karena itu pada saat presentasi, mentor akan dapat mengetahui apakah peserta yang presentasi mengerti apa yang sedang mereka katakan, atau peserta sebenarnya tidak mengerti sedang berbicara apa... Hal ini langsung dapat terlihat. 
 
-Yang menarik, saat ditanya perasaan peserta mengenai project euler, banyak dari mereka merasa senang, dan menjadikan Project Euler sebagai "hal yang paling menyenangkan dari Besut Kode SMA". Simak video wawancara mereka dibawah 
+Yang menarik, saat ditanya perasaan peserta mengenai project euler, banyak dari mereka merasa senang, dan menjadikan Project Euler sebagai "hal yang paling menyenangkan dari Besut Kode SMA". 
+
+Simak video wawancara mereka dibawah atau silahkan klik cerita selanjutnya untuk [sertifikat Besut Kode SMA dan cerita dibaliknya](http://wikimedia-id.github.io/sma/2017/01/05/SertifikatBesutKodedanCeritaDesainBag2Habis.html).
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/9IijkyLMoCY" frameborder="0" allowfullscreen></iframe></div>
