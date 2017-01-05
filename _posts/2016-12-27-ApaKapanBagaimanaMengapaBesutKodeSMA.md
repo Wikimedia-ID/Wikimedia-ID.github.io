@@ -18,7 +18,7 @@ atau gugur. Peserta yang lolos selain mendapatkan sertifikat juga akan dianalisa
 mengikuti [Google Code-in](https://developers.google.com/open-source/gci/), kompetisi kode internasional yang diselenggarakan oleh Google 
 setiap tahun dan diikuti oleh 17 organisasi perangkat lunak terbuka yang dibuka pada November 2016. 
 
-Mentor Besut Kode, John Vandenberg, didatangkan langsung dari Australia untuk melatih peserta dari Indonesia mengenal dan memperbaiki (membesut) perangkat lunak terbuka. 
+Mentor Besut Kode, [John Vandenberg](https://github.com/jayvdb), didatangkan langsung dari Australia untuk melatih peserta dari Indonesia mengenal dan memperbaiki (membesut) perangkat lunak terbuka. 
 
 ![John Vandenberg Mentor Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/John%20Besut%20Kode%20Mentor.jpg "John Vandenberg mentor Besut Kode SMA"){: .img-responsive .center-block } 
 
