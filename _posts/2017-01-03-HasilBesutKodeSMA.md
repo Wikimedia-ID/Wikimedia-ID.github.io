@@ -46,4 +46,4 @@ Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan
 2. Raefaldhi Amartya Junior - Bandung
 3. Yudhistira Gowo Samiaji - Jakarta
 
-Lihat juga: [Sertifikat Besut Kode SMA, Project Euler, dan cerita dibalik desainnya](https://developers.google.com/open-source/gci/)
+Lihat juga: [Sertifikat Besut Kode SMA, Project Euler, dan cerita dibalik desainnya](https://wikimedia-id.github.io/sma/2017/01/05/SertifikatBesutKodedanCeritaDesain.html)
