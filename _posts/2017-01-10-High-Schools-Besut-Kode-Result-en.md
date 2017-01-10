@@ -23,9 +23,9 @@ Before we discuss Indonesian Besut Kode high school participant's achievement in
 In total there are **290 participants** signing up to enter high school Besut Kode **coming from 49 cities** in Indonesia, the result shows majority of registration still come from urban and cities setting. Bandung is on the top of participation numbers with 52 registrations, followed by Jakarta (35), Yogyakarta (28), Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12). 
 ![Number of registration total divided by cities](http://wikimedia-id.github.io/besutkode/img/blog/Chart%20Peserta%20Besut%20Kode%20SMA.png "Number of registration total divided by cities"){: .img-responsive .center-block } 
 
-Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan sertifikat Besut Kode SMA, enam peserta mendapatkan sertifikat Project Euler, dan tiga peserta mendapatkan komputer jinjing (laptop). Salah satu peserta, Yudhis, didokumentasikan pengalamannya dalam mengikuti kompetisi Besut Kode SMA via rumah inspirasi di[sini](http://rumahinspirasi.com/yudhis-menang-kompetisi-pemrograman-besut-kode-2016/)  
+Out of 290 total registrations, only five received high school's Besut Kode certificates, six received Project Euler certificate, and three received laptops. One of the participant, Yudhis, documented his experience in Besut Kode competition through *rumah inspirasi*'s blog [in here](http://rumahinspirasi.com/yudhis-menang-kompetisi-pemrograman-besut-kode-2016/)  
 
-## Penerima sertifikat Project Euler Besut Kode
+## Project Euler's Besut Kode certificate recipient
 1. [Rafid Aslam](https://github.com/rafidaslam) - Kebumen
 2. [Sage Muhammad Abdullah](https://github.com/laymonage) - Jakarta
 3. [Muhammad Kaisar Arkhan](https://github.com/yukiisbored) - Jakarta
@@ -33,16 +33,16 @@ Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan
 5. [Galangkangin Gotera](https://github.com/thegalang) - Bali
 6. [Maharaj Fawwaz Almuqaddim Yusran](https://github.com/Magicpotatoes2) - Yogyakarta
 
-## Penerima sertifikat Besut Kode SMA
+## High school's Besut completion certificate
 1. [Rafid Aslam](https://github.com/rafidaslam) - Kebumen
 2. [Sage Muhammad Abdullah](https://github.com/laymonage) - Jakarta
 3. [Yudhistira Gowo Samiaji](https://github.com/SacredWKnight) - Jakarta
 4. [Muhammad Kaisar Arkhan](https://github.com/yukiisbored) - Jakarta
 5. [Raefaldhi Amartya Junior](https://github.com/raefaldhia) - Bandung
 
-## Penerima laptop Besut Kode SMA
+## High school Besut Kode's laptop recipient
 1. [Rafid Aslam](https://github.com/rafidaslam) - Kebumen
 2. [Raefaldhi Amartya Junior](https://github.com/raefaldhia) - Bandung
 3. [Yudhistira Gowo Samiaji](https://github.com/SacredWKnight) - Jakarta
 
-Lihat juga: [Sertifikat Besut Kode SMA, Project Euler, dan cerita dibalik desainnya](https://wikimedia-id.github.io/sma/2017/01/05/SertifikatBesutKodedanCeritaDesain.html)
+See also: [High school certificate, Project Euler, and the story behind the design](https://wikimedia-id.github.io/sma/2017/01/05/SertifikatBesutKodedanCeritaDesain.html)
