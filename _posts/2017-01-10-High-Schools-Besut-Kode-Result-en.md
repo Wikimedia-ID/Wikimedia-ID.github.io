@@ -4,24 +4,23 @@ title: High School's Besut Kode Result
 categories:
 - SMA
 tag:
-- Besut Kode SMA
-- Kompetisi pemrograman perangkat lunak terbuka
+- Indonesian High School's open source coding competition 
+- Besut Kode High School
 - Open source
-- Pemenang laptop Besut Kode SMA
+- Winner of High school's Besut Kode laptop
 - Laptop ASUS X455LA
 author: siska
 ---
 
-Masuk pada bulan ketujuh berjalannya program Besut Kode SMA, pesertanya kini sedang menjajal kompetisi baru: 
-kompetisi pemrograman internasional [Google Code-in](https://developers.google.com/open-source/gci/). Kompetisi ini dimulai pada bulan November 2016 dan akan berakhir pada pertengahan Januari 2017. 
+As we enter the seventh month of High School's Besut Kode, the participants is now on a new follow up competition
+International coding competition [Google Code-in](https://developers.google.com/open-source/gci/). This competition begin on November 2016 and will ended in mid January 2017. 
 
-![Penerima laptop Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Penerima%20Laptop%20Besut%20Kode%20SMA.png "Penerima laptop Besut Kode SMA"){: .img-responsive .center-block }
+![High School's Besut Kode laptop recipient](http://wikimedia-id.github.io/besutkode/img/blog/Penerima%20Laptop%20Besut%20Kode%20SMA.png "High School's Besut Kode laptop recipient"){: .img-responsive .center-block }
 
-Sebelum kita membahas pencapaian peserta Besut Kode SMA dari Indonesia di Google Code-in mari kita lihat dahulu hasil dari Besut Kode SMA sejak digelarnya di bulan Juni 2016. 
+Before we discuss Indonesian Besut Kode high school participant's achievement in Google Code-in, let's go back and see the result of the program itself when it launch in June 2016. 
 
-## Pendaftar Besut Kode SMA
-Total ada **290 peserta** yang mendaftar untuk mengikuti Besut Kode SMA yang **berasal dari 49 kota** di Indonesia, kota-kota besar masih menjawarai jumlah peserta yang tertarik untuk mengikuti besut kode. Bandung meningkati urutan pertama dengan 52 peserta, diikuti oleh Jakarta (35), Yogyakarta (28)
-Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12). 
+## High school Besut Kode registration
+In total there are **290 participants** signing up to enter high school Besut Kode **coming from 49 cities** in Indonesia, the result shows that urban and cities still on the top of the number of participants interested to participate in the program. Bandung is on the top of participation numbers with 52 registrations, followed by Jakarta (35), Yogyakarta (28), Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12). 
 ![Grafik pie total peserta Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Chart%20Peserta%20Besut%20Kode%20SMA.png "Total Peserta BEsut Kode SMA dalam grafik"){: .img-responsive .center-block } 
 
 Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan sertifikat Besut Kode SMA, enam peserta mendapatkan sertifikat Project Euler, dan tiga peserta mendapatkan komputer jinjing (laptop). Salah satu peserta, Yudhis, didokumentasikan pengalamannya dalam mengikuti kompetisi Besut Kode SMA via rumah inspirasi di[sini](http://rumahinspirasi.com/yudhis-menang-kompetisi-pemrograman-besut-kode-2016/)  
