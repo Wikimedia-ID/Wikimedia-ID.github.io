@@ -20,8 +20,8 @@ International coding competition [Google Code-in](https://developers.google.com/
 Before we discuss Indonesian Besut Kode high school participant's achievement in Google Code-in, let's go back and see the result of the program itself when it launch in June 2016. 
 
 ## High school Besut Kode registration
-In total there are **290 participants** signing up to enter high school Besut Kode **coming from 49 cities** in Indonesia, the result shows that urban and cities still on the top of the number of participants interested to participate in the program. Bandung is on the top of participation numbers with 52 registrations, followed by Jakarta (35), Yogyakarta (28), Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12). 
-![Grafik pie total peserta Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/blog/Chart%20Peserta%20Besut%20Kode%20SMA.png "Total Peserta BEsut Kode SMA dalam grafik"){: .img-responsive .center-block } 
+In total there are **290 participants** signing up to enter high school Besut Kode **coming from 49 cities** in Indonesia, the result shows majority of registration still come from urban and cities setting. Bandung is on the top of participation numbers with 52 registrations, followed by Jakarta (35), Yogyakarta (28), Surabaya (19), Samarinda (18), Balikpapan (14), Padang (12). 
+![Number of registration total divided by cities](http://wikimedia-id.github.io/besutkode/img/blog/Chart%20Peserta%20Besut%20Kode%20SMA.png "Number of registration total divided by cities"){: .img-responsive .center-block } 
 
 Dari jumlah peserta yang mendaftar, hanya lima peserta yang berhasil mendapatkan sertifikat Besut Kode SMA, enam peserta mendapatkan sertifikat Project Euler, dan tiga peserta mendapatkan komputer jinjing (laptop). Salah satu peserta, Yudhis, didokumentasikan pengalamannya dalam mengikuti kompetisi Besut Kode SMA via rumah inspirasi di[sini](http://rumahinspirasi.com/yudhis-menang-kompetisi-pemrograman-besut-kode-2016/)  
 
