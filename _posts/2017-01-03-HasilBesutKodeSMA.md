@@ -3,6 +3,8 @@ layout: posts
 title: Hasil Besut Kode SMA
 categories:
 - SMA
+bahasa:
+- indonesia
 tag:
 - Besut Kode SMA
 - Kompetisi pemrograman perangkat lunak terbuka
