@@ -2,8 +2,7 @@
 layout: posts
 title: High School's Besut Kode Result
 categories:
-- SMA
-- english
+- SMA-en
 tag:
 - Indonesian High School's open source coding competition 
 - Besut Kode High School
