@@ -463,7 +463,7 @@ title: indexsma
                             <div class="col-md-12">
                             
                                 <div class="input-group">
-						{% for post in site.categories['SMA'],['indonesia'] %}
+						{% for post in site.categories['SMA'] | site.categories['indonesia'] %}
 						    <div class="vote-item">
 							<div class="row">
 							    <div class="col-md-12">
