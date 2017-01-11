@@ -4,7 +4,6 @@ title: Sertifikat Besut Kode SMA dan Cerita di Balik Desainnya (Bag II Habis)
 author: siska
 categories:
 - SMA
-bahasa:
 - indonesia
 tag:
 - Besut Kode SMA
