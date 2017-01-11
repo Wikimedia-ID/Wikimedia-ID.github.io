@@ -464,7 +464,6 @@ title: indexsma
                             
                                 <div class="input-group">
 						{% for post in site.categories['SMA'] %}
-							{% for post in site.bahasa['indonesia'] %}
 						    <div class="vote-item">
 							<div class="row">
 							    <div class="col-md-12">
@@ -475,7 +474,6 @@ title: indexsma
 							    </div>
 							</div>
 						    </div>
-							{% endfor %}
 						{% endfor %}
                                 </div>
                                 
@@ -488,8 +486,7 @@ title: indexsma
                             <div class="col-md-12">
                             
                                 <div class="input-group">
-						{% for post in site.categories['SMA'] %}
-							{% for post in site.bahasa['english'] %}
+						{% for post in site.bahasa['english'] %}
 						    <div class="vote-item">
 							<div class="row">
 							    <div class="col-md-12">
@@ -500,7 +497,6 @@ title: indexsma
 							    </div>
 							</div>
 						    </div>
-							{% endfor %}
 						{% endfor %}
                                 </div>
                                 
