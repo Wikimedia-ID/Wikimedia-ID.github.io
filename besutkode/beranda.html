@@ -483,11 +483,12 @@ title: indexsma
                         </div>
                     </div>	
                                                                                     
-                    <div class="tab-pane text-center" id="en">
+                    <div class="tab-pane" id="en">
                         <div class="row">
                             <div class="col-md-12">
                             
                                 <div class="input-group">
+						{% for post in site.categories['SMA'] %}
 						{% for post in site.categories['english'] %}
 						    <div class="vote-item">
 							<div class="row">
@@ -499,6 +500,7 @@ title: indexsma
 							    </div>
 							</div>
 						    </div>
+						{% endfor %}
 						{% endfor %}
                                 </div>
                                 
