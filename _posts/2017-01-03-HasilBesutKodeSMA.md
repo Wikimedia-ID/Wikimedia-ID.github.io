@@ -3,7 +3,6 @@ layout: posts
 title: Hasil Besut Kode SMA
 categories:
 - SMA
-bahasa:
 - indonesia
 tag:
 - Besut Kode SMA
