@@ -3,8 +3,7 @@ layout: posts
 title: Besut Kode SMA Apa, Kapan, Bagaimana, Mengapa?
 author: siska
 categories:
-- SMA
-- indonesia
+- SMA-id
 tag:
 - Besut Kode SMA
 - Kompetisi pemrograman perangkat lunak terbuka
