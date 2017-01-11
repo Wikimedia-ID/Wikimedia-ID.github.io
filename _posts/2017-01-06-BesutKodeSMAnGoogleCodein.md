@@ -4,6 +4,8 @@ title: Besut Kode SMA & Google Code-in 2016
 author: siska
 categories:
 - SMA
+bahasa:
+- indonesia
 tag:
 - Besut Kode SMA
 - Google Code-in 2016
