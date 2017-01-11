@@ -3,8 +3,7 @@ layout: posts
 title: Besut Kode SMA & Google Code-in 2016
 author: siska
 categories:
-- SMA
-- indonesia
+- SMA-id
 tag:
 - Besut Kode SMA
 - Google Code-in 2016
