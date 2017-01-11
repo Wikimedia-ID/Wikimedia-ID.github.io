@@ -2,8 +2,7 @@
 layout: posts
 title: Hasil Besut Kode SMA
 categories:
-- SMA
-- indonesia
+- SMA-id
 tag:
 - Besut Kode SMA
 - Kompetisi pemrograman perangkat lunak terbuka
