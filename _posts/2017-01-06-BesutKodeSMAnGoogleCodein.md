@@ -38,7 +38,5 @@ Sementara saat kompetisi Google Code-in 2016 berlangsung pada bulan November, be
 
     ![Rafid Aslan Zulip](http://wikimedia-id.github.io/besutkode/img/blog/Zulip%20Rafid%20Aslan.png "Rafid Aslan Zulip"){: .img-responsive .center-block }
 
-2. Raefaeldhi dari Bandung memilih [Haiku](https://www.haiku-os.org/) perangkat lunak sumber terbuka 
-Untuk dapat bertanding dalam Haiku, Raefaldhi perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/haiku-inc/)
-
-    ![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
+2. Raefaeldhi dari Bandung memilih [Haiku](https://www.haiku-os.org/) sebuah sistem operasi (OS) sumber terbuka yang secara spesifik memfokuskan diri untuk komputer pribadi. Terinspirasi dari BeOS, sistem operasi Haiku sederhana untuk digunakan, cepat, mudah dipelajari, dan handal. Nama Haiku juga digunakan sebagai nama proyeknya sendiri dimana sistem operasi ini dikenalkan. Untuk dapat bertanding dalam Haiku, Raefaldhi perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/haiku-inc/), yaitu C, C++, Python, Bash, HTML. <br>![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
+3. ![Kaisar Arkhan FossAsia] 
