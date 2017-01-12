@@ -12,4 +12,5 @@ tag:
 - Open source Indonesia 
 ---
 Selamat Tahun Baru 2017! 
-Untuk para peserta Besut Kode SMA 
+
+Untuk para peserta Besut Kode SMA tahun baru 2017 ini adalah tantangan untuk mereka dimana lima 
