@@ -34,12 +34,11 @@ Satu pemenang dari 17 organisasi akan diganjar hadiah jalan jalan ke San Fransis
 ## Perjuangan untuk masuk daftar peserta unggulan 
 Sementara saat kompetisi Google Code-in 2016 berlangsung pada bulan November, berikut sepak terjang peserta Besut Kode SMA 
 
-![Rafid Aslan Zulip](http://wikimedia-id.github.io/besutkode/img/blog/Zulip%20Rafid%20Aslan.png "Rafid Aslan Zulip"){: .img-responsive .center-block } 
-
 1. Rafid dari Kebumen memilih [Zulip](https://zulip.org/) perangkat lunak sumber terbuka yang mewadahi percakapan daring yang telah dlengkapi dengan apps untuk setiap platform terkemuka. Untuk dapat bertanding dalam Zulip, Rafid perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/zulip/), yaitu: python, javascript, django, html, css. Sebagai perangkat lunak sumber terbuka Zulip bersaing dengan Slack, IRC, Jabber, dan lusinan perangkat percakapan lainnya yang didesain untuk membantu sebuah tim bekerja sama secara efektif. Zulip mendukung pencarian cepat, pemuatan berkas dengan cara “tarik-lempar” (*drag and drop*), pratinjau gambar, pelayanan pesan grup pribadi, pemberitahuan dengan suara, surel pemberitahuan untuk semua pesan yang terlewat, aplikasi desktop,penanda untuk pesan yang sedang berlangsung, dan banyak hal yang Anda harapkan dari sebuah platform percakapan.  Setelah tiga minggu dalam kompetisi Rafid masuk *leader Board* atau dalam bahasa Indonesia daftar peserta unggulan; adalah istilah yang diperkenalkan oleh google untuk organisasi peserta Google Code-in dalam membedakan anak-anak yang berprestasi dengan peserta lainnya.
 
-    ![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
+    ![Rafid Aslan Zulip](http://wikimedia-id.github.io/besutkode/img/blog/Zulip%20Rafid%20Aslan.png "Rafid Aslan Zulip"){: .img-responsive .center-block }
 
 2. Raefaeldhi dari Bandung memilih [Haiku](https://www.haiku-os.org/) perangkat lunak sumber terbuka 
-Untuk dapat bertanding dalam Haiku, Raefaldhi perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/haiku-inc/) 
+Untuk dapat bertanding dalam Haiku, Raefaldhi perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/haiku-inc/)
 
+    ![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
