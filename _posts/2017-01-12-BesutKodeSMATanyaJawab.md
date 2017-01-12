@@ -9,6 +9,9 @@ tag:
 - Kompetisi pemrograman perangkat lunak terbuka
 - Open source Indonesia
 ---
+![Lokakarya Pemula Besut Kode SMA Bandung](http://wikimedia-id.github.io/besutkode/img/blog/Peserta%20Lokakarya%20pemula%20Besut%20Kode%20SMA%20%20Bandung%202.jpg "Lokakarya Pemula Besut Kode SMA Bandung"){: .img-responsive .center-block } 
+
+
 Kita mulai dari pertanyaan yang paling banyak ditanyakan hingga pertanyaan menarik. Pertanyaa, "Apa itu GitHub?" datang dari 12 anak. 
 #Tanya Jawab 
 
