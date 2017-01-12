@@ -19,7 +19,9 @@ Untuk para peserta Besut Kode SMA tahun baru 2017 ini adalah tantangan untuk mer
 
 Untuk mengetahui lebih lanjut mengenai Google Code-in kami sarankan Anda melihat penejelasan pemenang Google Code-in 2014 sebelumnya dari Indonesia, Tasya Rukmana. Berikut adalah video wawancara tim Besut Kode dengan Tasya. 
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Sj_NST0OhUc" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sj_NST0OhUc" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Pada setiap kompetisi Google Code-in ada tiga pihak yang berpartisipasi di dalamnya; (1) organisasi-organisasi sumber terbuka yang menyiapkan mentor sukarelawan yang akan menyediakan tugas untuk dikerjakan oleh peserta dengan rentang umur 13-17 tahun; (2) Peserta yang datang dari seluruh dunia dan mengerjakannya secara daring; (3) Google sebagai penyelenggara yang menyediakan hadiah. 
 
