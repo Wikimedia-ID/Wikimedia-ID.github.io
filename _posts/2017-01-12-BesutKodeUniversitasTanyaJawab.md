@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: posts_univ.html
 title: Tanya Jawab dari Peserta Besut Kode Universitas di Malang, Lampung, Samarinda dan Jakarta Apa, Kapan, Bagaimana, Mengapa?
 author: nurleni
 categories:
