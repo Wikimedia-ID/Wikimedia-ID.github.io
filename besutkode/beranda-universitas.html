@@ -450,19 +450,76 @@ title: index
 		    <h3 class="section-subheading text-muted">Blog Terbaru</h3>
             </div>
 
-        <!-- latest 10 blog -->
-	{% for post in site.categories['Universitas'] %}
-            <div class="vote-item">
-                <div class="row">
-                    <div class="col-md-12">
-                        <a href="{{ post.url }}" class="vote-title"> <h3> {{ post.title }} </h3> </a>
-			<i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }} 
-			</br>
-			</br>
-                    </div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="profile-tabs">
+            <div class="nav-align-center">
+                <ul class="nav nav-pills nav-pills-danger" role="tablist">
+                    <li class="active">
+                        <a href="#id" role="tab" data-toggle="tab">
+                            Bahasa Indonesia
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#en" role="tab" data-toggle="tab">
+                            English
+                        </a>
+                    </li>
+                </ul>
+
+                <div class="tab-content gallery">
+                
+                    <div class="tab-pane active" id="id">
+                        <div class="row">
+                            <div class="col-md-12">
+                            
+                                <div class="input-group">
+						{% for post in site.categories['Universitas-id'] %}
+						    <div class="vote-item">
+							<div class="row">
+							    <div class="col-md-12">
+								<a href="{{ post.url }}" class="vote-title"> <h3> {{ post.title }} </h3> </a>
+								<i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }} 
+								</br>
+								</br>
+							    </div>
+							</div>
+						    </div>
+						{% endfor %}
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>	
+                                                                                    
+                    <div class="tab-pane" id="en">
+                        <div class="row">
+                            <div class="col-md-12">
+                            
+                                <div class="input-group">
+						{% for post in site.categories['Universitas-en'] %}
+						    <div class="vote-item">
+							<div class="row">
+							    <div class="col-md-12">
+								<a href="{{ post.url }}" class="vote-title"> <h3> {{ post.title }} </h3> </a>
+								<i class="fa fa-clock-o"></i> {{ post.date | date: "%-d %b %Y" }} 
+								</br>
+								</br>
+							    </div>
+							</div>
+						    </div>
+						{% endfor %}
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>	
+                
                 </div>
             </div>
-        {% endfor %}
+        </div>
+    </div>
+</div>
 
         </div>
     </div>
