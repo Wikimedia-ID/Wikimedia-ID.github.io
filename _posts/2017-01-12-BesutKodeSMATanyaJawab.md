@@ -11,7 +11,8 @@ tag:
 ---
 Kita mulai dari pertanyaan yang paling banyak ditanyakan hingga pertanyaan menarik. Pertanyaa, "Apa itu GitHub?" datang dari 12 anak. 
 #Tanya Jawab 
-1 Apa yang dimaksud dengan GitHub?
+
+1. Apa yang dimaksud dengan GitHub?
 2 Apa yang dimaksud dengan Sumber terbuka?
 3 Apa yang di maksud dengan Project euler? 
 4 Apa yang di maksud dengan Python?
