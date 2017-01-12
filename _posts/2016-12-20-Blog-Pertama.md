@@ -1,5 +1,5 @@
 ---
-layout: posts_univ.html
+layout: posts_univ
 title: First english blog
 author: nurleni
 categories:
