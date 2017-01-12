@@ -1,8 +1,13 @@
 ---
 layout: posts
-title: Blog Pertama
+title: Tanya Jawab dari Peserta Besut Kode Universitas di Malang, Lampung, Samarinda dan Jakarta Apa, Kapan, Bagaimana, Mengapa?
+author: nurleni
 categories:
-- Universitas
+- Universitas-id
+tag:
+- Besut Kode Universitas
+- Kompetisi pemrograman perangkat lunak terbuka
+- Open source Indonesia
 ---
 
 # Blog Pertama
