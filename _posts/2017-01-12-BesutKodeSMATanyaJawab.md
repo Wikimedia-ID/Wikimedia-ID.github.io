@@ -22,17 +22,16 @@ Sebanyak 20 peserta dari 30 orang yang mendaftar datang, mentor bintang tamu, al
 
 ![Lokakarya Pemula Besut Kode SMA Bandung](http://wikimedia-id.github.io/besutkode/img/blog/Peserta%20Lokakarya%20pemula%20Besut%20Kode%20SMA%20%20Bandung%202.jpg "Lokakarya Pemula Besut Kode SMA Bandung"){: .img-responsive .center-block } 
 
-
-Kita mulai dari pertanyaan yang paling banyak ditanyakan hingga pertanyaan menarik. Pertanyaa, "Apa itu GitHub?" datang dari 12 anak dan dijelaskan oleh mentor John Vandenberg menggunakan **[presentasi berikut](http://www.slideshare.net/jayvdb/workshop-2-65341653)**. 
+<br>Kita mulai dari pertanyaan yang paling banyak ditanyakan hingga pertanyaan menarik. Untuk pertanyaan, "Apa itu GitHub?" datang dari 12 anak dan dijelaskan oleh mentor John Vandenberg menggunakan **[presentasi berikut](http://www.slideshare.net/jayvdb/workshop-2-65341653)**. 
 
 # Tanya Jawab 
 
-1. **T**: Apa yang dimaksud dengan GitHub?<br> **J**: GitHub adalah situs web yang dibangun disekitar Git. <br>Setiap orang harus tahu Git itu apa (terutama pemrogram perangkat lunak). Git sendiri adalah kanvas dimana Anda bekerja dan berkolaborasi, teknisnya, Git adalah distributor perangkat lunak terbuka dengan dengan sistem terkendali (VCS). <br> Git diciptakan oleh Linus Torvalds, untuk membantunya membangun sistem operasi Linux, anda dapat mempelajari lebih jauh melalui [paduan git](https://github.com/GitIndonesia/handbook), [buku git](https://github.com/endymuhardin/buku-git), atau [belajar git](https://github.com/endymuhardin/belajarGit). <br> Git mengelola berkas yang disunting oleh orang-orang dari seluruh dunia, dan memberikan setiap berkas identifiernya, sehingga setiap orang tahu versi yang mana yang mereka punya, dan bagaimana mereka bisa menggabungkan perubahan yang mereka punya dengan perubahan yang dilakukan oleh orang lain ke berkas yang sama. <br> Ada dua hal yang perlu diperhatikan dalam Git<br>Remote: tempat dimana saling berbagi terjadi, contoh: Sistem Github.<br>Branches (cabang) adalah dimana perubahan direncanakan. <br>Begitu perubahan selesai dan dianggap baik, maka cabang dikirim balik ke “remote”. 
-2. Apa yang dimaksud dengan Sumber terbuka?<br>
-3. Apa yang di maksud dengan Project euler?<br>
-4. Apa yang di maksud dengan Python?<br>
-5. OS linux dan Github merupakan sumber terbuka, apa perbedaan dan persamaanya?<br>
-6. Apakah sama bahasa pemograman di Android dan IOS? <br>
+1. **T**: Apa yang dimaksud dengan GitHub?<br> **J**: GitHub adalah situs web yang dibangun disekitar Git. <br>Setiap orang harus tahu Git itu apa (terutama pemrogram perangkat lunak). Git sendiri adalah kanvas dimana Anda bekerja dan berkolaborasi, teknisnya, Git adalah distributor perangkat lunak terbuka dengan dengan sistem terkendali (VCS). <br> Git diciptakan oleh Linus Torvalds, untuk membantunya membangun sistem operasi Linux, anda dapat mempelajari lebih jauh melalui [paduan git](https://github.com/GitIndonesia/handbook), [buku git](https://github.com/endymuhardin/buku-git), atau [belajar git](https://github.com/endymuhardin/belajarGit). <br> Git mengelola berkas yang disunting oleh orang-orang dari seluruh dunia, dan memberikan setiap berkas identifiernya, sehingga setiap orang tahu versi yang mana yang mereka punya, dan bagaimana mereka bisa menggabungkan perubahan yang mereka punya dengan perubahan yang dilakukan oleh orang lain ke berkas yang sama. <br> Ada dua hal yang perlu diperhatikan dalam Git<br>Remote: tempat dimana saling berbagi terjadi, contoh: Sistem Github.<br>*Branches* (cabang) adalah dimana perubahan direncanakan. <br>Begitu perubahan selesai dan dianggap baik, maka cabang dikirim balik ke “remote”. 
+2. **T**: Apa yang dimaksud dengan Sumber terbuka?<br>**J**:
+3. **T**: Apa yang di maksud dengan Project euler?<br>**J**: 
+4. **T**: Apa yang di maksud dengan Python?<br>
+5. **T**: OS linux dan GitHub merupakan sumber terbuka, apa perbedaan dan persamaanya?<br>
+6. **T**: Apakah sama bahasa pemograman di Android dan IOS? <br>
 7. Apakah untuk Menjadi programmer yang baik di perlukan menguasai matematika?<br> 
 8. Apa saja yang dibutuhkan untuk menjadi seorang programmer?<br>
 9. Bagaimana cara untuk menguasai programmin untuk robotik?<br>
