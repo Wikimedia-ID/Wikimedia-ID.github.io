@@ -41,7 +41,7 @@ Satu pemenang dari 17 organisasi akan diganjar hadiah jalan jalan ke San Fransis
 
 Selain itu setiap organisasi juga akan mempublikasikan nama-nama finalis, yang dianggap "hampir menang". 
 
-Mentor Besut Kode sudah mengingatkan pada peserta Besut Kode SMA bahwa untuk menang itu sulit, banyak dari peserta Google Code-in adalah alumni peserta dari tahun sebelumnya yang telah mengetahui tata cara bertanding dan kenal dengan mentor karena sudah melalui kompetisi ini tahun sebelumnya, sehingga mereka dipersilahkan untuk belajar sebanyak-banyaknya dan mengerjakan tugas sebaik-baiknya dengan harapan paling tidak masuk ke daftar finalis. 
+Mentor Besut Kode sudah mengingatkan pada peserta Besut Kode SMA bahwa untuk menang itu sulit, banyak dari peserta Google Code-in adalah alumni peserta dari tahun sebelumnya yang telah mengetahui tata cara bertanding dan kenal dengan mentor karena sudah melalui kompetisi ini tahun sebelumnya. Peserta dianjurkan untuk belajar sebanyak-banyaknya dan mengerjakan tugas sebaik-baiknya, atau apabila memiliki tujuan menang, maka (paling tidak) bisa masuk ke daftar finalis. 
 
 Karena daftar finalis ini tercatat dan diakui oleh organisasi peserta Google Code-in, peserta Besut Kode diharapkan dapat meraih peringkat finalis agar dapat digunakan sebagai rujukan peserta masa depan, yang memisahkan para peserta unggulan dengan ribuan peserta lain yang terbatas pada 'hanya berpartisipasi'. 
 
