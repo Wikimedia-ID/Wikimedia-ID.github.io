@@ -24,3 +24,12 @@ tag:
 3. Apakah  fungsi dari GitHub dan stack overflo sama ?
 4. Apa saja Bahasa Pemogramanan yang digunakan?
 5. Apakah aplikasi yang dihasilkan?
+6. Apakah ada kriteria-kriteria khusus untuk bahasa pemograman yang dipakai 
+7. Bagaimana cara dasar pemrograman untuk pemula
+
+
+## Sosialisasi Besut Kode Universitas di Jakarta
+1. Apa guna sumber terbuka untuk peserta ?
+2. Apa guna GitHub kelebihan dan Kekurangan ?
+3. Bagaimana cara mengkolaborasikan bermacam2 bahsaa pemograman untuk sebuah project?
+4. Apakah keuntungan Sumber kode ?
