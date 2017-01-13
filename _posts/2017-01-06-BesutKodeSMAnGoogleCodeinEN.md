@@ -16,28 +16,27 @@ tag:
 ---
 Happy New Year 2017! 
 
-Untuk para peserta Besut Kode SMA tahun baru 2017 ini adalah tantangan untuk mereka dimana lima alumni dari Besut Kode SMA memutuskan untuk mengikuti 
-kompetisi internasional pemrograman [Google Code-in](https://developers.google.com/open-source/gci/). 
+To the participants of Besut Kode High School 2017 will start as a new challenge for them as they are fighthing to be on the top for international programming competitions [Google Code-in](https://developers.google.com/open-source/gci/). 
 
 ## What is Google Code-in? 
 
 To find out more about the Google Code-in we suggest you watch our video, an interview of "what is google code-in" 
-by Google Code-in 2014 winner from Indonesisa, Tasya Rukmana.
+by Google Code-in 2014 winner from Indonesia, Tasya Rukmana.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sj_NST0OhUc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Pada setiap kompetisi Google Code-in ada tiga pihak yang berpartisipasi di dalamnya:
-1. Belasan organisasi-organisasi sumber terbuka yang menyiapkan mentor sukarelawan yang akan menyediakan tugas untuk dikerjakan oleh peserta dengan rentang umur 13-17 tahun; 
-2. Ribuan peserta yang mengerjakan tugas secara daring dari seluruh dunia 
-3. Google sebagai penyelenggara yang menyediakan hadiah, sertifikat, dan pendaftaran
+For all Google Code-in competition there's always three parties in it: 
+1. Dozens of organizations setting up an a platform where mentor volunteer to provide tasks to be done by high school participants aged 13-17 years;
+2. Thousands of participants who do tasks online from all over the world
+3. Google as the organizers are providing grand prize, gifts, certificates, and compiling registration
 
-Organisasi pendukung perangkat lunak terbuka yang berpartisipasi pada tiap Google Code-in bervariasi jumlahnya dan organisasinya setiap tahun.
+The open source organizations participating in Google Code-in competition varied in number each year. 
 
-Pada tahun 2016 tercatat ada [17 organisasi yang berpartisipasi pada Google Code-in](https://codein.withgoogle.com/organizations/), ini berarti setiap organisasi berhak menentukan tiga hingga lima nama finalis dan satu nama pemenang. 
+In 2016, there were [17 organizations participating in the Google Code-in](https://codein.withgoogle.com/organizations/), it means that every organization is entitled to determine three to five finalists and come out with one winner's name.
 
-Satu pemenang dari 17 organisasi akan diganjar hadiah jalan jalan ke San Fransisko, Amerika Serikat untuk bertemu dengan pemenang lain di kantor pusat Google. Ini berarti google membiayai total 17 pemenang dari tiap organisasi untuk berangkat ke Amerika Serikat, selain itu setiap organisasi juga akan mempublikasikan nama-nama finalis, yang dianggap "hampir menang". Mentor Besut Kode sudah mengingatkan pada peserta Besut Kode SMA bahwa untuk menang itu sulit, banyak dari peserta Google Code-in adalah alumni peserta dari tahun sebelumnya yang telah mengetahui tata cara bertanding dan mentor, sehingga mereka dipersilahkan untuk belajar sebanyak-banyaknya dan mengerjakan tugas sebaik-baiknya dengan harapan paling tidak masuk ke daftar finalis. Karena daftar finalis ini tercatat dan diakui oleh organisasi peserta Google Code-in dan dapat digunakan sebagai rujukan peserta masa depan, yang memisahkan para peserta unggulan dengan ribuan peserta lain yang terbatas pada 'hanya berpartisipasi'. 
+One winner from 17 organizations will receive a trip to Google head quarter in San Francisco, United States to meet with the other winner. This means google will fund a total of 17 winners from each organization to go to the United States, in addition, each organization will also publish the names of the finalists, which was considered "almost won". Besut Kode high school's mentor already warn the Besut Kode participants that winning will be difficult, many of Google Code-in participant is an alumni from the previous year who already know the knicks and knack of the competiton and know the mentors, so they are welcome to learn as much as possible and do the job as well -baiknya with the hope of at least go into the list of finalists. Because the list of finalists is registered and recognized by the organizations participating in the Google Code-in and can be used as references for future participants, which separates the participants featured with thousands of other participants is limited to 'only participate'.
 
 ## Peserta unggulan (*leader Board*)
 Kompetisi Google Code-in 2016 dimulai pada bulan November dan akan berakhir pada pertengahan Januari 2017. *leader Board* atau dalam bahasa Indonesia daftar peserta unggulan adalah istilah yang diperkenalkan oleh google untuk organisasi peserta Google Code-in dalam membedakan anak-anak yang berprestasi dengan peserta lainnya. Untuk diketahui, masuk pada daftar peserta unggulan belum tentu menjadi finalis, namun daftar ini berguna untuk melihat peserta yang telah berjuang keras dari minggu satu ke minggu lainnya, karena komposisi namanya kerap berubah sesuai dengan kontribusi mereka dalam kompetisi. 
