@@ -27,29 +27,31 @@ by Google Code-in 2014 winner from Indonesia, Tasya Rukmana.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sj_NST0OhUc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-For all Google Code-in competition there's always three parties in it
-1. Dozens of organizations setting up an a platform where mentor volunteer to provide tasks to be done by high school participants aged 13-17 years
-2. Thousands of participants who do tasks online from all over the world
-3. Google as the organizers are providing grand prize, gifts, certificates, and compiling registration
+For all Google Code-in competition there's always three parties in it<br>
+1. Dozens of organizations setting up an a platform where mentor volunteer to provide tasks to be done by high school participants aged 13-17 years<br>
+2. Thousands of participants who do tasks online from all over the world<br>
+3. Google as the organizers are providing grand prize, gifts, certificates, and compiling registration<br>
 
 The open source organizations participating in Google Code-in competition varied in number each year. 
 
 In 2016, there were [17 organizations participating in the Google Code-in](https://codein.withgoogle.com/organizations/), it means that every organization is entitled to determine three to five finalists and come out with one winner's name.
 
-One winner from 17 organizations will receive a trip to Google head quarter in San Francisco, United States to meet with the other winner. This means google will fund a total of 17 winners from each organization to go to the United States, in addition, each organization will also publish the names of the finalists, which was considered "almost won". Besut Kode high school's mentor already warn the Besut Kode participants that winning will be difficult, many of Google Code-in participant is an alumni from the previous year who already know the knicks and knack of the competiton and know the mentors, so they are welcome to learn as much as possible and do the job as well -baiknya with the hope of at least go into the list of finalists. Because the list of finalists is registered and recognized by the organizations participating in the Google Code-in and can be used as references for future participants, which separates the participants featured with thousands of other participants is limited to 'only participate'.
+One winner from 17 organizations will receive a trip to Google head quarter in San Francisco, United States to meet with the other winner. This means google will fund a total of 17 winners from each organization to go to the United States, in addition, each organization will also publish the names of the finalists, which was considered "almost won". 
 
-## Peserta unggulan (*leader Board*)
-Kompetisi Google Code-in 2016 dimulai pada bulan November dan akan berakhir pada pertengahan Januari 2017. *leader Board* atau dalam bahasa Indonesia daftar peserta unggulan adalah istilah yang diperkenalkan oleh google untuk organisasi peserta Google Code-in dalam membedakan anak-anak yang berprestasi dengan peserta lainnya. Untuk diketahui, masuk pada daftar peserta unggulan belum tentu menjadi finalis, namun daftar ini berguna untuk melihat peserta yang telah berjuang keras dari minggu satu ke minggu lainnya, karena komposisi namanya kerap berubah sesuai dengan kontribusi mereka dalam kompetisi. 
+Besut Kode high school's mentor already warn the Besut Kode participants that winning will be difficult, many of Google Code-in participant is an alumni from the previous year, who already know the knicks and knack of the competiton and know the mentors. The Besut Kode participants are welcome to learn as much as possible and do the job as well as they could with the goal of, at least, made it to the list of finalists. The reason are this list of finalists is registered and recognized by the organizations participating in the Google Code-in and can be used as references for future participants, the list of finalists also separates the participants deemed by the mentor already work really hard and have potential with the other participants is considered "merely" participating.
 
-### Rafid dari Kebumen
+## Leader Board*
+Google Code-in 2016 began in November and will end in mid-January 2017. Leader Board are term introduced in the competition featuring a list of participants in excel compares to other participants. The list from the leader board may or may not necessarily end up as finalist, but this list is useful to see the participants who have struggled from week to week to complete tasks and overcome new challenges as the composition of the name is often changed according to their contribution in the competition.
 
-[Rafid](https://github.com/rafidaslam) dari Kebumen memilih [Zulip](https://zulip.org/)<br>Zulip adalah organisasi sekaligus perangkat lunak sumber terbuka yang mewadahi percakapan daring yang telah dlengkapi dengan apps untuk setiap platform terkemuka. Zulip bersaing dengan Slack, IRC, Jabber, dan lusinan perangkat percakapan lainnya yang didesain untuk membantu sebuah tim bekerja sama secara efektif. Zulip mendukung pencarian cepat, pemuatan berkas dengan cara “tarik-lempar” (*drag and drop*), pratinjau gambar, pelayanan pesan grup pribadi, pemberitahuan dengan suara, surel pemberitahuan untuk semua pesan yang terlewat, aplikasi desktop,penanda untuk pesan yang sedang berlangsung, dan banyak hal yang Anda harapkan dari sebuah platform percakapan. <br><br>Untuk dapat bertanding dalam Zulip, Rafid perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/zulip/), yaitu: python, javascript, django, html, css. <br>![Rafid Aslan Zulip](http://wikimedia-id.github.io/besutkode/img/blog/Zulip%20Rafid%20Aslan.png "Rafid Aslan Zulip"){: .img-responsive .center-block }
+### Rafid from Kebumen
 
-### Raefaeldhi dari Bandung
+[Rafid](https://github.com/rafidaslam) from Kebumen chooses to do [Zulip](https://zulip.org/)<br><br>To compete in Zulip, Rafid need to master one or more more [technology used in it](https://codein.withgoogle.com/organizations/zulip/), i.e. : python, javascript, django, html, css. <br>![Rafid Aslan Zulip](http://wikimedia-id.github.io/besutkode/img/blog/Zulip%20Rafid%20Aslan.png "Rafid Aslan Zulip"){: .img-responsive .center-block }
 
-[Raefaeldhi](https://github.com/raefaldhia) dari Bandung memilih [Haiku](https://www.haiku-os.org/)<br> Haiku adalah nama dari sebuah sistem operasi (OS) sumber terbuka yang secara spesifik memfokuskan diri untuk komputer pribadi. Terinspirasi dari BeOS, sistem operasi Haiku sederhana untuk digunakan, cepat, mudah dipelajari, dan handal. Nama Haiku juga digunakan sebagai nama proyeknya sendiri dimana sistem operasi ini dikenalkan. <br><br>Untuk dapat bertanding dalam Haiku, Raefaldhi perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/haiku-inc/), yaitu C, C++, Python, Bash, HTML. <br>![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
+### Raefaeldhi from Bandung
 
-### Kaisar dari Jakarta
+[Raefaeldhi](https://github.com/raefaldhia) from Bandung chooses [Haiku](https://www.haiku-os.org/)<br> Haiku is a name of open source operating system (OS). <br><br>To compete in Haiku, Raefaeldhi need to master one or more more [technology used in it](https://codein.withgoogle.com/organizations/haiku-inc/), yaitu C, C++, Python, Bash, HTML. <br>![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
+
+### Kaisar from Jakarta
 
 [Kaisar](https://github.com/yukiisbored) dari Jakarta memilih [FOSSASIA](http://fossasia.org/) <br> FossAsia adalah organisasi utama untuk teknologi sumber terbuka di Asia yang diperuntukkan bagi pengembang perangkat lunak, desainer, upaya pemula (*start-ups*), dan kontributor. <br>Didirikan pada tahun 2009 proyek-proyek Foss Asia meliputi perangkat keras terbuka (*open hardware*), desain, grafis, dan perangkat lunak. <br><br>Untuk dapat bertanding dalam Foss Asia, Kaisar perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/fossasia/) yaitu python, javascript, android, html, dan java. <br> ![Kaisar Arkhan FossAsia](http://wikimedia-id.github.io/besutkode/img/blog/Yuki%20Foss%20Asia%20Leaderboard.png "Kaisar Arkhan Foss Asia"){: .img-responsive .center-block }
 
