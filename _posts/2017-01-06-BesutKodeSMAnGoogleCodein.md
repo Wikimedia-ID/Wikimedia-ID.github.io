@@ -23,9 +23,12 @@ Untuk mengetahui lebih lanjut mengenai Google Code-in kami sarankan Anda melihat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sj_NST0OhUc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Pada setiap kompetisi Google Code-in ada tiga pihak yang berpartisipasi di dalamnya; (1) organisasi-organisasi sumber terbuka yang menyiapkan mentor sukarelawan yang akan menyediakan tugas untuk dikerjakan oleh peserta dengan rentang umur 13-17 tahun; (2) Peserta yang datang dari seluruh dunia dan mengerjakannya secara daring; (3) Google sebagai penyelenggara yang menyediakan hadiah. 
+Pada setiap kompetisi Google Code-in ada tiga pihak yang berpartisipasi di dalamnya:
+1. Belasan organisasi-organisasi sumber terbuka yang menyiapkan mentor sukarelawan yang akan menyediakan tugas untuk dikerjakan oleh peserta dengan rentang umur 13-17 tahun; 
+2. Ribuan peserta yang mengerjakan tugas secara daring dari seluruh dunia 
+3. Google sebagai penyelenggara yang menyediakan hadiah, sertifikat, dan pendaftaran
 
-Organisasi pendukung perangkat lunak terbuka yang berpartisipasi pada tiap Google Code-in bervariasi jumlahnya dan organisasinya.
+Organisasi pendukung perangkat lunak terbuka yang berpartisipasi pada tiap Google Code-in bervariasi jumlahnya dan organisasinya setiap tahun.
 
 Pada tahun 2016 tercatat ada [17 organisasi yang berpartisipasi pada Google Code-in](https://codein.withgoogle.com/organizations/), ini berarti setiap organisasi berhak menentukan tiga hingga lima nama finalis dan satu nama pemenang. 
 
@@ -52,5 +55,5 @@ Kompetisi Google Code-in 2016 dimulai pada bulan November dan akan berakhir pada
 
 ### Yudhistira dari Jakarta
 
-[Yudhistira](https://github.com/SacredWKnight) dari Jakarta memilih [Wikimedia] 
+[Yudhistira](https://github.com/SacredWKnight) dari Jakarta memilih [Wikimedia](https://wikimediafoundation.org/wiki/Home) <br> Wikimedia Foundation adalah  
 
