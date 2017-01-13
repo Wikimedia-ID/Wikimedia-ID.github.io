@@ -27,14 +27,7 @@ Kita mulai dari pertanyaan yang paling banyak ditanyakan hingga pertanyaan menar
 
 # Tanya Jawab 
 
-1. **T**: Apa yang dimaksud dengan GitHub?<br> **J**: Github adalah situs web yang dibangun disekitar Git. <br>Setiap orang harus tahu Git itu apa (terutama pemrogram perangkat lunak). Git sendiri adalah kanvas dimana Anda bekerja dan berkolaborasi, teknisnya, Git adalah distributor perangkat lunak terbuka dengan dengan sistem terkendali (VCS). <br> Git diciptakan oleh Linus Torvalds, untuk membantunya membangun sistem operasi Linux, anda dapat mempelajari lebih jauh melalui [paduan git](https://github.com/GitIndonesia/handbook), [buku git](https://github.com/endymuhardin/buku-git), atau [belajar git](https://github.com/endymuhardin/belajarGit). <br> Git mengelola berkas yang disunting oleh orang-orang dari seluruh dunia, dan memberikan setiap berkas identifiernya, sehingga setiap orang tahu versi yang mana yang mereka punya, dan bagaimana mereka bisa menggabungkan perubahan yang mereka punya dengan perubahan yang dilakukan oleh orang lain ke berkas yang sama.
-
-Remote: tempat dimana saling berbagi terjadi, contoh: Sistem Github. 
-Branches (cabang) adalah dimana perubahan direncanakan. 
-
-Begitu perubahan selesai dan dianggap baik, maka cabang dikirim balik ke “remote”.
-
-Kelemahan Git  Git tidak baik digunakan untuk:  Berkas Binary (files)  Berkas besar  Repo besar  Kendali akses (Access control)  Perforce adalah jawaban untuk seluruh masalah diatas 
+1. **T**: Apa yang dimaksud dengan GitHub?<br> **J**: GitHub adalah situs web yang dibangun disekitar Git. <br>Setiap orang harus tahu Git itu apa (terutama pemrogram perangkat lunak). Git sendiri adalah kanvas dimana Anda bekerja dan berkolaborasi, teknisnya, Git adalah distributor perangkat lunak terbuka dengan dengan sistem terkendali (VCS). <br> Git diciptakan oleh Linus Torvalds, untuk membantunya membangun sistem operasi Linux, anda dapat mempelajari lebih jauh melalui [paduan git](https://github.com/GitIndonesia/handbook), [buku git](https://github.com/endymuhardin/buku-git), atau [belajar git](https://github.com/endymuhardin/belajarGit). <br> Git mengelola berkas yang disunting oleh orang-orang dari seluruh dunia, dan memberikan setiap berkas identifiernya, sehingga setiap orang tahu versi yang mana yang mereka punya, dan bagaimana mereka bisa menggabungkan perubahan yang mereka punya dengan perubahan yang dilakukan oleh orang lain ke berkas yang sama. <br> Ada dua hal yang perlu diperhatikan dalam Git<br>Remote: tempat dimana saling berbagi terjadi, contoh: Sistem Github.<br>Branches (cabang) adalah dimana perubahan direncanakan. <br>Begitu perubahan selesai dan dianggap baik, maka cabang dikirim balik ke “remote”. 
 2. Apa yang dimaksud dengan Sumber terbuka?<br>
 3. Apa yang di maksud dengan Project euler?<br>
 4. Apa yang di maksud dengan Python?<br>
