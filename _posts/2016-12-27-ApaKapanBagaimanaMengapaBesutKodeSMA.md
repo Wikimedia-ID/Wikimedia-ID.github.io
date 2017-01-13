@@ -15,8 +15,7 @@ perangkat lunak bersumber terbuka untuk pelajar SMA, SMK, dan MAN yang berumur 1
 
 Pada program ini pelajar SMA diminta untuk memecahkan soal yang diberikan, dan mentor akan menyatakan peserta tersebut lolos ke putaran selanjutnya 
 atau gugur. Peserta yang lolos selain mendapatkan sertifikat juga akan dianalisa apakah berbakat, dimana mentor akan membantu peserta untuk dapat 
-mengikuti [Google Code-in](https://developers.google.com/open-source/gci/), kompetisi kode internasional yang diselenggarakan oleh Google 
-setiap tahun dan diikuti oleh 17 organisasi perangkat lunak terbuka yang dibuka pada November 2016. 
+mengikuti [Google Code-in](https://wikimedia-id.github.io/sma-id/2017/01/06/BesutKodeSMAnGoogleCodein.html), kompetisi kode internasional yang diselenggarakan oleh Google setiap tahun dan diikuti oleh 17 organisasi perangkat lunak terbuka yang dibuka pada November 2016. 
 
 Mentor Besut Kode, [John Vandenberg](https://github.com/jayvdb), didatangkan langsung dari Australia untuk melatih peserta dari Indonesia mengenal dan memperbaiki (membesut) perangkat lunak terbuka. 
 
@@ -42,4 +41,4 @@ Apabila mereka berhasil menyelesaikan modul 1-5, maka peserta akan diundang untu
 
 ![Lokakarya II Besut Kode di SMAN 3 Bandung]( http://wikimedia-id.github.io/besutkode/img/blog/Lokakarya%20II%20Bandung%20Tasya.jpg "Tasya mengajarkan peserta menyelesaikan soal-soal Project Euler Besut Kode SMA"){: .img-responsive .center-block } 
 
-Ingin mengetahui **[hasilnya?](http://wikimedia-id.github.io/sma/2017/01/03/HasilBesutKodeSMA.html)**
+Ingin mengetahui **[hasilnya?](http://wikimedia-id.github.io/sma-id/2017/01/03/HasilBesutKodeSMA.html)**
