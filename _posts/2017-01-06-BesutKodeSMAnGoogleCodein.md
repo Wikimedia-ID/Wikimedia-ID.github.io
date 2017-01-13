@@ -24,7 +24,7 @@ Untuk mengetahui lebih lanjut mengenai Google Code-in kami sarankan Anda melihat
 </div>
 
 Pada setiap kompetisi Google Code-in ada tiga pihak yang berpartisipasi di dalamnya:
-1. Belasan organisasi-organisasi sumber terbuka yang menyiapkan mentor sukarelawan yang akan menyediakan tugas untuk dikerjakan oleh peserta dengan rentang umur 13-17 tahun; 
+1. Belasan organisasi-organisasi sumber terbuka yang menyiapkan mentor sukarelawan yang akan menyediakan tugas untuk dikerjakan oleh peserta dengan rentang umur 13-17 tahun
 2. Ribuan peserta yang mengerjakan tugas secara daring dari seluruh dunia 
 3. Google sebagai penyelenggara yang menyediakan hadiah, sertifikat, dan pendaftaran
 
