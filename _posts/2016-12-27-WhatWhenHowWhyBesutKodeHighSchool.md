@@ -44,4 +44,4 @@ If they successfully complete the module 1-5, then participants will be invited 
 
 ![Workshop II Besut codes SMAN 3 Bandung] (http://wikimedia-id.github.io/besutkode/img/blog/Lokakarya%20II%20Bandung%20Tasya.jpg "Tasya teach participants to solve problems in Project Euler Besut Kode High School Modul ") {: .img-responsive .center-block}
 
-**Interested to know [the result](http://wikimedia-id.github.io/sma-en/2017/01/05/High-Schools-Besut-Kode-Result-en.html)? **
+**Interested to know [the result](http://wikimedia-id.github.io/sma-en/2017/01/05/High-Schools-Besut-Kode-Result-en.html)?**
