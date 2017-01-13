@@ -55,5 +55,7 @@ Kompetisi Google Code-in 2016 dimulai pada bulan November dan akan berakhir pada
 
 ### Yudhistira dari Jakarta
 
-[Yudhistira](https://github.com/SacredWKnight) dari Jakarta memilih [Wikimedia](https://wikimediafoundation.org/wiki/Home) <br> Wikimedia Foundation adalah  
+[Yudhistira](https://github.com/SacredWKnight) dari Jakarta memilih [Wikimedia](https://wikimediafoundation.org/wiki/Home) <br> Wikimedia Foundation adalah yayasan nirlaba  
+![Yudhis Wikimedia](http://wikimedia-id.github.io/besutkode/img/blog/Yudhis%20GCI%20Wikimedia.png "Yudhis Wikimedia"){: .img-responsive .center-block } 
+
 
