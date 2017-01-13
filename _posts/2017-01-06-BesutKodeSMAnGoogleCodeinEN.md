@@ -27,8 +27,8 @@ by Google Code-in 2014 winner from Indonesia, Tasya Rukmana.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sj_NST0OhUc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-For all Google Code-in competition there's always three parties in it: 
-1. Dozens of organizations setting up an a platform where mentor volunteer to provide tasks to be done by high school participants aged 13-17 years;
+For all Google Code-in competition there's always three parties in it
+1. Dozens of organizations setting up an a platform where mentor volunteer to provide tasks to be done by high school participants aged 13-17 years
 2. Thousands of participants who do tasks online from all over the world
 3. Google as the organizers are providing grand prize, gifts, certificates, and compiling registration
 
