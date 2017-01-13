@@ -55,7 +55,14 @@ Kompetisi Google Code-in 2016 dimulai pada bulan November dan akan berakhir pada
 
 ### Yudhistira dari Jakarta
 
-[Yudhistira](https://github.com/SacredWKnight) dari Jakarta memilih [Wikimedia](https://wikimediafoundation.org/wiki/Home) <br> Wikimedia Foundation adalah yayasan nirlaba  
-![Yudhis Wikimedia](http://wikimedia-id.github.io/besutkode/img/blog/Yudhis%20GCI%20Wikimedia.png "Yudhis Wikimedia"){: .img-responsive .center-block } 
+[Yudhistira](https://github.com/SacredWKnight) dari Jakarta memilih [Wikimedia](https://wikimediafoundation.org/wiki/Home) <br> Wikimedia Foundation adalah yayasan nirlaba yang berdedikasi untuk menyampaikan konten bebas untuk dunia, salah satunya Wikipedia. 
+
+Wikimedia percaya bahwa pengetahuan seharusnya bebas diperoleh setiap orang di dunia. Wikimedia memprioritaskan upaya upaya untuk memberdayakan komunitas yang tidak terwakilkan dan dalam posisi yang tidak menguntungkan, dan membantu mengatasi halangan untuk berpartisipasi. Kami percaya pada kolaborasi masal, keberagaman, dan musyarawah pada mufakat untuk mencapai tujuan-tujuan yang kami perjuangkan. Wikipedia adalah situs yang paling banyak dibaca ke lima diseluruh dunia, digunakan oleh 500 juta orang setiap bulan dan memiliki 270 bahasa. Proyek konten Wikimedia termasuk Wikimedia Commons, Wikidata, dan WikiSumber (*WikiSource*). Wikimedia juga memelihara mesin perangkat lunak MediaWiki dan koleksi proyek perangkat lunak terbuka dan bebas yang mendukungnya. Namun kami masih butuh bantuan untuk menstabilkan infrastruktur, meningkatkan partisipasi, memperbaiki kualitas, menambah jangkauan, dan mendorong inovasi. 
+
+Untuk dapat bertanding dalam Wikimedia, Yudhis perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/wikimedia/) yaitu php, javascript, css, lua, wiki. 
+
+![Yudhis Wikimedia](http://wikimedia-id.github.io/besutkode/img/blog/Yudhis%20GCI%20Wikimedia.png "Yudhis Wikimedia"){: .img-responsive .center-block }
+
+Dukung bakat-bakat Indonesia berkreasi di dunia dengan membagikan pranala ini! 
 
 
