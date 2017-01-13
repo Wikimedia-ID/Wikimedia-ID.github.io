@@ -12,7 +12,7 @@ tag:
 - High School
 ---
 
-Exactly six months ago, on June 27, 2016 Wikimedia Indonesia launched "Besut Code", an online competition program to introduce 
+Exactly six months ago, on June 27, 2016 Wikimedia Indonesia launched "Besut Kode", an online programming competition aim to introduce 
 open source software development for high school students, vocational, and Madrasah aiming students aged 13 to 17 years old.
 
 In this program, high school students were asked to solve a given problem, and the mentor will certify participants to qualify for next round
