@@ -49,26 +49,22 @@ Google Code-in 2016 began in November and will end in mid-January 2017. Leader B
 
 ### Raefaeldhi from Bandung
 
-[Raefaeldhi](https://github.com/raefaldhia) from Bandung chooses [Haiku](https://www.haiku-os.org/)<br> Haiku is a name of open source operating system (OS). <br><br>To compete in Haiku, Raefaeldhi need to master one or more more [technology used in it](https://codein.withgoogle.com/organizations/haiku-inc/), yaitu C, C++, Python, Bash, HTML. <br>![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
+[Raefaeldhi](https://github.com/raefaldhia) from Bandung chooses [Haiku](https://www.haiku-os.org/), an open source operating system (OS). <br><br>To compete in Haiku, Raefaeldhi need to master one or more more [technology used in it](https://codein.withgoogle.com/organizations/haiku-inc/), which is C, C++, Python, Bash, HTML. <br>![Raefaldhi Haiku](http://wikimedia-id.github.io/besutkode/img/blog/Haiku%20Leader%20Board.png "Raefaldhi Haiku"){: .img-responsive .center-block }
 
 ### Kaisar from Jakarta
 
-[Kaisar](https://github.com/yukiisbored) dari Jakarta memilih [FOSSASIA](http://fossasia.org/) <br> FossAsia adalah organisasi utama untuk teknologi sumber terbuka di Asia yang diperuntukkan bagi pengembang perangkat lunak, desainer, upaya pemula (*start-ups*), dan kontributor. <br>Didirikan pada tahun 2009 proyek-proyek Foss Asia meliputi perangkat keras terbuka (*open hardware*), desain, grafis, dan perangkat lunak. <br><br>Untuk dapat bertanding dalam Foss Asia, Kaisar perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/fossasia/) yaitu python, javascript, android, html, dan java. <br> ![Kaisar Arkhan FossAsia](http://wikimedia-id.github.io/besutkode/img/blog/Yuki%20Foss%20Asia%20Leaderboard.png "Kaisar Arkhan Foss Asia"){: .img-responsive .center-block }
+[Kaisar](https://github.com/yukiisbored) from Jakarta chooses [FOSSASIA](http://fossasia.org/) <br><br>To compete in Foss Asia, Kaisar need to master one or more [technology used in it](https://codein.withgoogle.com/organizations/fossasia/) which is python, javascript, android, html, and java. <br> ![Kaisar Arkhan FossAsia](http://wikimedia-id.github.io/besutkode/img/blog/Yuki%20Foss%20Asia%20Leaderboard.png "Kaisar Arkhan Foss Asia"){: .img-responsive .center-block }
 
-### Maharaj dari Yogyakarta
+### Maharaj from Yogyakarta
 
-[Maharaj](https://github.com/Magicpotatoes2) dari Yogyakarta memilih [OpenMRS](http://openmrs.org/) <br> OpenMRS memiliki semboyan "kode Anda, menyelamatkan nyawa", dalam halamannya menganjurkan peserta untuk mulai mengerjakan tugas-tugas OpenMRS sebagai cara bergabung dengan gerakan sumber terbuka. <br>OpenMRS adalah komunitas global yang bekerja sama untuk membangun platform rekam medis elektronik bersumber terbuka. OpenMRS percaya bakat-bakat baru yang masuk dari kompetisi Google Code-in ini dapat membantu masyarakat di negara berkembang pada khususnya dan dunia pada umumnya dalam perang melawan penyakit HIV/AIDS, TBC, Malaria, dan tantangan-tantangan kesehatan masyarakat lainnya. Misi OpenMRS adalah untuk memperbaiki pelayanan kesehatan pada tempat tempat dimana sumberdaya terbatas, dengan mengkoordinasikan komunitas global untuk membuat dan mendukung perangkat lunak yang sedang mereka bangun. <br><br>Untuk dapat bertanding dalam OpenMRS, Maharaj perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/openmrs/) yaitu java, groovy, html5, css, javascript. <br>![Maharaj](http://wikimedia-id.github.io/besutkode/img/blog/MagicPotatoes%20Maharaj%20Yogya%20OpenMRS%20GCI.png "Maharaj Open MRS"){: .img-responsive .center-block } 
+[Maharaj](https://github.com/Magicpotatoes2) from Yogyakarta chooses [OpenMRS](http://openmrs.org/) <br><br>To compete in OpenMRS, Maharaj need to master one or more [technology used in it](https://codein.withgoogle.com/organizations/openmrs/) which is java, groovy, html5, css, javascript. <br>![Maharaj](http://wikimedia-id.github.io/besutkode/img/blog/MagicPotatoes%20Maharaj%20Yogya%20OpenMRS%20GCI.png "Maharaj Open MRS"){: .img-responsive .center-block } 
 
-### Yudhistira dari Jakarta
+### Yudhistira from Jakarta
 
-[Yudhistira](https://github.com/SacredWKnight) dari Jakarta memilih [Wikimedia](https://wikimediafoundation.org/wiki/Home) <br> Wikimedia Foundation adalah yayasan nirlaba yang berdedikasi untuk menyampaikan konten bebas untuk dunia, salah satunya Wikipedia. 
-
-Wikimedia percaya bahwa pengetahuan seharusnya bebas diperoleh setiap orang di dunia. Wikimedia memprioritaskan upaya upaya untuk memberdayakan komunitas yang tidak terwakilkan dan dalam posisi yang tidak menguntungkan, dan membantu mengatasi halangan untuk berpartisipasi. Kami percaya pada kolaborasi masal, keberagaman, dan musyarawah pada mufakat untuk mencapai tujuan-tujuan yang kami perjuangkan. Wikipedia adalah situs yang paling banyak dibaca ke lima diseluruh dunia, digunakan oleh 500 juta orang setiap bulan dan memiliki 270 bahasa. Proyek konten Wikimedia termasuk Wikimedia Commons, Wikidata, dan WikiSumber (*WikiSource*). Wikimedia juga memelihara mesin perangkat lunak MediaWiki dan koleksi proyek perangkat lunak terbuka dan bebas yang mendukungnya. Namun kami masih butuh bantuan untuk menstabilkan infrastruktur, meningkatkan partisipasi, memperbaiki kualitas, menambah jangkauan, dan mendorong inovasi. 
-
-Untuk dapat bertanding dalam Wikimedia, Yudhis perlu menguasai salah satu atau lebih [teknologi yang dipersyaratkan](https://codein.withgoogle.com/organizations/wikimedia/) yaitu php, javascript, css, lua, wiki. 
+[Yudhistira](https://github.com/SacredWKnight) from Jakarta chooses [Wikimedia](https://wikimediafoundation.org/wiki/Home) <br><br>To compete in Wikimedia, Yudhistira need to master one or more [technology used in it](https://codein.withgoogle.com/organizations/wikimedia/) which is php, javascript, css, lua, wiki. 
 
 ![Yudhis Wikimedia](http://wikimedia-id.github.io/besutkode/img/blog/Yudhis%20GCI%20Wikimedia.png "Yudhis Wikimedia"){: .img-responsive .center-block }
 
-Dukung bakat-bakat Indonesia berkreasi di dunia dengan membagikan pranala ini! 
+You can help by **sharing this post**! 
 
 
