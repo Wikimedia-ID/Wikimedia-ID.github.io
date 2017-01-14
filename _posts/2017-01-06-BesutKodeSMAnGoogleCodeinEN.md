@@ -40,7 +40,7 @@ One winner from 17 organizations will receive a trip to Google head quarter in S
 
 Besut Kode high school's mentor already warn the Besut Kode participants that winning will be difficult, many of Google Code-in participant is an alumni from the previous year, who already know the knicks and knack of the competiton and know the mentors. The Besut Kode participants are welcome to learn as much as possible and do the job as well as they could with the goal of, at least, made it to the list of finalists. The reason are this list of finalists is registered and recognized by the organizations participating in the Google Code-in and can be used as references for future participants, the list of finalists also separates the participants deemed by the mentor already work really hard and have potential with the other participants is considered "merely" participating.
 
-## Leader Board*
+## Leader Board
 Google Code-in 2016 began in November and will end in mid-January 2017. Leader Board are term introduced in the competition featuring a list of participants in excel compares to other participants. The list from the leader board may or may not necessarily end up as finalist, but this list is useful to see the participants who have struggled from week to week to complete tasks and overcome new challenges as the composition of the name is often changed according to their contribution in the competition.
 
 ### Rafid from Kebumen
