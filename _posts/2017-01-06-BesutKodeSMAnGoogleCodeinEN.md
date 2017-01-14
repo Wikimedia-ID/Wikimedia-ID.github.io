@@ -16,7 +16,7 @@ tag:
 ---
 Happy New Year 2017! 
 
-To the participants of Besut Kode High School 2017 will start as a new challenge for them as they are fighthing to be on the top for international programming competitions [Google Code-in](https://developers.google.com/open-source/gci/). 
+To the participants of Besut Kode High School, the year 2017 will start as a new challenge for them as they are competing to be on the top for international programming competitions [Google Code-in](https://developers.google.com/open-source/gci/). 
 
 ## What is Google Code-in? 
 
