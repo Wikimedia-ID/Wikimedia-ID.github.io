@@ -27,7 +27,22 @@ Sebanyak 20 peserta dari 30 orang yang mendaftar datang, mentor bintang tamu, al
 # Tanya Jawab 
 
 1. **T**: Apa yang dimaksud dengan GitHub?<br> **J**: GitHub adalah situs web yang dibangun disekitar Git. <br>Setiap orang harus tahu Git itu apa (terutama pemrogram perangkat lunak). Git sendiri adalah kanvas dimana Anda bekerja dan berkolaborasi, teknisnya, Git adalah distributor perangkat lunak terbuka dengan dengan sistem terkendali (VCS). <br> Git diciptakan oleh Linus Torvalds, untuk membantunya membangun sistem operasi Linux, anda dapat mempelajari lebih jauh melalui [paduan git](https://github.com/GitIndonesia/handbook), [buku git](https://github.com/endymuhardin/buku-git), atau [belajar git](https://github.com/endymuhardin/belajarGit). <br> Git mengelola berkas yang disunting oleh orang-orang dari seluruh dunia, dan memberikan setiap berkas identifiernya, sehingga setiap orang tahu versi yang mana yang mereka punya, dan bagaimana mereka bisa menggabungkan perubahan yang mereka punya dengan perubahan yang dilakukan oleh orang lain ke berkas yang sama. <br> Ada dua hal yang perlu diperhatikan dalam Git<br>Remote: tempat dimana saling berbagi terjadi, contoh: Sistem Github.<br>*Branches* (cabang) adalah dimana perubahan direncanakan. <br>Begitu perubahan selesai dan dianggap baik, maka cabang dikirim balik ke “remote”. 
-2. **T**: Apa yang dimaksud dengan Sumber terbuka?<br>**J**:
+2. **T**: Apa yang dimaksud dengan Sumber terbuka?<br>**J**:Jika suatu program open-source, kode sumbernya tersedia secara bebas untuk para penggunanya. Its pengguna - dan orang lain - memiliki kemampuan untuk mengambil kode sumber ini, memodifikasi, dan mendistribusikan versi mereka sendiri dari program. Para pengguna juga memiliki kemampuan untuk mendistribusikan sebanyak salinan program asli yang mereka inginkan. Siapapun dapat menggunakan program untuk tujuan apapun; tidak ada biaya lisensi atau pembatasan lainnya pada perangkat lunak. OSI memiliki definisi yang lebih rinci dari "open source" di situsnya.
+
+Misalnya, Ubuntu Linux adalah sistem operasi open-source. Anda dapat men-download Ubuntu, membuat banyak salinan yang Anda inginkan, dan memberi mereka ke teman Anda. Anda dapat menginstal Ubuntu pada jumlah yang tidak terbatas komputer Anda. Anda dapat membuat remix dari disk instalasi Ubuntu dan mendistribusikannya. Jika Anda sangat termotivasi, Anda bisa men-download kode sumber untuk program di Ubuntu dan memodifikasi, menciptakan versi disesuaikan Anda sendiri program yang - atau dari Ubuntu itu sendiri. Open source lisensi semua memungkinkan Anda untuk melakukan hal ini, sementara sumber tertutup lisensi tempat pembatasan pada Anda.
+
+Kebalikan dari perangkat lunak open-source adalah perangkat lunak sumber tertutup, yang memiliki lisensi yang membatasi pengguna dan menjaga kode sumber dari mereka.
+
+Firefox, Chrome, OpenOffice, Linux, dan Android adalah beberapa contoh populer dari perangkat lunak open-source, sementara Microsoft Windows mungkin adalah bagian yang paling populer dari perangkat lunak sumber tertutup di luar sana.
+Open Source vs Software Gratis
+
+aplikasi open source umumnya tersedia secara bebas - meskipun tidak ada yang menghentikan pengembang dari pengisian untuk salinan dari perangkat lunak jika mereka memungkinkan redistribusi aplikasi dan kode sumbernya sesudahnya.
+
+Namun, bukan itu yang "perangkat lunak bebas" mengacu pada. "Bebas" dalam perangkat lunak bebas berarti "bebas sebagai kebebasan," tidak "bebas seperti dalam bir." Kamp perangkat lunak bebas, yang dipimpin oleh Richard Stallman dan Free Software Foundation, berfokus pada etika dan moral menggunakan perangkat lunak yang dapat dikontrol dan dimodifikasi oleh pengguna. Dengan kata lain, kamp perangkat lunak bebas berfokus pada kebebasan pengguna.
+
+Gerakan perangkat lunak open source diciptakan untuk fokus pada alasan yang lebih pragmatis untuk memilih jenis perangkat lunak. pendukung open source ingin fokus pada manfaat praktis menggunakan software open source yang akan menarik lebih banyak untuk bisnis, bukan etika dan moral.
+
+Pada akhirnya, baik open-source dan pendukung perangkat lunak bebas mengembangkan jenis yang sama dari perangkat lunak, tetapi mereka tidak setuju pada pesan tersebut. Jawaban ini diambil dari [situs How To Geek: Apa perangkat lunak sumber terbuka dan mengapa kalian harus peduli terhadapnya](http://www.howtogeek.com/129967/htg-explains-what-is-open-source-software-and-why-you-should-care/)
 3. **T**: Apa yang di maksud dengan Project euler?<br>**J**: 
 4. **T**: Apa yang di maksud dengan Python?<br>
 5. **T**: OS linux dan GitHub merupakan sumber terbuka, apa perbedaan dan persamaanya?<br>
