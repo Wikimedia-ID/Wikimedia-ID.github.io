@@ -30,7 +30,7 @@ So Besut Kode High School alumni participants will consist of Indonesian kids wh
 
 Besut Kode High School itself is a learning platform provided for high school level kids who are willing to learn new things related to computer programming and networking. For this entire Besut Kode programs, activities are visible via GitHub, and the participants acknowledged that one of the most difficult thing to get used to and learn is how to properly use GitHub.
 
-![Participant Besut Kode High School Round I](http://wikimedia-id.github.io/besutkode/img/blog/Besut%20Kode%20SMA%20Gelombang%20I.jpg "Participant Besut Kode high school workshop I"){ : .img-responsive .center-block}
+![Participant Besut Kode High School Round I](http://wikimedia-id.github.io/besutkode/img/blog/Besut%20Kode%20SMA%20Gelombang%20I.jpg "Participant Besut Kode high school workshop I"){: .img-responsive .center-block}
 
 ## When was the Besut Kode High School happened? 
 
