@@ -35,12 +35,10 @@ Menurut [John Vandenberg](https://github.com/jayvdb) (mentor besut kode), *bug* 
 
 > mendeskripsikan *bug* dengan baik sehingga langsung dimengerti sudah dekat dengan menyelesaikan masalah tersebut. Sehingga keahlian mendeskripsikan, menyelesaikan, memeriksa, dan meningkatkan kualitas kode, adalah keahlian pemrogram yang vital dikuasai. Hal ini butuh kesabaran, kemauan untuk belajar, dan meningkatkan kemampuan menjabarkan dan menerangkan agar dapat dimengerti, yang hanya dapat dikuasai dengan terus menerus melakukannya. Discussion that can go for months, process involved, minimum requirement is everything is known, line number tools what to fix, and all you gotta do is copy pasting what the tool asks you to do, many besut kode at the beginning couldn't even do describe what the tool is saying. Tool told you what need to be fix, five hundred things that need to be fix, besut kode kids had to look at the output of the tool and think on how to break tools given information and describe it better in chunks of work. As an example a five hundred problems that given by a tool need to be divided into different difficulties and different importance, low important and low difficulties should be given to beginners, easy to do and no one is demanding it is fix right away, hence the beginner can try and try and fail and fail and slowly learn in the process. While a more advance coder shouldn't be doing low difficulties task and should be doing hard task in order to increase their skill and experience. The process called triaging (triage). Aprilia copy and paste 500 into bug tracker, at least someone else could analyze 
 
-Deskripsi lainnya adalah mengenai kolaborasi
+Deskripsi lainnya adalah mengenai diterimanya kode mereka pada proyek sumber terbuka 
+
+There's a lot of important open source project that everyone in IT uses on daily basis, however a lot of Indonesian programmers don't take the leap from seeing a problem in open source source software and fix it. This is a worldwide problem, where in Indonesia it is common. The reason is confident and language because trying to fix an open source software bug means a discussion in a language that the engineers are not comfortable with. So we taught the kids nearly everyone in open source has English for a second language and what actually matters is the code and trial the participants, give it a safe space in a form of private repo to practice and get ready before they submitted publicly.
+
+Even with the training and effort there's no guarantee a code is accepted. This is why Besut Kode participant are being trained to deal with rejection and to try again either with the same project and further discussion or with different open source project. It is common that after a code is submitted it didn't get review for six months, or get rejected, hence the participants need to learn patient in contributing.  
 
 > Peserta mampu berkolaborasi dengan peserta lainnya dalam menyelesaikan masalah dan tugas yang menuntut kemampuan rekayasa perangkat lunak terbuka yang dipraktekkan pada proyek sumber terbuka sungguhan. 
-
-Kemampuan berkolaborasi penting untuk pengembang perangkat lunak sumber terbuka karena 
-
-
-
-> Sebagai hasilnya, kode mereka diterima oleh proyek sumber terbuka tersebut. 
