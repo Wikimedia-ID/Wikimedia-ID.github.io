@@ -12,7 +12,7 @@ tag:
 - Desain sertifikat
 ---
 
-Setelah sebelumnya kita membahas mengenai [sertifikat Project Euler Besut Kode](https://wikimedia-id.github.io/sma/2017/01/05/SertifikatBesutKodedanCeritaDesain.html) 
+Setelah sebelumnya kita membahas mengenai [sertifikat Project Euler Besut Kode](https://wikimedia-id.github.io/sma-id/2017/01/05/SertifikatBesutKodedanCeritaDesain.html) 
 maka kali ini kita akan membahas mengenai sertifikat Besut Kode dan cerita dibalik desainnya. 
 
 ## Sertifikat Besut Kode SMA
