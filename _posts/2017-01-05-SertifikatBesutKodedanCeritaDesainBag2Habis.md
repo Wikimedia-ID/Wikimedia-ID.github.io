@@ -47,7 +47,11 @@ Banyak peserta pada awal pelatihan bahkan tidak bisa memahami apa yang alat pene
 
 Masalah yang tidak penting dan mudah untuk diselesaikan ditujukan untuk programer pemula, karena untuk menyelesaikannya tidak ada tekanan mendesak. Sehingga programmer pemula bisa mencoba menyelesaikannya dan mungkin gagal, gagal lagi, dan ketika akhirnya berhasil mereka akan belajar dalam prosesnya. Hal ini memungkinkan programmer yang berpengalaman yang lebih "ahli" menyelesaikan *bug* sulit yang lebih penting untuk dikerjakan segera. 
 
-Proses ini disebut sebagai *triaging*, yaitu menentukan tingkatan prioritas berdasarkan kondisi. Setelah *bug* diselesaikan kemudian ada proses lain dimana pemrogram memasukkan kode untuk diterima oleh pemilik program. Banyak pengembang perangkat lunak di Indonesia tidak mengambil kesempatan dari "melihat masalah" hingga "menyelesaikan masalah". John berpendapat bahwa hal ini dikarenakan kepercayaan diri yang rendah saat harus berkomunikasi dan berdiskusi mengenai kode yang mereka buat menggunakan bahasa Inggris di GitHub dengan programmer dari negara lain. 
+Proses ini disebut sebagai *triaging*, yaitu menentukan tingkatan prioritas berdasarkan kondisi. Setelah *bug* diselesaikan kemudian ada proses lain dimana pemrogram memasukkan kode untuk diterima oleh pemilik program. 
+
+Banyak pengembang perangkat lunak di Indonesia tidak mengambil kesempatan untuk terlibat pada proses dari "melihat masalah" hingga "menyelesaikan masalah" dalam perangkat lunak sumber terbuka, padahal terlibat berarti mengasah kemampuan. 
+
+John berpendapat bahwa hal ini dikarenakan kepercayaan diri yang rendah saat harus berkomunikasi dan berdiskusi mengenai kode yang mereka buat menggunakan bahasa Inggris di GitHub dengan programmer dari negara lain. 
 
 Pada tingkat SMA, hal ini diperburuk dengan tingkat kesabaran yang rendah.
 
