@@ -43,10 +43,16 @@ Kemampuan untuk mendeskripsikan *bug* dengan baik sehingga langsung dimengerti s
 
 Peserta besut kode juga diajarkan menggunakan perangkat atau alat (*tool*) untuk menemukan kode, alat kemudian akan "memuntahkan" ratusan baris kode dan menginformasikan pada pemrogram hal hal yang harus dibetulkan. 
 
-Banyak peserta pada awal pelatihan bahkan tidak bisa memahami apa yang alat penemu *bug*  "katakan", mereka kemudian belajar menganalisa, memecah belah pekerjaan mulai dari yang paling penting dan apakah yang paling penting dikerjakan mudah atau sulit, kemudian mereke memutuskan kombinasi diantaranya (sulit namun tidak penting, misalnya atau mudah dan tidak penting). 
+Banyak peserta pada awal pelatihan bahkan tidak bisa memahami apa yang alat penemu *bug*  "katakan", mereka kemudian belajar menganalisa, memecah belah pekerjaan mulai dari yang paling penting dan apakah yang paling penting dikerjakan mudah atau sulit, kemudian mereke memutuskan kombinasi diantaranya (sulit namun tidak penting atau mudah dan tidak penting, misalnya). 
 
 Masalah yang tidak penting dan mudah untuk diselesaikan ditujukan untuk programer pemula, karena untuk menyelesaikannya tidak ada tekanan mendesak. Sehingga programmer pemula bisa mencoba menyelesaikannya dan mungkin gagal, gagal lagi, dan ketika akhirnya berhasil mereka akan belajar dalam prosesnya. Hal ini memungkinkan programmer yang berpengalaman yang lebih "ahli" menyelesaikan *bug* sulit yang lebih penting untuk dikerjakan segera. 
 
 Proses ini disebut sebagai *triaging*, yaitu menentukan tingkatan prioritas berdasarkan kondisi. Setelah *bug* diselesaikan kemudian ada proses lain dimana pemrogram memasukkan kode untuk diterima oleh pemilik program. Banyak pengembang perangkat lunak di Indonesia tidak mengambil kesempatan dari "melihat masalah" hingga "menyelesaikan masalah". John berpendapat bahwa hal ini dikarenakan kepercayaan diri yang rendah saat harus berkomunikasi dan berdiskusi mengenai kode yang mereka buat menggunakan bahasa Inggris di GitHub dengan programmer dari negara lain. 
 
-Pada tingkat SMA, hal ini diperburuk dengan tingkat kesabaran yang rendah. Pada awal Besut Kode, peserta banyak yang frustasi saat kodenya tidak diterima, tugas mentor adalah meyakinkan peserta bahwa kodenya sudah baik, diterima atau tidak bukan masalah penting, karena dalam program sumber terbuka umum terjadi saran kode untuk perbaikan tidak dilihat hingga berbulan bulan, atau langsung ditolak. Peserta disarankan untuk mencoba lagi atau berdiskusi dengan sopan mengenai masalahnya dengan pemrogram lain. Besut Kode juga menyediakan "ruang aman" berupa repo privat dimana peserta dapat berlatih dan bersiap sebelum kode di buka secara publik. Jadi peserta Besut Kode dilatih untuk belajar sabar, sopan, dan tidak patah semangat dalam berkontribusi. 
+Pada tingkat SMA, hal ini diperburuk dengan tingkat kesabaran yang rendah.
+
+Pada awal Besut Kode, peserta banyak yang frustasi saat kodenya tidak diterima, tugas mentor adalah meyakinkan peserta bahwa kodenya sudah baik atau tidak baik, dan menginformasikan pada peserta bahwa diterima atau tidak sudah bukan dalam kuasa mereka. Karena dalam program sumber terbuka umum terjadi saran kode untuk perbaikan tidak dilihat hingga berbulan bulan, atau langsung ditolak. 
+
+Peserta disarankan untuk mencoba lagi atau berdiskusi dengan sopan mengenai masalahnya dengan pemrogram lain. Besut Kode juga menyediakan "ruang aman" berupa repo privat dimana peserta dapat berlatih dan bersiap sebelum kode di buka secara publik. 
+
+Jadi peserta Besut Kode dilatih untuk belajar sabar, sopan, dan tidak patah semangat dalam berkontribusi. 
