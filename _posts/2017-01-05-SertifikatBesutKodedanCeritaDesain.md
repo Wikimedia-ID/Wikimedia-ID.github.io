@@ -12,7 +12,7 @@ tag:
 - Desain sertifikat
 ---
 
-[Dwi Satria Utama](https://github.com/RioSatria) adalah desainer yang ditugaskan untuk mendesain sertifikat Besut Kode SMA, penugasan khusus ini penting karena sertifikat ini menjadi unik dikarenakan upaya memperolehnya yang dipastikan dilakukan dengan susah payah. 
+[Dwi Satria Utama](https://github.com/RioSatria) adalah desainer yang ditugaskan untuk mendesain [sertifikat Besut Kode SMA](http://wikimedia-id.github.io/sma-id/2017/01/05/SertifikatBesutKodedanCeritaDesainBag2Habis.html), penugasan khusus ini penting karena sertifikat ini menjadi unik dikarenakan upaya memperolehnya yang dipastikan dilakukan dengan susah payah. 
 
 Para peserta harus melalui berbagai rintangan mulai dari mengerjakan modul, mempelajari GitHub, membuat video YouTube, 
 mencari *bug* dan menyelesaikan *bug* tersebut sendiri, serta berkontribusi secara teratur pada GitHub selama lebih dari dua bulan. 
