@@ -41,7 +41,7 @@ Kemampuan untuk mendeskripsikan *bug* dengan baik sehingga langsung dimengerti s
 
 ![Mentoring session](http://wikimedia-id.github.io/besutkode/img/blog/Mentoring%20session.jpg "Mentoring Session"){: .img-responsive .center-block } 
 
-Peserta besut kode juga diajarkan menggunakan perangkat atau alat (*tool*) untuk menemukan kode, alat kemudian akan "memuntahkan" ratusan baris kode dan menginformasikan pada pemrogram hal hal yang harus dibetulkan. 
+Peserta besut kode juga diajarkan menggunakan perangkat atau alat (*tool*) untuk menemukan *bug*. Tool/ alat kemudian akan "memuntahkan" ratusan baris kode dan menginformasikan pada pemrogram hal hal yang harus dibetulkan. 
 
 Banyak peserta pada awal pelatihan bahkan tidak bisa memahami apa yang alat penemu *bug*  "katakan", mereka kemudian belajar menganalisa, memecah belah pekerjaan mulai dari yang paling penting dan apakah yang paling penting dikerjakan mudah atau sulit, kemudian mereke memutuskan kombinasi diantaranya (sulit namun tidak penting atau mudah dan tidak penting, misalnya). 
 
