@@ -35,7 +35,7 @@ Menurut [John Vandenberg](https://github.com/jayvdb) (mentor besut kode), *bug* 
 
 Kemampuan untuk mendeskripsikan *bug* dengan baik sehingga langsung dimengerti sudah dekat dengan menyelesaikan masalah tersebut. Hal selanjutnya adalah  memeriksa dan meningkatkan kualitas kode, hal hal yang terderngar sederhana ini vital dikuasai seorang pengembang perangkat lunak. Untuk tingkat SMA hal ini butuh kesabaran, karena diskusi mengenai penyelesaian *bug* dapat berlangsung hingga bulanan. 
 
-![Mentoring session](Wikimedia-ID.github.io/besutkode/img/blog/Mentoring session.jpg "Mentoring Session"){: .img-responsive .center-block } 
+![Mentoring session](http://wikimedia-id.github.io/besutkode/img/blog/Mentoring%20session.jpg "Mentoring Session"){: .img-responsive .center-block } 
 
 Peserta besut kode juga diajarkan menggunakan perangkat atau alat (*tool*) untuk menemukan kode, alat kemudian akan "memuntahkan" ratusan baris kode dan menginformasikan pada pemrogram hal hal yang harus dibetulkan. Banyak peserta pada awal pelatihan bahkan tidak bisa memahami apa yang alat penemu *bug* "katakan", mereka kemudian belajar menganalisa, memecah belah pekerjaan mulai dari yang paling penting dan apakah yang paling penting dikerjakan mudah atau sulit, kemudian mereke memutuskan kombinasi diantaranya (sulit namun tidak penting, misalnya atau mudah namun tidak penting). 
 
