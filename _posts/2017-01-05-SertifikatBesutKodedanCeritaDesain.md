@@ -48,6 +48,6 @@ Mengapa video? Menurut John, video penting karena peserta harus bisa mempresenta
 
 Yang menarik, saat ditanya perasaan peserta mengenai project euler, banyak dari mereka merasa senang, dan menjadikan Project Euler sebagai "hal yang paling menyenangkan dari Besut Kode SMA". 
 
-Simak video wawancara mereka dibawah atau silahkan klik cerita selanjutnya untuk [sertifikat Besut Kode SMA dan cerita dibaliknya](http://wikimedia-id.github.io/sma/2017/01/05/SertifikatBesutKodedanCeritaDesainBag2Habis.html).
+Simak video wawancara mereka dibawah atau silahkan klik cerita selanjutnya untuk [sertifikat Besut Kode SMA dan cerita dibaliknya](http://wikimedia-id.github.io/sma-id/2017/01/05/SertifikatBesutKodedanCeritaDesainBag2Habis.html).
 
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/9IijkyLMoCY" frameborder="0" allowfullscreen></iframe></div>
