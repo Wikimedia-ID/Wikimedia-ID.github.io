@@ -33,7 +33,14 @@ tag:
 
 ## Sosialisasi Besut Kode Universitas di Samarinda 8 Oktober 2016
 
-1. 
+![Sosialisasi Besut Kode Universitas di Samarinda](http://wikimedia-id.github.io/besutkode/img/blog/Sosialisasi%20Besut%20Kode%20Universitas%20di%20Samarinda%208%20Oktober%202016.jpg "Sosialisasi Besut Kode Universitas di Samarinda"){: .img-responsive .center-block }
+
+1. Apakah ada kriteria-krtieria khusus pada aplikasi yang akan digunakan?
+2. Apakah harus menguasai semua bahasa peemograman ?
+3. Perbedaan hosting di GitHub dengan layanan hosting lain?
+4. Apa kegunaan dari GitHub dan bagaimana cara penggunaannya
+5. Bagaimana teknis dari kompetisi Google Summer of Code
+6. Apa keuntungan dari aplikasi sumber terbuka?
 
 
 ## Sosialisasi Besut Kode Universitas di Jakarta
