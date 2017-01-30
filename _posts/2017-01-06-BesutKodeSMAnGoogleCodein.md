@@ -4,7 +4,7 @@ title: Besut Kode SMA & Google Code-in 2016
 author: siska
 categories:
 - SMA-id
-permalink: /BesutKodeSma/
+permalink: /BesutKodeSmaGoogleCodein/
 tag:
 - Besut Kode SMA
 - Google Code-in 2016
