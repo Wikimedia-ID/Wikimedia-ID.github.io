@@ -21,7 +21,7 @@ Mentor Besut Kode, [John Vandenberg](https://github.com/jayvdb), didatangkan lan
 
 |![John Vandenberg Mentor Besut Kode SMA](http://wikimedia-id.github.io/besutkode/img/John%20Besut%20Kode%20Mentor.jpg "John Vandenberg mentor Besut Kode SMA"){: .img-responsive .center-block }|
 |:---:|
-| John Vandenberg |
+| ###### John Vandenberg |
 
 ## **Mengapa Besut Kode SMA?**
 John telah menjadi mentor sukarelawan Google Code-in untuk organisasi Wikimedia Foundation sejak 2014. Keinginan John dengan upaya Besut Kode ini ada dua: pegguna perangkat lunak terbuka di Indonesia tidak hanya bisa "menggunakan" namun juga "membesut" (memperbaiki) perangkat mereka sering gunakan. 
