@@ -1,5 +1,9 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+@font-face {
+    font-family: customfont;
+    src: url(../fonts/Streetwear.otf);
+}
 
 /*
 	Twenty by HTML5 UP
@@ -1601,7 +1605,7 @@
 		font-weight: 300;
 		line-height: 1.75em;
 		margin-bottom: 1em;
-		text-transform: uppercase;
+		font-family: customfont;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
